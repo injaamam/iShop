@@ -45,7 +45,7 @@ async function pushProducts() {
     if (file.endsWith(".json")) {
       const filePath = path.join(productsDir, file);
       const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-      console.log(data[0]);
+      // console.log(data[0]);
       for (const product of data) {
         await pool.query(
           `INSERT INTO products (name, price, description, category, main_image, stock_quantity, specifications)
@@ -57,7 +57,9 @@ async function pushProducts() {
             product.category,
             product.main_image,
             product.stock_quantity,
-            product.specifications,
+            product.Specifications
+              ? JSON.stringify(product.Specifications)
+              : null,
           ]
         );
       }
