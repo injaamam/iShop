@@ -1,0 +1,505 @@
+[
+    {
+        "id": 2346,
+        "name": "Sony PlayStation PULSE 3D Wireless Headset",
+        "price": "11,900৳",
+        "description": "3.5mm jack\rWireless adaptor\rEasy-access controls\rDual hidden microphones",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/playstation-pulse-3d/playstation-pulse-3d-500x500.jpg"
+    },
+    {
+        "id": 2347,
+        "name": "Sony Console Disc Drive for PS5 Digital Edition Slim",
+        "price": "21,500৳",
+        "description": "Supported PS4 Titles on Blu-ray Disc\rDrive Supports: 4K Ultra HD Blu-Ray Discs, Blu-Ray Discs and DVDs\rInternet connection is required to pair Disc Drive and Console\rCompatible PS5 Models: PS5 CFI-2000 model group - slim",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/disc-drive/disc-drive-01-500x500.webp"
+    },
+    {
+        "id": 2348,
+        "name": "G-STORY 15.6 Inch IPS 4k 60Hz Portable Gaming Monitor For PS5",
+        "price": "59,500৳",
+        "description": "Display: 15.6 inch IPS panel\rResolution: 4K (3840x2160), 60Hz \rCompatible with PS5   \rBuilt-in stereo speakers",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/monitor/g-story/g-story-15-6-portable-01-500x500.webp",
+        "Specifications": {
+            "Display Size": "15.6 Inches",
+            "Panel Type": "IPS",
+            "Resolution": "4K (3840×2160)",
+            "Display Surface": "Glossy",
+            "Aspect Ratio": "16:9",
+            "Viewing Angle": "170 degree",
+            "Contrast Ratio": "800:1",
+            "Refresh Rate": "60 Hz",
+            "HDR": "Yes",
+            "Curvature": "No",
+            "Free Sync Support": "Yes",
+            "Speaker (Built In)": "Yes",
+            "HDMI": "HDMI x 1, \r\nMini HDMI x 1",
+            "USB Type-C": "Type-C (DC IN)\\ Type-C (Multifunction Port)",
+            "Audio Jack": "3.5 mm headphone port",
+            "Others": "Micro USB Port",
+            "Weight": "Net weight: 690g\r\nGross weight: 2100g",
+            "Power Consumption": "Rated power\t<  12W",
+            "Warranty": "No Warranty"
+        }
+    },
+    {
+        "id": 2349,
+        "name": "Sony PlayStation 5 Media Remote",
+        "price": "4,500৳",
+        "description": "Dedicated app buttons: Disney+, Netflix, Spotify, and YouTube\rBuilt-in media playback controls\rSeamless console compatibility\rCompatible TVs with the built-in IR transmitter",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/media-remote/media-remote-01-500x500.jpg"
+    },
+    {
+        "id": 2350,
+        "name": "PlayStation 5 Console Cover",
+        "price": "5,500৳",
+        "description": "Head Case Design, Easy to Use\rUltra-Thin and Super Lightweight\r1x Matching DualSense Controller Cover\rCompatible with PS5, PS5 Disc Edition",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/ps5-console-cover/ps5-cover-midnight-black-01-500x500.webp",
+        "Specifications": {
+            "Color": "Midnight Black\r\nSterling Silver\r\nVolcanic Red\r\nCobalt Blue\r\nGray Camouflage\r\nCosmic Red\r\nStarlight Blue\r\nGalactic Purple\r\nNova Pink"
+        }
+    },
+    {
+        "id": 2351,
+        "name": "PlayStation 5 Console Cover God of War Edition",
+        "price": "7,500৳",
+        "description": "Head Case Design, Easy to Use\rUltra-Thin and Super Lightweight\r1x Matching DualSense Controller Cover\rCompatible with PS5, PS5 Disc Edition",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/ps5-cover/playstation-5-console-cover-god-of-war/playstation-5-console-cover-god-of-war-01-500x500.webp"
+    },
+    {
+        "id": 2352,
+        "name": "Sony PlayStation HD Camera for PS5",
+        "price": "6,600৳",
+        "description": "Dual Lenses for 1080p Capture\rUSB Type-A Connector, Built-in Stand\rBackground Removal Tools\rCompatible with PlayStation 5",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-hd-camera/playstation-hd-camera-01-500x500.webp"
+    },
+    {
+        "id": 2353,
+        "name": "Microsoft Xbox One Armed Forces Camo Controller",
+        "price": "7,600৳",
+        "description": "Textured Triggers and Bumpers\r30ft wireless range\rRedesigned D-pad\rMenu/View buttons for Navigation",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/x-box-one-controller/camo-controller/xbox-one-01-500x500.webp"
+    },
+    {
+        "id": 2354,
+        "name": "Sony Vertical Console Stand for PS5",
+        "price": "2,800৳",
+        "description": "Premium Metal Stand, Rubber Padding\rStand PS5 Console Horizontally In Style\rMaterial: Hard Plastic Center and Metal Ring\rCompatible PS5 Models: PS5 CFI-1000, PS5 CFI-2000",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/vertical-stand/vertical-stand-01-500x500.webp"
+    },
+    {
+        "id": 2355,
+        "name": "Xbox Wireless Controller 1914",
+        "price": "7,900৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-1-500x500.jpg"
+    },
+    {
+        "id": 2356,
+        "name": "Xbox Wireless Controller Shock Blue",
+        "price": "7,999৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless-blue-red/xbox-wireless-blue-red-1-500x500.jpg"
+    },
+    {
+        "id": 2357,
+        "name": "Microsoft Xbox Wireless Controller - Electric Volt",
+        "price": "7,550৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-electric-volt-01-500x500.jpg"
+    },
+    {
+        "id": 2358,
+        "name": "PlayStation 5 DualSense Wireless Controller - Galactic Purple",
+        "price": "8,500৳",
+        "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Galactic Purple",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/playstation-5-dualsense-galactic-purple-01-500x500.jpg"
+    },
+    {
+        "id": 2359,
+        "name": "Microsoft Xbox Wireless Controller - Daystrike Camo Special Edition",
+        "price": "8,800৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-daystrike-camo-01-500x500.jpg"
+    },
+    {
+        "id": 2360,
+        "name": "Xbox Wireless Controller 1914 White",
+        "price": "7,350৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-02-500x500.webp"
+    },
+    {
+        "id": 2361,
+        "name": "Xbox Wireless Controller Arctic Camo Special Edition",
+        "price": "8,800৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-arctic-camo-special-edition-01-500x500.webp"
+    },
+    {
+        "id": 2362,
+        "name": "Microsoft Xbox Wireless Controller - Stormcloud Vapor Special Edition",
+        "price": "8,800৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rHybrid D-Pad\rBattery Life:  up to 40 hours (AA batteries)",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/stormcloud-vapor-special-edition/wireless-controller-stormcloud-vapor-001-500x500.webp"
+    },
+    {
+        "id": 2363,
+        "name": "Xbox Wireless Controller Red",
+        "price": "7,449৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless-blue-red/xbox-wireless-red-02-500x500.webp"
+    },
+    {
+        "id": 2364,
+        "name": "PlayStation 5 DualSense Wireless Controller",
+        "price": "8,500৳",
+        "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery\rIntegrated Speaker",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-500x500.jpg"
+    },
+    {
+        "id": 2365,
+        "name": "PlayStation 5 DualSense Wireless Controller - Starlight Blue",
+        "price": "8,500৳",
+        "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Starlight Blue",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/playstation-5-dualsense-starlight-blue-01-500x500.webp"
+    },
+    {
+        "id": 2366,
+        "name": "Microsoft Xbox Wireless Controller - Mineral Camo Special Edition",
+        "price": "8,800৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-mineral-camo-special-edition-01-500x500.webp"
+    },
+    {
+        "id": 2367,
+        "name": "PlayStation 5 DualSense Wireless Controller Cosmic Red",
+        "price": "8,500৳",
+        "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Cosmic Red",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-10-500x500.jpg"
+    },
+    {
+        "id": 2368,
+        "name": "PlayStation 5 DualSense Wireless Controller - Midnight Black",
+        "price": "8,500৳",
+        "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Midnight Black",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-01-500x500.jpg"
+    },
+    {
+        "id": 2369,
+        "name": "Xbox Wireless Controller Nocturnal Vapor Special Edition",
+        "price": "8,500৳",
+        "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/nocturnal-vapor-special-edition/nocturnal-vapor-special-edition-01-500x500.webp"
+    },
+    {
+        "id": 2370,
+        "name": "Nintendo Switch Lite Gaming Console Gray",
+        "price": "21,900৳",
+        "description": "Designed specifically for handheld play\rCompact and lightweight\rBuilt-in controllers\rMultiplayer gaming options",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-lite/gray/nintendo-switch-lite-gray-01-500x500.jpg",
+        "Specifications": {
+            "Color": "Gray",
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2371,
+        "name": "Nintendo Switch Lite Gaming Console Turquoise",
+        "price": "25,500৳",
+        "description": "Designed specifically for handheld play\rCompact and lightweight\rBuilt-in controllers\rMultiplayer gaming options",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-lite/turquoise/nintendo-switch-lite-turquoise-01-500x500.jpg",
+        "Specifications": {
+            "Color": "Turquoise",
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2372,
+        "name": "Nintendo Switch Lite Gaming Console Blue",
+        "price": "25,500৳",
+        "description": "Designed specifically for handheld play\rCompact and lightweight\rBuilt-in controllers\rMultiplayer gaming options",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-lite/blue/nintendo-switch-lite-blue-01-500x500.jpg",
+        "Specifications": {
+            "Color": "Blue",
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2373,
+        "name": "Nintendo Switch Lite Gaming Console Yellow",
+        "price": "25,500৳",
+        "description": "Designed specifically for handheld play\rCompact and lightweight\rBuilt-in controllers\rMultiplayer gaming options",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-lite/yellow/nintendo-switch-lite-yellow-01-500x500.webp",
+        "Specifications": {
+            "Color": "Yellow",
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2374,
+        "name": "Nintendo Switch Lite Gaming Console Coral",
+        "price": "25,500৳",
+        "description": "Designed specifically for handheld play\rCompact and lightweight\rBuilt-in controllers\rMultiplayer gaming options",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-lite/coral/nintendo-switch-lite-coral-01-500x500.webp",
+        "Specifications": {
+            "Color": "Coral",
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2375,
+        "name": "Nintendo Switch OLED Model White Set Gaming Console",
+        "price": "38,000৳",
+        "description": "7-inch OLED screen\rWide adjustable stand\r64GB internal storage\rEnhanced audio",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-oled-model-white-set/nintendo-switch-oled-model-white-set-01-500x500.webp",
+        "Specifications": {
+            "Warranty": "No Warranty"
+        }
+    },
+    {
+        "id": 2376,
+        "name": "Nintendo Switch OLED Model Neon Blue/Neon Red set Gaming Console",
+        "price": "38,000৳",
+        "description": "7-Inch Oled Screen\r64 Gb of Internal Storage\rTwo Joy-Con Controllers\rWide Adjustable Stand",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/neon-blue-neon-red/neon-blue-neon-red-500x500.webp",
+        "Specifications": {
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2377,
+        "name": "Nintendo Switch OLED Model The Legend of Zelda Tears of the Kingdom Edition Gaming Console",
+        "price": "41,000৳",
+        "description": "7-Inch Oled Screen\r64 Gb of Internal Storage\rTwo Joy-Con Controllers\rWide Adjustable Stand",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/oled/oled-01-500x500.webp",
+        "Specifications": {
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2378,
+        "name": "Sony PlayStation Portal Remote Player for PS5 Console",
+        "price": "33,900৳",
+        "description": "Display Size: 8-inch Full HD LCD Screen\rResolution: 1080p at 60fps \rProcessor Speed: 3.5 GHz\rDualSense Wireless Controller",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-portal-remote-player/playstation-portal-remote-player-01-500x500.webp"
+    },
+    {
+        "id": 2379,
+        "name": "Microsoft Xbox Series S 1TB Gaming Console",
+        "price": "52,400৳",
+        "description": "CPU: 8X Cores @ 3.8 GHz (3.66 GHz w/SMT) Custom Zen 2 CPU\rGPU: 12 TFLOPS, 52 CUs @1.825 GHz Custom RDNA 2 GPU\rMemory: 10GB GDDR6, Storage: 1TB SSD\rUp to 8K HDR, Frame rates of up to 120FPS",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/microsoft/xbox-series-s/xbox-series-s-01-500x500.webp"
+    },
+    {
+        "id": 2380,
+        "name": "Microsoft Xbox Series S Gaming Console",
+        "price": "39,400৳",
+        "description": "CPU: 8X Cores @ 3.8 GHz (3.66 GHz w/SMT) Custom Zen 2 CPU\rGPU: 12 TFLOPS, 52 CUs @1.825 GHz Custom RDNA 2 GPU\rMemory: 10GB GDDR6, Storage: 512GB SSD\rUp to 8K HDR, Frame rates of up to 120FPS",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/microsoft/xbox-series-s/xbox-series-s-01-500x500.webp"
+    },
+    {
+        "id": 2381,
+        "name": "Nintendo Switch Fortnite Wildcat Bundle Gaming Console",
+        "price": "41,400৳",
+        "description": "Designed specifically for handheld play\rFortnite pre-installed\rBuilt-in controllers\rMultiplayer gaming options",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-fortnite-wildcat-bundle/nintendo-switch-fortnite-wildcat-bundle-01-500x500.webp",
+        "Specifications": {
+            "Warranty": "No warranty"
+        }
+    },
+    {
+        "id": 2382,
+        "name": "Sony PS4 Slim Jet Black, 8GB GDDR5, 1TB Gaming Console",
+        "price": "44,900৳",
+        "description": "1.84 TFLOPS, AMD Radeon based Graphics\rProcessor: x86-64 AMD Jaguar\r8GB GDDR5+ 1TB Storage\r1x Wireless Controller",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/gaming-console/play-station/sony/ps4-slim-jet/ps4-slim-jet-1-500x500.jpg"
+    },
+    {
+        "id": 2383,
+        "name": "Microsoft Xbox One X 16Gb RAM,1TB Gaming Console",
+        "price": "65,000৳",
+        "description": "8-core Jaguar Evolved CPU 2.3GHz Processor\r16GB RAM + 1TB Storage\r4K UHD Blue Ray\r1x Wireless Controller",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/gaming-console/xbox/microsoft/xbox-one-x/xbox-one-x-3-500x500.jpg"
+    },
+    {
+        "id": 2384,
+        "name": "Sony PlayStation 5 Digital Edition Gaming Console (UK Edition)",
+        "price": "63,900৳",
+        "description": "AMD Zen 2-based CPU with 8 cores at 3.5GHz (variable frequency)\rGPU: 10.28 TFLOPs, 36CUs at 2.23GHz\rBackward Compatibility & Game Boost\r4K UltraHD TV Gaming, 8K support",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-digital-edition/sony-playstation-5-digital-edition-01-500x500.jpg"
+    },
+    {
+        "id": 2385,
+        "name": "Sony PlayStation 5 Digital Edition Slim Gaming Console (Japan Edition)",
+        "price": "69,500৳",
+        "description": "Up to 120fps with 120Hz Output\rRay Tracking - 4K TV Gaming \r1TB Ultra-High Speed SSD\r3D AudioTech",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-digital-edition-slim/playstation-5-digital-edition-slim-001-500x500.webp"
+    },
+    {
+        "id": 2386,
+        "name": "Sony PlayStation 5 Slim Gaming Console (Japan Edition)",
+        "price": "76,000৳",
+        "description": "Up to 120fps with 120Hz Output\rRay Tracking - 4K TV Gaming\r1TB Ultra-High Speed SSD\r3D AudioTech, Disc Drive",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-analog-console-slim-edition/playstation-5-analog-console-slim-edition-01-500x500.webp"
+    },
+    {
+        "id": 2387,
+        "name": "Sony PlayStation 5 Slim Analog Disk Gaming Console",
+        "price": "71,900৳",
+        "description": "Up to 120fps with 120Hz Output\rRay tracing - 4K TV Gaming\r1TB Ultra-High Speed SSD\r3D AudioTech, Disc Drive",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-analog-console-slim-edition/playstation-5-analog-console-slim-edition-01-500x500.webp"
+    },
+    {
+        "id": 2388,
+        "name": "Asus ROG Ally RC71L AMD Ryzen Z1 Extreme Handheld Gaming Console",
+        "price": "77,700৳",
+        "description": "Processor: AMD Ryzen Z1 Extreme 8-core / 16-threads \rMemory: 16GB LPDDR5 on board (6400MT/s dual channel)\rStorage: 512GB PCIe 4.0 NVMe M.2 SSD (2230)\rDisplay: 7-inch, FHD (1920 x 1080)  Touch Screen (10-point multi-touch)",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/asus/rog-ally-rc71l/rog-ally-rc71l-with-bag-500x500.webp",
+        "Specifications": {
+            "Processor Model": "AMD Ryzen Z1 Extreme Processor\r\nCPU: “Zen4” architecture with 4nm process, 8-core / 16-threads, 24 MB total cache, up to 5.10 GHz boost\r\nGPU: AMD Radeon™ Graphics (AMD RDNA™ 3, 12 CUs, up to 2.7 GHz, up to 8.6 Teraflops)\r\nTDP: 9-30W",
+            "Display Features": "7-inch\r\nFHD (1920 x 1080) 16:9\r\nIPS-level\r\nglossy display\r\nsRGB:100%\r\nGorilla Glass DXC\r\nGorilla Glass Victus\r\nTouch Screen (10-point multi-touch)\r\nRefresh Rate:120Hz\r\nResponse Time:7ms\r\nBrightness:500nits\r\nAMD FreeSync Premium",
+            "RAM": "16GB LPDDR5 on board (6400MT/s dual channel)",
+            "Storage Capacity": "512GB PCIe 4.0 NVMe M.2 SSD (2230)",
+            "Card Reader": "1x card reader (microSD) (UHS-II)",
+            "USB Type-C / Thunderbolt Port": "1x ROG XG Mobile Interface and USB Type-C combo port (with USB 3.2 Gen2, support DisplayPort 1.4)",
+            "Headphone & Microphone Port": "1x 3.5mm Combo Audio Jack",
+            "Operating System": "Windows 11 Home",
+            "Other Features": "Gamepad controls:\r\nA B X Y buttons\r\nD-pad\r\nL & R Hall Effect analog triggers\r\nL & R bumpers\r\nView button\r\nMenu button\r\nCommand Center button\r\nArmoury Crate button\r\n2 x assignable grip buttons\r\nThumbsticks: 2 x full-size analog sticks\r\nHaptics: HD haptics\r\nGyro: 6-Axis IMU",
+            "Warranty Details": "01-year warranty"
+        }
+    },
+    {
+        "id": 2389,
+        "name": "Valve Steam Deck OLED 512GB Handheld Gaming Console",
+        "price": "79,500৳",
+        "description": "Display: 7.4” diagonal HDR 90Hz OLED Display\rProccessor: AMD Zen 2 4c/8t 2.4-3.5GHz (6nm)\rRAM: 16GB LPDDR5, Storage: 512GB NVMe SSD\rFeatures: 6-Axis IMU Gyro Sensor, Tri-band Wi-Fi 6E",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/steam-deck/steam-deck-oled-512gb/steam-deck-oled-1-500x500.webp",
+        "Specifications": {
+            "Size": "7.4” diagonal",
+            "Type": "50Whr battery. 3-12 hours of gameplay",
+            "Resolution": "1280 x 800 x RGB",
+            "Refresh Rate": "up to 90Hz",
+            "Brightness": "1,000 nits peak brightness (HDR)\r\n600 nits (SDR)",
+            "Features": "Contrast ratio: > 1,000,000 : 1\r\nColor gamut: 110% P3\r\nResponse time: <0.1 ms\r\nHigh performance touch\r\nGamepad controls:\r\nA B X Y buttons\r\nD-pad\r\nL & R analog triggers\r\nL & R bumpers\r\nView & Menu buttons\r\n4 x assignable grip buttons\r\nThumbsticks: 2 x full-size analog sticks with capacitive touch\r\nHaptics: HD haptics\r\nTrackpads: 2 x 32.5mm square trackpads with haptic feedback, Pressure-sensitivity for configurable click strength\r\nGyro: 6-Axis IMU",
+            "CPU Type": "6 nm AMD APU\r\nCPU: Zen 2 4c/8t, 2.4-3.5GHz (up to 448 GFlops FP32)\r\nGPU: 8 RDNA 2 CUs, 1.6GHz (1.6 TFlops FP32)",
+            "GPU": "8 RDNA 2 CUs, 1.6GHz (1.6 TFlops FP32)",
+            "RAM": "16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels)",
+            "Internal Storage": "512GB NVMe SSD",
+            "Card Slot": "UHS-I supports SD, SDXC and SDHC",
+            "Speaker": "Stereo with embedded DSP for an immersive listening experience",
+            "Audio Features": "Dual microphone array\r\nMultichannel audio via DisplayPort over USB-C, standard USB-C, or Bluetooth 5.3",
+            "Wi-Fi": "Tri-band Wi-Fi 6E radio, 2.4GHz, 5GHz, and 6GHz 2 x 2 MIMO, IEEE 802.11a/b/g/n/ac/ax",
+            "Bluetooth": "Bluetooth 5.3 (support for controllers, accessories and audio) Dedicated bluetooth antenna",
+            "USB": "Multichannel audio via DisplayPort over USB-C, standard USB-C",
+            "Audio Jack": "3.5mm stereo headphone / headset jack",
+            "Operating System": "SteamOS 3 (Arch-based)",
+            "Sensors": "Dual ambient light sensor ALS",
+            "Fast Charging": "PD3.0 Type C power supply, 45W\r\n2.5m cable",
+            "Dimension": "298mm x 117mm x 49mm",
+            "Weight": "Approx. 640 grams",
+            "Warranty": "No Warranty"
+        }
+    },
+    {
+        "id": 2390,
+        "name": "Sony PlayStation 5 Pro Digital Edition",
+        "price": "104,000৳",
+        "description": "Up to 120fps with 120Hz Output\rAdvanced Ray Tracking - 4K TV Gaming \r2TB Ultra-High Speed SSD\r3D AudioTech, Wi-Fi 7 Compatible, PSSR",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-pro/playstation-5-pro-500x500.webp"
+    },
+    {
+        "id": 2391,
+        "name": "Valve Steam Deck OLED 1TB Handheld Gaming Console",
+        "price": "93,900৳",
+        "description": "Display: 7.4” diagonal HDR 90Hz OLED Display\rProccessor: AMD Zen 2 4c/8t 2.4-3.5GHz (6nm)\rRAM: 16GB LPDDR5, Storage: 1TB NVMe SSD\rFeatures: 6-Axis IMU Gyro Sensor, Tri-band Wi-Fi 6E",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/steam-deck/steam-deck-oled-512gb/steam-deck-oled-1-500x500.webp",
+        "Specifications": {
+            "Size": "7.4” diagonal",
+            "Type": "50Whr battery. 3-12 hours of gameplay",
+            "Resolution": "1280 x 800 x RGB",
+            "Refresh Rate": "up to 90Hz",
+            "Brightness": "1,000 nits peak brightness (HDR)\r\n600 nits (SDR)",
+            "Features": "Contrast ratio: > 1,000,000 : 1\r\nColor gamut: 110% P3\r\nResponse time: <0.1 ms\r\nHigh performance touch\r\nGamepad controls:\r\nA B X Y buttons\r\nD-pad\r\nL & R analog triggers\r\nL & R bumpers\r\nView & Menu buttons\r\n4 x assignable grip buttons\r\nThumbsticks: 2 x full-size analog sticks with capacitive touch\r\nHaptics: HD haptics\r\nTrackpads: 2 x 32.5mm square trackpads with haptic feedback, Pressure-sensitivity for configurable click strength\r\nGyro: 6-Axis IMU",
+            "CPU Type": "6 nm AMD APU\r\nCPU: Zen 2 4c/8t, 2.4-3.5GHz (up to 448 GFlops FP32)\r\nGPU: 8 RDNA 2 CUs, 1.6GHz (1.6 TFlops FP32)",
+            "GPU": "8 RDNA 2 CUs, 1.6GHz (1.6 TFlops FP32)",
+            "RAM": "16 GB LPDDR5 on-board RAM (6400 MT/s quad 32-bit channels)",
+            "Internal Storage": "1TB NVMe SSD",
+            "Card Slot": "UHS-I supports SD, SDXC and SDHC",
+            "Speaker": "Stereo with embedded DSP for an immersive listening experience",
+            "Audio Features": "Dual microphone array\r\nMultichannel audio via DisplayPort over USB-C, standard USB-C, or Bluetooth 5.3",
+            "Wi-Fi": "Tri-band Wi-Fi 6E radio, 2.4GHz, 5GHz, and 6GHz 2 x 2 MIMO, IEEE 802.11a/b/g/n/ac/ax",
+            "Bluetooth": "Bluetooth 5.3 (support for controllers, accessories and audio) Dedicated bluetooth antenna",
+            "USB": "Multichannel audio via DisplayPort over USB-C, standard USB-C",
+            "Audio Jack": "3.5mm stereo headphone / headset jack",
+            "Operating System": "SteamOS 3 (Arch-based)",
+            "Sensors": "Dual ambient light sensor ALS",
+            "Fast Charging": "PD3.0 Type C power supply, 45W\r\n2.5m cable",
+            "Dimension": "298mm x 117mm x 49mm",
+            "Weight": "Approx. 640 grams",
+            "Warranty": "No Warranty"
+        }
+    },
+    {
+        "id": 2392,
+        "name": "Sony PlayStation PULSE Elite Wireless Headset",
+        "price": "19,900৳",
+        "description": "Planar Magnetic Drivers\rRetractable Microphone\rMulti-Device Bluetooth Connectivity\rAI-Enhanced Noise Rejection",
+        "category": "gaming-console",
+        "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/pulse-elite/pulse-elite-01-500x500.webp",
+        "Specifications": {
+            "Driver Magnet": "Planar Magnetic Drivers",
+            "Connectivity": "Bluetooth",
+            "Battery Life": "Up to 30 hours",
+            "Color": "White",
+            "System Requirements": "PlayStation Link compatible devices, including your PS5 console, PC, Mac and PlayStation Portal remote player",
+            "Microphone Size": "Retractable microphone",
+            "Manufacturing Warranty": "No Warranty"
+        }
+    }
+]
