@@ -30,12 +30,12 @@ async function pushProducts() {
     CREATE TABLE IF NOT EXISTS products (
       id SERIAL PRIMARY KEY,
       name TEXT NOT NULL,
+      category TEXT NOT NULL,
       price NUMERIC(10, 2) NOT NULL,
       description TEXT,
-      category TEXT NOT NULL,
       main_image TEXT,
-      stock_quantity INTEGER,
       specifications JSONB,
+      stock_quantity INTEGER,
       created_at TIMESTAMP DEFAULT NOW()
     );
   `);
@@ -48,18 +48,15 @@ async function pushProducts() {
       // console.log(data[0]);
       for (const product of data) {
         await pool.query(
-          `INSERT INTO products (name, price, description, category, main_image, stock_quantity, specifications)
-           VALUES ($1, $2, $3, $4, $5, $6, $7)`,
+          `INSERT INTO products (name, price, description, category, main_image, specifications)
+           VALUES ($1, $2, $3, $4, $5, $6)`,
           [
             product.name,
             product.price,
             product.description,
             product.category,
             product.main_image,
-            product.stock_quantity,
-            product.Specifications
-              ? JSON.stringify(product.Specifications)
-              : null,
+            product.Specifications,
           ]
         );
       }
