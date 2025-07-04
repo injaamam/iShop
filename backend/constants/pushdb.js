@@ -1,14 +1,17 @@
 import { Pool } from "pg";
 import fs from "fs";
 import path from "path";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 // PostgreSQL connection config
 const pool = new Pool({
-  user: "postgres",
-  host: "localhost",
-  database: "ishop",
-  password: "ck675511",
-  port: 5432,
+  user: process.env.PGUSER,
+  host: process.env.PGHOST,
+  database: process.env.PGDATABASE,
+  password: process.env.PGPASSWORD,
+  port: process.env.PGPORT,
 });
 
 const productsDir = path.join(
