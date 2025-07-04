@@ -17,23 +17,23 @@ app.get("/", (req, res) => {
 // });
 app.use("/api/products", productRoutes);
 
-async function initDB() {
-  try {
-    await sql`
-        create table if not exists products (
-            id serial primary key,
-            name text not null,
-            price numeric not null,
-            description text
-        );
-        `;
-    console.log("Database initialized successfully!");
-  } catch (error) {
-    console.error("Database connection failed:", error);
-  }
-}
+// async function initDB() {
+//   try {
+//     await sql`
+//         create table if not exists products (
+//             id serial primary key,
+//             name text not null,
+//             price numeric not null,
+//             description text
+//         );
+//         `;
+//     console.log("Database initialized successfully!");
+//   } catch (error) {
+//     console.error("Database connection failed:", error);
+//   }
+// }
 
-initDB();
+// initDB();
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
