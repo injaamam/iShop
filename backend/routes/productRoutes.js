@@ -1,9 +1,9 @@
 import expres from "express";
-import { getProducts } from "../controllers/productController.js";
+import { getLaptops } from "../controllers/productController.js";
 
 const router = expres.Router();
 
-router.get("/", getProducts);
+router.get("/laptop", getLaptops);
 
 router.get("/test", (req, res) => {
   res.send("test route");

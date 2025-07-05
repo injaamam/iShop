@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
 // app.get("/api/products/test", (req, res) => {
 //   res.json({ message: "This is a test endpoint." });
 // });
-app.use("/api/products", productRoutes);
+app.use("/", productRoutes);
 
 // async function initDB() {
 //   try {
