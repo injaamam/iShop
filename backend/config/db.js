@@ -17,12 +17,10 @@ dotenv.config();
 
 const { PGHOST, PGDATABASE, PGUSER, PGPASSWORD, PGPORT } = process.env;
 
-const pool = new pg.Pool({
+export const sql = new pg.Pool({
   user: PGUSER,
   host: PGHOST,
   database: PGDATABASE,
   password: PGPASSWORD,
   port: PGPORT || 5432,
 });
-
-export const sql = pool;
