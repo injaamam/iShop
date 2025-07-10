@@ -1,12 +1,16 @@
 import { sql } from "../config/db.js";
 
-export const getLaptops = async (req, res) => {
+const getProducts = async (req, res) => {
+  const { category } = req.params;
   try {
     const products = await sql.query(
-      "SELECT id, name, price, main_image,description FROM products WHERE category = 'laptop' ORDER BY id limit 20"
+      "SELECT id, name, price, main_image,description FROM products WHERE category = $1",
+      [category]
     );
     res.json(products.rows);
   } catch (error) {
     res.status(500).json({ error: "Failed to fetch products" });
   }
 };
+
+export default getProducts;
