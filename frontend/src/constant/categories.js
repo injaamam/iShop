@@ -1,0 +1,18 @@
+export const categories = [
+  "monitor",
+  "smart-watch",
+  "pen-drive",
+  "earbuds",
+  "gaming-chair",
+  "headphone",
+  "speaker-and-home-theater",
+  "keyboard",
+  "gaming-console",
+  "stylus",
+  "server",
+  "laptop",
+  "mobile-phone-charger-adapter",
+  "tablet-pc",
+  "mouse",
+  "camera",
+];
