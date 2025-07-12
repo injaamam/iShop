@@ -2,7 +2,6 @@ import express from "express";
 import dotenv from "dotenv";
 import cors from "cors";
 import productRoutes from "./routes/productRoutes.js";
-import { sql } from "./config/db.js";
 
 dotenv.config();
 
@@ -18,24 +17,6 @@ app.get("/", (req, res) => {
 //   res.json({ message: "This is a test endpoint." });
 // });
 app.use("/", productRoutes);
-
-// async function initDB() {
-//   try {
-//     await sql`
-//         create table if not exists products (
-//             id serial primary key,
-//             name text not null,
-//             price numeric not null,
-//             description text
-//         );
-//         `;
-//     console.log("Database initialized successfully!");
-//   } catch (error) {
-//     console.error("Database connection failed:", error);
-//   }
-// }
-
-// initDB();
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);

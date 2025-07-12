@@ -4,7 +4,7 @@ const getProducts = async (req, res) => {
   const { category } = req.params;
   try {
     const products = await sql.query(
-      "SELECT id, name, price, main_image,description FROM products WHERE category = $1 LIMIT 10 ",
+      "SELECT id, name, price, main_image,description FROM products WHERE category = $1 LIMIT 20 ",
       [category]
     );
     res.json(products.rows);
