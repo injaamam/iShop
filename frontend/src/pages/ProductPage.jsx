@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import ProductFilter from "../components/productFilter";
@@ -44,9 +44,11 @@ export default function ProductPage() {
               key={prod.id}
             >
               <img src={prod.main_image} alt={prod.name} />
-              <h2 className="text-base font-semibold text-black/90 mb-5">
-                {prod.name}
-              </h2>
+              <Link to={`/product/${prod.id}`}>
+                <h2 className="text-base font-semibold text-black/90 mb-5 hover:text-blue-900 hover:underline">
+                  {prod.name}
+                </h2>
+              </Link>
               <p className="text-sm text-black/80 ">{prod.description}</p>
               <p className="text-xl text-red-500 font-bold pt-5 absolute bottom-5">
                 {prod.price}
