@@ -1,7 +1,14 @@
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { categories } from "../constant/categories";
+import { getCategories } from "../constant/getCategories.js";
 
 function HomePage() {
+  const [categories, setCategories] = useState([]);
+
+  useEffect(() => {
+    getCategories().then((data) => setCategories(data));
+  }, []);
+
   return (
     <div className="mx-5 md:mx-8 lg:mx-10">
       <div className="flex flex-col gap-2 items-center mt-10">
