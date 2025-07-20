@@ -3,19 +3,36 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
-export default function productSpecificationPage() {
+
+export default function ProductSpecificationPage() {
   const { id } = useParams();
-  const [product, setProduct] = useState("");
+  const [product, setProduct] = useState(null);
+  const [error, setError] = useState("");
 
   useEffect(() => {
-    axios.get(`${BACKEND_URL}/product/${id}`).then((res) => {
-      setProduct(res.data[0]);
-    });
+    setError("");
+    setProduct(null); // Reset product when id changes
+    axios
+      .get(`${BACKEND_URL}/product/${id}`)
+      .then((res) => setProduct(res.data[0]))
+      .catch(() => setError("Failed to fetch product specification"));
   }, [id]);
 
-  useEffect(() => {
-    console.log(product);
-  }, [product]);
+  if (error)
+    return <div className="text-center text-2xl font-bold mt-10">{error}</div>;
+  if (product === null)
+    return (
+      <div className="flex justify-center items-center h-64">
+        <div className="loading loading-spinner loading-lg" />
+      </div>
+    );
+
+  if (!product)
+    return (
+      <div className="text-center text-2xl font-bold mt-10">
+        No product found.
+      </div>
+    );
 
   return (
     <div className="p-5 md:p-8 lg:p-10">
