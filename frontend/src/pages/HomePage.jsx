@@ -22,7 +22,7 @@ function HomePage() {
           {categories.map((cat) => (
             <Link
               key={cat}
-              to={`/${cat}`}
+              to={`/category/${cat}`}
               className="flex items-center justify-center h-16 border rounded text-center"
             >
               {cat}

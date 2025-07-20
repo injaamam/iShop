@@ -30,7 +30,7 @@ export default function ProductPage() {
     }
     setError(""); // Clear previous errors
     axios
-      .get(`${BACKEND_URL}/${category}`)
+      .get(`${BACKEND_URL}/category/${category}`)
       .then((res) => setProducts(res.data))
       .catch(() => setError("Failed to fetch products"));
   }, [category, categories]);
