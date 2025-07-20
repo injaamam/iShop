@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
+import { PackageIcon } from "lucide-react";
 import axios from "axios";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
@@ -15,11 +16,18 @@ export default function ProductSpecificationPage() {
     axios
       .get(`${BACKEND_URL}/product/${id}`)
       .then((res) => setProduct(res.data[0]))
-      .catch(() => setError("Failed to fetch product specification"));
+      .catch(() => setError("Failed to fetch product specification."));
   }, [id]);
 
   if (error)
-    return <div className="text-center text-2xl font-bold mt-10">{error}</div>;
+    return (
+      <div>
+        <div className="flex justify-center items-center h-22 mt-10">
+          <PackageIcon className="size-16" />
+        </div>
+        <div className="text-center text-2xl font-bold">{error}</div>
+      </div>
+    );
   if (product === null)
     return (
       <div className="flex justify-center items-center h-64">
@@ -29,8 +37,11 @@ export default function ProductSpecificationPage() {
 
   if (!product)
     return (
-      <div className="text-center text-2xl font-bold mt-10">
-        No product found.
+      <div>
+        <div className="flex justify-center items-center h-22 mt-10">
+          <PackageIcon className="size-16" />
+        </div>
+        <div className="text-center text-2xl font-bold">No product found.</div>
       </div>
     );
 
