@@ -2,20 +2,46 @@ import { useParams, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import ProductFilter from "../components/productFilter";
+import { getCategories } from "../constant/getCategories.js";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
 export default function ProductPage() {
-  const { category } = useParams(); // Get category from URL
+  const { category } = useParams();
   const [products, setProducts] = useState([]);
   const [filterOpen, setFilterOpen] = useState(false);
+  const [categories, setCategories] = useState([]);
+  const [error, setError] = useState("");
 
+  // Load categories once
   useEffect(() => {
-    axios.get(`${BACKEND_URL}/${category}`).then((res) => {
-      setProducts(res.data);
-      console.log(res.data);
-    });
-  }, [category]);
+    getCategories()
+      .then(setCategories)
+      .catch(() => setError("Failed to load categories"));
+  }, []);
+
+  // Fetch products only if category is valid
+  useEffect(() => {
+    if (!categories.length) return; // Wait for categories to load
+    if (!categories.includes(category)) {
+      setError("Category not found");
+      setProducts([]);
+      return;
+    }
+    setError(""); // Clear previous errors
+    axios
+      .get(`${BACKEND_URL}/${category}`)
+      .then((res) => setProducts(res.data))
+      .catch(() => setError("Failed to fetch products"));
+  }, [category, categories]);
+
+  if (error) return <div>{error}</div>;
+  if (!products.length)
+    return (
+      <div className="flex justify-center items-center h-64">
+        <div className="loading loading-spinner loading-lg" />
+      </div>
+    );
 
   return (
     <div className="px-5 md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
