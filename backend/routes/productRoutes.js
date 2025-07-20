@@ -10,7 +10,7 @@ router.get("/test", (req, res) => {
 });
 
 router.get("/categories", getCategories);
-router.get("/:category", getProducts);
+router.get("/category/:category", getProducts);
 router.get("/product/:id", getProductSpecification);
 
 export default router;
