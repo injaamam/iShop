@@ -56,14 +56,14 @@ export default function ProductPage() {
           ☰
         </button>
       </div>
-      <div className="flex flex-col lg:flex-row gap-4">
+      <div className="flex flex-col lg:flex-row lg:flex-nowrap gap-4 w-full">
         <ProductFilter
           className={`
             ${filterOpen ? "block" : "hidden"}
-            lg:block absolute right-0 lg:static lg:right-auto w-[550px] bg-white shadow-md rounded-md text-center
+            lg:block lg:w-1/2 bg-white shadow-md rounded-md text-center
           `}
         />
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:w-1/2">
           {products.map((prod) => (
             <div
               className="p-5 relative bg-white shadow-md rounded-md h-[650px]"

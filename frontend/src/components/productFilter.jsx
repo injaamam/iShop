@@ -1,5 +1,9 @@
-const ProductFilter = ({ className }) => {
-  return <div className={`${className}`}>ProductFilter</div>;
+const ProductFilter = ({ className, style }) => {
+  return (
+    <div className={`${className}`} style={style}>
+      ProductFilter
+    </div>
+  );
 };
 
 export default ProductFilter;
