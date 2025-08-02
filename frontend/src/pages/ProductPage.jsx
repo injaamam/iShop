@@ -35,6 +35,16 @@ export default function ProductPage() {
       .catch(() => setError("Failed to fetch products"));
   }, [category, categories]);
 
+  useEffect(() => {
+    if (filterOpen) {
+      document.body.classList.add("overflow-hidden");
+    } else {
+      document.body.classList.remove("overflow-hidden");
+    }
+    // Clean up on unmount
+    return () => document.body.classList.remove("overflow-hidden");
+  }, [filterOpen]);
+
   if (error) return <div>{error}</div>;
   if (!products.length)
     return (
@@ -44,7 +54,7 @@ export default function ProductPage() {
     );
 
   return (
-    <div className="px-5 md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
+    <div className="px-5 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
       <div className="flex justify-between items-center w-full p-5 bg-white shadow-md rounded-md">
         <h1 className="text-2xl font-bold text-center h-5 flex items-center justify-between lg:justify-center w-full">
           {category}
@@ -56,11 +66,11 @@ export default function ProductPage() {
           ☰
         </button>
       </div>
-      <div className="flex flex-col lg:flex-row gap-4">
+      <div className="flex flex-col lg:flex-row gap-4 relative">
         <ProductFilter
           className={`
             ${filterOpen ? "block" : "hidden"}
-            lg:block absolute right-0 lg:static lg:right-auto w-[550px] bg-white shadow-md rounded-md text-center
+            fixed top-0 left-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg rounded-lg text-center bg-gray-500 z-10 h-screen overflow-y-auto
           `}
         />
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
