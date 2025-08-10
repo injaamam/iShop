@@ -5,15 +5,15 @@ const getProducts = async (req, res) => {
   const page = Number(req.query.page || 1);
   const offset = (page - 1) * 20;
   try {
-    // const products = await sql.query(
-    //   "SELECT id, name, price, main_image,description FROM products WHERE category = $1 LIMIT 20 ",
-    //   [category]
-    // );
-    // res.json(products.rows);
+    const products = await sql.query(
+      "SELECT id, name, price, main_image,description FROM products WHERE category = $1 ORDER BY id LIMIT 20 OFFSET $2",
+      [category, offset]
+    );
+    res.json(products.rows);
 
-    const products =
-      await sql`SELECT id, name, price, main_image,description FROM products WHERE category = ${category} ORDER BY id LIMIT 20 OFFSET ${offset}`;
-    res.json(products);
+    // const products =
+    //   await sql`SELECT id, name, price, main_image,description FROM products WHERE category = ${category} ORDER BY id LIMIT 20 OFFSET ${offset}`;
+    // res.json(products);
   } catch (error) {
     res.status(500).json({ error: "Failed to fetch products" });
   }

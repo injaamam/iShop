@@ -8,6 +8,7 @@ const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
 export default function ProductPage() {
   const { category } = useParams();
+  const [page, setPage] = useState(1);
   const [products, setProducts] = useState([]);
   const [filterOpen, setFilterOpen] = useState(false);
   const [categories, setCategories] = useState([]);
@@ -30,10 +31,10 @@ export default function ProductPage() {
     }
     setError(""); // Clear previous errors
     axios
-      .get(`${BACKEND_URL}/category/${category}`)
+      .get(`${BACKEND_URL}/category/${category}?page=${page}`)
       .then((res) => setProducts(res.data))
       .catch(() => setError("Failed to fetch products"));
-  }, [category, categories]);
+  }, [category, categories, page]);
 
   useEffect(() => {
     if (filterOpen) {
@@ -45,6 +46,11 @@ export default function ProductPage() {
     return () => document.body.classList.remove("overflow-hidden");
   }, [filterOpen]);
 
+  //reset page to 1 when category changes
+  useEffect(() => {
+    setPage(1);
+  }, [category]);
+
   if (error) return <div>{error}</div>;
   if (!products.length)
     return (
@@ -54,7 +60,7 @@ export default function ProductPage() {
     );
 
   return (
-    <div className="px-5 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
+    <div className="px-5 py-4 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
       <div className="flex justify-between items-center w-full p-5 bg-white shadow-md rounded-md">
         <h1 className="text-2xl font-bold text-center h-5 flex items-center justify-between lg:justify-center w-full">
           {category}
@@ -92,6 +98,23 @@ export default function ProductPage() {
             </div>
           ))}
         </div>
+      </div>
+
+      <div className="flex justify-center items-center gap-1 ">
+        <button
+          className="btn btn-primary btn-sm"
+          onClick={() => setPage(page - 1)}
+          disabled={page === 1}
+        >
+          PREV
+        </button>
+        <button
+          className="btn btn-primary btn-sm"
+          onClick={() => setPage(page + 1)}
+          disabled={products.length < 20}
+        >
+          NEXT
+        </button>
       </div>
     </div>
   );
