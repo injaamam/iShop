@@ -1,4 +1,4 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useSearchParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import ProductFilter from "../components/productFilter";
@@ -8,11 +8,15 @@ const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
 export default function ProductPage() {
   const { category } = useParams();
-  const [page, setPage] = useState(1);
   const [products, setProducts] = useState([]);
   const [filterOpen, setFilterOpen] = useState(false);
   const [categories, setCategories] = useState([]);
   const [error, setError] = useState("");
+  const [searchParams, setSearchParams] = useSearchParams();
+  const [page, setPage] = useState(() => {
+    const p = Number(searchParams.get("page"));
+    return Number.isInteger(p) && p > 0 ? p : 1;
+  });
 
   // Load categories once
   useEffect(() => {
@@ -36,6 +40,7 @@ export default function ProductPage() {
       .catch(() => setError("Failed to fetch products"));
   }, [category, categories, page]);
 
+  //filter open close
   useEffect(() => {
     if (filterOpen) {
       document.body.classList.add("overflow-hidden");
@@ -46,10 +51,27 @@ export default function ProductPage() {
     return () => document.body.classList.remove("overflow-hidden");
   }, [filterOpen]);
 
-  //reset page to 1 when category changes
+  //set page from url
   useEffect(() => {
-    setPage(1);
-  }, [category]);
+    const pageParam = searchParams.get("page"); // e.g., "2"
+    const parsed = Number(pageParam);
+    const safePage = Number.isInteger(parsed) && parsed > 0 ? parsed : 1;
+    setPage(safePage);
+  }, [category, searchParams]);
+
+  //set page to url
+  useEffect(() => {
+    const current = searchParams.get("page") || "1";
+    const next = String(page);
+    if (current !== next) {
+      setSearchParams({ page: next });
+    }
+  }, [page, searchParams]);
+
+  //reset page to 1 when category changes
+  // useEffect(() => {
+  //   setPage(1);
+  // }, [category]);
 
   if (error) return <div>{error}</div>;
   if (!products.length)
