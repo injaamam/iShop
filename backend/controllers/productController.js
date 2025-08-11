@@ -9,7 +9,10 @@ const getProducts = async (req, res) => {
       "SELECT id, name, price, main_image,description FROM products WHERE category = $1 ORDER BY id LIMIT 20 OFFSET $2",
       [category, offset]
     );
-    res.json(products.rows);
+
+    if (products.rows.length === 0) {
+      return res.json({ message: "Products not available" });
+    } else return res.json(products.rows);
 
     // const products =
     //   await sql`SELECT id, name, price, main_image,description FROM products WHERE category = ${category} ORDER BY id LIMIT 20 OFFSET ${offset}`;

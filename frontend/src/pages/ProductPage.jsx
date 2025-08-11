@@ -36,7 +36,16 @@ export default function ProductPage() {
     setError(""); // Clear previous errors
     axios
       .get(`${BACKEND_URL}/category/${category}?page=${page}`)
-      .then((res) => setProducts(res.data))
+      .then((res) => {
+        const data = res.data;
+        if (Array.isArray(data)) {
+          setProducts(data);
+          setError("");
+        } else {
+          setError(data.message || "No products found");
+          setProducts([]);
+        }
+      })
       .catch(() => setError("Failed to fetch products"));
   }, [category, categories, page]);
 
@@ -73,13 +82,19 @@ export default function ProductPage() {
   //   setPage(1);
   // }, [category]);
 
-  if (error) return <div>{error}</div>;
+  if (error)
+    return (
+      <div className="flex justify-center pt-5 text-xl font-bold">{error}</div>
+    );
   if (!products.length)
     return (
       <div className="flex justify-center items-center h-64">
         <div className="loading loading-spinner loading-lg" />
       </div>
     );
+
+  const start = Math.max(1, page - 2);
+  const pages = [start, start + 1, start + 2, start + 3, start + 4];
 
   return (
     <div className="px-5 py-4 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
@@ -124,14 +139,28 @@ export default function ProductPage() {
 
       <div className="flex justify-center items-center gap-1 ">
         <button
-          className="btn btn-primary btn-sm"
+          className="btn btn-outline btn-sm"
           onClick={() => setPage(page - 1)}
           disabled={page === 1}
         >
           PREV
         </button>
+
+        {pages.map((n) => (
+          <button
+            key={n}
+            className={`btn btn-sm ${
+              n === page ? "btn-primary" : "btn-outline"
+            }`}
+            onClick={() => setPage(n)}
+            disabled={products.length < 20 && n > page}
+          >
+            {n}
+          </button>
+        ))}
+
         <button
-          className="btn btn-primary btn-sm"
+          className="btn btn-outline btn-sm"
           onClick={() => setPage(page + 1)}
           disabled={products.length < 20}
         >
