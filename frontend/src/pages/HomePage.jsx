@@ -10,8 +10,8 @@ function HomePage() {
   }, []);
 
   return (
-    <div className="mx-5 md:mx-8 lg:mx-10">
-      <div className="flex flex-col gap-2 items-center mt-10">
+    <div className="mx-5 md:mx-8 lg:mx-10 pt-3">
+      <div className="flex flex-col gap-2 items-center">
         <h2 className="text-xl font-semibold">Featured Category</h2>
         <h3 className="text-md font-medium">
           Get Your Desired Product from Featured Category!
