@@ -6,10 +6,9 @@ import { getCategories } from "../constant/getCategories.js";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
-export default function ProductPage() {
+export default function ProductPage({ filterOpen, setFilterOpen }) {
   const { category } = useParams();
   const [products, setProducts] = useState([]);
-  const [filterOpen, setFilterOpen] = useState(false);
   const [categories, setCategories] = useState([]);
   const [error, setError] = useState("");
   const [searchParams, setSearchParams] = useSearchParams();
@@ -102,18 +101,12 @@ export default function ProductPage() {
         <h1 className="text-2xl font-bold text-center h-5 flex items-center justify-between lg:justify-center w-full">
           {category}
         </h1>
-        <button
-          className="lg:hidden text-2xl"
-          onClick={() => setFilterOpen((open) => !open)}
-        >
-          ☰
-        </button>
       </div>
       <div className="flex flex-col lg:flex-row gap-4 relative">
         <ProductFilter
           className={`
             ${filterOpen ? "block" : "hidden"}
-            fixed top-0 left-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg rounded-lg text-center bg-gray-500 z-10 h-screen overflow-y-auto
+            fixed top-0 left-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg rounded-lg text-center bg-gray-500 z-10 h-screen overflow-y-auto pt-18 lg:pt-0
           `}
         />
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">

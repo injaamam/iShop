@@ -3,10 +3,16 @@ import { Link } from "react-router-dom";
 import { useState } from "react";
 let totalItems = 0;
 
-export default function Header() {
+export default function Header({ filterOpen, setFilterOpen }) {
   const [click, setClick] = useState(false);
   return (
-    <div className="fixed md:relative w-full flex justify-around md:justify-center items-center gap-5 py-3 bg-[#081621] z-100 h-18">
+    <div className="fixed md:relative w-full flex justify-between lg:justify-center items-center gap-5 py-3 bg-[#081621] z-100 h-18">
+      <button
+        className="lg:hidden text-2xl text-white pl-3"
+        onClick={() => setFilterOpen((open) => !open)}
+      >
+        ☰
+      </button>
       <Link to="/">
         <img src="/startech.png" className="h-12" />
       </Link>
@@ -31,7 +37,7 @@ export default function Header() {
           </div>
         </form>
       </div>
-      <div className="flex gap-1 scale-140 md:scale-110">
+      <div className="flex gap-1 scale-140 md:scale-110 pr-3">
         <UserRound fill="#EF4A23" />
         <h1 className="text-white font-semibold hidden md:inline">Account</h1>
       </div>
