@@ -6,7 +6,7 @@ let totalItems = 0;
 export default function Header() {
   const [click, setClick] = useState(false);
   return (
-    <div className="fixed md:relative w-full flex justify-around md:justify-center items-center gap-5 py-3 bg-[#081621] z-100">
+    <div className="fixed md:relative w-full flex justify-around md:justify-center items-center gap-5 py-3 bg-[#081621] z-100 h-18">
       <Link to="/">
         <img src="startech.png" className="h-12" />
       </Link>
