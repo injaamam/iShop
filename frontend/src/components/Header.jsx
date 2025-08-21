@@ -1,14 +1,13 @@
 import { Search, ShoppingCart, UserRound } from "lucide-react";
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { toggleHamburger } from "../features/hamburgerSlice.js";
 let totalItems = 0;
 
 export default function Header() {
   const [click, setClick] = useState(false);
   const dispatch = useDispatch();
-  const filterOpen = useSelector((state) => state.hamburger.filterOpen);
   return (
     <div className="fixed md:relative w-full flex justify-around md:justify-center items-center gap-5 py-3 bg-[#081621] z-100 h-18">
       <button
