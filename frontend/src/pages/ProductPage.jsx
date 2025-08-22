@@ -98,7 +98,7 @@ export default function ProductPage() {
   const pages = [start, start + 1, start + 2, start + 3, start + 4];
 
   return (
-    <div className="px-5 py-18 md:py-4 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
+    <div className="px-5 py-20 md:py-4 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
       <div className="flex justify-between items-center w-full p-5 bg-white shadow-md rounded-md">
         <h1 className="text-2xl font-bold text-center h-5 flex items-center justify-between lg:justify-center w-full">
           {category}
