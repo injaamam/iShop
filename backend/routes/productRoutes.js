@@ -14,7 +14,7 @@ router.get("/test", (req, res) => {
 });
 
 router.get("/categories", getCategories);
-router.post("/category/:category", getProducts); // Changed to POST to accept filters in body
+router.get("/category/:category", getProducts); // Changed to POST to accept filters in body
 
 // Routes for getting specification keys and values
 router.get("/category/:category/specifications", getSpecificationKeys);
