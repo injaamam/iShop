@@ -1,14 +1,16 @@
 import { useParams, Link, useSearchParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
+import { useSelector } from "react-redux";
 import ProductFilter from "../components/productFilter";
 import { getCategories } from "../constant/getCategories.js";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
-export default function ProductPage({ filterOpen, setFilterOpen }) {
+export default function ProductPage() {
   const { category } = useParams();
   const [products, setProducts] = useState([]);
+  const filterOpen = useSelector((state) => state.hamburger.filterOpen);
   const [categories, setCategories] = useState([]);
   const [error, setError] = useState("");
   const [searchParams, setSearchParams] = useSearchParams();
@@ -96,7 +98,7 @@ export default function ProductPage({ filterOpen, setFilterOpen }) {
   const pages = [start, start + 1, start + 2, start + 3, start + 4];
 
   return (
-    <div className="px-5 py-18 md:py-4 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
+    <div className="px-5 py-20 md:py-4 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
       <div className="flex justify-between items-center w-full p-5 bg-white shadow-md rounded-md">
         <h1 className="text-2xl font-bold text-center h-5 flex items-center justify-between lg:justify-center w-full">
           {category}
@@ -106,7 +108,7 @@ export default function ProductPage({ filterOpen, setFilterOpen }) {
         <ProductFilter
           className={`
             ${filterOpen ? "block" : "hidden"}
-            fixed top-0 left-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg rounded-lg text-center bg-gray-500 z-10 h-screen overflow-y-auto pt-18 lg:pt-0
+            fixed top-18 left-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg lg:rounded-lg text-center bg-gray-500 z-10 h-screen overflow-y-auto
           `}
         />
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
