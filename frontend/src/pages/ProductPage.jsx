@@ -108,8 +108,9 @@ export default function ProductPage() {
         <ProductFilter
           className={`
             ${filterOpen ? "block" : "hidden"}
-            fixed top-18 left-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg lg:rounded-lg text-center bg-gray-500 z-10 h-screen overflow-y-auto
+            fixed top-18 left-0 bottom-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg bg-white p-4 lg:rounded-lg z-10 overflow-y-auto
           `}
+          category={category}
         />
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
           {products.map((prod) => (
