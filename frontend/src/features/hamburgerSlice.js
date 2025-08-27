@@ -16,7 +16,7 @@ const hamburgerSlice = createSlice({
     },
   },
 });
-console.log(hamburgerSlice.reducer);
+// console.log(hamburgerSlice.reducer);
 
 export const { toggleHamburger } = hamburgerSlice.actions;
 export default hamburgerSlice.reducer;
