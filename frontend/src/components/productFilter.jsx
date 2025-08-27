@@ -7,6 +7,7 @@ const ProductFilter = ({ className, category }) => {
   const [error, setError] = useState("");
   const [keys, setKeys] = useState();
   const [values, setValues] = useState();
+  const [expand, setExpand] = useState(false);
 
   useEffect(() => {
     axios
@@ -21,7 +22,9 @@ const ProductFilter = ({ className, category }) => {
   useEffect(() => {
     if (!keys) return;
 
-    const keyValue = [];
+    const keyValue = {};
+    let completedRequests = 0;
+
     keys.map((key) => {
       axios
         .get(
@@ -30,25 +33,42 @@ const ProductFilter = ({ className, category }) => {
           )}`
         )
         .then((value) => {
-          const pushKeyValue = { [key]: value };
-          keyValue.push(pushKeyValue);
+          // const pushKeyValue = { [key]: value.data };
+          // keyValue = { ...keyValue, ...pushKeyValue };
+          keyValue[key] = value.data;
+          completedRequests++;
+          // console.log(`Completed: ${completedRequests}/${keys.length}`);
+
+          if (completedRequests === keys.length) {
+            console.log(keyValue);
+            setValues(keyValue);
+          }
         })
         .catch(() =>
           setError(`Failed to fetch product specification value of key ${key}!`)
         );
     });
-    setValues(keyValue);
   }, [keys, category]);
-
-  // console.log(values);
 
   return (
     <div className={`${className} space-y-2`}>
       {keys ? (
         keys.map((key) => (
           <div key={key}>
-            <div className="break-words">{key}</div>
-            {/* <div>{`${values}.${key}`}</div> */}
+            <div className="break-words" onClick={() => setExpand(!expand)}>
+              {key}
+            </div>
+            {expand && (
+              <div>
+                {values &&
+                  values[key] &&
+                  values[key].map((item, index) => (
+                    <div key={index} className="bg-gray-300">
+                      {item}
+                    </div>
+                  ))}
+              </div>
+            )}
           </div>
         ))
       ) : (
