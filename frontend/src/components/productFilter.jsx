@@ -24,7 +24,11 @@ const ProductFilter = ({ className, category }) => {
     const keyValue = [];
     keys.map((key) => {
       axios
-        .get(`${BACKEND_URL}/category/${category}/specifications/${key}`)
+        .get(
+          `${BACKEND_URL}/category/${category}/specifications/${encodeURIComponent(
+            key
+          )}`
+        )
         .then((value) => {
           const pushKeyValue = { [key]: value };
           keyValue.push(pushKeyValue);
@@ -36,7 +40,7 @@ const ProductFilter = ({ className, category }) => {
     setValues(keyValue);
   }, [keys, category]);
 
-  console.log(values);
+  // console.log(values);
 
   return (
     <div className={`${className} space-y-2`}>
@@ -55,3 +59,18 @@ const ProductFilter = ({ className, category }) => {
 };
 
 export default ProductFilter;
+
+{
+  /* {values && (
+        <div>
+          <h2 className="text-2xl font-bold">X</h2>
+          <ul>
+            {Object.entries(values).map(([key, value]) => (
+              <li key={key} className="text-lg text-gray-900">
+                <strong>{key}:</strong> {value}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )} */
+}
