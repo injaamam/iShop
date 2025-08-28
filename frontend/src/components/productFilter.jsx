@@ -7,7 +7,7 @@ const ProductFilter = ({ className, category }) => {
   const [error, setError] = useState("");
   const [keys, setKeys] = useState();
   const [values, setValues] = useState();
-  const [expand, setExpand] = useState(false);
+  const [expandedKeys, setExpandedKeys] = useState({});
 
   useEffect(() => {
     axios
@@ -22,7 +22,7 @@ const ProductFilter = ({ className, category }) => {
   useEffect(() => {
     if (!keys) return;
 
-    const keyValue = {};
+    let keyValue = {};
     let completedRequests = 0;
 
     keys.map((key) => {
@@ -37,7 +37,6 @@ const ProductFilter = ({ className, category }) => {
           // keyValue = { ...keyValue, ...pushKeyValue };
           keyValue[key] = value.data;
           completedRequests++;
-          // console.log(`Completed: ${completedRequests}/${keys.length}`);
 
           if (completedRequests === keys.length) {
             console.log(keyValue);
@@ -50,25 +49,29 @@ const ProductFilter = ({ className, category }) => {
     });
   }, [keys, category]);
 
+  const toggleKey = (key) => {
+    setExpandedKeys((prev) => ({
+      ...prev,
+      [key]: !prev[key], // false -> true, true -> false
+    }));
+  };
+
   return (
     <div className={`${className} space-y-2`}>
       {keys ? (
         keys.map((key) => (
           <div key={key}>
-            <div className="break-words" onClick={() => setExpand(!expand)}>
+            <div className="break-words" onClick={() => toggleKey(key)}>
               {key}
             </div>
-            {expand && (
-              <div>
-                {values &&
-                  values[key] &&
-                  values[key].map((item, index) => (
-                    <div key={index} className="bg-gray-300">
-                      {item}
-                    </div>
-                  ))}
-              </div>
-            )}
+            {expandedKeys[key] &&
+              values &&
+              values[key] &&
+              values[key].map((item, index) => (
+                <div key={index} className="bg-gray-300">
+                  {item}
+                </div>
+              ))}
           </div>
         ))
       ) : (
