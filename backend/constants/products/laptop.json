@@ -33,6 +33,15 @@
       "Dimensions": "(332 x 214 x 21.3) mm",
       "Weight": "1.39kg",
       "Warranty Details": "2 years"
+    },
+    "filter": {
+      "brand": "Chuwi",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Celeron Processor N4020",
+      "storage": "256 GB",
+      "Display Size": "14.1 Inch",
+      "Price Range": "Budget"
     }
   },
   {
@@ -77,6 +86,15 @@
       "Battery Type": "2 Cell",
       "Battery Capacity": "7.4V/5000mah",
       "Warranty Details": "2 Years Warranty (1 Year for Battery)"
+    },
+    "filter": {
+      "brand": "Smart",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Celeron N4020C",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Budget"
     }
   },
   {
@@ -115,6 +133,15 @@
       "Weight": "about 1500g",
       "Body Material": "Metal (A/ D cover), Plastic (B/ C cover)",
       "Warranty Details": "2 years"
+    },
+    "filter": {
+      "brand": "Chuwi",
+      "ram": "8 GB",
+      "Processor Brand": "Intel Celeron",
+      "Processor Model": "Intel Celeron N100",
+      "storage": "256 GB",
+      "Display Size": "14.1 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -163,6 +190,15 @@
       "Color": "Grey",
       "Weight": "1600g",
       "Warranty Details": "2 Years"
+    },
+    "filter": {
+      "brand": "Chuwi",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Celeron N4020",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -202,6 +238,15 @@
       "Dimensions": "358.2*241.9*19.8 (H)mm",
       "Weight": "about 1745g",
       "Warranty Details": "2 years"
+    },
+    "filter": {
+      "brand": "Chuwi",
+      "ram": "8 GB",
+      "Processor Brand": "Intel Celeron",
+      "Processor Model": "Intel Celeron N100",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -265,6 +310,15 @@
       "Body Material": "Surface Treatment: IMR (In-Mold Decoration by Roller)\r\nCase Material: PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "Green Certifications:\r\nErP Lot 3\r\nRoHS compliant",
       "Warranty Details": "1 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Celeron N4020",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -325,6 +379,15 @@
       "Dimensions": "324.9(W) x 219.5(D) x 17.9(H)mm",
       "Weight": "1.29kg, Including Barebone and 36WH Battery",
       "Warranty Details": "1 year"
+    },
+    "filter": {
+      "brand": "Walton",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Celeron N4120",
+      "storage": "256 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -385,6 +448,15 @@
       "Dimensions": "324.9(W) x 219.5(D) x 17.9(H)mm",
       "Weight": "1.29kg, Including Barebone and 36WH Battery",
       "Warranty Details": "1 year"
+    },
+    "filter": {
+      "brand": "Walton",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Celeron N4020",
+      "storage": "256 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -445,6 +517,15 @@
       "Dimensions": "324.9(W) x 219.5(D) x 17.9(H)mm",
       "Weight": "1.35kg (Approx.)",
       "Warranty Details": "1 year"
+    },
+    "filter": {
+      "brand": "Walton",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Pentium Silver N5030",
+      "storage": "256 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -494,6 +575,16 @@
       "Battery Type": "3 Cell",
       "Battery Capacity": "11.4/4700mAh",
       "Warranty Details": "2 Years Warranty (1 Year for Battery)"
+    },
+    "filter": {
+      "brand": "Smart",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -551,6 +642,15 @@
       "Dimensions": "19.7 x 36.04 x 23.93 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 5300U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -601,6 +701,16 @@
       "Weight": "Starting from 1.46kg",
       "Body Material": "Aluminum",
       "Warranty Details": "1 years"
+    },
+    "filter": {
+      "brand": "Avita",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1135G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -651,6 +761,16 @@
       "Weight": "Starting from 1.46kg",
       "Body Material": "Aluminum",
       "Warranty Details": "1 years"
+    },
+    "filter": {
+      "brand": "Avita",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1135G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -701,6 +821,16 @@
       "Weight": "Starting from 1.46kg",
       "Body Material": "Aluminum",
       "Warranty Details": "1 years"
+    },
+    "filter": {
+      "brand": "Avita",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1135G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -751,6 +881,16 @@
       "Weight": "Starting from 1.46kg",
       "Body Material": "Aluminum",
       "Warranty Details": "1 years"
+    },
+    "filter": {
+      "brand": "Avita",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1135G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -808,6 +948,15 @@
       "Dimensions": "360.2 x 236 x 17.9 mm (14.18 x 9.29 x 0.70 inches)",
       "Weight": "1.58 kg",
       "Warranty Details": "2 years warranty ( Battery adapter 1 year)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 7320U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -866,6 +1015,15 @@
       "Weight": "Around 1.58",
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)."
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 7320U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -926,6 +1084,16 @@
       "Dimensions": "Height: 1.99 cm\r\nWidth: 36.04 cm\r\nDepth: 23.93 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -978,6 +1146,16 @@
       "Dimensions": "1.9 cm x 36.2 cm x 24 cm",
       "Weight": "1.7 Kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1035,6 +1213,15 @@
       "Dimensions": "35.98 x 23.6 x 1.86 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 7320U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1095,6 +1282,15 @@
       "Dimensions": "35.85 x 24.2 x 1.79 cm",
       "Weight": "1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 5300U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1155,6 +1351,15 @@
       "Dimensions": "35.85 x 24.2 x 1.79 cm",
       "Weight": "1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 5300U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1197,6 +1402,16 @@
       "Dimensions": "359.4*241.5*17.9(H)mm",
       "Weight": "about 1780g",
       "Warranty Details": "2 years"
+    },
+    "filter": {
+      "brand": "Chuwi",
+      "ram": "16 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-12450H",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1255,6 +1470,16 @@
       "Dimensions": "35.85 x 24.2 x 1.79 cm",
       "Weight": "1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP)"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "1 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1305,6 +1530,16 @@
       "Dimensions": "35.8 x 24.2 x 1.99 cm",
       "Weight": "Starting at 1.74 kg",
       "Warranty Details": "01-Year Warranty"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1364,6 +1599,16 @@
       "Dimensions": "Height: 19.90 mm\r\nWidth: 328 mm\r\nDepth: 235.9 mm",
       "Weight": "1.68 kg",
       "Warranty Details": "3 years warranty (Battery Adapter 01 year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1115G4",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -1425,6 +1670,16 @@
       "Dimensions": "Height: 1.99 cm\r\nWidth: 36.04 cm\r\nDepth: 23.93 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "16 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1484,6 +1739,16 @@
       "Dimensions": "Height: 19.7mm\r\nWidth: 360.4mm\r\nDepth: 239.3mm",
       "Weight": "1.59kg",
       "Warranty Details": "2 years Warranty (Battery Adapter 1 year)"
+    },
+    "filter": {
+      "brand": "Walton",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3 10110U",
+      "Processor Generation": "10",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1534,6 +1799,16 @@
       "Dimensions": "35.8 x 24.2 x 1.99 cm",
       "Weight": "Starting at 1.74 kg",
       "Warranty Details": "02-Year Warranty"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1590,6 +1865,16 @@
       "Color": "Quiet Blue",
       "Weight": "With Battery: 1.70 kg (3.75 lbs)\r\nWithout Battery: 1.50 kg (3.31 lbs)",
       "Warranty Details": "02 years Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1649,6 +1934,16 @@
       "Dimensions": "35.97 x 23.25 x 1.99 ~ 1.99 cm (14.16\" x 9.15\" x 0.78\" ~ 0.78\")",
       "Weight": "1.70 kg",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "4 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1711,6 +2006,16 @@
       "Weight": "1.80 kg (3.97 lbs)",
       "Body Material": "ABS Plastic",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "4 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1115G4",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1771,6 +2076,16 @@
       "Dimensions": "32.41 x 22.58 x 1.98 cm",
       "Weight": "1.74 kg",
       "Warranty Details": "1 year Limited Warranty (Terms & Conditions Apply As Per HP)"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "4 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1115G4",
+      "Processor Generation": "11",
+      "storage": "1 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "Mid-range"
     }
   },
   {
@@ -1828,6 +2143,16 @@
       "Dimensions": "Height (front): 16.96 mm (0.67 in.)\r\nHeight (rear): 21.07 mm (0.83 in.)\r\nWidth: 358.50 mm (14.11 in.)\r\nDepth: 235.56 mm (9.27 in.)",
       "Weight": "1.65 kg",
       "Warranty Details": "2 Years Warranty"
+    },
+    "filter": {
+      "brand": "Dell",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1887,6 +2212,16 @@
       "Dimensions": "35.85 x 24.2 x 1.79 cm",
       "Weight": "1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP)"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1932,6 +2267,16 @@
       "Color": "QUIET BLUE",
       "Weight": "1.7 kg",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "CORE I3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -1988,6 +2333,16 @@
       "Color": "Cool Silver",
       "Weight": "With Battery: 1.70 kg (3.75 lbs)\r\nWithout Battery: 1.50 kg (3.31 lbs)",
       "Warranty Details": "02 years Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2047,6 +2402,16 @@
       "Dimensions": "324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)",
       "Weight": "Starting at 1.43 kg (3.15 lbs)",
       "Warranty Details": "2 Years"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "256 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2107,6 +2472,16 @@
       "Dimensions": "32.41 x 22.58 x 1.98 cm",
       "Weight": "1.74 kg",
       "Warranty Details": "1 year Limited Warranty (Terms & Conditions Apply As Per HP)"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1115G4",
+      "Processor Generation": "11",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2165,6 +2540,16 @@
       "Dimensions": "358.9 x 235.9 x 19.9 mm",
       "Weight": "1.7 kg",
       "Warranty Details": "02 years warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "MSI",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3- 1315U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2223,6 +2608,16 @@
       "Dimensions": "358.9 x 235.9 x 19.9 mm",
       "Weight": "1.7 kg",
       "Warranty Details": "02 years warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "MSI",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3- 1315U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2273,6 +2668,15 @@
       "Dimensions": "35.8 x 24.2 x 1.99 cm",
       "Weight": "1.74 kg",
       "Warranty Details": "01-Year Warranty"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 5625U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2322,6 +2726,16 @@
       "Battery Type": "3 Cell",
       "Battery Capacity": "11.4/4700mAh",
       "Warranty Details": "2 Years Warranty (1 Year for Battery)"
+    },
+    "filter": {
+      "brand": "Smart",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2381,6 +2795,15 @@
       "Dimensions": "19.7 x 36.04 x 23.93 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 5300U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2434,6 +2857,16 @@
       "Dimensions": "360.3x237x17.95 mm",
       "Weight": "1.8 kg",
       "Warranty Details": "02-year warranty (100 days Replacement)"
+    },
+    "filter": {
+      "brand": "Infinix",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1155G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2484,6 +2917,15 @@
       "Dimensions": "35.8 x 24.2 x 1.99 cm",
       "Weight": "1.74 kg",
       "Warranty Details": "02-Year Warranty"
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 5625U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2541,6 +2983,16 @@
       "Weight": "1.49 kg (3.28 lbs)",
       "Other Features": "US MIL-STD 810H military-grade standard",
       "Warranty Details": "03 years Warranty"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Intel Core i3-N305",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2599,6 +3051,16 @@
       "Dimensions": "359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches)",
       "Weight": "Starting at 1.63 kg (3.59 lbs)",
       "Warranty Details": "2 Years"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2658,6 +3120,16 @@
       "Dimensions": "324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)",
       "Weight": "Starting at 1.43 kg (3.15 lbs)",
       "Warranty Details": "2 Years"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2715,6 +3187,15 @@
       "Weight": "1.37 kg (3.02 lbs)",
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1305U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2767,6 +3248,16 @@
       "Dimensions": "359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches)",
       "Weight": "1.63 kg",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2823,6 +3314,15 @@
       "Weight": "1.63 kg (3.59 lbs) (With Battery)",
       "Body Material": "Plastic",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 7320U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2881,6 +3381,16 @@
       "Dimensions": "Height: 17.6mm\r\nWidth: 324.9mm\r\nDepth: 225mm",
       "Weight": "1.40kg",
       "Warranty Details": "2 years Warranty (Battery Adapter 1 year)"
+    },
+    "filter": {
+      "brand": "Walton",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1115G4",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2939,6 +3449,15 @@
       "Weight": "1.69 kg (3.73 lbs)",
       "Other Features": "US MIL-STD 810H military-grade standard",
       "Warranty Details": "03 years Warranty"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Intel Core i3-N305",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -2994,6 +3513,16 @@
       "Dimensions": "358.50 x 235.56 x 18.99 mm",
       "Weight": "1.62 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Dell",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1305U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3052,6 +3581,16 @@
       "Dimensions": "35.98 x 23.6 x 1.86 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1315U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3107,6 +3646,15 @@
       "Dimensions": "35.85 x 24.2 x 1.79 cm",
       "Weight": "1.69 kg",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per HP)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 5500U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3166,6 +3714,16 @@
       "Dimensions": "Height: 19.90 mm\r\nWidth: 328 mm\r\nDepth: 235.9 mm",
       "Weight": "1.68 kg",
       "Warranty Details": "3 years warranty (Battery Adapter 01 year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1135G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3228,6 +3786,16 @@
       "Weight": "1.80 kg (3.97 lbs)",
       "Body Material": "Plastic",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "4 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1115G4",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3284,6 +3852,16 @@
       "Weight": "1.70 kg",
       "Body Material": "Plastic",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Intel Core i3-1315U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3340,6 +3918,15 @@
       "Weight": "1.43 kg (3.15 lbs)",
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)."
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1315U",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3398,6 +3985,16 @@
       "Dimensions": "Height: 19.90 mm\r\nWidth: 328 mm\r\nDepth: 235.9 mm",
       "Weight": "1.38kG",
       "Warranty Details": "3 Year Warranty (01-year Battery & Adapter)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "i3-1305U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3451,6 +4048,16 @@
       "Dimensions": "Width: 323.3 mm\r\nDepth: 211.1 mm\r\nHeight: 14.8 mm",
       "Weight": "1.24 kg",
       "Warranty Details": "02-year warranty (100 days Replacement)"
+    },
+    "filter": {
+      "brand": "Infinix",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1155G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3507,6 +4114,15 @@
       "Weight": "1.43 kg (3.15 lbs)",
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)."
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1315U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3566,6 +4182,15 @@
       "Body Material": "LCD cover-material: Plastic\r\nTop case-material: Plastic\r\nBottom case-material: Plastic",
       "Other Features": "System diagnosis\r\nBattery health charging\r\nFan Profile\r\nSplendid\r\nTru2Life\r\nFunction key lock\r\nWiFi SmartConnect\r\nLink to MyASUS\r\nTaskFirst\r\nLive update\r\nAI Noise Canceling",
       "Warranty Details": "02 years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "i3-1315U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3628,6 +4253,16 @@
       "Dimensions": "360.0 x 235.0 x 19.9mm",
       "Weight": "1.80 kg (3.97 lbs)",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1115G4",
+      "Processor Generation": "11",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3688,6 +4323,16 @@
       "Dimensions": "Height: 1.99 cm\r\nWidth: 36.04 cm\r\nDepth: 23.93 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3745,6 +4390,16 @@
       "Weight": "1.70 kg",
       "Body Material": "Plastic",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Intel Core i3-1315U",
+      "Processor Generation": "13",
+      "storage": "256 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3804,6 +4459,16 @@
       "Dimensions": "35.98 x 23.6 x 1.86 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1315U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3867,6 +4532,16 @@
       "Body Material": "Surface Treatment: IMR (In-Mold Decoration by Roller)\r\nCase Material: PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland® Low Blue Light (Software Solution)\r\nGreen Certifications:\r\nENERGY STAR® 8.0\r\nEPEAT™ Silver Registered\r\nErP Lot 6\r\nErP Lot 26\r\nRoHS compliant",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1305U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3914,6 +4589,15 @@
       "Dimensions": "(35.98 x 23.6 x 1.86) cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "Smart",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core 3 100U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -3961,6 +4645,15 @@
       "Dimensions": "(35.98 x 23.6 x 1.86) cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "Smart",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core 3 100U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4013,6 +4706,16 @@
       "Dimensions": "362.9 x 241.26 x 19.9mm",
       "Weight": "1.8 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5 1235U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4069,6 +4772,16 @@
       "Color": "Titan Gray",
       "Weight": "Starting weight: 3.22 lbs (1.46kg)",
       "Warranty Details": "3 Years Warranty"
+    },
+    "filter": {
+      "brand": "Dell",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1305U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4103,6 +4816,13 @@
       "Weight": "1.90Kg",
       "Color(s)": "Black",
       "Manufacturing Warranty": "2 years warranty (01 year Battery & Adapter)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": null,
+      "Processor Brand": "Unknown",
+      "Processor Model": "Unknown",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4162,6 +4882,15 @@
       "Body Material": "LCD cover-material: Plastic\r\nTop case-material: Plastic\r\nBottom case-material: Plastic",
       "Other Features": "Certification:\r\nEcolabels & Compliances:\r\nEnergy star 8.0\r\nRoHS\r\nREACH\r\nTÜV Rheinland-certified\r\nUS MIL-STD 810H military-grade standard\r\nSpecial Features:\r\nMyASUS feature:\r\nSystem diagnosis\r\nBattery health charging\r\nFan Profile\r\nSplendid\r\nFunction key lock\r\nWiFi SmartConnect\r\nLink to MyASUS\r\nTaskFirst\r\nLive update\r\nAI Noise Canceling",
       "Warranty Details": "02 years Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4222,6 +4951,15 @@
       "Body Material": "LCD cover-material: Plastic\r\nTop case-material: Plastic\r\nBottom case-material: Plastic",
       "Other Features": "Certification:\r\nEcolabels & Compliances:\r\nEnergy star 8.0\r\nRoHS\r\nREACH\r\nTÜV Rheinland-certified\r\nUS MIL-STD 810H military-grade standard\r\nSpecial Features:\r\nMyASUS feature:\r\nSystem diagnosis\r\nBattery health charging\r\nFan Profile\r\nSplendid\r\nFunction key lock\r\nWiFi SmartConnect\r\nLink to MyASUS\r\nTaskFirst\r\nLive update\r\nAI Noise Canceling",
       "Warranty Details": "02 years Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4277,6 +5015,16 @@
       "Color": "Platinum SIlver",
       "Weight": "Starting weight: 3.66 lbs (1.66kg)",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Dell",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1305U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4331,6 +5079,15 @@
       "Dimensions": "319.8 x 227.9 x 18.9mm",
       "Weight": "1.54 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-N305",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4392,6 +5149,16 @@
       "Dimensions": "Height: 1.99 cm\r\nWidth: 36.04 cm\r\nDepth: 23.93 cm",
       "Weight": "1.59 kg",
       "Warranty Details": "2 Years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "Acer",
+      "ram": "16 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4449,6 +5216,15 @@
       "Weight": "1.37 kg (3.02 lbs)",
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1305U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4506,6 +5282,15 @@
       "Weight": "Starting at 1.62 kg (3.57 lbs)",
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1305U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4561,6 +5346,15 @@
       "Dimensions": "35.85 x 24.2 x 1.79 cm",
       "Weight": "1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4626,6 +5420,16 @@
       "Body Material": "Surface Treatment: IMR (In-Mold Decoration by Roller)\r\nCase Material: PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland Low Blue Light (Software Solution)\r\nGreen Certifications:\r\nErP Lot 6\r\nErP Lot 26\r\nRoHS compliant",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-12450H",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4678,6 +5482,16 @@
       "Weight": "1.94 lb (879 g)",
       "Other Features": "Sensors: \r\nAccelerometer\r\nGyroscope\r\nMagnetometer\r\nAmbient Color sensor",
       "Warranty Details": "01-year Warranty"
+    },
+    "filter": {
+      "brand": "Unknown",
+      "ram": "16 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "13 Inch",
+      "Price Range": "Premium"
     }
   },
   {
@@ -4733,6 +5547,15 @@
       "Dimensions": "36.03 x 23.25 x 1.79 ~ 1.79 cm",
       "Weight": "With Battery: 1.63 kg (3.59 lbs)\r\nWithout Battery: 1.47 kg (3.24 lbs)",
       "Warranty Details": "02 years Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4798,6 +5621,16 @@
       "Body Material": "Surface Treatment: IMR (In-Mold Decoration by Roller)\r\nCase Material: PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland Low Blue Light (Software Solution)\r\nGreen Certifications:\r\nErP Lot 6\r\nErP Lot 26\r\nRoHS compliant",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-12450H",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4863,6 +5696,16 @@
       "Body Material": "Surface Treatment: IMR (In-Mold Decoration by Roller)\r\nCase Material: PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland Low Blue Light (Software Solution)\r\nGreen Certifications:\r\nErP Lot 6\r\nErP Lot 26\r\nRoHS compliant",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-12450H",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4928,6 +5771,16 @@
       "Body Material": "Surface Treatment: IMR (In-Mold Decoration by Roller)\r\nCase Material: PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland Low Blue Light (Software Solution)\r\nGreen Certifications:\r\nErP Lot 6\r\nErP Lot 26\r\nRoHS compliant",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-12450H",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -4990,6 +5843,15 @@
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)."
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5052,6 +5914,15 @@
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)."
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5110,6 +5981,16 @@
       "Dimensions": "Height (front): 16.96 mm (0.67 in.)\r\nHeight (rear): 21.07 mm (0.83 in.)\r\nWidth: 358.50 mm (14.11 in.)\r\nDepth: 235.56 mm (9.27 in.)",
       "Weight": "1.65 kg",
       "Warranty Details": "2 Years Warranty"
+    },
+    "filter": {
+      "brand": "Dell",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5169,6 +6050,16 @@
       "Weight": "1.59kg",
       "Body Material": "Metal",
       "Warranty Details": "2-Year Limited Warranty (1-Year Battery Warranty)"
+    },
+    "filter": {
+      "brand": "Unknown",
+      "ram": "16 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i7-1195G7",
+      "Processor Generation": "11",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5231,6 +6122,16 @@
       "Body Material": "Plastic",
       "Other Features": "US MIL-STD 810H military-grade standard",
       "Warranty Details": "03 years Warranty"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Intel Core i3-1315U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5296,6 +6197,16 @@
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland Low Blue Light (Software Solution)\r\nGreen Certifications:\r\nErP Lot 6/26\r\nRoHS compliant",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "16 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-12450H",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5359,6 +6270,16 @@
       "Weight": "With Battery - 1.88 kg (4.14 lbs)\r\nWithout Battery - 1.68 kg (3.70 lbs)",
       "Other Features": "US MIL-STD 810H military-grade standard\r\nSystem diagnosis\r\nBattery health charging\r\nFan Profile\r\nSplendid\r\nTru2Life\r\nFunction key lock\r\nWiFi SmartConnect\r\nLink to MyASUS\r\nTaskFirst\r\nLive update\r\nAI Noise Canceling",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Intel Core i3-1315U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "16 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5420,6 +6341,16 @@
       "Dimensions": "Front: 18.06 mm (0.71 in.)\r\nRear: 18.06 mm (0.71 in.)\r\nWidth: 361 mm (14.21 in.)\r\nDepth: 240.95 mm (9.48 in.)",
       "Weight": "1.79 kg (3.95 lb)",
       "Warranty Details": "3 Years Warranty"
+    },
+    "filter": {
+      "brand": "Dell",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5479,6 +6410,15 @@
       "Weight": "With Battery: 1.70 kg (3.75 lbs)\r\nWithout Battery: 1.50 kg (3.31 lbs)",
       "Other Features": "System diagnosis\r\nBattery health charging\r\nFan Profile\r\nSplendid\r\nTru2Life\r\nFunction key lock\r\nWiFi SmartConnect\r\nLink to MyASUS\r\nTaskFirst\r\nLive update\r\nAI Noise Canceling",
       "Warranty Details": "02 years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5538,6 +6478,15 @@
       "Weight": "With Battery: 1.70 kg (3.75 lbs)\r\nWithout Battery: 1.50 kg (3.31 lbs)",
       "Other Features": "System diagnosis\r\nBattery health charging\r\nFan Profile\r\nSplendid\r\nTru2Life\r\nFunction key lock\r\nWiFi SmartConnect\r\nLink to MyASUS\r\nTaskFirst\r\nLive update\r\nAI Noise Canceling",
       "Warranty Details": "02 years Warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5603,6 +6552,16 @@
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland Low Blue Light (Software Solution)\r\nGreen Certifications:\r\nErP Lot 6/26\r\nRoHS compliant",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "16 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-12450H",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5657,6 +6616,15 @@
       "Dimensions": "35.85 x 24.2 x 1.79 cm",
       "Weight": "1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5714,6 +6682,15 @@
       "Weight": "With Battery: 1.63 kg (3.59 lbs)\r\nWithout Battery: 1.47 kg (3.24 lbs)",
       "Other Features": "US MIL-STD 810H military-grade standard\r\nEnergy Star 8.0\r\nRoHS\r\nREACH",
       "Warranty Details": "02 years Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "8 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 3 7320U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5774,6 +6751,15 @@
       "Body Material": "LCD cover-material: Plastic\r\nTop case-material: Plastic\r\nBottom case-material: Plastic",
       "Other Features": "Certification:\r\nEcolabels & Compliances:\r\nEnergy star 8.0\r\nRoHS\r\nREACH\r\nTÜV Rheinland-certified\r\nUS MIL-STD 810H military-grade standard\r\nSpecial Features:\r\nMyASUS feature:\r\nSystem diagnosis\r\nBattery health charging\r\nFan Profile\r\nSplendid\r\nFunction key lock\r\nWiFi SmartConnect\r\nLink to MyASUS\r\nTaskFirst\r\nLive update\r\nAI Noise Canceling",
       "Warranty Details": "02 years Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5828,6 +6814,15 @@
       "Dimensions": "360.3 x 232.5 x 17.9 - 17.9mm",
       "Weight": "1.63 Kg (With Battery)",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5895,6 +6890,16 @@
       "Weight": "1.7 kg (3.75 lbs)",
       "Body Material": "PC-ABS",
       "Warranty Details": "2 Years Limited Warranty (1 year for Battery and Adapter, Terms & conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1235U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -5954,6 +6959,15 @@
       "Weight": "Starting at 1.62 kg (3.57 lbs)",
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)."
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6010,6 +7024,15 @@
       "Dimensions": "36.03 x 23.25 x 1.79 ~ 1.79 cm\r\n(14.19\" x 9.15\" x 0.70\" ~ 0.70\")",
       "Weight": "With Battery: 1.63 kg (3.59 lbs)\r\nWithout Battery: 1.47 kg (3.24 lbs)",
       "Warranty Details": "02 years Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6066,6 +7089,15 @@
       "Dimensions": "36.03 x 23.25 x 1.79 ~ 1.79 cm\r\n(14.19\" x 9.15\" x 0.70\" ~ 0.70\")",
       "Weight": "With Battery: 1.63 kg (3.59 lbs)\r\nWithout Battery: 1.47 kg (3.24 lbs)",
       "Warranty Details": "02 years Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "Asus",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6128,6 +7160,16 @@
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)\r\nTÜV Rheinland Low Blue Light (Software Solution)\r\nGreen Certifications: \r\nENERGY STAR 8.0\r\nEPEAT Silver Registered\r\nErP Lot 6\r\nErP Lot 26\r\nRoHS compliant",
       "Warranty Details": "02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo)"
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-13420H",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6183,6 +7225,15 @@
       "Dimensions": "319.9 x 223 x 19.35 mm",
       "Weight": "1.4 kg",
       "Warranty Details": "2 Years warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "MSI",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7430U",
+      "storage": "512 GB",
+      "Display Size": "14 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6238,6 +7289,15 @@
       "Dimensions": "359 x 241 x 19.9 mm",
       "Weight": "1.75 kg",
       "Warranty Details": "2 Years warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "MSI",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7430U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6293,6 +7353,15 @@
       "Dimensions": "359 x 241 x 19.9 mm",
       "Weight": "1.75 kg",
       "Warranty Details": "2 Years warranty (Battery & Adapter 1 Year)"
+    },
+    "filter": {
+      "brand": "MSI",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7430U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6342,6 +7411,16 @@
       "Battery Type": "3 Cell",
       "Battery Capacity": "11.4/4700mAh",
       "Warranty Details": "2 Years Warranty (1 Year for Battery)"
+    },
+    "filter": {
+      "brand": "Smart",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i7-1255U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6400,6 +7479,16 @@
       "Dimensions": "35.87 x 24.95 x 1.99 ~ 1.99 cm (14.12\" x 9.82\" x 0.78\" ~ 0.78\")",
       "Weight": "1.88 kg (4.14 lbs)",
       "Warranty Details": "02 years International Limited Warranty (Battery 1 year)"
+    },
+    "filter": {
+      "brand": "ASUS",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i3-1215U",
+      "Processor Generation": "12",
+      "storage": "512 GB",
+      "Display Size": "16 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6458,6 +7547,16 @@
       "Dimensions": "35.98 x 23.6 x 1.86 cm",
       "Weight": "Starting from 1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1334U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6516,6 +7615,16 @@
       "Dimensions": "35.98 x 23.6 x 1.86 cm",
       "Weight": "Starting from 1.69 kg",
       "Warranty Details": "2 years Limited Warranty (Terms & Conditions Apply As Per HP, Battery Adapter 1 year)."
+    },
+    "filter": {
+      "brand": "HP",
+      "ram": "8 GB",
+      "Processor Brand": "Intel",
+      "Processor Model": "Core i5-1334U",
+      "Processor Generation": "13",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   },
   {
@@ -6578,6 +7687,15 @@
       "Body Material": "PC-ABS (Top), PC-ABS (Bottom)",
       "Other Features": "MIL-STD-810H military test passed (21 test items)",
       "Warranty Details": "2 years International Limited Warranty (Battery 1 year)."
+    },
+    "filter": {
+      "brand": "Lenovo",
+      "ram": "16 GB",
+      "Processor Brand": "AMD",
+      "Processor Model": "Ryzen 5 7520U",
+      "storage": "512 GB",
+      "Display Size": "15.6 Inch",
+      "Price Range": "High-end"
     }
   }
 ]
