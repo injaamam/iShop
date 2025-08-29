@@ -5,7 +5,7 @@ const getSpecificationKeys = async (req, res) => {
   const { category } = req.params;
   try {
     const result = await sql.query(
-      `SELECT DISTINCT jsonb_object_keys(specifications) as key_name 
+      `SELECT DISTINCT jsonb_object_keys(filter) as key_name 
        FROM products 
        WHERE category = $1 
        ORDER BY key_name`,
@@ -25,13 +25,13 @@ const getSpecificationValues = async (req, res) => {
 
   try {
     const result = await sql.query(
-      `SELECT DISTINCT specifications->>$1 as value 
+      `SELECT DISTINCT filter->>$1 as value 
        FROM products 
        WHERE category = $2 
-       AND specifications ? $1
-       AND specifications->>$1 IS NOT NULL
-       AND specifications->>$1 != ''
-       ORDER BY specifications->>$1`,
+       AND filter ? $1
+       AND filter->>$1 IS NOT NULL
+       AND filter->>$1 != ''
+       ORDER BY filter->>$1`,
       [key, category]
     );
 
@@ -61,7 +61,7 @@ const getProducts = async (req, res) => {
         if (values && values.length > 0) {
           // Create placeholders for multiple values
           const placeholders = values.map(() => `$${paramIndex++}`).join(",");
-          query += ` AND specifications->>'${key}' IN (${placeholders})`;
+          query += ` AND filter->>'${key}' IN (${placeholders})`;
           params.push(...values);
         }
       }
@@ -100,7 +100,7 @@ export { getProducts, getSpecificationKeys, getSpecificationValues };
 //       for (const [key, values] of Object.entries(filters)) {
 //         if (values && values.length > 0) {
 //           const placeholders = values.map(() => `$${paramIndex++}`).join(",");
-//           query += ` AND specifications->>'${key}' IN (${placeholders})`;
+//           query += ` AND filter->>'${key}' IN (${placeholders})`;
 //           params.push(...values);
 //         }
 //       }

@@ -17,8 +17,8 @@ router.get("/categories", getCategories);
 router.get("/category/:category", getProducts); // Changed to POST to accept filters in body
 
 // Routes for getting specification keys and values
-router.get("/category/:category/specifications", getSpecificationKeys);
-router.get("/category/:category/specifications/:key", getSpecificationValues);
+router.get("/category/:category/filter", getSpecificationKeys);
+router.get("/category/:category/filter/:key", getSpecificationValues);
 
 router.get("/product/:id", getProductSpecification);
 

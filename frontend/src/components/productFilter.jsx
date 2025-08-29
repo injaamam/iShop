@@ -11,7 +11,7 @@ const ProductFilter = ({ className, category }) => {
 
   useEffect(() => {
     axios
-      .get(`${BACKEND_URL}/category/${category}/specifications`)
+      .get(`${BACKEND_URL}/category/${category}/filter`)
       .then((res) => {
         const keys = res.data;
         setKeys(keys);
@@ -28,7 +28,7 @@ const ProductFilter = ({ className, category }) => {
     keys.map((key) => {
       axios
         .get(
-          `${BACKEND_URL}/category/${category}/specifications/${encodeURIComponent(
+          `${BACKEND_URL}/category/${category}/filter/${encodeURIComponent(
             key
           )}`
         )
