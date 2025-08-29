@@ -15,6 +15,13 @@
       "Color": "Black",
       "Dimensions": "438.2mm x 128.1 mmx 22mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1300 mm",
+      "Color": "Black"
     }
   },
   {
@@ -33,6 +40,13 @@
       "Color": "Black",
       "Dimensions": "438.5 x 136 x 16.6mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.4 mm",
+      "Color": "Black"
     }
   },
   {
@@ -48,6 +62,12 @@
       "Color": "Black",
       "Dimensions": "44cmx13.8cmx2.5cm/ 17.32inx5.43inx0.98in",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connectivity": "Wired",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -68,6 +88,13 @@
       "Dimensions": "435*125*23mm",
       "Weight": "410g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1500 mm",
+      "Color": "Black"
     }
   },
   {
@@ -85,6 +112,13 @@
       "Color": "Black",
       "Dimensions": "448 x 158 x 25mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wireless",
+      "Keys": "103",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -107,6 +141,14 @@
       "Dimensions": "370 x 140 x 30 mm",
       "Weight": "675g",
       "Warranty": "01-year"
+    },
+    "filter": {
+      "Brand": "Gamdias",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "87",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -125,6 +167,14 @@
       "Number of Buttons": "3",
       "Connector": "USB 2.0",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "104",
+      "Cable Length": "1.35 mm"
     }
   },
   {
@@ -144,6 +194,11 @@
       "Resolution": "1000DPI",
       "Connector": "USB Dongle",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Keys": "78"
     }
   },
   {
@@ -162,6 +217,13 @@
       "Dimensions": "445x155x27mm",
       "Weight": "470g",
       "Warranty": "365 DAY"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -184,6 +246,13 @@
       "Dimensions": "Length: 475 mm\r\nWidth: 150 mm\r\nHeight: 22 mm",
       "Weight": "1045 g",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -203,6 +272,14 @@
       "Dimensions": "450*135*30mm",
       "Weight": "435g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Keys": "104",
+      "Cable Length": "1.4 mm",
+      "Color": "Black"
     }
   },
   {
@@ -221,6 +298,13 @@
       "Dimensions": "445 x 145 x 20mm",
       "Weight": "410g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "130 mm",
+      "Color": "Black"
     }
   },
   {
@@ -237,6 +321,12 @@
       "System Requirements": "Windows/ Chrome OS / Linux",
       "Color": "Black",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Astrum",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -257,6 +347,11 @@
       "Tracking Method": "Optical",
       "Connector": "Wired with USB",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Cable Length": "180 mm"
     }
   },
   {
@@ -276,6 +371,13 @@
       "Resolution": "1000 DPI",
       "Connector": "USB 2.0",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Keys": "104",
+      "Cable Length": "3 mm"
     }
   },
   {
@@ -293,6 +395,12 @@
       "System Requirements": "Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Mac OS 10.6",
       "Color": "Black",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -301,7 +409,11 @@
     "price": "770",
     "description": "Type :USB\rCable Length 150cm Approx \rWeight: 1.21 pounds",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/data/K120-500x500.png"
+    "main_image": "https://www.startech.com.bd/image/cache/data/K120-500x500.png",
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired"
+    }
   },
   {
     "id": 2025,
@@ -315,6 +427,10 @@
       "DPI": "1000dpi",
       "Interface": "USB",
       "Dimension(LxWxH)": "116 x 62 x 38mm,"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wired"
     }
   },
   {
@@ -334,6 +450,13 @@
       "Dimensions": "465 x 171 x 35mm",
       "Weight": "640±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "0.1 mm",
+      "Color": "Black"
     }
   },
   {
@@ -356,6 +479,14 @@
       "Impedance": "32Ω±15%",
       "Lighting Effect": "7 colorful RGB Lights",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "2.1 mm"
     }
   },
   {
@@ -375,6 +506,13 @@
       "Color": "Black",
       "Weight": "630g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "135 mm",
+      "Color": "Black"
     }
   },
   {
@@ -398,6 +536,14 @@
       "Lighting Effect": "7 colorful RGB Lights",
       "Sensitivity": "115db±3db",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "2.1 mm"
     }
   },
   {
@@ -413,6 +559,12 @@
       "Interface": "USB",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -433,6 +585,13 @@
       "Color": "Black",
       "Dimensions": "467x197x27mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "112",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -441,7 +600,10 @@
     "price": "650",
     "description": "104 pcs of high-quality replacement keys\rMount type: Cherry MX key switch style\rDouble-shot injection molded keycaps\rKey puller included for easy key removal",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/redragon/a101w/a101w-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/redragon/a101w/a101w-1-500x500.jpg",
+    "filter": {
+      "Brand": "Redragon"
+    }
   },
   {
     "id": 2033,
@@ -458,6 +620,11 @@
       "Dimension(LxWxH)": "440 x 130 x 30mm",
       "Weight": "429.3g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Keys": "104"
     }
   },
   {
@@ -477,6 +644,13 @@
       "Dimensions": "453 × 152 × 28 mm",
       "Weight": "580 g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Keys": "12",
+      "Cable Length": "150 mm",
+      "Color": "Black"
     }
   },
   {
@@ -494,6 +668,12 @@
       "System Requirements": "Windows 7 / 8 / 8.1 / 10",
       "Color": "Black",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Keys": "12",
+      "Color": "Black"
     }
   },
   {
@@ -514,6 +694,12 @@
       "Dimensions": "465 x 195 x 29mm",
       "Weight": "605±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connectivity": "Wireless",
+      "Cable Length": "1.5 mm",
+      "Color": "White"
     }
   },
   {
@@ -534,6 +720,13 @@
       "Dimensions": "Keyboard: 438.7 x 130.9 x 38.75mm\r\nWrist rest: 438.7 x 76.95 x 10.75mm",
       "Weight": "1.11kg",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Color": "Gun Metal Gray"
     }
   },
   {
@@ -553,6 +746,13 @@
       "Color": "Black",
       "Dimensions": "3.3 x 44.5 x 18 cm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "114",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -569,6 +769,11 @@
       "Dimensions": "17.4 in x 5 in x 1 in",
       "Weight": "17.74 oz",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Connectivity": "Wireless",
+      "Color": "Black"
     }
   },
   {
@@ -591,6 +796,14 @@
       "Color": "Phantom\r\nGreensand",
       "Dimensions": "322.3 x 116.8 x 40.5 mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "66",
+      "Cable Length": "1.8 mm",
+      "Color": "Phantom"
     }
   },
   {
@@ -613,6 +826,14 @@
       "Dimensions": "14.8 x 4.9 x 1.5 Inch",
       "Weight": "3lbs (1400g)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "96",
+      "Color": "Forest Blue"
     }
   },
   {
@@ -632,6 +853,13 @@
       "Color": "Black",
       "Dimensions": "493*202*40MM",
       "Warranty": "01 year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "114",
+      "Cable Length": "1500 mm",
+      "Color": "Black"
     }
   },
   {
@@ -650,6 +878,12 @@
       "Color": "Black",
       "Dimensions": "467 x 197 x 27 mm",
       "Warranty": "01 year  Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Cable Length": "1500 mm",
+      "Color": "Black"
     }
   },
   {
@@ -662,6 +896,11 @@
     "Specifications": {
       "Keys": "104 Keys",
       "Color": "White\r\nPink"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Keys": "104",
+      "Color": "White"
     }
   },
   {
@@ -678,6 +917,12 @@
       "Interface": "USB",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -699,6 +944,14 @@
       "Dimensions": "30.2 * 333.2 * 140.4mm",
       "Weight": "651g+/-10g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "71",
+      "Color": "Black"
     }
   },
   {
@@ -720,6 +973,14 @@
       "Dimensions": "30.2 * 333.2 * 140.4mm",
       "Weight": "651g+/-10g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "71",
+      "Color": "Black"
     }
   },
   {
@@ -735,6 +996,13 @@
       "Interface": "2.4GHz & Bluetooth",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Keys": "105",
+      "Color": "Black"
     }
   },
   {
@@ -756,6 +1024,14 @@
       "Dimensions": "30.2 * 333.2 * 140.4mm",
       "Weight": "651g+/-10g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "71",
+      "Color": "White"
     }
   },
   {
@@ -776,6 +1052,13 @@
       "Color": "Black",
       "Weight": "605g",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -796,6 +1079,13 @@
       "Color": "Black",
       "Dimensions": "439 x 203 x 26mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "108",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -813,6 +1103,10 @@
       "Dimension(LxWxH)": "103 x 62 x 37.5mm",
       "Resolution": "1000dpi",
       "Connector": "Wireless"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -832,6 +1126,14 @@
       "Dimensions": "50 × 7 × 24 cm",
       "Weight": "2.4 kg",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "12",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -850,6 +1152,10 @@
       "Connector": "Wireless USB Dongle",
       "Cable Length": "Wireless",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -858,7 +1164,11 @@
     "price": "999",
     "description": "2.4GHz wireless keyboard + mouse\r103 standard +10 multimedia keys\rDPI: 800-1000-1200-1600\rUSB nano receiver",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/delux/om02g-m105gx/om02g-m105gx-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/delux/om02g-m105gx/om02g-m105gx-500x500.jpg",
+    "filter": {
+      "Brand": "Delux",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2056,
@@ -878,6 +1188,14 @@
       "Color": "Black",
       "Dimensions": "474 x 195 x 34mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "12",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -886,7 +1204,11 @@
     "price": "1185",
     "description": "Type: Wireless\r10 meter wireless transmission\rSpill-resistant design",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Rapoo/Rapoo E1050-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Rapoo/Rapoo E1050-1-500x500.jpg",
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2058,
@@ -906,6 +1228,14 @@
       "Dimensions": "291.7 x 101.7 x 36 mm",
       "Weight": "0.8 Kg",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "Black"
     }
   },
   {
@@ -928,6 +1258,14 @@
       "Dimensions": "14.8 x 4.9 x 1.5 Inch",
       "Weight": "3lbs (1400g)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "96",
+      "Color": "Forest Blue"
     }
   },
   {
@@ -950,6 +1288,14 @@
       "Weight": "573.5g+-20g",
       "Material": "Durable Metal Panel",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Cable Length": "1.8 mm",
+      "Color": "White"
     }
   },
   {
@@ -970,6 +1316,13 @@
       "Color": "Black",
       "Dimensions": "358.5 x 137 x 37mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "87",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -991,6 +1344,13 @@
       "Dimensions": "388x140x44mm",
       "Weight": "1082g",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "98",
+      "Cable Length": "1.8 mm",
+      "Color": "white"
     }
   },
   {
@@ -1010,6 +1370,13 @@
       "Color": "white",
       "Dimensions": "460*190*35.8mm",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.5 mm",
+      "Color": "white"
     }
   },
   {
@@ -1024,6 +1391,11 @@
       "Wired/Wireless": "Bluetooth 3.0, 4.0 and 2.4 GHz",
       "Others": "Up to 12 months of Keyboard Battery Life\t\r\nConnect to multiple devices\r\nCompact, light, and portable keyboard\r\nSpill-resistant Keyboard Design",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Backlight": "LED"
     }
   },
   {
@@ -1047,6 +1419,14 @@
       "Dimensions": "327.6 x 138.6 x 42.35 mm",
       "Weight": "0.6 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "81",
+      "Color": "Phantom"
     }
   },
   {
@@ -1069,6 +1449,14 @@
       "Dimensions": "14.8 x 4.9 x 1.5 Inch",
       "Weight": "3lbs (1400g)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "96",
+      "Color": "Forest Blue"
     }
   },
   {
@@ -1084,6 +1472,10 @@
       "Dimension(LxWxH)": "Size: 447.5 x 136 x 22.7mm",
       "Resolution": "1500DPI",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Teutons",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -1105,6 +1497,13 @@
       "Color": "Fire Black",
       "Dimensions": "446 x 132 x 37mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Fire Black"
     }
   },
   {
@@ -1122,6 +1521,12 @@
       "Dimensions": "435(L) x 129(W) x x34.5(H) mm",
       "Weight": "590g",
       "Warranty": "365 DAY"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -1139,6 +1544,9 @@
       "Resolution": "up to 1600DPI",
       "Tracking Method": "Adjustable Tracking Engine",
       "Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "Rapoo"
     }
   },
   {
@@ -1154,6 +1562,10 @@
       "Resolution": "1000 DPI",
       "Tracking Method": "1000 DPI high-definition invisible tracking engine.",
       "Connector": "Wireless"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -1175,6 +1587,14 @@
       "Color": "Black",
       "Dimensions": "450mm X a54mm X 38mm",
       "Warranty": "1-Year Brand Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1183,7 +1603,11 @@
     "price": "1800",
     "description": "Type: Wireless 2.4 GHz\rSync RF Technology\rLaser Engraved Keys",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/A4 Tech/Keyboard/3000N /Untitled-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/A4 Tech/Keyboard/3000N /Untitled-1-500x500.jpg",
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2074,
@@ -1205,6 +1629,12 @@
       "Tracking Method": "Optical",
       "Connector": "Wired with USB",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Keys": "104",
+      "Cable Length": "1.35 mm"
     }
   },
   {
@@ -1228,6 +1658,14 @@
       "Others": "Rainbow Breathing LED",
       "Connector": "USB 2.0",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "110",
+      "Cable Length": "1.4 mm"
     }
   },
   {
@@ -1247,6 +1685,13 @@
       "Others": "Macro Keys: MDA Height Keycap",
       "Color": "White",
       "Warranty": "365 Days"
+    },
+    "filter": {
+      "Brand": "Robeetle",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Keys": "98",
+      "Color": "White"
     }
   },
   {
@@ -1262,6 +1707,10 @@
       "Weight": "322g",
       "Connector": "Wireless: 2.4 GHz (Advanced)\r\nWireless Range: Up to 33 feet or 10 meters",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -1280,6 +1729,11 @@
       "Dimensions": "315mm x 155mm x 24mm",
       "Weight": "386 g (w/ battery)",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Color": "Standard"
     }
   },
   {
@@ -1298,6 +1752,11 @@
       "Dimensions": "315mm x 155mm x 24mm",
       "Weight": "386 g (w/ battery)",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Color": "Avocado"
     }
   },
   {
@@ -1306,7 +1765,11 @@
     "price": "2050",
     "description": "Type : Wireless \rDimensions: 45.8 x 5.1 x 12.4 cm\rWeight: 640 g",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/logitech-mk220/logitech-mk220-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/logitech-mk220/logitech-mk220-1-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2081,
@@ -1325,6 +1788,14 @@
       "Dimensions": "45mm (w) x 17mm (L) x 4.1mm (H)",
       "Weight": "1kg",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1333,7 +1804,10 @@
     "price": "1600",
     "description": "A Long-lasting Durability\rDouble Shot Molded Caps\rOptimized Stem Height\rCompatible With Most Keyboard Layouts",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/asus/rog-pbt-keycap-set/rog-pbt-keycap-set-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/asus/rog-pbt-keycap-set/rog-pbt-keycap-set-01-500x500.webp",
+    "filter": {
+      "Brand": "ASUS"
+    }
   },
   {
     "id": 2083,
@@ -1355,6 +1829,14 @@
       "Weight": "593g (excluding cable)",
       "Material": "Keycaps: ABS PBT doubleshot",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1375,6 +1857,14 @@
       "Color": "Black",
       "Dimensions": "441x176x34mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "12",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1397,6 +1887,14 @@
       "Weight": "593g (excluding cable)",
       "Material": "Keycaps: ABS PBT doubleshot",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1420,6 +1918,15 @@
       "Dimensions": "356 x 136.2 x 39.7 mm (keyboard)",
       "Weight": "880g with cable",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "1",
+      "Cable Length": "1.8 mm",
+      "Color": "White and Gray"
     }
   },
   {
@@ -1438,6 +1945,13 @@
       "Dimensions": "432*123*21mm",
       "Weight": "410g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Keys": "108",
+      "Color": "Black"
     }
   },
   {
@@ -1451,6 +1965,11 @@
       "Wired/Wireless": "Wireless",
       "Color": "Black\r\nWhite",
       "Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "Astrum",
+      "Connectivity": "Wireless",
+      "Color": "Black"
     }
   },
   {
@@ -1462,6 +1981,9 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/asus/ac02-rog/ac02-rog-500x500.jpg",
     "Specifications": {
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Asus"
     }
   },
   {
@@ -1482,6 +2004,14 @@
       "Color": "Black",
       "Dimensions": "17.8 x 7.93 x 0.73 inches",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -1500,6 +2030,11 @@
       "Weight": "650g",
       "Material": "Metal Panel",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Keys": "87"
     }
   },
   {
@@ -1528,6 +2063,13 @@
       "Impedance": "less than 2.2K Ohms",
       "Weight": "235g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "5 mm"
     }
   },
   {
@@ -1549,6 +2091,13 @@
       "Dimensions": "Approx. 450 x 160 x 38mm",
       "Weight": "925±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Cable Length": "180 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1570,6 +2119,13 @@
       "Dimensions": "Approx. 450 x 160 x 38mm",
       "Weight": "925±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Cable Length": "180 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1588,6 +2144,13 @@
       "Others": "Macro Keys: MDA Height Keycap",
       "Color": "Black",
       "Warranty": "365 Days"
+    },
+    "filter": {
+      "Brand": "Robeetle",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Color": "Black"
     }
   },
   {
@@ -1605,6 +2168,12 @@
       "Dimensions": "49.2 x 19.2 x 3.3 cm; 780 Grams",
       "Weight": "780 g",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Color": "Black"
     }
   },
   {
@@ -1623,6 +2192,10 @@
       "Resolution": "1200 DPI",
       "Connector": "2.4GHz Wireless",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -1640,6 +2213,9 @@
       "Others": "Scrolling: line-by-line\r\nScroll Wheel: Yes, 2D, optical",
       "Connector": "Nano receiver",
       "Warranty": "03-Years Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech"
     }
   },
   {
@@ -1658,6 +2234,14 @@
       "Color": "Black",
       "Dimensions": "17.8 x 7.93 x 0.73 inches",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -1675,6 +2259,13 @@
       "Resolution": "1200-1600-2400-3200DPI",
       "Others": "Mouse Rating: 5V, 100A",
       "Warranty": "02-Year Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wired",
+      "Backlight": "LED",
+      "Keys": "104",
+      "Cable Length": "1.3 mm"
     }
   },
   {
@@ -1696,6 +2287,12 @@
       "Connector": "2.4GHz Wireless",
       "Cable Length": "1.35-meter",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.35 mm"
     }
   },
   {
@@ -1704,7 +2301,10 @@
     "price": "2600",
     "description": "Spill-resistant Design\rSpecial Keys: 15 function keys\rUp to 5 million keystrokes\rSensor technology: Smooth Optical tracking",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/mk235-wireless-keyboard-1-500x500.png"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/mk235-wireless-keyboard-1-500x500.png",
+    "filter": {
+      "Brand": "Logitech"
+    }
   },
   {
     "id": 2103,
@@ -1724,6 +2324,12 @@
       "Connector": "USB",
       "Cable Length": "1.5 Meter",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Keys": "104",
+      "Cable Length": "1.5 mm"
     }
   },
   {
@@ -1740,6 +2346,11 @@
       "System Requirements": "Windows, Android, Mac, iOS",
       "Color": "Matcha Green\r\nGrey",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Color": "Matcha Green"
     }
   },
   {
@@ -1760,6 +2371,13 @@
       "Color": "Black",
       "Dimensions": "351.6*125*37.5",
       "Warranty": "2 year warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -1780,6 +2398,14 @@
       "Dimensions": "298.38 x 108.19 x 37.02 ± 0.5mm",
       "Weight": "About 411g",
       "Warranty": "365 Days"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "Black-Gray"
     }
   },
   {
@@ -1802,6 +2428,14 @@
       "Dimensions": "365.9 x 139 x 41.1mm",
       "Weight": "Approx. 935g (with cable/receiver)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Color": "White-purple"
     }
   },
   {
@@ -1821,6 +2455,13 @@
       "System Requirements": "Desktop & Laptop",
       "Color": "Black-Gray\r\nGray-Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "Black-Gray"
     }
   },
   {
@@ -1840,6 +2481,13 @@
       "Color": "Black\r\nGrey-Black",
       "Material": "Durable Metal Panel",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -1858,6 +2506,12 @@
       "Weight": "498 g",
       "Material": "Black plastics: 38% post-consumer recycled material",
       "Warranty": "3-Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Color": "Black"
     }
   },
   {
@@ -1866,7 +2520,11 @@
     "price": "2700",
     "description": "Type :Wireless 33 feet\rDimensions: 50 x 15.6 x 4.4 cm\rWeight: 726 g",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/Logitech-MK275-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/Logitech-MK275-1-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2112,
@@ -1884,6 +2542,10 @@
       "Sensor": "Smooth Optical tracking",
       "Tracking Method": "Smooth Optical tracking",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -1908,6 +2570,14 @@
       "Connector": "USB 2.0",
       "Microphone Sensitivity": "-40 DB ± 3 DB",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "110",
+      "Cable Length": "2.2 mm"
     }
   },
   {
@@ -1928,6 +2598,13 @@
       "Dimensions": "434 x 131.1 x 36.5mm",
       "Weight": "940 g",
       "Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "2 mm",
+      "Color": "Black"
     }
   },
   {
@@ -1948,6 +2625,13 @@
       "Dimensions": "37 mm x 434 mm x 131 mm",
       "Weight": "805 g",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Keys": "104",
+      "Color": "Pink"
     }
   },
   {
@@ -1966,6 +2650,11 @@
       "Dimensions": "25mm x 438 mm x 154 mm (Keyboard)\r\n35 mm x 64 mm x 108 mm (Mouse)",
       "Weight": "432 g (Keyboard)\r\n72 g (Mouse)",
       "Warranty": "730 Days"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Color": "Black"
     }
   },
   {
@@ -1982,6 +2671,12 @@
       "Switch Color": "ThundeRobot Pink",
       "Lighting": "Dynamic RGB backlight with pre-built effects",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "ThundeRobot",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "98"
     }
   },
   {
@@ -1999,6 +2694,13 @@
       "Lighting": "Dynamic RGB backlight with pre-built effects",
       "Color": "Ebony on Cedar",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "ThundeRobot",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "98",
+      "Color": "Ebony on Cedar"
     }
   },
   {
@@ -2018,6 +2720,14 @@
       "Color": "White\r\nBlack",
       "Material": "ABS",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "MONKA",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "97",
+      "Color": "White"
     }
   },
   {
@@ -2039,6 +2749,11 @@
       "Tracking Method": "Optical",
       "Connector": "2.4GHz wireless connection",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Keys": "104"
     }
   },
   {
@@ -2058,6 +2773,14 @@
       "Color": "White\r\nBlack",
       "Material": "ABS",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "MONKA",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "97",
+      "Color": "White"
     }
   },
   {
@@ -2081,6 +2804,13 @@
       "Dimensions": "323 x 129 x 35mm",
       "Weight": "532g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Gamdias",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -2097,6 +2827,10 @@
       "System Requirements": "Windows, Android, Mac, iOS",
       "Weight": "485 g (w/ battery)",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -2112,6 +2846,12 @@
       "Keys": "78",
       "Color": "Dark Grey",
       "Warranty": "2 year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Keys": "78",
+      "Color": "Dark Grey"
     }
   },
   {
@@ -2130,6 +2870,13 @@
       "Color": "Black",
       "Dimensions": "433 x 124.5 x 35mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -2150,6 +2897,13 @@
       "Dimensions": "17.1*4.9 in",
       "Weight": "0.72 kg",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -2165,6 +2919,10 @@
       "Weight": "75.2 g",
       "Connector": "Wireless: 2.4 GHz (Advanced)\r\nWireless Range: Up to 33 feet or 10 meters",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -2188,6 +2946,15 @@
       "Dimensions": "441x131x35mm±5mm",
       "Weight": "625g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike-Me",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "104",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -2208,6 +2975,14 @@
       "Interface": "USB",
       "Color": "Black & Red\r\nGray & Red",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "96",
+      "Cable Length": "1.5 mm",
+      "Color": "Black & Red"
     }
   },
   {
@@ -2228,6 +3003,14 @@
       "Others": "Advanced anti-ghosting with 25 keys rollover support delivers enhanced command readings in the heat of the battle.\r\n- Rainbow backlight with 12 lighting schemes allows you to game and work even in total darkness.",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "87",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -2249,6 +3032,13 @@
       "Weight": "573.5g+-20g",
       "Material": "Muffler Cotton",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Keys": "94",
+      "Cable Length": "1.5 mm",
+      "Color": "White-Blue"
     }
   },
   {
@@ -2270,6 +3060,13 @@
       "Weight": "573.5g+-20g",
       "Material": "Muffler Cotton",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Keys": "94",
+      "Cable Length": "1.5 mm",
+      "Color": "White-Blue"
     }
   },
   {
@@ -2291,6 +3088,13 @@
       "Weight": "573.5g+-20g",
       "Material": "Muffler Cotton",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Keys": "94",
+      "Cable Length": "1.5 mm",
+      "Color": "Blue-White"
     }
   },
   {
@@ -2312,6 +3116,14 @@
       "Dimensions": "29.2cm x 9.9cm x 3.5cm",
       "Weight": "0.59 kg",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "Mix Color"
     }
   },
   {
@@ -2328,6 +3140,11 @@
       "Lighting": "LED Backlit",
       "Others": "High-precision machinery manufacture\r\nDouble injection keycaps\r\nFull key conflict free, Spill-proof\r\nWIN keys can be disable in gaming",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "LED"
     }
   },
   {
@@ -2351,6 +3168,15 @@
       "Dimensions": "323 x 112 x 36mm",
       "Weight": "600g",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Cable Length": "6 mm",
+      "Color": "Mix Color"
     }
   },
   {
@@ -2375,6 +3201,15 @@
       "Dimensions": "‎42.8 x 22.4 x 6.1 cm",
       "Weight": "1.4 kg",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Cable Length": "1.8 mm",
+      "Color": "Mix Color"
     }
   },
   {
@@ -2397,6 +3232,14 @@
       "Weight": "0.59 KG",
       "Material": "Keycap Material: ABS",
       "Warranty": "01-year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "Grey & White"
     }
   },
   {
@@ -2421,6 +3264,14 @@
       "Material": "Solid Aluminum Board",
       "Wrist Rest": "Ergonomic Wrist Rest",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "Grdiant Grey White"
     }
   },
   {
@@ -2436,6 +3287,10 @@
       "Resolution": "800/1200/1600/2400 DPI",
       "Others": "Key number: 6keys\r\nSystem support: Windows XP/Vista/Win7/8/10",
       "Warranty": "01-Year Warrranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Backlight": "RGB"
     }
   },
   {
@@ -2451,6 +3306,12 @@
       "Keys": "99",
       "Color": "Dark Grey\r\nWhite",
       "Warranty": "2 year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Keys": "99",
+      "Color": "Dark Grey"
     }
   },
   {
@@ -2459,7 +3320,11 @@
     "price": "3500",
     "description": "Type: Wireless \rSwitch easily between devices\rDimensions: 12.2 x 1.6 x 7.9 inches\rWeight: 822 gm",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/k480/logitech-k480-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/k480/logitech-k480-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2143,
@@ -2473,6 +3338,10 @@
       "Others": "Number of buttons: 3 + scroll wheel\r\nSensor Type: Optical\r\nPower supply: 2 × AAA",
       "Resolution": "800/1000/1200 dpi",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Defender",
+      "Connectivity": "Wired"
     }
   },
   {
@@ -2486,6 +3355,11 @@
       "Type": "Mechanical Keyboard",
       "Wired/Wireless": "Wired",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Backlight": "LED"
     }
   },
   {
@@ -2494,7 +3368,11 @@
     "price": "3700",
     "description": "Type :Wireless \rDimensions: 20 x 7.5 x 1.7 inches\rWeight: 907 gm",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/mk345/mk345-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/mk345/mk345-1-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2146,
@@ -2515,6 +3393,13 @@
       "Dimensions": "Approx. 477 x 218 x 35 mm",
       "Weight": "1067±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Cable Length": "180 mm",
+      "Color": "Red"
     }
   },
   {
@@ -2536,6 +3421,14 @@
       "Color": "Black",
       "Dimensions": "467 x 172 x 35 mm",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1600 mm",
+      "Color": "Black"
     }
   },
   {
@@ -2552,6 +3445,12 @@
       "Dimensions": "Height: 124 mm\r\nWidth: 279 mm\r\nDepth: 16 mm",
       "Weight": "Weight (with batteries): 415 g",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Color": "Tonal Rose (920-011755)"
     }
   },
   {
@@ -2572,6 +3471,11 @@
       "Connector": "Wireless",
       "Dimension(LxWxH)": "110 x 58 x 30.5mm",
       "Warranty": "02-Years"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wireless",
+      "Keys": "99"
     }
   },
   {
@@ -2588,6 +3492,10 @@
       "Resolution": "1,600 DPI",
       "Connector": "Wireless",
       "Warranty": "3-Year"
+    },
+    "filter": {
+      "Brand": "Targus",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -2603,6 +3511,10 @@
       "Resolution": "1000 DPI",
       "Connector": "Wireless",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -2624,6 +3536,13 @@
       "Color": "Fire Black",
       "Dimensions": "446 x 132 x 37mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Fire Black"
     }
   },
   {
@@ -2645,6 +3564,13 @@
       "Color": "Fire Black",
       "Dimensions": "446 x 132 x 37mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connectivity": "Wireless",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Fire Black"
     }
   },
   {
@@ -2665,6 +3591,14 @@
       "Dimensions": "433 x 135 x 37.7mm",
       "Weight": "920G",
       "Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -2685,6 +3619,14 @@
       "Color": "Black",
       "Dimensions": "13.9 x 4.9 x 1.5 inches",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -2706,6 +3648,13 @@
       "Dimensions": "434 x 131.1 x 36.5mm",
       "Weight": "940 g",
       "Warranty": "2 year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Keys": "87",
+      "Cable Length": "2 mm",
+      "Color": "Purple"
     }
   },
   {
@@ -2727,6 +3676,13 @@
       "Dimensions": "434 x 37 x 131mm",
       "Weight": "815±15g",
       "Warranty": "2 year warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "104",
+      "Color": "Yellow-Blue"
     }
   },
   {
@@ -2745,6 +3701,10 @@
       "Tracking Method": "Optical",
       "Connector": "Plug & Play Nano USB Receiver",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -2767,6 +3727,13 @@
       "Dimensions": "16.1 x 5.5 x 1.6 Inch",
       "Weight": "4.14bs (1879g)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "96",
+      "Color": "CAMPING"
     }
   },
   {
@@ -2789,6 +3756,13 @@
       "Dimensions": "16.1 x 5.5 x 1.6 Inch",
       "Weight": "4.14bs (1879g)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "96",
+      "Color": "CAMPING"
     }
   },
   {
@@ -2811,6 +3785,14 @@
       "Color": "Phantom",
       "Dimensions": "322.3 x 116.8 x 40.5 mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "66",
+      "Cable Length": "1.8 mm",
+      "Color": "Phantom"
     }
   },
   {
@@ -2829,6 +3811,13 @@
       "Number of Buttons": "7",
       "Resolution": "1200-1800-2400-3600DPI",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Backlight": "RGB",
+      "Keys": "108",
+      "Cable Length": "1500 mm"
     }
   },
   {
@@ -2846,6 +3835,11 @@
       "Polling Rate": "125Hz",
       "Connector": "Wireless 2.4G Hz\r\nReceiver: Nano USB Receiver",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Cable Length": "2.4 mm"
     }
   },
   {
@@ -2862,6 +3856,12 @@
       "Dimensions": "23 mm x 433 mm x 168 mm (Keyboard)\r\n43 mm x 69 mm x 103 mm (Mouse)",
       "Weight": "694 g (Keyboard)\r\n75 g (Mouse)",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Color": "Black"
     }
   },
   {
@@ -2883,6 +3883,11 @@
       "Resolution": "1600 DPI",
       "Connector": "USB Port",
       "Warranty": "1 Year - CRU"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connectivity": "Wired",
+      "Cable Length": "63 mm"
     }
   },
   {
@@ -2905,6 +3910,14 @@
       "Dimensions": "387x140x45mm",
       "Weight": "825g",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "95",
+      "Cable Length": "1800 mm",
+      "Color": "white"
     }
   },
   {
@@ -2927,6 +3940,14 @@
       "Dimensions": "387x140x45mm",
       "Weight": "825g",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "95",
+      "Cable Length": "1800 mm",
+      "Color": "white"
     }
   },
   {
@@ -2935,7 +3956,11 @@
     "price": "3000",
     "description": "Number Of Keys: 104\rSwitch Type: Blue Switch\r25 Keys Anti-Ghosting\rLighting: Illumination RGB Gradient",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/fantech/ack01/ack01-vibrant-utility-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/fantech/ack01/ack01-vibrant-utility-500x500.webp",
+    "filter": {
+      "Brand": "Fantech",
+      "Backlight": "RGB"
+    }
   },
   {
     "id": 2169,
@@ -2958,6 +3983,13 @@
       "Dimensions": "435*127*32mm",
       "Weight": "700g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -2981,6 +4013,13 @@
       "Dimensions": "435*127*32mm",
       "Weight": "700g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -3004,6 +4043,14 @@
       "Dimensions": "length 436mm x Width 220mm",
       "Weight": "1300gr without cable",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -3021,6 +4068,10 @@
       "Weight": "Weight: 67 g ( Batteries not included )",
       "Resolution": "1000/1600/2000 DPI",
       "Polling Rate": "125Hz"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -3045,6 +4096,14 @@
       "Dimensions": "Weight 967g x length 435mm x Width 128mm",
       "Weight": "967g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Cable Length": "435 mm",
+      "Color": "Black"
     }
   },
   {
@@ -3066,6 +4125,13 @@
       "Dimensions": "357.9*129.4*41.9",
       "Weight": "825 g",
       "Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -3083,6 +4149,11 @@
       "Connector": "USB",
       "Diameter": "50mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wired",
+      "Keys": "104"
     }
   },
   {
@@ -3102,6 +4173,12 @@
       "Others": "Extra Keycap Set",
       "Weight": "Light-weight",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68"
     }
   },
   {
@@ -3119,6 +4196,11 @@
       "Number of Buttons": "6",
       "Resolution": "1000-3200 DPI",
       "Warranty": "02-Year Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wired",
+      "Backlight": "RGB"
     }
   },
   {
@@ -3143,6 +4225,14 @@
       "Dimensions": "450 x 230 x 140mm",
       "Weight": "702gr without cable",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Pink"
     }
   },
   {
@@ -3159,6 +4249,10 @@
       "Dimensions": "Keyboard: 18 x 7.6 x 0.9\" / 457.2 x 193 x 22.9 mm\r\nMouse: 4.4 x 2.4 x 1.5\" / 111.8 x 61 x 38.1 mm",
       "Weight": "Keyboard: 1.77 lb / 805 g\r\nMouse: 2.6 oz / 74 g",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -3179,6 +4273,13 @@
       "Weight": "573.5g+-20g",
       "Material": "Durable Metal Panel",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "White"
     }
   },
   {
@@ -3199,6 +4300,13 @@
       "Weight": "573.5g+-20g",
       "Material": "Durable Metal Panel",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "White"
     }
   },
   {
@@ -3219,6 +4327,13 @@
       "Dimensions": "369.2*112.5*40mm",
       "Weight": "About 855g",
       "Warranty": "2 year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "100",
+      "Color": "Black"
     }
   },
   {
@@ -3227,7 +4342,11 @@
     "price": "4700",
     "description": "Type : Wireless  33ft\rDimensions: 5.5 x 13.95 x 0.93 in\rWeight: 1.02 ounces",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/k400plus/k400plus-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/logitech/k400plus/k400plus-1-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
+    }
   },
   {
     "id": 2184,
@@ -3247,6 +4366,10 @@
       "Tracking Method": "Optical",
       "Connector": "Plug-and-play Nano receiver",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -3266,6 +4389,13 @@
       "Color": "Black\r\nWhite",
       "Dimensions": "316 x 126 x 41mm",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "Black"
     }
   },
   {
@@ -3285,6 +4415,13 @@
       "Color": "Black\r\nWhite",
       "Dimensions": "316 x 126 x 41mm",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "Black"
     }
   },
   {
@@ -3304,6 +4441,13 @@
       "Color": "White\r\nBlack",
       "Dimensions": "316 x 126 x 41mm",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "White"
     }
   },
   {
@@ -3327,6 +4471,11 @@
       "Microphone Size": "6x5.0mm",
       "Sensitivity": "108dB±3 dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Cable Length": "3.5 mm"
     }
   },
   {
@@ -3349,6 +4498,13 @@
       "Dimensions": "330 x 102 x 37mm",
       "Weight": "0.64 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "71",
+      "Color": "Black"
     }
   },
   {
@@ -3371,6 +4527,13 @@
       "Dimensions": "330 x 102 x 37mm",
       "Weight": "0.64 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "71",
+      "Color": "Black"
     }
   },
   {
@@ -3393,6 +4556,13 @@
       "Dimensions": "330 x 102 x 37mm",
       "Weight": "0.64 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "71",
+      "Color": "Black"
     }
   },
   {
@@ -3411,6 +4581,13 @@
       "Dimensions": "25.2 x 25.2 x 7.6 inches",
       "Weight": "2.20 lbs",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connectivity": "Wired",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -3432,6 +4609,13 @@
       "Dimensions": "294 x 103 x 42mm",
       "Weight": "556gr without cable",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "Black"
     }
   },
   {
@@ -3455,6 +4639,14 @@
       "Dimensions": "length 436mm x Width 220mm",
       "Weight": "1300gr without cable",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Pink"
     }
   },
   {
@@ -3463,7 +4655,11 @@
     "price": "4950",
     "description": "Type: Membrane \rBacklight: RGB\rPalm Rest: Integrated",
     "category": "keyboard",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/gaming/g213-prodigy-gaming-keyboard-500x500.png"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/gaming/g213-prodigy-gaming-keyboard-500x500.png",
+    "filter": {
+      "Brand": "Logitech",
+      "Backlight": "RGB"
+    }
   },
   {
     "id": 2196,
@@ -3485,6 +4681,15 @@
       "Dimensions": "Width: 443.20mm\r\nDepth: 175.31mm\r\nHeight: 35.68mm",
       "Weight": "1121g",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "HyperX",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -3502,6 +4707,13 @@
       "Dimensions": "Keyboard: 451 x 155 x 36 mm\r\nWrist Rest: 451 x 66 x 18 mm",
       "Weight": "Keyboard: 810 g\r\nWrist rest: 95 g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "19",
+      "Color": "Black"
     }
   },
   {
@@ -3520,6 +4732,13 @@
       "Others": "Battery Type: Lithium battery\r\nLithium battery(4000mAh)/Battery life：1 week-1month\r\nIntelligently switch among multiple devices\r\nAdjustable backlight\r\nFull mechanical keys, high-speed response\r\nRechargeable lithium battery\r\nConflict-free design for all keys(Wired mode)\r\nMetal cover, Spill-resistant design",
       "Color": "Black",
       "Warranty": "2 year warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Backlight": "LED",
+      "Color": "Black"
     }
   },
   {
@@ -3542,6 +4761,14 @@
       "Dimensions": "348*140*45mm",
       "Weight": "494g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "83",
+      "Cable Length": "800 mm",
+      "Color": "Blue & White"
     }
   },
   {
@@ -3564,6 +4791,14 @@
       "Dimensions": "315x125x39mm",
       "Weight": "0.79 kg",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "84",
+      "Color": "White"
     }
   },
   {
@@ -3581,6 +4816,11 @@
       "Resolution": "On-the-fly adjustable DPI (200-8000)",
       "Cable Length": "1.8m nylon braided cable",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -3603,6 +4843,14 @@
       "Dimensions": "315x125x39mm",
       "Weight": "0.79 kg",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "84",
+      "Color": "White"
     }
   },
   {
@@ -3625,6 +4873,14 @@
       "Dimensions": "315x125x39mm",
       "Weight": "0.79 kg",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "84",
+      "Color": "Black"
     }
   },
   {
@@ -3643,6 +4899,12 @@
       "Weight": "800g",
       "Material": "Alluminium top case",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Gray"
     }
   },
   {
@@ -3663,6 +4925,13 @@
       "Color": "Black",
       "Weight": "Light-weight",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "63",
+      "Color": "Black"
     }
   },
   {
@@ -3687,6 +4956,12 @@
       "Microphone Size": "φ6.0*5.0mm",
       "Sensitivity": "108±3 dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Keys": "104",
+      "Cable Length": "3.5 mm"
     }
   },
   {
@@ -3707,6 +4982,14 @@
       "Dimensions": "311x102x35mm",
       "Weight": "About 0.7 kg",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "White"
     }
   },
   {
@@ -3726,6 +5009,14 @@
       "Color": "Black",
       "Dimensions": "495*145*40mm",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -3741,6 +5032,12 @@
       "Others": "Rating : 5V, 0.23A\r\n104-key keyboard layout with 12 shortcut keys\r\nBlue mechanical keys\r\nStunning looks meet ergonomics",
       "Color": "Black",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Color": "Black"
     }
   },
   {
@@ -3760,6 +5057,14 @@
       "Dimensions": "41*19*4.5cm",
       "Weight": "115gr",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -3781,6 +5086,13 @@
       "Dimensions": "289 x 103 x 39mm",
       "Weight": "0.50kg",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "White"
     }
   },
   {
@@ -3798,6 +5110,11 @@
       "Resolution": "1600 DPI",
       "Tracking Method": "Optical",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Keys": "104"
     }
   },
   {
@@ -3819,6 +5136,13 @@
       "Dimensions": "289 x 103 x 39mm",
       "Weight": "0.50kg",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "Klein blue"
     }
   },
   {
@@ -3840,6 +5164,13 @@
       "Dimensions": "289 x 103 x 39mm",
       "Weight": "0.50kg",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "White"
     }
   },
   {
@@ -3855,6 +5186,10 @@
       "Resolution": "1200/1600/2400/3200",
       "Diameter": "50mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Keys": "104"
     }
   },
   {
@@ -3876,6 +5211,14 @@
       "Microphone Size": "Adjustable",
       "Sensitivity": "112",
       "Warranty": "2 year"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "19",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -3894,6 +5237,13 @@
       "System Requirements": "Windows XP/ Win2000/ Win7/ Win8/ Win10/ Mac/ IOS/ Android",
       "Color": "White\r\nBlack",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "89",
+      "Color": "White"
     }
   },
   {
@@ -3912,6 +5262,13 @@
       "System Requirements": "Windows XP/ Win2000/ Win7/ Win8/ Win10/ Mac/ IOS/ Android",
       "Color": "White\r\nBlack",
       "Warranty": "01-year warranty."
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "89",
+      "Color": "White"
     }
   },
   {
@@ -3930,6 +5287,13 @@
       "System Requirements": "Windows XP/ Win2000/ Win7/ Win8/ Win10/ Mac/ IOS/ Android",
       "Color": "White\r\nBlack",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "89",
+      "Color": "White"
     }
   },
   {
@@ -3947,6 +5311,12 @@
       "System Requirements": "Operating system: WIN XP, WIN7, WIN8, WIN10",
       "Dimensions": "310 x 100 x 40mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68"
     }
   },
   {
@@ -3967,6 +5337,12 @@
       "Dimensions": "315x125x39mm",
       "Weight": "0.79 kg",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Keys": "100",
+      "Color": "Classic White / Carbon"
     }
   },
   {
@@ -3987,6 +5363,12 @@
       "Dimensions": "315x125x39mm",
       "Weight": "0.79 kg",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Keys": "100",
+      "Color": "Classic White"
     }
   },
   {
@@ -4007,6 +5389,12 @@
       "Dimensions": "404x159x57mm",
       "Weight": "1100g",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "ROYAL",
+      "Connectivity": "Wireless",
+      "Keys": "100",
+      "Color": "Classic White / Carbon"
     }
   },
   {
@@ -4027,6 +5415,13 @@
       "Dimensions": "472 x 167 x 21 mm",
       "Weight": "1.56 Kg",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Gamdias",
+      "Backlight": "RGB",
+      "Keys": "2",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -4045,6 +5440,12 @@
       "Dimensions": "23mm x 433 mm x 168 mm (Keyboard)\r\n49 mm x 85 mm x 122 mm (Mouse)",
       "Weight": "642 g (Keyboard)\r\n117 g (Mouse)",
       "Warranty": "730 Days"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Keys": "8",
+      "Color": "Black"
     }
   },
   {
@@ -4065,6 +5466,13 @@
       "Color": "White",
       "Weight": "Light-weight",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Color": "White"
     }
   },
   {
@@ -4086,6 +5494,14 @@
       "Color": "Black\r\nWhite",
       "Dimensions": "384mm × 140mm × 40mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Color": "Black"
     }
   },
   {
@@ -4107,6 +5523,14 @@
       "Color": "Black\r\nWhite",
       "Dimensions": "384mm × 140mm × 40mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Color": "Black"
     }
   },
   {
@@ -4128,6 +5552,14 @@
       "Color": "Black\r\nWhite",
       "Dimensions": "384mm × 140mm × 40mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Color": "Black"
     }
   },
   {
@@ -4144,6 +5576,12 @@
       "Dimensions": "13 mm x 420 mm x 115 mm (Keyboard)\r\n43 mm x 69 mm x 103 mm (Mouse)",
       "Weight": "647 g (Keyboard)\r\n75 g (Mouse)",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Color": "Black"
     }
   },
   {
@@ -4167,6 +5605,10 @@
       "Resolution": "1200 DPI",
       "Connector": "Supported PC with USB port",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -4189,6 +5631,14 @@
       "Dimensions": "310.1*120.2*35.5",
       "Material": "Aluminum Alloy",
       "Warranty": "2 year warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "LED",
+      "Keys": "75",
+      "Color": "Grey"
     }
   },
   {
@@ -4206,6 +5656,13 @@
       "Others": "Rating: 5V, 300mA\r\nAnti-Ghosting: 100%",
       "Color": "Black",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -4223,6 +5680,10 @@
       "Number of Buttons": "3 (Left/Right-click, Scroll-wheel with middle click)",
       "Connector": "Wireless Range: Up to 33 feet or 10 meters",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -4242,6 +5703,14 @@
       "Color": "Retro Gray",
       "Material": "Shell Material: ABS",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "67",
+      "Color": "Retro Gray"
     }
   },
   {
@@ -4263,6 +5732,13 @@
       "Weight": "0.9kg",
       "Material": "CASE MATERIAL: ABS Plastic\r\nKEYCAP MATERIAL: ABS Triple-injection Molded",
       "Warranty": "1-year replacement warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Keys": "81",
+      "Color": "White-Blue-Orange"
     }
   },
   {
@@ -4285,6 +5761,14 @@
       "Color": "White",
       "Weight": "0.6 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "81",
+      "Color": "White"
     }
   },
   {
@@ -4303,6 +5787,14 @@
       "Color": "Black",
       "Dimensions": "446 mm x 136 mm x 36 mm",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -4323,6 +5815,14 @@
       "Color": "Black",
       "Dimensions": "450*165*35mm",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -4344,6 +5844,11 @@
       "Resolution": "800-1600-2400-3200-4000-4800DPI",
       "Connector": "USB",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Keys": "104"
     }
   },
   {
@@ -4371,6 +5876,13 @@
       "Microphone Sensitivity": "40±2dB",
       "Sensitivity": "Headset Sensitivity: 120+3dB\r\nMicrophone Sensitivity: 40+2dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "2 mm"
     }
   },
   {
@@ -4393,6 +5905,14 @@
       "Color": "White",
       "Weight": "0.6 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "81",
+      "Color": "White"
     }
   },
   {
@@ -4415,6 +5935,14 @@
       "Color": "Phantom\r\nWhite",
       "Weight": "0.6 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "81",
+      "Color": "Phantom"
     }
   },
   {
@@ -4440,6 +5968,11 @@
       "Microphone Sensitivity": "120±3db",
       "Sensitivity": "120±3db",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Connectivity": "Wired",
+      "Cable Length": "2 mm"
     }
   },
   {
@@ -4465,6 +5998,11 @@
       "Microphone Sensitivity": "120±3db (Headphone)\r\n-56±2db (Mic Sensitivity)",
       "Sensitivity": "120±3db (Mic Sensitivity: -56±2db)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Connectivity": "Wired",
+      "Cable Length": "2.1 mm"
     }
   },
   {
@@ -4485,6 +6023,13 @@
       "Dimensions": "447.04 x 189.9 x 58.9mm",
       "Weight": "0.93 kg",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Keys": "94",
+      "Cable Length": "1.5 mm",
+      "Color": "White"
     }
   },
   {
@@ -4502,6 +6047,10 @@
       "Dimensions": "Box Dimensions (LxWxH): 17.9 x 5.8 x 1.39\"",
       "Weight": "Package Weight: 1.45 lb",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -4521,6 +6070,12 @@
       "System Requirements": "Windows XP/ Win 7/ Win 8/ Win 10",
       "Dimensions": "450 x 135 x 39mm",
       "Warranty": "1 Year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Keys": "3"
     }
   },
   {
@@ -4540,6 +6095,13 @@
       "Resolution": "800-1600-2400-3200-4000-4800 DPI",
       "Connector": "USB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -4557,6 +6119,13 @@
       "Others": "Rating: 5V, 0.26A\r\nAnti-Ghosting: 100%",
       "Color": "Black",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Cable Length": "1.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -4579,6 +6148,11 @@
       "Resolution": "1600 by default; Adjustable via DPM - 1000, 1600, 2400, 4000",
       "Tracking Method": "Optical",
       "Connector": "2.4GHz Wireless via USB Dongle"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Connectivity": "Wireless",
+      "Keys": "104"
     }
   },
   {
@@ -4595,6 +6169,12 @@
       "Dimensions": "Height 37 inch (34.8mm) without legs, 2.13 inch (54.2mm) with legs ,\r\nWidth 19.65 inch (499mm) ,\r\nDepth 6.76 inch (171.8 mm)",
       "Weight": "3.26 lbs (1460g)",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Black"
     }
   },
   {
@@ -4616,6 +6196,13 @@
       "Dimensions": "291.7 x 101.7 x 36 mm",
       "Weight": "0.8 Kg",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Keys": "104",
+      "Color": "Black"
     }
   },
   {
@@ -4637,6 +6224,14 @@
       "Dimensions": "364*136*41mm",
       "Weight": "964g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "DAREU",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -4658,6 +6253,12 @@
       "Connector": "USB plug",
       "Diameter": "50 mm driver",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Keys": "104",
+      "Cable Length": "2 mm"
     }
   },
   {
@@ -4679,6 +6280,14 @@
       "Dimensions": "364*136*41mm",
       "Weight": "964g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Color": "Black Gold"
     }
   },
   {
@@ -4698,6 +6307,11 @@
       "Dimensions": "303.2, Width: 104.3 Size (L X W X H): 38 Cm X 18 Cm X 5 Cm",
       "Material": "Core Construction: ABS Plastic",
       "Warranty": "365 Days"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Keys": "80"
     }
   },
   {
@@ -4718,6 +6332,15 @@
       "Color": "White-OEM Keycaps",
       "Dimensions": "363x137x37mm",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Cable Length": "1.6 mm",
+      "Color": "White-OEM Keycaps"
     }
   },
   {
@@ -4737,6 +6360,12 @@
       "Dimensions": "303.2, Width: 104.3 Size (L X W X H): 38 Cm X 18 Cm X 5 Cm",
       "Material": "Core Construction: ABS Plastic",
       "Warranty": "365 Days"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "80"
     }
   },
   {
@@ -4755,6 +6384,13 @@
       "Dimensions": "32.9x12x4.5cm",
       "Weight": "0.813kg",
       "Warranty": "365 days warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "White-Mint"
     }
   },
   {
@@ -4774,6 +6410,12 @@
       "Others": "Detachable Type-C Cable \r\nSoftware Supported",
       "Weight": "1.24 KG",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "81"
     }
   },
   {
@@ -4793,6 +6435,12 @@
       "Others": "Software Supported \r\nExtra Full Set with Added 7 Orange Keycaps",
       "Weight": "494g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "84"
     }
   },
   {
@@ -4812,6 +6460,13 @@
       "Weight": "Weight (including batteries): 750 g",
       "Material": "Graphite plastics: 61% post-consumer recycled material",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Backlight": "LED",
+      "Color": "Graphite (920-011898)"
     }
   },
   {
@@ -4833,6 +6488,14 @@
       "Color": "Obsidian Black\r\nVintage Red",
       "Material": "ABS Injection Molded Shell PBT Double Shot Keycaps",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "ThundeRobot",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Backlight": "RGB",
+      "Keys": "80",
+      "Color": "Obsidian Black"
     }
   },
   {
@@ -4854,6 +6517,14 @@
       "Dimensions": "Length: 355 mm\r\nWidth: 127 mm\r\nHeight: 36.3 mm",
       "Weight": "650 g",
       "Warranty": "02-Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "6",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -4871,6 +6542,12 @@
       "Lighting": "RGB",
       "Weight": "Light-weight",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "84"
     }
   },
   {
@@ -4890,6 +6567,11 @@
       "Dimensions": "358.1 x 116.8 x 20.3 mm",
       "Weight": "500g",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connectivity": "Wireless",
+      "Color": "Silver (FK308S)"
     }
   },
   {
@@ -4915,6 +6597,12 @@
       "Microphone Sensitivity": "-38dB",
       "Sensitivity": "Headset Sensitivity : 119dB\r\nMicrophone Sensitivity : -38dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -4934,6 +6622,12 @@
       "Dimensions": "Box Dimensions (LxWxH): 17.9 x 5.8 x 1.54\"",
       "Weight": "Package Weight: 1.6 lb",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connectivity": "Wireless",
+      "Cable Length": "1 mm",
+      "Color": "Space Gray"
     }
   },
   {
@@ -4953,6 +6647,12 @@
       "Color": "Black (CH-9194010-NA)\r\nWhite (CH-9194110-NA)",
       "Weight": "0.58",
       "Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wireless",
+      "Keys": "61",
+      "Color": "Black (CH-9194010-NA)"
     }
   },
   {
@@ -4973,6 +6673,15 @@
       "Color": "White-MDA Keycaps\r\nGreen-MDA Keycaps",
       "Dimensions": "363x137x37mm",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Cable Length": "1.6 mm",
+      "Color": "White-MDA Keycaps"
     }
   },
   {
@@ -4991,6 +6700,13 @@
       "System Requirements": "Windows/ macOS/ Android",
       "Weight": "0.68kg",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "69"
     }
   },
   {
@@ -5009,6 +6725,13 @@
       "System Requirements": "Windows/ macOS/ Android",
       "Weight": "0.68kg",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "69"
     }
   },
   {
@@ -5030,6 +6753,14 @@
       "Weight": "1245g",
       "Material": "Shell Material: ABS",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Color": "Mango Yellow"
     }
   },
   {
@@ -5050,6 +6781,15 @@
       "Color": "White\r\nBlack",
       "Dimensions": "362 x 134 x 35.4mm",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Cable Length": "1.6 mm",
+      "Color": "White"
     }
   },
   {
@@ -5069,6 +6809,14 @@
       "System Requirements": "Windows, Mac",
       "Color": "White\r\nBlue",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Color": "White"
     }
   },
   {
@@ -5088,6 +6836,14 @@
       "System Requirements": "Windows, Mac",
       "Color": "White\r\nBlue",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Color": "White"
     }
   },
   {
@@ -5107,6 +6863,12 @@
       "Others": "Double Noise  dampening",
       "Weight": "950g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "82"
     }
   },
   {
@@ -5124,6 +6886,12 @@
       "Color": "Black",
       "Dimensions": "51.8 x 24.6 x 5.2 cm; 1.71 Kilograms",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Black"
     }
   },
   {
@@ -5144,6 +6912,13 @@
       "Dimensions": "Length: 435 mm\r\nWidth: 127 mm\r\nHeight: 36.3 mm",
       "Weight": "780 g",
       "Warranty": "02-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -5161,6 +6936,12 @@
       "Others": "Hot Swappable\r\nFull anti ghosting, \r\nnoise dampener foam, \r\nsoftware and driver support",
       "Color": "Nautilus",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Capturer",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Nautilus"
     }
   },
   {
@@ -5182,6 +6963,13 @@
       "Dimensions": "310.1*120.2*35.5mm",
       "Weight": "About 787g",
       "Warranty": "2 year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "84",
+      "Color": "Voyage diary"
     }
   },
   {
@@ -5199,6 +6987,12 @@
       "Color": "Black",
       "Dimensions": "49.4 x 24.4 x 5 cm; 1.33 Kilograms",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Color": "Black"
     }
   },
   {
@@ -5219,6 +7013,12 @@
       "Dimensions": "330x115x45mm",
       "Weight": "1.2Kg",
       "Warranty": "1 Year warranty"
+    },
+    "filter": {
+      "Brand": "MONKA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Black Grey"
     }
   },
   {
@@ -5237,6 +7037,11 @@
       "Dimensions": "Box Dimensions (LxWxH): 14.85 x 6.15 x 1.05\"",
       "Weight": "Package Weight: 1.335 lb",
       "Warranty": "NO Warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connectivity": "Wireless",
+      "Color": "Space Grey"
     }
   },
   {
@@ -5254,6 +7059,11 @@
       "Dimensions": "Height: 43 mm\r\nWidth: 312 mm\r\nDepth: 141 mm",
       "Weight": "754 g",
       "Warranty": "02-year Warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Color": "Blue"
     }
   },
   {
@@ -5273,6 +7083,14 @@
       "Dimensions": "296.5x114x43mm",
       "Weight": "About 1.1 kg",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "64",
+      "Cable Length": "1.5 mm"
     }
   },
   {
@@ -5293,6 +7111,12 @@
       "Dimensions": "330x115x45mm",
       "Weight": "1.2Kg",
       "Warranty": "1 Year warranty"
+    },
+    "filter": {
+      "Brand": "MONKA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "White Purple"
     }
   },
   {
@@ -5313,6 +7137,14 @@
       "Dimensions": "365mm x 171mm x 41mm",
       "Weight": "1.09kg",
       "Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -5339,6 +7171,15 @@
       "Material": "Top Plate Material: Aluminium\r\nKeycaps Material: ABS plastic",
       "Wrist Rest": "Not Included",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "NZXT",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Cable Length": "2 mm",
+      "Color": "Black (KB-175US-BR)"
     }
   },
   {
@@ -5357,6 +7198,13 @@
       "Color": "Black",
       "Dimensions": "40 cm x 18 cm x 6 cm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "7",
+      "Color": "Black"
     }
   },
   {
@@ -5377,6 +7225,11 @@
       "Dimensions": "‎16.5 x 45 x 4 cm",
       "Weight": "‎1.25 kg",
       "Warranty": "01 years warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Backlight": "LED"
     }
   },
   {
@@ -5397,6 +7250,12 @@
       "Dimensions": "330x115x45mm",
       "Weight": "1.2Kg",
       "Warranty": "1 Year warranty"
+    },
+    "filter": {
+      "Brand": "MONKA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Black Grey"
     }
   },
   {
@@ -5415,6 +7274,13 @@
       "Color": "White",
       "Dimensions": "40 cm x 18 cm x 6 cm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "7",
+      "Color": "White"
     }
   },
   {
@@ -5431,6 +7297,12 @@
       "Others": "Detachable Palm Rest\r\nComfortable Wrist Rest\r\n5V, 0.33A Rating\r\n125Hz Frequency",
       "Color": "Black",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Black"
     }
   },
   {
@@ -5448,6 +7320,10 @@
       "Dimensions": "Box Dimensions (LxWxH): 18.1 x 5.7 x 1.1\"",
       "Weight": "Package Weight: 1.4 lb",
       "Warranty": "No-Warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connectivity": "Wireless"
     }
   },
   {
@@ -5466,6 +7342,13 @@
       "Color": "Black",
       "Dimensions": "40 cm x 18 cm x 6 cm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "7",
+      "Color": "Black"
     }
   },
   {
@@ -5483,6 +7366,12 @@
       "Switch Color": "Red Switch",
       "System Requirements": "Windows, Mac",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Keys": "68",
+      "Cable Length": "1.6 mm"
     }
   },
   {
@@ -5500,6 +7389,12 @@
       "Switch Color": "Brown Switch",
       "System Requirements": "Windows, Mac",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Keys": "68",
+      "Cable Length": "1.6 mm"
     }
   },
   {
@@ -5518,6 +7413,12 @@
       "Others": "WRIST REST: Yes\r\nRazer Synapse enabled\r\nFully programmable keys with on the fly macro recording\r\n10-key roll over\r\nDedicated Gaming Mode\r\nAnti-ghosting capability for up to 10 simultaneous key presses",
       "Color": "Yellow & Black",
       "Warranty": "01 Year Warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Yellow & Black"
     }
   },
   {
@@ -5544,6 +7445,15 @@
       "Material": "Top Plate Material: Aluminium\r\nKeycaps Material: ABS plastic",
       "Wrist Rest": "Included",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "NZXT",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "87",
+      "Cable Length": "2 mm",
+      "Color": "Black (KB-1TKUS-BR)"
     }
   },
   {
@@ -5564,6 +7474,12 @@
       "Dimensions": "330x115x45mm",
       "Weight": "1.2Kg",
       "Warranty": "1 Year warranty"
+    },
+    "filter": {
+      "Brand": "MONKA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Hyacinth"
     }
   },
   {
@@ -5584,6 +7500,12 @@
       "Dimensions": "330x115x45mm",
       "Weight": "1.2Kg",
       "Warranty": "1 Year warranty"
+    },
+    "filter": {
+      "Brand": "MONKA",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Black Grey"
     }
   },
   {
@@ -5601,6 +7523,12 @@
       "Dimensions": "Slim Folio for iPad (10th gen)\r\nHeight: 253 mm\r\nWidth: 186.7 mm\r\nDepth: 20 mm\n\r\nSlim Folio for iPad (7th, 8th and 9th gen)\r\nHeight: 256.9 mm\r\nWidth: 184.9 mm\r\nDepth: 22 mm",
       "Weight": "Slim Folio for iPad (10th gen)\r\nWeight: 449 g\n\r\nSlim Folio for iPad (7th, 8th and 9th gen)\r\nWeight: 495 g",
       "Warranty": "1 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Color": "Graphite"
     }
   },
   {
@@ -5620,6 +7548,13 @@
       "Others": "Ice Crystal Switch\r\nHot-Swappable\r\nAdjust 18 modes of RGB lighting effects\r\nAdjust the lighting effect via the Music Rhythm",
       "Dimensions": "335.05 x 141.55 x 45.19 (LxWxH)",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Aula",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "81"
     }
   },
   {
@@ -5640,6 +7575,14 @@
       "Dimensions": "Length: 290 mm\r\nWidth: 305 mm\r\nHeight: 35.5 mm",
       "Weight": "1130 g",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Cable Length": "0.98 mm",
+      "Color": "Black"
     }
   },
   {
@@ -5658,6 +7601,12 @@
       "Others": "Hot Swappable\r\nFull anti ghosting, \r\nnoise dampener foam, \r\nsoftware and driver support",
       "Color": "Nautilus",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Capturer",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Nautilus"
     }
   },
   {
@@ -5684,6 +7633,15 @@
       "Material": "Top Plate Material: Aluminium\r\nKeycaps Material: ABS plastic",
       "Wrist Rest": "Included",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "NZXT",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "104",
+      "Cable Length": "2 mm",
+      "Color": "Black (KB-1FSUS-BR)"
     }
   },
   {
@@ -5700,6 +7658,12 @@
       "System Requirements": "USB port\r\nWindows 7 or later, macOS 10.11 or later\r\nInternet access for Logitech G HUB Software",
       "Dimensions": "Height: 34 mm\r\nWidth: 361 mm\r\nDepth: 153 mm",
       "Warranty": "02 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -5718,6 +7682,12 @@
       "Color": "Black",
       "Weight": "0.9",
       "Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wireless",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -5735,6 +7705,12 @@
       "Dimensions": "Rugged Folio for iPad (7th, 8th and 9th gen)\r\nHeight: 260 mm\r\nWidth: 189 mm\r\nDepth: 23.4 mm\r\nWeight: 605 g\n\r\nRugged Folio for iPad (10th gen)\r\nHeight: 256 mm\r\nWidth: 195 mm\r\nDepth: 20 mm\r\nWeight: 570 g",
       "Weight": "Rugged Folio for iPad (7th, 8th and 9th gen)\r\nWeight: 605 g\n\r\nRugged Folio for iPad (10th gen)\r\nWeight: 570 g",
       "Warranty": "1 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Color": "Black"
     }
   },
   {
@@ -5754,6 +7730,13 @@
       "Color": "Carbon Black\r\nSilver Grey\r\nNavy Blue",
       "Dimensions": "Width: 145 mm\r\nLength: 327.5 mm\r\nFront Height: 21.6 mm  (without keycaps)\r\nBack Height: 34.8 mm (without keycaps)\r\nFeet Height: 2.4 mm\r\nAngle: 5.2°",
       "Warranty": "1 year warranty (Must be Claimed with Original Box & All accessories)"
+    },
+    "filter": {
+      "Brand": "Keychron",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Color": "Carbon Black"
     }
   },
   {
@@ -5775,6 +7758,14 @@
       "Weight": "1060g+/-50g",
       "Material": "PC",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "81",
+      "Color": "White"
     }
   },
   {
@@ -5793,6 +7784,12 @@
       "Switch Lifecycle": "100 million keystroke lifespan",
       "Color": "Black and Mercury",
       "Warranty": "01 year warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Keys": "100",
+      "Color": "Black and Mercury"
     }
   },
   {
@@ -5812,6 +7809,12 @@
       "Dimensions": "436mm x 165mm x 38mm",
       "Weight": "1.20kg",
       "Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104"
     }
   },
   {
@@ -5831,6 +7834,12 @@
       "Dimensions": "436mm x 165mm x 38mm",
       "Weight": "1.20kg",
       "Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "104"
     }
   },
   {
@@ -5852,6 +7861,14 @@
       "Weight": "1778±50 grams",
       "Material": "Metallic",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "81",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -5874,6 +7891,13 @@
       "Dimensions": "Length: 475 mm\r\nWidth: 150 mm\r\nHeight: 22 mm",
       "Weight": "1045 g",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -5896,6 +7920,13 @@
       "Dimensions": "Length: 475 mm\r\nWidth: 150 mm\r\nHeight: 22 mm",
       "Weight": "1045 g",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -5921,6 +7952,14 @@
       "Material": "Doubleshot ABS Keycaps",
       "Wrist Rest": "Yes",
       "Warranty": "01 year warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "4",
+      "Cable Length": "6.5 mm",
+      "Color": "Black"
     }
   },
   {
@@ -5942,6 +7981,12 @@
       "Color": "Black",
       "Wrist Rest": "Yes",
       "Warranty": "01 year warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Color": "Black"
     }
   },
   {
@@ -5964,6 +8009,14 @@
       "Dimensions": "462 X 155 X 39 mm",
       "Weight": "Approx. 1156g (without cable)",
       "Warranty": "1-year replacement warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Color": "Black"
     }
   },
   {
@@ -5988,6 +8041,14 @@
       "Weight": "1012g without cable",
       "Wrist Rest": "Yes",
       "Warranty": "1-year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Cable Length": "2 mm",
+      "Color": "Black"
     }
   },
   {
@@ -6010,6 +8071,14 @@
       "Dimensions": "462 X 155 X 39 mm",
       "Weight": "Approx. 1156g (without cable)",
       "Warranty": "1-year replacement warranty\r\n4000 mAh battery"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Color": "Black"
     }
   },
   {
@@ -6034,6 +8103,14 @@
       "Weight": "1012g without cable",
       "Wrist Rest": "Yes",
       "Warranty": "1-year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Cable Length": "2 mm",
+      "Color": "Black"
     }
   },
   {
@@ -6057,6 +8134,14 @@
       "Dimensions": "326 x 136 x 40 mm",
       "Weight": "1186g PBT keycaps without cable",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Cable Length": "2 mm",
+      "Color": "Moonlight White"
     }
   },
   {
@@ -6081,6 +8166,13 @@
       "Material": "Doubleshot ABS Keycaps",
       "Wrist Rest": "Yes",
       "Warranty": "01 year warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "4",
+      "Color": "Black"
     }
   },
   {
@@ -6099,6 +8191,13 @@
       "Dimensions": "Surface Pro Signature Keyboard:\r\n11.38” x 8.90” x .19” (289.1 x 226.1 x 4.89 mm)\n\r\nSurface Slim Pen 2:\r\n5.38” x 0.44” x 0.25” (136.8 x 11.3 x 6.3 mm)",
       "Weight": "Surface Pro Signature Keyboard:\r\n0.62 lbs (281 g)\n\r\nSurface Slim Pen 2:\r\n0.03 lbs (13 g)",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Microsoft",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "1",
+      "Color": "Black"
     }
   },
   {
@@ -6119,6 +8218,13 @@
       "Dimensions": "30.2 * 333.2 * 140.4mm",
       "Weight": "651g+/-10g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "80",
+      "Color": "White-Black "
     }
   },
   {
@@ -6139,6 +8245,14 @@
       "Dimensions": "391x142x40mm",
       "Weight": "About 800g",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "99",
+      "Cable Length": "1.6 mm"
     }
   },
   {
@@ -6161,6 +8275,12 @@
       "Dimensions": "362x134x42 mm",
       "Weight": "586g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Keys": "87",
+      "Color": "Black"
     }
   },
   {
@@ -6183,6 +8303,12 @@
       "Dimensions": "362x134x42 mm",
       "Weight": "586g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Keys": "87",
+      "Color": "White"
     }
   },
   {
@@ -6205,6 +8331,12 @@
       "Dimensions": "362x134x42 mm",
       "Weight": "586g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Keys": "87",
+      "Color": "White"
     }
   },
   {
@@ -6220,6 +8352,12 @@
       "Keys": "102 standard keys+ 10 multimedia keys",
       "Interface": "USB",
       "System Requirements": "Windows 2000/XP/Vista/7/8/10",
+      "Color": "Black"
+    },
+    "filter": {
+      "Brand": "Delux",
+      "Connectivity": "Wireless",
+      "Keys": "102",
       "Color": "Black"
     }
   },
@@ -6238,6 +8376,12 @@
       "Color": "Black",
       "Dimensions": "283*146*15mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connectivity": "Wireless",
+      "Keys": "79",
+      "Color": "Black"
     }
   },
   {
@@ -6257,6 +8401,13 @@
       "Color": "Black-Grey\r\nBlack\r\nGrey-Black",
       "Material": "Durable Metal Panel",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "E-Yooso",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Keys": "87",
+      "Color": "Black-Grey"
     }
   },
   {
@@ -6276,6 +8427,13 @@
       "Color": "Black\r\nWhite",
       "Dimensions": "357 X 129 X 35mm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -6295,6 +8453,13 @@
       "Color": "Black\r\nWhite",
       "Dimensions": "357 X 129 X 35mm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connectivity": "Wireless",
+      "Backlight": "LED",
+      "Cable Length": "1.8 mm",
+      "Color": "Black"
     }
   },
   {
@@ -6318,6 +8483,14 @@
       "Weight": "0.43 kg",
       "Material": "Keycap Material: ABS",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "100",
+      "Color": "Black"
     }
   },
   {
@@ -6332,6 +8505,12 @@
       "Interface": "Wireless Transmission: 2.4 GHz\r\nBluetooth Version: Bluetooth 5.0, Bluetooth 3.0",
       "Color": "Black",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wireless",
+      "Interface": "Bluetooth",
+      "Color": "Black"
     }
   },
   {
@@ -6352,6 +8531,14 @@
       "Dimensions": "311x102x35mm",
       "Weight": "About 0.7 kg",
       "Warranty": "1-year warranty. To claim the warranty, customers must present the original product box"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Backlight": "RGB",
+      "Keys": "68",
+      "Color": "White"
     }
   },
   {
@@ -6370,6 +8557,13 @@
       "Dimensions": "330.2 x 266.7 x 74.93mm",
       "Weight": "675.85 gm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Belkin",
+      "Connectivity": "Wireless",
+      "Interface": "USB Type-C",
+      "Keys": "72",
+      "Color": "Black & Gray"
     }
   },
   {
@@ -6393,6 +8587,15 @@
       "Dimensions": "354*125*36mm",
       "Weight": "542g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wireless",
+      "Interface": "USB",
+      "Backlight": "LED",
+      "Keys": "87",
+      "Cable Length": "1.6 mm",
+      "Color": "Black"
     }
   },
   {
@@ -6421,6 +8624,14 @@
       "Microphone Sensitivity": "-42dB ± 3dB",
       "Sensitivity": "102dB ± 3 dB",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Interface": "USB",
+      "Backlight": "RGB",
+      "Keys": "114",
+      "Cable Length": "1.8 mm"
     }
   },
   {
@@ -6443,6 +8654,13 @@
       "Dimensions": "289 x 103 x 39mm",
       "Weight": "0.50kg",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "Royal",
+      "Connectivity": "Wireless",
+      "Backlight": "RGB",
+      "Keys": "61",
+      "Color": "Black"
     }
   }
 ]

@@ -11,13 +11,23 @@
       "Image": "48M/36M/30M/20M/14M/10M/8M/5M/3M/2M",
       "Video": "5K30fps/4K60fps/4K30fps/2.7K60fps/2.7K30fps/1080P120fps/ 1080P60fps",
       "Display": "Type: LCD\r\nViewfinder & Monitor\t3.5-inch Rotating",
-      "USB Port": "USB Type-C",
+      "USB Port": "Type-C",
       "Memory": "MicroSDHC Up to 512GB (Not Included)",
       "Charging Interface": "Type-C",
       "Capacity": "1450mAh",
       "Wi-Fi": "Yes",
       "Others": "Weight: 219g\r\n8x slow motion",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "ORDRO",
+      "Max Image Resolution": "48 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "3.5 Inch",
+      "Memory Max": "512 GB",
+      "Battery Capacity": "1450 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -31,7 +41,7 @@
       "Image Sensor": "40mm dynamic drivers\r\nSONY 8 million pixels CMOS sensor\r\nUp to F2.2 aperture",
       "Video": "5K Ultra-HD recording",
       "Display": "Viewfinder & Monitor: 3.5-inch (Rotable)\r\nType: LCD\r\nTouchscreen",
-      "USB Port": "USB Type-C",
+      "USB Port": "Type-C",
       "Memory": "MicroSDHC Up to 256GB (Not Included)",
       "Charging Interface": "Type-C",
       "type": "Lithium-ion",
@@ -39,6 +49,15 @@
       "Wi-Fi": "Yes, Can connect to WiFi through App",
       "Others": "Weight: 261 grams\r\nDimensions: 5.31 x 2.16 x 1.49 inches (folded)\r\nVideo can be edited in camera\r\n8x slow motion",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "ORDRO",
+      "Max Video Resolution": "5K",
+      "Display Size": "3.5 Inch",
+      "Memory Max": "256 GB",
+      "Battery Capacity": "3250 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -52,7 +71,7 @@
       "Image": "48MP/24M/20M/16M/14M/10M/8M",
       "Video": "5K/30fps,4K30fps/60fps, 2.7K30fps, 1080P120/60fps/30fps, 720P240/120fps/60fps",
       "Display": "Dual Screen: 2.0 \"IPS screen + 1.3\" small screen",
-      "USB Port": "USB Type-C (charging, data transfer)",
+      "USB Port": "Type-C (charging, data transfer)",
       "Memory": "Micro SD card slot, up to 128GB (U3 TF card)",
       "Charging Interface": "Type-C",
       "Wi-Fi": "Yes",
@@ -60,6 +79,15 @@
       "Slow Motion Recording": "Yes",
       "Others": "EIS, HDMI, Built-in microphone, SupCam Pro App Support",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "48 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2 Inch",
+      "Memory Max": "128 GB",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -81,6 +109,14 @@
       "Water Resistant": "Up to 30M with waterproof case",
       "Others": "6-axis EIS anti-shake\r\nRAM: 4G DDR runs faster",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "24 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "Memory Max": "64 GB",
+      "Battery Capacity": "900 mAh"
     }
   },
   {
@@ -94,7 +130,7 @@
       "Image": "48MP/24M/20M/16M/14M/10M/8M",
       "Video": "5K/30fps,4K30fps/60fps, 2.7K30fps, 1080P120/60fps/30fps, 720P240/120fps/60fps",
       "Display": "Dual Screen: 2.0 \"IPS screen + 1.3\" small screen",
-      "USB Port": "USB Type-C (charging, data transfer)",
+      "USB Port": "Type-C (charging, data transfer)",
       "Memory": "Micro SD card slot, up to 128GB (U3 TF card)",
       "Charging Interface": "Type-C",
       "Wi-Fi": "Yes",
@@ -102,6 +138,15 @@
       "Slow Motion Recording": "Yes",
       "Others": "EIS, HDMI, Built-in microphone, SupCam Pro App Support",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "48 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2 Inch",
+      "Memory Max": "128 GB",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -115,7 +160,7 @@
       "Image": "48MP/24M/20M/16M/14M/10M/8M",
       "Video": "5K/30fps,4K30fps/60fps, 2.7K30fps, 1080P120/60fps/30fps, 720P240/120fps/60fps",
       "Display": "Dual Screen: 2.0 \"IPS screen + 1.3\" small screen",
-      "USB Port": "USB Type-C (charging, data transfer)",
+      "USB Port": "Type-C (charging, data transfer)",
       "Memory": "Micro SD card slot, up to 128GB (U3 TF card)",
       "Charging Interface": "Type-C",
       "Wi-Fi": "Yes",
@@ -123,6 +168,15 @@
       "Slow Motion Recording": "Yes",
       "Others": "EIS, HDMI, Built-in microphone, SupCam Pro App Support",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "48 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2 Inch",
+      "Memory Max": "128 GB",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -143,6 +197,13 @@
       "Slow Motion Recording": "Yes",
       "Others": "EIS Support, Wide angle- 170°",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "24 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2 Inch",
+      "Memory Max": "256 GB"
     }
   },
   {
@@ -163,6 +224,13 @@
       "Slow Motion Recording": "Yes",
       "Others": "EIS Support, Wide angle- 170°",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "24 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2 Inch",
+      "Memory Max": "256 GB"
     }
   },
   {
@@ -182,6 +250,13 @@
       "Slow Motion Recording": "Yes",
       "Others": "EIS Support, Wide angle- 170°, Ismart DV 2 Apps",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "48 MP",
+      "Max Video Resolution": "6K",
+      "Display Size": "2 Inch",
+      "Memory Max": "128 GB"
     }
   },
   {
@@ -205,6 +280,15 @@
       "Slow Motion Recording": "Yes",
       "Others": "EIS Support, Wide angle- 170°, Support APP Sup cam PRO",
       "Manufacturing Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "50 MP",
+      "Max Video Resolution": "6K",
+      "Display Size": "2 Inch",
+      "Memory Max": "256 GB",
+      "Battery Capacity": "1350 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -224,6 +308,13 @@
       "Wi-Fi": "WiFi+4G SIM Supported",
       "Others": "IR Night Vision",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "CB77",
+      "Display Size": "1500 Inch",
+      "Memory Max": "256 GB",
+      "Battery Capacity": "1500 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -245,6 +336,15 @@
       "Wi-Fi": "Yes",
       "Water Resistant": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Image Resolution": "12 MP",
+      "Max Video Resolution": "1080P",
+      "Display Size": "2 Inch",
+      "Memory Max": "64 GB",
+      "Battery Capacity": "900 mAh",
+      "USB Port": "Micro USB"
     }
   },
   {
@@ -266,6 +366,14 @@
       "Water Resistant": "30 m waterproof with case",
       "Others": "4K 30FPS\r\n2.7K 30FPS\r\n1080P 30/60FPS\r\n720P 30/60/120FPS\r\nFOV: 170º\r\nExposure Compensation: “+3.0 ~ -3.0\r\nWhite Balance: Auto/Daylight/Cloudy/Tungsten/ Fluorescent\r\nVideo Format: MP4\r\nVideo Encoding: H.264",
       "Manufacturing Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Video Resolution": "4K",
+      "Display Size": "1.3 Inch",
+      "Memory Max": "128 GB",
+      "Battery Capacity": "900 mAh",
+      "USB Port": "Micro USB"
     }
   },
   {
@@ -291,6 +399,15 @@
       "Slow Motion Recording": "Yes",
       "Others": "Burst Shooting\r\nContinuous Shot\r\nTime-Lapse Movie\r\nPower/mode button\r\nAdjustable 170° field of view",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Akaso",
+      "Max Image Resolution": "12 MP",
+      "Max Video Resolution": "1080P",
+      "Display Size": "2 Inch",
+      "Memory Max": "64 GB",
+      "Battery Capacity": "1050 mAh",
+      "USB Port": "USB"
     }
   },
   {
@@ -314,6 +431,14 @@
       "Water Resistant": "IPX8 (5 meters long time use)\r\n40 meters with case",
       "Others": "Applicable humidity\t15% ~-70%RH\r\nStorage temperature\t-20℃ ~ 60℃\r\nBuilt-in microphone (support external microphone)",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Image Resolution": "16 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "1.28 Inch",
+      "Battery Capacity": "1200 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -332,6 +457,12 @@
       "Slow Motion Recording": "Yes",
       "Others": "Burst Photo\r\nTime Lapse Video\r\nLoop Recording\r\nSuper Wide/Wide/Medium/Narrow Angle",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Akaso",
+      "Max Image Resolution": "20 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch"
     }
   },
   {
@@ -347,9 +478,9 @@
       "Image": "Single: Approx. 40 MP",
       "Video": "4K (4:3): 3840×2880@100/120fps\r\n4K (4:3): 3840×2880@24/25/30/48/50/60fps\r\n4K (16:9): 3840×2160@100/120fps\r\n4K (16:9): 3840×2160@24/25/30/48/50/60fps\r\n2.7K (4:3): 2688×2016@100/120fps\r\n2.7K (4:3): 2688×2016@24/25/30/48/50/60fps\r\n2.7K (16:9): 2688×1512@100/120fps\r\n2.7K (16:9): 2688×1512@24/25/30/48/50/60fps\r\n1080p (16:9): 1920×1080@100/120/200/240fps\r\n1080p (16:9): 1920×1080@24/25/30/48/50/60fps",
       "Display": "Primary Fixed 2.5\" Touchscreen OLED\r\nSecondary Monitor: Fixed 1.4\" Touchscreen OLED",
-      "USB Port": "USB Type-C",
+      "USB Port": "Type-C",
       "Memory": "microSD (up to 1TB)",
-      "Charging Interface": "USB Type-C",
+      "Charging Interface": "Type-C",
       "type": "Li-ion 1S",
       "Capacity": "1950 mAh",
       "Wi-Fi": "Wi-Fi 6.0\r\n802.11 a/b/g/n/ac/ax",
@@ -357,6 +488,16 @@
       "Slow Motion Recording": "4K: 4x (120fps)\r\n2.7K: 4x (120fps)\r\n1080p: 8x (240fps), 4x (120fps)",
       "Others": "Hyperlapse\r\nTimelapse\r\nSuperNight",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Max Image Resolution": "40 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2.5 Inch",
+      "Memory Max": "1024 GB",
+      "Battery Capacity": "1950 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -378,6 +519,15 @@
       "Wi-Fi": "Yes",
       "Water Resistant": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Image Resolution": "16 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "Memory Max": "128 GB",
+      "Battery Capacity": "1050 mAh",
+      "USB Port": "USB"
     }
   },
   {
@@ -393,12 +543,19 @@
       "Image": "Image Format: JPEG",
       "Video": "4K (3840*2160) 30FPS / 2K(2560*1440)30FPS 1296P (2304*1296) 30FPS / 1080P (1920*1080) 30, 60FPS 720P (1280*720) 30, 60, 120FPS",
       "Display": "Screen: 2.33\" IPS touch screen / 1.3\" front screen",
-      "USB Port": "USB Type-C",
+      "USB Port": "Type-C",
       "type": "Action",
       "Capacity": "Battery Capacity: 1200mA Detachable Battery",
       "Wi-Fi": "2.4GHz & 5GHz Wi-Fi",
       "Water Resistant": "30 meters with waterproof case on",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Video Resolution": "4K",
+      "Display Size": "2.33 Inch",
+      "Battery Capacity": "1200 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -421,6 +578,13 @@
       "Slow Motion Recording": "Yes",
       "Others": "Six-axis image stabilization (EIS 2.0)\r\nHandfree Voice Control\r\nTime Lapse\r\n3 x Zoom\r\nSmart remote control with screen\r\nExternal Mic Supported\r\nAKASO Go app with video editing features",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "AKASO",
+      "Max Image Resolution": "20 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "1.2 Inch",
+      "Battery Capacity": "1350 mAh"
     }
   },
   {
@@ -441,6 +605,11 @@
       "Wi-Fi": "2.4GHz",
       "Water Resistant": "30m waterproof with case",
       "Manufacturing Warranty": "No parts warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Display Size": "2 Inch",
+      "Battery Capacity": "1000 mAh"
     }
   },
   {
@@ -462,6 +631,10 @@
       "Features": "Film Ejection: Automatic\r\nFilm Developing Time: Approx. 90 seconds (varies depending on the ambient temperature)",
       "Lens Mount": "2 components, 2 elements, f = 60 mm, 1:12.7",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Display Size": "2 Inch"
     }
   },
   {
@@ -483,6 +656,10 @@
       "Features": "Film Ejection: Automatic\r\nFilm Developing Time: Approx. 90 seconds (varies depending on the ambient temperature)",
       "Lens Mount": "2 components, 2 elements, f = 60 mm, 1:12.7",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Display Size": "2 Inch"
     }
   },
   {
@@ -505,6 +682,14 @@
       "Water Resistant": "IP65",
       "Others": "Time-lapse",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "Memory Max": "128 GB",
+      "Battery Capacity": "2250 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -524,6 +709,10 @@
       "Wi-Fi": "Wi-Fi: 2.4G/ 802.11 b/g/n",
       "Water Resistant": "IP65",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Display Size": "2.33 Inch"
     }
   },
   {
@@ -546,6 +735,13 @@
       "Slow Motion Recording": "Yes",
       "Others": "Six-axis image stabilization (EIS 2.0)\r\nHandfree Voice Control\r\nTime Lapse\r\n3 x Zoom\r\nSmart remote control with screen\r\nExternal Mic Supported\r\nAKASO Go app with video editing features",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "AKASO",
+      "Max Image Resolution": "20 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "1.2 Inch",
+      "Battery Capacity": "1350 mAh"
     }
   },
   {
@@ -564,11 +760,21 @@
       "USB Port": "USB 3.0",
       "Memory": "Flash Memory: 128 GB\r\nCompatible Card: SD Card\r\nUpgradable Memory: 128 GB\r\nOther Storage Features: up to 128 GB",
       "Removable": "Yes",
-      "Charging Interface": "Type C USB",
+      "Charging Interface": "Type-C",
       "Capacity": "1200mAh",
       "Wi-Fi": "2.4 G/5 G (802.11 a/b/g/n)",
       "Water Resistant": "Water Resistance Depth: 30 m",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Image Resolution": "10 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "0.96 Inch",
+      "Memory Max": "128 GB",
+      "Battery Capacity": "1200 mAh",
+      "USB Port": "USB",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -592,6 +798,14 @@
       "Slow Motion Recording": "Yes",
       "Others": "Electronic image stabilization",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "AKASO",
+      "Max Image Resolution": "20 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "Battery Capacity": "1350 mAh",
+      "USB Port": "Micro USB"
     }
   },
   {
@@ -606,11 +820,18 @@
       "Image": "12M,8M,5M optional",
       "Video": "4k 10fps, 3K 30fps",
       "Display": "2.0\"",
-      "USB Port": "1 x USB-C 2.0 Input/Output",
+      "USB Port": "1 x Type-C 2.0 Input/Output",
       "Wi-Fi": "Support WIFI, Waterproof",
       "Water Resistant": "Waterproof Case:\tyi action camera waterproof housing",
       "Others": "Media Type: HDD / Flash Memory\r\nZoom: 10x - 20x\r\nStabilization: EIS\r\nBurst: Support\r\nHD Tv Out: Support\r\nPrivate Mold: Yes\r\nSensor: sunplus 6350,OV4689",
       "Manufacturing Warranty": "12 months"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "12 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -633,6 +854,13 @@
       "Slow Motion Recording": "Yes",
       "Others": "Six-axis image stabilization (EIS 2.0)\r\nHandfree Voice Control\r\nTime Lapse\r\n3 x Zoom\r\nSmart remote control with screen\r\nExternal Mic Supported\r\nAKASO Go app with video editing features",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "AKASO",
+      "Max Image Resolution": "20 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "1.2 Inch",
+      "Battery Capacity": "1350 mAh"
     }
   },
   {
@@ -647,7 +875,7 @@
       "Image": "Image 24MP(5648*4232)\r\nImage 20MP(5120*3840)\r\nImage 16MP(4608*3456)\r\nImage 13MP(4160*3120)\r\nImage 8MP(3264*2448)",
       "Video": "4K(3840*2160)60/30fps\r\n2.7K (2688*1520) 30fps\r\n1080P(1920*1080)120/60/30fps\r\n720P(1280*720)240/120/60/30fps",
       "Display": "2.0\"",
-      "USB Port": "1 x USB-C 2.0 Input/Output",
+      "USB Port": "1 x Type-C 2.0 Input/Output",
       "Memory": "Micro SD card (maximum support 128GB)",
       "type": "Lithium polymer",
       "Capacity": "900mAh",
@@ -657,6 +885,15 @@
       "Slow Motion Recording": "Yes",
       "Others": "Media Type: HDD / Flash Memory\r\nStabilization: EIS\r\nHD Tv Out: Support\r\nCar mode: support\r\nDistortion correction: Support (1080P60/1080P30/720P60/720P30)\r\nCamera function: Normal photo, automatic photo, continuous photo, regular photo\r\nRemote control function: support\r\nVideo function: Ordinary video, slow video, loop video, time-lapse video\r\nWeight: 60g\r\nColor: Black",
       "Manufacturing Warranty": "12 months"
+    },
+    "filter": {
+      "Brand": "Ausek",
+      "Max Image Resolution": "24 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "Memory Max": "128 GB",
+      "Battery Capacity": "900 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -672,7 +909,7 @@
       "Image": "12M (4032X3024 4:3)\r\n10M（3648×2736 4:3）\r\n8M（3264×2448 4:3）\r\n5M（2595×1944 4:3）\r\n3M（2048×1536 4:3）\r\n2MHD (1920X1080 16:9)",
       "Video": "Up to 4K24fps (interpolated)\r\nUp to 2K30fps (native)\r\nUp to 1080p60fps with GYRO stabilization\r\nUp to 720p240fps",
       "Display": "2.33\" UHD IPS SuperSensitive Touch Screen with SJCAM UI",
-      "USB Port": "USB-C",
+      "USB Port": "Type-C",
       "Memory": "Up to 128GB micro SD high-quality 10class and higher memory cards.",
       "Removable": "Yes",
       "Capacity": "1300mAh",
@@ -680,6 +917,15 @@
       "Water Resistant": "Up to 10m without the waterproof case;\r\nUp to 30m with the extra waterproof case.",
       "Slow Motion Recording": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "SJCAM",
+      "Max Image Resolution": "12 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2.33 Inch",
+      "Memory Max": "128 GB",
+      "Battery Capacity": "1300 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -704,6 +950,15 @@
       "HDR Mode": "Yes",
       "Slow Motion Recording": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "20 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2.27 Inch",
+      "Battery Capacity": "1720 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Other"
     }
   },
   {
@@ -719,10 +974,10 @@
       "Image": "JPEG / RAW",
       "Video": "MP4 (H.264 / HEVC)",
       "Display": "Dual Display\r\nFront Screen: 1.4-inch 326 ppi 320×320\r\nRear Screen: 2.25-inch 326 ppi 360×640\r\nFront/Rear Screen Brightness: 750±50 cd/m²",
-      "USB Port": "1 x USB-C 2.0 Input/Output",
+      "USB Port": "1 x Type-C 2.0 Input/Output",
       "Memory": "microSD (up to 256 GB)",
       "Removable": "Yes",
-      "Charging Interface": "USB Type-C",
+      "Charging Interface": "Type-C",
       "type": "LiPo 1S",
       "Capacity": "1770 mAh",
       "Charging Time": "1.5 Hours",
@@ -732,6 +987,14 @@
       "Slow Motion Recording": "4K: 4x (120fps)\r\n2.7K: 4x (120fps)\r\n1080p: 8x (240fps), 4x (120fps)",
       "Others": "Zoom:\r\nDigital Zoom\r\nPhoto: 4x\r\nVideo: 2x (> 60fps), 3x (≤ 60fps, HorizonSteady On), 4x (≤ 60fps, HorizonSteady Off)\r\nSlow Motion/Timelapse: Not available\r\nStabilization:\r\nEIS\r\nRockSteady 3.0\r\nRockSteady+\r\nHorizonBalancing\r\nHorizonSteady",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Display Size": "1.4 Inch",
+      "Memory Max": "256 GB",
+      "Battery Capacity": "1770 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -746,6 +1009,10 @@
       "Video Resolution": "1920 x 1080p / 60 fps (28Mbps)",
       "Memory Card Slot": "SD / SDHC / microSD / microSDHC / Stick Duo / Stick PRO Duo / Stick PRO Duo (High Speed) / Stick PRO HG Duo / Stick Micro / Stick Micro (Mark 2)",
       "Battery Life": "NP-BX1 Rechargeable"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "26.8 Inch"
     }
   },
   {
@@ -770,6 +1037,15 @@
       "HDR Mode": "Yes",
       "Slow Motion Recording": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "23 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2.27 Inch",
+      "Battery Capacity": "1720 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Other"
     }
   },
   {
@@ -794,6 +1070,15 @@
       "HDR Mode": "Yes",
       "Slow Motion Recording": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "23 MP",
+      "Max Video Resolution": "5K",
+      "Display Size": "2.27 Inch",
+      "Battery Capacity": "1720 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Other"
     }
   },
   {
@@ -833,6 +1118,11 @@
       "Focal Length": "Equivalent to 1.6x the focal length of the lens",
       "Maximum Aperture": "Aperture priority AE",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.1 MP",
+      "Display Size": "24.1 Inch"
     }
   },
   {
@@ -845,15 +1135,23 @@
     "Specifications": {
       "Image Sensor": "1/1.3-inch CMOS",
       "Sensor Resolution": "3648×2736",
-      "USB Port": "USB-C",
+      "USB Port": "Type-C",
       "Memory": "microSD (up to 512 GB)",
-      "Charging Interface": "USB-C",
+      "Charging Interface": "Type-C",
       "type": "LiPo 1S",
       "Capacity": "1770 mAh",
       "Wi-Fi": "802.11 a/b/g/n/ac",
       "Water Resistant": "IP68 waterproof",
       "Slow Motion Recording": "4K: 4× (120fps)\r\n2.7K: 4× (120fps)\r\n1080p: 8× (240fps), 4× (120fps)",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Display Size": "1 Inch",
+      "Memory Max": "512 GB",
+      "Battery Capacity": "1770 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -869,10 +1167,10 @@
       "Image": "JPEG / RAW",
       "Video": "MP4 (H.264 / HEVC)",
       "Display": "Dual Display\r\nFront Screen: 1.4-inch 326 ppi 320×320\r\nRear Screen: 2.25-inch 326 ppi 360×640\r\nFront/Rear Screen Brightness: 750±50 cd/m²",
-      "USB Port": "1 x USB-C 2.0 Input/Output",
+      "USB Port": "1 x Type-C 2.0 Input/Output",
       "Memory": "microSD (up to 256 GB)",
       "Removable": "Yes",
-      "Charging Interface": "USB Type-C",
+      "Charging Interface": "Type-C",
       "type": "LiPo 1S",
       "Capacity": "1770 mAh",
       "Charging Time": "1.5 Hours",
@@ -882,6 +1180,14 @@
       "Slow Motion Recording": "4K: 4x (120fps)\r\n2.7K: 4x (120fps)\r\n1080p: 8x (240fps), 4x (120fps)",
       "Others": "Zoom:\r\nDigital Zoom\r\nPhoto: 4x\r\nVideo: 2x (> 60fps), 3x (≤ 60fps, HorizonSteady On), 4x (≤ 60fps, HorizonSteady Off)\r\nSlow Motion/Timelapse: Not available\r\nStabilization:\r\nEIS\r\nRockSteady 3.0\r\nRockSteady+\r\nHorizonBalancing\r\nHorizonSteady",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Display Size": "1.4 Inch",
+      "Memory Max": "256 GB",
+      "Battery Capacity": "1770 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -919,6 +1225,10 @@
       "Focal Length": "Equivalent to 1.6x the focal length of the lens",
       "Maximum Aperture": "Shutter Priority; Aperture Priority",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Display Size": "18 Inch"
     }
   },
   {
@@ -934,10 +1244,10 @@
       "Image": "27.13MP (5568x4872)",
       "Video": "5.3K: 8:7 (5312x4648)\r\n5.3K: 4:3 (5312x3984)\r\n5.3K: 16:9 (5312x2988)",
       "Display": "Rear- 2.27\" Touch LCD\r\nFront- 1.4\" Color LCD",
-      "USB Port": "USB Type-C",
+      "USB Port": "Type-C",
       "Memory": "1 microSD with at least V30 or higher UHS-3 rating",
       "Removable": "Yes",
-      "Charging Interface": "USB Type-C",
+      "Charging Interface": "Type-C",
       "type": "Enduro Battery",
       "Capacity": "1720mAh",
       "Wi-Fi": "Wi-Fi Frequency: 2.4GHZ; 5GHz\r\nWi-Fi Protocol: 802.11 a/b/g/n/ac",
@@ -946,6 +1256,15 @@
       "HDR Mode": "Yes",
       "Slow Motion Recording": "8x - 2.7K; 1080p\r\n4x - 4K\r\n2x - 5.3K",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "27.13 MP",
+      "Display Size": "2.27 Inch",
+      "Memory Max": "1 GB",
+      "Battery Capacity": "1720 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -959,7 +1278,7 @@
       "Sensor Resolution": "1920 x 1080",
       "Image": "27MP",
       "Display": "2.27\" Fixed Touchscreen LCD\r\nFront: 1.4\" LCD Live-View Monitor",
-      "USB Port": "1x USB-C 3.0 / 3.1/3.2 Gen 1",
+      "USB Port": "1x Type-C 3.0 / 3.1/3.2 Gen 1",
       "Memory": "Single Slot: microSD/microSDHC (UHS-I) [512 Maximum / U3/V30 or Faster Recommended]",
       "type": "Rechargeable Battery",
       "Capacity": "1720mAh",
@@ -967,6 +1286,14 @@
       "Tripod/Monopod Mountable": "Yes",
       "HDR Mode": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "27 MP",
+      "Display Size": "2.27 Inch",
+      "Memory Max": "512 GB",
+      "Battery Capacity": "1720 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -1005,6 +1332,10 @@
       "Focal Length": "f/3.5-5.6 III Lens",
       "Maximum Aperture": "Aperture priority AE",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Display Size": "24.1 Inch"
     }
   },
   {
@@ -1017,15 +1348,23 @@
     "Specifications": {
       "Image Sensor": "1/1.3-inch CMOS",
       "Sensor Resolution": "3648×2736",
-      "USB Port": "USB-C",
+      "USB Port": "Type-C",
       "Memory": "microSD (up to 512 GB)",
-      "Charging Interface": "USB-C",
+      "Charging Interface": "Type-C",
       "type": "LiPo 1S",
       "Capacity": "1770 mAh",
       "Wi-Fi": "802.11 a/b/g/n/ac",
       "Water Resistant": "IP68 waterproof",
       "Slow Motion Recording": "4K: 4× (120fps)\r\n2.7K: 4× (120fps)\r\n1080p: 8× (240fps), 4× (120fps)",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Display Size": "1 Inch",
+      "Memory Max": "512 GB",
+      "Battery Capacity": "1770 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -1064,6 +1403,10 @@
       "Focal Length": "Equivalent to 1.6x the focal length of the lens",
       "Maximum Aperture": "Aperture priority AE",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Display Size": "24.1 Inch"
     }
   },
   {
@@ -1089,6 +1432,16 @@
       "Tripod/Monopod Mountable": "1 x 1/4\"-20 Female (Bottom)",
       "HDR Mode": "Yes",
       "Manufacturing Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "Insta360",
+      "Max Image Resolution": "72 MP",
+      "Max Video Resolution": "6K",
+      "Display Size": "2.29 Inch",
+      "Memory Max": "1024 GB",
+      "Battery Capacity": "1800 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -1115,6 +1468,16 @@
       "Slow Motion Recording": "Yes",
       "Others": "6-axis gyroscope\r\n3 Microphone\r\nShutter Speed:\r\nPhoto: 1/8000 - 120s\r\nVideo: 1/8000 - to the limit of frames per second\r\nWhite Balance: Auto, 2000-10000K\r\nMax. Video Bitrate: 170Mbps\r\nVideo Modes: Video (with built-in Active HDR), FreeFrame Video, PureVideo, Slow Motion, Starlapse, Timelapse, TimeShift, Pre-Recording, Loop Recording\r\nPhoto Modes: Photo, HDR Photo, Interval, Burst Photo",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Insta360",
+      "Max Image Resolution": "48 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2.4 Inch",
+      "Memory Max": "1024 GB",
+      "Battery Capacity": "1650 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -1142,6 +1505,15 @@
       "Slow Motion Recording": "Burst Slo-Mo: \r\n13x (400fps) - 720p for 15s\r\n12x (360fps) - 900p for 15s\r\n4x - 5.3K for 5s",
       "Others": "Looping Video\r\nHindSight\r\nScheduled Capture\r\nDuration Capture\r\nLive Streaming (1080p60 w/HyperSmooth 4.0 )\r\nWebcam Mode up to 1080p30\r\nTimeWarp Video\r\nStar Trails\r\nLight Painting\r\nVehicle Light Trails\r\nBluetooth - 5.3",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "27.6 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2.27 Inch",
+      "Memory Max": "1 GB",
+      "Battery Capacity": "1900 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -1157,13 +1529,20 @@
       "Image": "8000x6000 (4:3)\r\n8000x4500 (16:9)\r\n4000x3000 (4:3)\r\n4000x2250 (16:9)",
       "Video": "5760 x 2880",
       "USB Port": "Type-C",
-      "Charging Interface": "1 x USB 3.1 (Type-C)",
+      "Charging Interface": "Type-C",
       "Capacity": "1445mAh",
       "Wi-Fi": "Yes",
       "Water Resistant": "16ft (5m)",
       "HDR Mode": "Yes",
       "Slow Motion Recording": "Yes",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Insta360",
+      "Display Size": "360 Inch",
+      "Battery Capacity": "1445 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -1178,7 +1557,7 @@
       "Pixels": "Approx. 20.1 Megapixels",
       "Monitor": "Size : 3\"\r\nResolution: 921,600 Dot\r\nDisplay Type: Articulating Touchscreen LCD",
       "Flash": "No",
-      "Interface": "Media/Memory Card Slot: Single Slot: SD/SDHC/SDXC [128 GB Maximum]\r\nVideo I/O: 1 X Micro-HDMI Output\r\nAudio I/O: 1 X 1/8\" / 3.5 Mm TRS Stereo Input\r\nPower I/O: 1 X USB-C Input\r\nOther I/O: 1 X USB-C (USB 2.0) Data Output (Shared With Power Input)",
+      "Interface": "Media/Memory Card Slot: Single Slot: SD/SDHC/SDXC [128 GB Maximum]\r\nVideo I/O: 1 X Micro-HDMI Output\r\nAudio I/O: 1 X 1/8\" / 3.5 Mm TRS Stereo Input\r\nPower I/O: 1 X Type-C Input\r\nOther I/O: 1 X Type-C (USB 2.0) Data Output (Shared With Power Input)",
       "Lens Type": "ZEISS 20mm-Equivalent f/2-f/8 Lens",
       "Aperture": "Maximum Aperture: F/2\r\nMinimum Aperture; F/8",
       "Focal Length": "Focal Length: 7.6mm (35mm Equivalent Focal Length: 20mm)",
@@ -1188,6 +1567,10 @@
       "White Balance": "Presets: Auto, Cloudy, Color Temperature, Custom, Daylight, Fluorescent (Cool White), Fluorescent (Day White), Fluorescent (Daylight), Fluorescent (Warm White), Incandescent, Shade, Underwater, White Balance Adjustment",
       "Display": "3.0 Inch",
       "Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "3 Inch"
     }
   },
   {
@@ -1203,9 +1586,9 @@
       "Image": "Single: Approx. 40 MP",
       "Video": "4K (4:3): 3840×2880@100/120fps\r\n4K (4:3): 3840×2880@24/25/30/48/50/60fps\r\n4K (16:9): 3840×2160@100/120fps\r\n4K (16:9): 3840×2160@24/25/30/48/50/60fps\r\n2.7K (4:3): 2688×2016@100/120fps\r\n2.7K (4:3): 2688×2016@24/25/30/48/50/60fps\r\n2.7K (16:9): 2688×1512@100/120fps\r\n2.7K (16:9): 2688×1512@24/25/30/48/50/60fps\r\n1080p (16:9): 1920×1080@100/120/200/240fps\r\n1080p (16:9): 1920×1080@24/25/30/48/50/60fps",
       "Display": "Primary Fixed 2.5\" Touchscreen OLED\r\nSecondary Monitor: Fixed 1.4\" Touchscreen OLED",
-      "USB Port": "USB Type-C",
+      "USB Port": "Type-C",
       "Memory": "microSD (up to 1TB)",
-      "Charging Interface": "USB Type-C",
+      "Charging Interface": "Type-C",
       "type": "Li-ion 1S",
       "Capacity": "1950 mAh",
       "Wi-Fi": "Wi-Fi 6.0\r\n802.11 a/b/g/n/ac/ax",
@@ -1213,6 +1596,16 @@
       "Slow Motion Recording": "4K: 4x (120fps)\r\n2.7K: 4x (120fps)\r\n1080p: 8x (240fps), 4x (120fps)",
       "Others": "Hyperlapse\r\nTimelapse\r\nSuperNight",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Max Image Resolution": "40 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2.5 Inch",
+      "Memory Max": "1024 GB",
+      "Battery Capacity": "1950 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -1234,6 +1627,14 @@
       "HDR Mode": "Yes",
       "Slow Motion Recording": "Yes",
       "Manufacturing Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "Insta360",
+      "Max Image Resolution": "72 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2.5 Inch",
+      "Battery Capacity": "2290 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -1272,6 +1673,11 @@
       "Photo Style": "[Still image] Toy Camera, Pop Color, Posterization, Retro Photo, Soft High-key, Partial Color, High Contrast Mono., Soft Focus, HDR Painting, Richtone Monochrome, Miniature, Watercolor, Illustration, [Movie] Toy Camera, Pop Color, Posterization, Retro Photo, Soft High-key, Partial Color, High Contrast Mono.",
       "Color Modes`": "sRGB, Adobe RGB",
       "Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Video Resolution": "4K",
+      "Display Size": "20.1 Inch"
     }
   },
   {
@@ -1307,7 +1713,7 @@
       "Movie Type": "MOV\r\nMP4",
       "Movie Size": "Internal Recording Modes\t\r\nH.264/MOV/MP4\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\n1920 x 1080p at 23.98/25/29.97/50/59.94/100 fps\n\r\nExternal Recording Modes\t\r\nHDMI\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\n1920 x 1080p up to 23.98/25/29.97/50/59.94 fps",
       "Storage Type": "Single Slot: SD/SDHC/SDXC (UHS-I)",
-      "USB": "1 x USB-C Input",
+      "USB": "1 x Type-C Input",
       "HDMI": "UHD 4K (3840 x 2160) at 23.98/25/29.97 fps",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Wireless": "2.4 / 5 GHz Wi-Fi 5 (802.11ac)\r\nBluetooth 4.2",
@@ -1319,6 +1725,12 @@
       "Dimensions (W x H x D)": "5 x 2.9 x 2.3\" / 128 x 73.5 x 59.5 mm",
       "Weight (Body Only)": "12.3 oz / 350 g (Body Only)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "20.9 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "20.9 Inch"
     }
   },
   {
@@ -1334,10 +1746,10 @@
       "Image": "27.13MP (5568x4872)",
       "Video": "5.3K: 8:7 (5312x4648)\r\n5.3K: 4:3 (5312x3984)\r\n5.3K: 16:9 (5312x2988)",
       "Display": "Rear- 2.27\" Touch LCD\r\nFront- 1.4\" Color LCD",
-      "USB Port": "USB Type-C",
+      "USB Port": "Type-C",
       "Memory": "1 microSD with at least V30 or higher UHS-3 rating",
       "Removable": "Yes",
-      "Charging Interface": "USB Type-C",
+      "Charging Interface": "Type-C",
       "type": "Enduro Battery",
       "Capacity": "1720mAh",
       "Wi-Fi": "Wi-Fi Frequency: 2.4GHZ; 5GHz\r\nWi-Fi Protocol: 802.11 a/b/g/n/ac",
@@ -1346,6 +1758,15 @@
       "HDR Mode": "Yes",
       "Slow Motion Recording": "8x - 2.7K; 1080p\r\n4x - 4K\r\n2x - 5.3K",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "27.13 MP",
+      "Display Size": "2.27 Inch",
+      "Memory Max": "1 GB",
+      "Battery Capacity": "1720 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -1381,6 +1802,11 @@
       "Lens Mount": "EF mount",
       "Focal Length": "Approx. 1.6x the focal length of the lens",
       "Warranty": "03 Years Service  Warranty ( No Parts Warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Video Resolution": "4K",
+      "Display Size": "8 Inch"
     }
   },
   {
@@ -1394,7 +1820,7 @@
       "Sensor Resolution": "1920 x 1080",
       "Image": "27MP",
       "Display": "2.27\" Fixed Touchscreen LCD\r\nFront: 1.4\" LCD Live-View Monitor",
-      "USB Port": "1x USB-C 3.0 / 3.1/3.2 Gen 1",
+      "USB Port": "1x Type-C 3.0 / 3.1/3.2 Gen 1",
       "Memory": "Single Slot: microSD/microSDHC (UHS-I) [512 Maximum / U3/V30 or Faster Recommended]",
       "type": "Rechargeable Battery",
       "Capacity": "1720mAh",
@@ -1402,6 +1828,14 @@
       "Tripod/Monopod Mountable": "Yes",
       "HDR Mode": "Yes",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "GoPro",
+      "Max Image Resolution": "27 MP",
+      "Display Size": "2.27 Inch",
+      "Memory Max": "512 GB",
+      "Battery Capacity": "1720 mAh",
+      "USB Port": "Type-C"
     }
   },
   {
@@ -1437,6 +1871,11 @@
       "Lens Mount": "EF mount",
       "Focal Length": "Approx. 1.6x the focal length of the lens",
       "Warranty": "03 Years Service  Warranty ( No Parts Warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Video Resolution": "4K",
+      "Display Size": "8 Inch"
     }
   },
   {
@@ -1472,6 +1911,11 @@
       "Focal Length": "Equivalent to 1.6x the focal length of the lens",
       "Maximum Aperture": "Aperture priority AE",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.1 MP",
+      "Display Size": "24.1 Inch"
     }
   },
   {
@@ -1506,6 +1950,11 @@
       "Photo Style": "Standard, Vivid, Portrait, Landscape, Sunset, Black & White, Sepia",
       "Color Modes`": "sRGB standard (with sYCC gamut) and Adobe RGB standard compatible with TRILUMINOS Color",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Video Resolution": "4K",
+      "Display Size": "23.5 Inch"
     }
   },
   {
@@ -1541,7 +1990,7 @@
       "Movie Type": "MOV\r\nMP4",
       "Movie Size": "Internal Recording Modes\t\r\nH.264/MOV/MP4\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\n1920 x 1080p at 23.98/25/29.97/50/59.94/100 fps\n\r\nExternal Recording Modes\t\r\nHDMI\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\n1920 x 1080p up to 23.98/25/29.97/50/59.94 fps",
       "Storage Type": "Single Slot: SD/SDHC/SDXC (UHS-I)",
-      "USB": "1 x USB-C Input",
+      "USB": "1 x Type-C Input",
       "HDMI": "UHD 4K (3840 x 2160) at 23.98/25/29.97 fps",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Wireless": "2.4 / 5 GHz Wi-Fi 5 (802.11ac)\r\nBluetooth 4.2",
@@ -1556,6 +2005,12 @@
       "Focal Length": "16 to 50mm (35mm Equivalent: 24 to 75mm)",
       "Maximum Aperture": "f/3.5 to 6.3",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "20.9 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "20.9 Inch"
     }
   },
   {
@@ -1586,6 +2041,12 @@
       "Battery": "1 x Rechargeable Li-ion Battery LP-E17",
       "Dimensions (W x H x D)": "131.0 × 102.6 × 76.2",
       "Weight (Body Only)": "515 g"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.1 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.1 Inch"
     }
   },
   {
@@ -1627,7 +2088,7 @@
       "Image Size": "3:2 Raw\r\n24 MP (6000 x 4000)\r\n3:2 JPEG\r\n24 MP (6000 x 4000)\r\n10.6 MP (3984 x 2656)\r\n5.9 MP (2976 x 1984)\r\n4:3 JPEG\r\n21.3 MP (5328 x 4000)\r\n9.5 MP (3552 x 2664)\r\n5.3 MP (2656 x 1992)\r\n16:9 JPEG\r\n20.2 MP (6000 x 3368)\r\n8.9 MP (3984 x 2240)\r\n5 MP (2976 x 1680)\r\n1:1 JPEG\r\n16 MP (4000 x 4000)\r\n7.1 MP (2656 x 2656)\r\n3.9 MP (1984 x 1984)",
       "Movie Type": "H.264/H.265/MPEG-4\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\n1920 x 1080 at 23.98/25/29.97/50/59.94/100/120 fps",
       "Storage Type": "Single Slot: SD/SDHC/SDXC",
-      "USB": "1 x USB-C Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C Input/Output (Shared with Power Input)",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Wireless": "Wi-Fi 4 (802.11n), Bluetooth 4.2",
@@ -1644,6 +2105,12 @@
       "Lens Mount": "Canon RF",
       "Description": "Compatible Lenses:\r\nCanon RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.2 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -1673,6 +2140,12 @@
       "Weight (Body Only)": "13.93 oz / 395 g (Body Only)",
       "Features": "Auto and Manual Focus\r\nPhase Detection: 209 (Autofocus Points)\r\nAutofocus Sensitivity: -2 to +19 EV\r\nCamera Format: APS-C (1.5x Crop Factor)\r\nBit Depth: 14-Bit\r\nImage Stabilization: Digital (Video Only)\r\nVideo Encoding: NTSC/PAL",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "20.9 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "20.9 Inch"
     }
   },
   {
@@ -1728,6 +2201,11 @@
       "Operating Temperature": "32 to 104°F / 0 to 40°C",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "24.2 MP",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -1765,6 +2243,11 @@
       "Lens Mount": "EF/EF-S",
       "Focal Length": "18-55mm",
       "Maximum Aperture": "f/4-5.6"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.1 Inch"
     }
   },
   {
@@ -1810,7 +2293,7 @@
       "Movie Type": "RF/EF lenses: 4K, Full HD, HD.\r\nEF-S lenses: 4K or HD\r\nMPEG4 AVC/H.264 variable (average) bit rate, Audio: AAC",
       "Movie Size": "4K (16:9) 3840 x 2160 (25, 23.98 fps) intra frame\r\n4K Time-lapse (16:9) 3840 x 2160 (29.97, 25 fps) All-I\r\nFull HD (16:9) 1920 x 1080 (59.94, 50, 29.97, 25 fps) intra frame, intra frame lite (29.97, 25 fps)\r\nFull HD HDR (16:9) 1920 x 1080 (29.97, 25 fps) intra frame\r\nHD (16:9) 1280 x 720 (59.94, 29.97, 50, 25 fps) intra frame\r\nHD HDR(16:9) 1280 x 720 (29.97, 25 fps) intra frame",
       "Storage Type": "1x SD/SDHC/SDXC and UHS-II",
-      "USB": "1 x USB-C (USB 2.0) Data Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C (USB 2.0) Data Input/Output (Shared with Power Input)",
       "HDMI": "1 x Micro-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Output",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Input",
@@ -1830,6 +2313,11 @@
       "Lens Mount": "Canon RF mount",
       "Description": "Compatible Lenses:\r\nCanon RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "26.2 MP",
+      "Display Size": "26.2 Inch"
     }
   },
   {
@@ -1854,6 +2342,11 @@
       "Light Metering": "Metering Range\t-2 to 20 EV",
       "ISO Sensivity": "100 to 32000 (Extended: 100 to 102400)",
       "White Balance": "Auto, Cloudy, Color Temperature, Color Temperature Filter, Custom, Daylight, Flash, Fluorescent (Cool White), Fluorescent (Day White), Fluorescent (Daylight), Fluorescent (Warm White), Incandescent, Shade, Underwater"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "24.2 MP",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -1886,6 +2379,12 @@
       "Focal Length": "16 to 50mm (35mm Equivalent Focal Length: 24 to 75mm)",
       "Maximum Aperture": "f/3.5 to 6.3",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "20.9 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "20.9 Inch"
     }
   },
   {
@@ -1930,7 +2429,7 @@
       "Movie Type": "MP4 Video:\r\n4K UHD, Full HD (16:9)\r\n4K/ Full HD: H.265 / HEVC, Audio: AAC / Linear PCM\r\n4K/ Full HD: H.264 / MPEG-4 AVC, Audio: AAC / Linear PCM",
       "Movie Size": "4K UHD Fine (16:9) 3840 x 2160 (29.97, 25, 23.98 fps) inter frame / light inter frame17\r\n4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame\r\n4K UHD Crop (16:9) 3840 x 2160 (59.94, 50 fps) inter frame / light inter frame\r\n4K / Full HD Time-lapse (16:9) 3840 x 2160 / 1920 x 1080 (29.97, 25 fps) intra frame18\r\nFull HD (16:9) 1920 x 1080 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame\r\nFull HD (16:9) 1920 x 1080 HDR (29.97, 25 fps) inter frame",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Wireless": "2.4 GHz Wi-Fi (802.11b/g)\r\nBluetooth",
@@ -1948,6 +2447,12 @@
       "Lens Mount": "Canon RF mount",
       "Description": "Compatible Lenses:\r\nCanon RF-S/RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.2 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -1976,7 +2481,7 @@
       "Dots": "Approx. 1.04 million dots",
       "Continuous Shooting": "Electronic Shutter\r\nApprox. 30fps (1.25x Crop)\r\nJPEG\r\n128frames\r\nCompressed RAW\r\n78frames\r\nLossless Compressed RAW\r\n46frames\r\nUncompressed RAW\r\n23frames\r\nCompressed RAW + JPEG\r\n32frames\r\nLossless Compressed RAW + JPEG\r\n27frames\r\nUncompressed RAW + JPEG\r\n21frames\r\nElectronic Shutter\r\nApprox. 20fps (1.25x Crop)\r\nJPEG\r\n141frames\r\nCompressed RAW\r\n81frames\r\nLossless Compressed RAW\r\n47frames\r\nUncompressed RAW\r\n24frames\r\nCompressed RAW + JPEG\r\n46frames\r\nLossless Compressed RAW + JPEG\r\n38frames\r\nUncompressed RAW + JPEG\r\n21frames\r\nElectronic Shutter\r\nApprox. 10fps (1.25x Crop)\r\nJPEG\r\n204frames\r\nCompressed RAW\r\n113frames\r\nLossless Compressed RAW\r\n57frames\r\nUncompressed RAW\r\n25frames\r\nCompressed RAW + JPEG\r\n66frames\r\nLossless Compressed RAW + JPEG\r\n54frames\r\nUncompressed RAW + JPEG\r\n22frames\r\nElectronic Shutter\r\nApprox. 20fps\r\nJPEG\r\n127frames\r\nCompressed RAW\r\n60frames\r\nLossless Compressed RAW\r\n34frames\r\nUncompressed RAW\r\n23frames\r\nCompressed RAW + JPEG\r\n34frames\r\nLossless Compressed RAW + JPEG\r\n26frames\r\nUncompressed RAW + JPEG\r\n21frames\r\nElectronic Shutter\r\nApprox. 10fps\r\nJPEG\r\n155frames\r\nCompressed RAW\r\n79frames\r\nLossless Compressed RAW\r\n41frames\r\nUncompressed RAW\r\n24frames\r\nCompressed RAW + JPEG\r\n48frames\r\nLossless Compressed RAW + JPEG\r\n39frames\r\nUncompressed RAW + JPEG\r\n22frames\r\nElectronic Shutter\r\nApprox. 8fps\r\nJPEG\r\n173frames\r\nCompressed RAW\r\n82frames\r\nLossless Compressed RAW\r\n41frames\r\nUncompressed RAW\r\n25frames\r\nCompressed RAW + JPEG\r\n52frames\r\nLossless Compressed RAW + JPEG\r\n37frames\r\nUncompressed RAW + JPEG\r\n23frames\r\nMechanical Shutter\r\nApprox. 8.0fps\r\nJPEG\r\n173frames\r\nCompressed RAW\r\n82frames\r\nLossless Compressed RAW\r\n38frames\r\nUncompressed RAW\r\n25frames\r\nCompressed RAW + JPEG\r\n52frames\r\nLossless Compressed RAW + JPEG\r\n34frames\r\nUncompressed RAW + JPEG\r\n23frames\r\nCL\r\nMechanical Shutter\r\nApprox. 5.0fps\r\nJPEG\r\n1000+frames\r\nCompressed RAW\r\n163frames\r\nLossless Compressed RAW\r\n48frames\r\nUncompressed RAW\r\n27frames\r\nMechanical Shutter\r\nApprox. 4.0fps\r\nJPEG\r\n1000+frames\r\nCompressed RAW\r\n1000+frames\r\nLossless Compressed RAW\r\n65frames\r\nUncompressed RAW\r\n28frames\r\nMechanical Shutter\r\nApprox. 3.0fps\r\nJPEG\r\n1000+frames\r\nCompressed RAW\r\n1000+frames\r\nLossless Compressed RAW\r\n152frames\r\nUncompressed RAW\r\n38frames\r\nPre-shot\r\nElectronic Shutter, 1.25 X Crop\r\nApprox. 30fps\r\n30frames\r\n75frames\r\n105frames\r\nElectronic Shutter, 1.25 X Crop\r\nApprox. 20fps\r\n20frames\r\n576frames\r\n596frames\r\nElectronic Shutter, 1.25 X Crop\r\nApprox. 10fps\r\n10frames\r\n1000+frames\r\n1000+frames\r\nElectronic Shutter\r\nApprox. 20fps\r\n20frames\r\n998frames\r\n1018frames\r\nElectronic Shutter\r\nApprox. 10fps\r\n10frames\r\n1000+frames\r\n1000+frames\r\nElectronic Shutter\r\nApprox. 8fps\r\n8frames\r\n1000+frames\r\n1000+frames",
       "Storage Type": "SD Card (-2GB)\r\nSDHC Card (-32GB)\r\nSDXC Card (-2TB)\r\nUHS-I\r\nUHS-II\r\nVideo Speed Class V90",
-      "USB": "USB Type-C (USB3.2 Gen2x1)",
+      "USB": "Type-C (USB3.2 Gen2x1)",
       "HDMI": "HDMI Micro connector (Type D)",
       "Microphone": "ø3.5mm, stereo mini connector (Microphone)\r\nHot shoe",
       "Wireless": "IEEE802.11a/b/g/n/ac (standard wireless protocol)",
@@ -1990,6 +2495,12 @@
       "Operating Temperature": "0℃～+40℃",
       "Operating Humidity": "10%~80% (no condensation)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "26.1 MP",
+      "Max Video Resolution": "2.7K",
+      "Display Size": "26.1 Inch"
     }
   },
   {
@@ -2026,7 +2537,7 @@
       "Continuous Shooting": "Mechanical Shutter\r\nUp to 8 fps at 26.1 MP for up to 23 Frames (Raw) / 105 Frames (JPEG)\r\nElectronic Shutter\r\nUp to 20 fps at 26.1 MP for up to 17 Frames (Raw) / 32 Frames (JPEG)\r\nUp to 30 fps at 20.9 MP for up to 17 Frames (Raw) / 29 Frames (JPEG)\r\nUp to 20 fps at 20.9 MP for up to 20 Frames (Raw) / 79 Frames (JPEG)\r\nUp to 10 fps at 20.9 MP for up to 26 Frames (Raw) / 153 Frames (JPEG)",
       "Image Type": "JPEG: Exif Ver.2.3 *1\r\nRAW: 14bit RAW (RAF original format)",
       "Storage Type": "SD memory card ( - 2GB) / SDHC memory card ( - 32GB) / SDXC memory card ( - 2TB)\r\nUHS-I",
-      "USB": "USB Type-C (USB3.2 Gen1 x 1)",
+      "USB": "Type-C (USB3.2 Gen1 x 1)",
       "HDMI": "HDMI micro connector (Type D)",
       "Microphone": "ø3.5mm, stereo mini connector (Microphone)",
       "Headphone": "ø3.5mm, stereo mini connector (Microphone) / ø2.5mm, Remote Release Connector, Hot shoe, Synchronized terminal",
@@ -2043,6 +2554,11 @@
       "Operating Humidity": "10 to 80%",
       "Lens Mount": "FUJIFILM X mount",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "26.1 MP",
+      "Display Size": "26.1 Inch"
     }
   },
   {
@@ -2075,6 +2591,12 @@
       "Dimension": "Approx. 73mm x 80.5mm x 142.5mm (Approx. 73mm x 80.5mm x 173mm (NP-FV70A) (including supplied battery)), Approx. 2 7/8inch x 3 1/4inch x 5 5/8inch (Approx. 2 7/8inch x 3 1/4inch x 6 7/8inch (NP-FV70A) (including supplied battery))24",
       "Weight": "Weight (main unit only): Approx. 510g, Approx. 1lb 2.0oz\r\nWeight (including supplied battery): Approx. 560g (NP-FV50A), Approx. 600g (NP-FV70A) (supplied battery), Approx. 660g (NP-FV100A), Approx. 1lb 3.8oz (NP-FV50A), Approx. 1lb 5.2oz (NP-FV70A) (supplied battery), Approx. 1lb 7.3oz (NP-FV100A)26",
       "Power": "Battery Type: InfoLITHIUM with AccuPowerTM Meter System (V Series)21\r\nPower Consumption (LCD): 4K: 5.1W22\r\nPower Requirements: 6.8V/7.3V (battery pack), 8.4V (AC Adaptor)\r\nCharge on camcorder(Charging time with supplied Battery): Yes (approx. 3h 25min)23\r\nUSB Charging: DC 5V 1500mA"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "16.6 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "4 Inch"
     }
   },
   {
@@ -2105,6 +2627,12 @@
       "Dimensions (W x H x D)": "5.54 x 4.13 x 3.02\" / 140.7 x 104.8 x 76.8 mm",
       "Weight (Body Only)": "1.54 lb / 701 g (Body Only)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "32.5 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "4 Inch"
     }
   },
   {
@@ -2149,7 +2677,7 @@
       "Movie Type": "MP4 Video:\r\n4K UHD, Full HD (16:9)\r\n4K/ Full HD: H.265 / HEVC, Audio: AAC / Linear PCM\r\n4K/ Full HD: H.264 / MPEG-4 AVC, Audio: AAC / Linear PCM",
       "Movie Size": "4K UHD Fine (16:9) 3840 x 2160 (29.97, 25, 23.98 fps) inter frame / light inter frame17\r\n4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame\r\n4K UHD Crop (16:9) 3840 x 2160 (59.94, 50 fps) inter frame / light inter frame\r\n4K / Full HD Time-lapse (16:9) 3840 x 2160 / 1920 x 1080 (29.97, 25 fps) intra frame18\r\nFull HD (16:9) 1920 x 1080 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame\r\nFull HD (16:9) 1920 x 1080 HDR (29.97, 25 fps) inter frame",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Wireless": "2.4 GHz Wi-Fi (802.11b/g)\r\nBluetooth",
@@ -2169,6 +2697,12 @@
       "Maximum Aperture": "f/4.5 to 6.3",
       "Description": "Compatible Lenses:\r\nCanon RF-S/RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.2 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -2205,6 +2739,11 @@
       "Focal Length": "Equivalent to 1.6x the focal length of the lens",
       "Description": "Image Stabilisation: \r\nOptical Image Stabilizer on compatible lenses.\r\nMovie: Movie Digital IS",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "32.5 MP",
+      "Display Size": "45 Inch"
     }
   },
   {
@@ -2263,6 +2802,11 @@
       "Lens Mount": "Nikon Z",
       "Maximum Aperture": "",
       "Warranty": "3 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "24.3 MP",
+      "Display Size": "24.3 Inch"
     }
   },
   {
@@ -2293,10 +2837,10 @@
       "Microphone": "Yes (3.5 mm Stereo minijack)",
       "Headphone": "Yes (3.5 mm Stereo minijack)",
       "Wireless": "Wi-Fi, Bluetooth",
-      "Others": "Multi Interface Shoe: Yes (with Digital Audio Interface) *Sony accessories for the Accessory Shoe can be attached.\r\nPC Interface: Mass-storage / MTP\r\nUSB Type-C Terminal: Yes (SuperSpeed USB 5 Gbps (USB 3.2)  compatible)\r\nFunctions: Send to smartphone, Remote control via smartphone, Remote Shooting",
+      "Others": "Multi Interface Shoe: Yes (with Digital Audio Interface) *Sony accessories for the Accessory Shoe can be attached.\r\nPC Interface: Mass-storage / MTP\r\nType-C Terminal: Yes (SuperSpeed USB 5 Gbps (USB 3.2)  compatible)\r\nFunctions: Send to smartphone, Remote control via smartphone, Remote Shooting",
       "Flash Compensation": "+/- 3.0 EV (switchable between 1/3 and 1/2 EV steps)",
       "External Flash Compatibility": "Sony α System Flash compatible with Multi Interface Shoe, attach the shoe adaptor for flash compatible with Auto-lock accessory shoe",
-      "Battery": "Battery Life (Still Images)\r\nApprox. 610 shots (LCD monitor) (CIPA standard) *The LCD screen is turned on, shot once every 30 seconds, operate zoom alternately between W and T ends, flash strobe once every two times, turn power off and on once every ten times.\n\r\nBattery Life (Movie, actual recording)\r\nApprox. 130 min (LCD monitor) (CIPA standard) *Indication recording time, which is defined by repeating the cycle: Power on, start recording, zoom , stand-by and power off.\n\r\nInternal Battery Charge\r\nYes (Available with USB Type-C Terminal. USB Power Delivery compatible)",
+      "Battery": "Battery Life (Still Images)\r\nApprox. 610 shots (LCD monitor) (CIPA standard) *The LCD screen is turned on, shot once every 30 seconds, operate zoom alternately between W and T ends, flash strobe once every two times, turn power off and on once every ten times.\n\r\nBattery Life (Movie, actual recording)\r\nApprox. 130 min (LCD monitor) (CIPA standard) *Indication recording time, which is defined by repeating the cycle: Power on, start recording, zoom , stand-by and power off.\n\r\nInternal Battery Charge\r\nYes (Available with Type-C Terminal. USB Power Delivery compatible)",
       "Dimensions (W x H x D)": "Approx. 4 5/8 x 2 3/4 x 2 1/4 inches (114.8 x 67.5 x 54.2 mm (FROM GRIP TO MONITOR))",
       "Weight (Body Only)": "Approx. 13.3 oz (Approx. 377 g)",
       "Features": "Other Features\r\nProduct Showcase Set, Background Defocus, Soft Skin Effect, Creative Look, Custom function, Picture Profile, Time-lapse, Cinematic Vlog Setting, My Image Style, Vertical Display\n\r\nCLEAR IMAGE ZOOM (STILL IMAGES)\r\nApprox. 2x\n\r\nCLEAR IMAGE ZOOM (MOVIES)\r\nApprox. 1.5x (4K), Approx. 2x (HD)",
@@ -2305,6 +2849,12 @@
       "Maximum Aperture": "f/3.5 to 5.6",
       "Description": "Focus Type: Autofocus\r\nImage Stabilization: Yes\r\nFilter Size: 40.5 mm (Front)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "26 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "26 Inch"
     }
   },
   {
@@ -2338,6 +2888,11 @@
       "Features": "DIGIC 7",
       "Lens Mount": "Canon EF",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "26.2 MP",
+      "Display Size": "26.2 Inch"
     }
   },
   {
@@ -2383,7 +2938,7 @@
       "Movie Type": "MP4 Video:\r\n4K UHD, Full HD (16:9)\r\n4K/ Full HD: H.265 / HEVC, Audio: AAC / Linear PCM\r\n4K/ Full HD: H.264 / MPEG-4 AVC, Audio: AAC / Linear PCM",
       "Movie Size": "4K UHD Fine (16:9) 3840 x 2160 (29.97, 25, 23.98 fps) inter frame / light inter frame17\r\n4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame\r\n4K UHD Crop (16:9) 3840 x 2160 (59.94, 50 fps) inter frame / light inter frame\r\n4K / Full HD Time-lapse (16:9) 3840 x 2160 / 1920 x 1080 (29.97, 25 fps) intra frame18\r\nFull HD (16:9) 1920 x 1080 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame\r\nFull HD (16:9) 1920 x 1080 HDR (29.97, 25 fps) inter frame",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C (USB 3.2 / 3.1 Gen 2) Input/Output",
+      "USB": "1 x Type-C (USB 3.2 / 3.1 Gen 2) Input/Output",
       "HDMI": "1 x Micro-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Output",
@@ -2402,6 +2957,11 @@
       "Lens Mount": "Canon RF mount",
       "Description": "Compatible Lenses:\r\nCanon RF-S/RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "32.5 MP",
+      "Display Size": "32.5 Inch"
     }
   },
   {
@@ -2426,6 +2986,10 @@
       "Dimensions": "74.8 x 92.3 mm (3 x 3-3/4 in.)",
       "Weight": "440 g (15.6 oz.)",
       "Warranty": "01 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "2.8 Inch"
     }
   },
   {
@@ -2466,7 +3030,7 @@
       "Image Type": "C-RAW, HEIF, JPEG, Raw",
       "Movie Type": "H.264/H.265/MP4 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) up to 23.98/25/29.97/50/59.94 fps\r\n1920 x 1080 up to 23.98/25/29.97/50/59.94/100/120/150/180 fps",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Headphone": "1 x 1/8\" / 3.5 mm TRRS Headphone/Mic Headphone Output on Camera Body",
@@ -2485,6 +3049,12 @@
       "Lens Mount": "Canon RF mount",
       "Description": "Compatible Lenses:\r\nCanon RF-S/RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.2 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -2530,7 +3100,7 @@
       "Movie Type": "RF/EF lenses: 4K, Full HD, HD.\r\nEF-S lenses: 4K or HD\r\nMPEG4 AVC/H.264 variable (average) bit rate, Audio: AAC",
       "Movie Size": "4K (16:9) 3840 x 2160 (25, 23.98 fps) intra frame\r\n4K Time-lapse (16:9) 3840 x 2160 (29.97, 25 fps) All-I\r\nFull HD (16:9) 1920 x 1080 (59.94, 50, 29.97, 25 fps) intra frame, intra frame lite (29.97, 25 fps)\r\nFull HD HDR (16:9) 1920 x 1080 (29.97, 25 fps) intra frame\r\nHD (16:9) 1280 x 720 (59.94, 29.97, 50, 25 fps) intra frame\r\nHD HDR(16:9) 1280 x 720 (29.97, 25 fps) intra frame",
       "Storage Type": "1x SD/SDHC/SDXC and UHS-II",
-      "USB": "1 x USB-C (USB 2.0) Data Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C (USB 2.0) Data Input/Output (Shared with Power Input)",
       "HDMI": "1 x Micro-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Output",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Input",
@@ -2550,6 +3120,11 @@
       "Lens Mount": "Canon RF mount",
       "Description": "Compatible Lenses:\r\nCanon RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "26.2 MP",
+      "Display Size": "26.2 Inch"
     }
   },
   {
@@ -2610,6 +3185,12 @@
       "Maximum Aperture": "f/3.5 to 5.6",
       "Description": "Angle of View: 76° to 12°\r\nMinimum Focus Distance: 1.48' / 45 cm",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "24.2 MP",
+      "Max Video Resolution": "6K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -2645,6 +3226,11 @@
       "Focal Length": "18-135mm",
       "Maximum Aperture": "f/3.5-5.6",
       "Warranty": "3 Years Service Warranty"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Video Resolution": "4K",
+      "Display Size": "32.5 Inch"
     }
   },
   {
@@ -2687,7 +3273,7 @@
       "Movie Type": "XAVC S, XAVC HS",
       "Movie Size": "Internal Recording Modes\t\r\nXAVC HS 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/50/59.94/100/120 fps [50 to 280 Mb/s]\r\nXAVC HS 4:2:0 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/50/59.94/100/120 fps [30 to 200 Mb/s]\r\nXAVC S 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94/100/120 fps [100 to 280 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94 fps [50 Mb/s]\r\nXAVC S 4:2:0 8-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94/100/120 fps [60 to 200 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94/100/120 fps [16 to 100 Mb/s]\r\nXAVC S-I 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps [240 to 600 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94 fps [89 to 222 Mb/s]",
       "Storage Type": "Single Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1x USB-C Data Output (Shared with Power Input)",
+      "USB": "1x Type-C Data Output (Shared with Power Input)",
       "HDMI": "1x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -2703,6 +3289,12 @@
       "Operating Temperature": "32 to 104°F / 0 to 40°C",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "26 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "26 Inch"
     }
   },
   {
@@ -2734,6 +3326,11 @@
       "Weight (Body Only)": "650 g",
       "Features": "BIONZ X image processing engine",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "24.3 MP",
+      "Display Size": "5 Inch"
     }
   },
   {
@@ -2765,6 +3362,11 @@
       "Weight (Body Only)": "Approx. 509 g / Approx. 1lb 2.0 oz (Body Only: Approx. 424 g / Approx. 0 lb 15.0 oz)",
       "Features": "BIONZ X image processing engine",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -2802,8 +3404,8 @@
       "Image Type": "HEIF, JPEG, Raw, TIFF",
       "Image Size": "3:2\r\n40 MP (7728 x 5152)\r\n20 MP (5472 x 3648)\r\n10 MP (3888 x 2592)\r\n1:1\r\n26 MP (5152 x 5152)\r\n13 MP (3648 x 3648)\r\n6.7 MP (2592 x 2592)\r\n16:9\r\n33 MP (7728 x 4344)\r\n16.8 MP (5472 x 3080)\r\n8.4 MP (3888 x 2184)",
       "Movie Type": "H.264/H.265/MP4/MPEG-4 4:2:2 10-Bit\r\n6240 x 3140 at 23.98/24.00/25/29.97 fps [50 to 360 Mb/s]\r\nDCI 4K (4096 x 2160) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\nUHD 4K (3840 x 2160) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 720 Mb/s]\r\nDCI 2K (2048 x 1080) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\n1920 x 1080 at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\n2048 x 1080 at 100/200/240 fps [200 to 360 Mb/s]\r\n1920 x 1080 at 100/200/240 fps [200 to 360 Mb/s]",
-      "Storage Type": "1x USB-C Input",
-      "USB": "1x USB-C Input/Output",
+      "Storage Type": "1x Type-C Input",
+      "USB": "1x Type-C Input/Output",
       "HDMI": "1x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone (Plug-in Power) Input on Camera Body",
       "Wireless": "Wi-Fi 5 (802.11ac), Bluetooth 4.2",
@@ -2817,6 +3419,12 @@
       "Operating Temperature": "22 to 72°F / -10 to 40°C",
       "Operating Humidity": "10 to 80%",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "40 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "40 Inch"
     }
   },
   {
@@ -2855,7 +3463,7 @@
       "Image Size": "3:2\r\n26 MP (6240 x 4160)\r\n13 MP (4416 x 2944)\r\n6.5 MP (3120 x 2080)\r\n16:9\r\n22 MP (6240 x 3512)\r\n11 MP (4416 x 2488)\r\n5.5 MP (3120 x 1760)\r\n1:1\r\n17.3 MP (4160 x 4160)\r\n8.7 MP (2944 x 2944)\r\n4.3 MP (2080 x 2080)",
       "Movie Type": "H.264 ALL-Intra/H.264 Long GOP/H.265/H.265 Long GOP/MOV/MP4/MPEG-4 AVC 4:2:2/4:2:0 8/10-Bit\r\n6240 x 4160 at 23.98/24.00/25/29.97 fps [50 to 360 Mb/s]\r\nDCI 4K (4096 x 2160) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\n2048 x 1080 at 23.98/24.00/25/29.97/50/59.94/100/120/200/240 fps [50 to 360 Mb/s]\r\n1920 x 1080 at 23.98/24.00/25/29.97/50/59.94/100/120/200/240 fps [360 Mb/s]",
       "Storage Type": "Single Slot: SD/SDHC/SDXC (UHS-II) [2 TB Maximum]",
-      "USB": "1x USB-C Input/Output",
+      "USB": "1x Type-C Input/Output",
       "HDMI": "1x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -2870,6 +3478,12 @@
       "Operating Humidity": "10 to 80%",
       "Lens Mount": "FUJIFILM X",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "26.1 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "26.1 Inch"
     }
   },
   {
@@ -2904,7 +3518,7 @@
       "Image Type": "HEVC/H.265, Linear PCM (Stereo sound 24bit / 48KHz sampling)\r\nMPEG-4 AVC/H.264, Linear PCM (Stereo sound 24bit / 48KHz sampling)\r\nMP4: MPEG-4 AVC/H.264, AAC",
       "Movie Type": "H.264/H.265/MP4/MPEG-4 4:2:2 10-Bit\r\n6240 x 3140 at 23.98/24.00/25/29.97 fps [50 to 360 Mb/s]\r\nDCI 4K (4096 x 2160) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\nUHD 4K (3840 x 2160) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 720 Mb/s]\r\nDCI 2K (2048 x 1080) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\n1920 x 1080 at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\n2048 x 1080 at 100/200/240 fps [200 to 360 Mb/s]\r\n1920 x 1080 at 100/200/240 fps [200 to 360 Mb/s]",
       "Storage Type": "SD Card (-2GB)\r\nSDHC Card (-32GB)\r\nSDXC Card (-2TB)\r\nUHS-I\r\nUHS-II\r\nVideo Speed Class V90",
-      "USB": "USB Type-C (USB3.2 Gen2x1)",
+      "USB": "Type-C (USB3.2 Gen2x1)",
       "HDMI": "HDMI Micro connector (Type D)",
       "Microphone": "ø3.5mm, stereo mini connector (Microphone)\r\nHot shoe",
       "Wireless": "IEEE802.11a/b/g/n/ac (standard wireless protocol)",
@@ -2918,6 +3532,12 @@
       "Operating Temperature": "0℃～+40℃",
       "Operating Humidity": "10%~80% (no condensation)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "40.2 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "40.2 Inch"
     }
   },
   {
@@ -2958,7 +3578,7 @@
       "Image Type": "C-RAW, HEIF, JPEG, Raw",
       "Movie Type": "H.264/H.265/MP4 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) up to 23.98/25/29.97/50/59.94 fps\r\n1920 x 1080 up to 23.98/25/29.97/50/59.94/100/120/150/180 fps",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Headphone": "1 x 1/8\" / 3.5 mm TRRS Headphone/Mic Headphone Output on Camera Body",
@@ -2980,6 +3600,12 @@
       "Maximum Aperture": "f/4.5 to 6.3",
       "Description": "Compatible Lenses:\r\nCanon RF-S/RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.2 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -3040,6 +3666,11 @@
       "Maximum Aperture": "f/4",
       "Description": "Nikon NIKKOR Z 24-70mm f/4 S Lens",
       "Warranty": "3 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "24.3 MP",
+      "Display Size": "24.3 Inch"
     }
   },
   {
@@ -3076,7 +3707,7 @@
       "Dots": "921,600 Dot",
       "Continuous Shooting": "Up to 10 fps at 24.2 MP for up to 223 Frames (JPEG) / 115 Frames (Raw)\r\nUp to 8 fps at 24.2 MP\r\nUp to 6 fps at 24.2 MP\r\nUp to 3 fps at 24.2 MP",
       "Image Size": "3:2 Raw\r\n6000 x 4000\r\n4:3 Raw\r\n5328 x 4000\r\n16:9 Raw\r\n6000 x 3376\r\n1:1 Raw\r\n4000 x 4000\r\n3:2 JPEG\r\n6000 x 4000\r\n3936 x 2624\r\n3008 x 2000\r\n4:3 JPEG\r\n5328 x 4000\r\n3488 x 2624\r\n2656 x 2000\r\n16:9 JPEG\r\n6000 x 3376\r\n3936 x 2216\r\n3008 x 1688\r\n1:1 JPEG\r\n4000 x 4000\r\n2624 x 2624\r\n2000 x 2000",
-      "USB": "1 x USB-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Micro-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3093,6 +3724,12 @@
       "Focal Length": "28 to 60mm",
       "Maximum Aperture": "f/22 to 32",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "24.2 MP",
+      "Max Video Resolution": "6K",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -3117,6 +3754,11 @@
       "Audio Connectors": "HDMI\t2 ch (LPCM 24bit)\r\nHeadphone\t3.5 mm diameter stereo mini jack x 1\r\nSpeaker\t15 mm diameter, round x 1",
       "WIFi": "Standard\tIEEE 802.11b/g/n\r\nFrequency\t2.4GHz band",
       "Others": "Camera Remote\t2.5mm super mini jack x 1\r\nUSB 2.0 DEVICE\tMicro-AB connector, 5-pin, mass storage function (read only)"
+    },
+    "filter": {
+      "Brand": "Panasonic",
+      "Max Video Resolution": "1080P",
+      "Display Size": "25 Inch"
     }
   },
   {
@@ -3157,7 +3799,7 @@
       "Movie Type": "MOV\r\nMP4",
       "Movie Size": "4K UHD 3,840 x 2,160 / 30 fps\r\n4K UHD 3,840 x 2,160 / 25 fps\r\n4K UHD 3,840 x 2,160 / 24 fps\r\nFull HD 1,920 x 1,080 / 120 fps\r\nFull HD 1,920 x 1,080 / 100 fps\r\nFull HD 1,920 x 1,080 / 60 fps\r\nFull HD 1,920 x 1,080 / 50 fps\r\nFull HD 1,920 x 1,080 / 30 fps\r\nFull HD 1,920 x 1,080 / 25 fps\r\nFull HD 1,920 x 1,080 / 24 fps\r\nFull HD 1,920 x 1,080 slow-mo / 30 fps x4\r\nFull HD 1,920 x 1,080 slow-mo / 25 fps x4\r\nFull HD 1,920 x 1,080 slow-mo / 24 fps x5\r\nActual frame rates for 120p, 100p, 60p, 50p, 30p, 25p, and 24p are 119.88, 100, 59.94, 50, 29.97, 25, and 23.976 fps respectively\r\nQuality selection available at all sizes except 3,840 x 2,160, 1,920 x 1,080 120p/100p, and 1,920 x 1,080 slow-motion, when quality is fixed at m",
       "Storage Type": "SD (Secure Digital) and UHS-II compliant SDHC and SDXC memory cards",
-      "USB": "1 x USB-C (USB 3.2 / 3.1 Gen 1) Data Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C (USB 3.2 / 3.1 Gen 1) Data Input/Output (Shared with Power Input)",
       "HDMI": "1 x Mini-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3175,6 +3817,11 @@
       "Operating Humidity": "0 to 85%",
       "Lens Mount": "Nikon Z",
       "Warranty": "3 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "24.5 MP",
+      "Display Size": "24.5 Inch"
     }
   },
   {
@@ -3213,7 +3860,7 @@
       "Dots": "2,359,296 Dot",
       "Continuous Shooting": "Up to 10 fps at 42.4 MP for up to 76 Frames (Raw) / 76 Frames (JPEG)\r\nUp to 8 fps at 42.4 MP for up to 76 Frames (Raw) / 76 Frames (JPEG)\r\nUp to 6 fps at 42.4 MP for up to 76 Frames (Raw) / 76 Frames (JPEG)\r\nUp to 3 fps at 42.4 MP for up to 76 Frames (Raw) / 76 Frames (JPEG)",
       "Image Size": "3:2 Raw\r\n7952 x 5304\r\n16:9 Raw\r\n7952 x 4472\r\n3:2 JPEG\r\n7952 x 5304\r\n5168 x 3448\r\n3984 x 2656\r\n16:9 JPEG\r\n7952 x 4472\r\n5168 x 2912\r\n3984 x 2240",
-      "USB": "1 x USB-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Micro-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3230,6 +3877,11 @@
       "Operating Temperature": "32 to 104°F / 0 to 40°C",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "2.36 MP",
+      "Display Size": "5 Inch"
     }
   },
   {
@@ -3270,6 +3922,12 @@
       "Operating Humidity": "-4 to 140°F / -20 to 60°C",
       "Lens Mount": "Sony E",
       "Warranty": "3 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "26.1 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "26.1 Inch"
     }
   },
   {
@@ -3294,6 +3952,12 @@
       "Audio Connectors": "HDMI\t2 ch (LPCM 24bit)\r\nHeadphone\t3.5 mm diameter stereo mini jack x 1\r\nSpeaker\t15 mm diameter, round x 1",
       "WIFi": "Standard\tIEEE 802.11b/g/n\r\nFrequency\t2.4GHz band",
       "Others": "Camera Remote\t2.5mm super mini jack x 1\r\nUSB 2.0 DEVICE\tMicro-AB connector, 5-pin, mass storage function (read only)"
+    },
+    "filter": {
+      "Brand": "Panasonic",
+      "Max Image Resolution": "8.29 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "4 Inch"
     }
   },
   {
@@ -3330,7 +3994,7 @@
       "Continuous Shooting": "Mechanical Shutter\r\nUp to 15 fps at 26.1 MP for up to 38 Frames (Raw) / 110 Frames (JPEG)\r\nUp to 10 fps at 26.1 MP for up to 44 Frames (Raw) / 164 Frames (JPEG)\r\nUp to 8 fps at 26.1 MP for up to 49 Frames (Raw) / 200 Frames (JPEG)\r\nElectronic Shutter\r\nUp to 20 fps at 26.1 MP for up to 36 Frames (Raw) / 79 Frames (JPEG)\r\nUp to 30 fps at 20.9 MP for up to 35 Frames (Raw) / 60 Frames (JPEG)\r\nUp to 20 fps at 20.9 MP for up to 37 Frames (Raw) / 114 Frames (JPEG)\r\nUp to 10 fps at 20.9 MP for up to 48 Frames (Raw) / 500 Frames (JPEG)",
       "Image Type": "JPEG: Exif Ver.2.3 *2\r\nRAW: 14bit RAW (RAF original format) TIFF: 8/16bit RGB",
       "Storage Type": "SD memory card ( - 2GB) / SDHC memory card ( - 32GB) / SDXC memory card ( - 512GB)",
-      "USB": "USB Type-C (USB3.2 Gen1 x 1)",
+      "USB": "Type-C (USB3.2 Gen1 x 1)",
       "HDMI": "HDMI micro connector (Type D)",
       "Microphone": "ø3.5mm, stereo mini connector (Microphone)",
       "Headphone": "ø3.5mm, stereo mini connector (Microphone) / ø2.5mm, Remote Release Connector, Hot shoe, Synchronized terminal",
@@ -3348,6 +4012,11 @@
       "Lens Mount": "FUJIFILM X mount",
       "Description": "XF 18-55mm f/2.8-4 R LM OIS Lens",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "26.1 MP",
+      "Display Size": "26.1 Inch"
     }
   },
   {
@@ -3389,7 +4058,7 @@
       "Movie Type": "XAVC S, XAVC HS",
       "Movie Size": "Internal Recording Modes\t\r\nXAVC HS 4:2:2/4:2:0 10-Bit\r\n3840 x 2160 at 23.98/50/59.94 fps [30 to 200 Mb/s]\r\nXAVC S 4:2:2/4:2:0 8/10-Bit\r\n3840 x 2160 at 23.98/25/29.97/50/59.94 fps [60 to 200 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94/100/120 fps [16 to 100 Mb/s]\r\nXAVC S-I 4:2:2 10-Bit\r\n3840 x 2160 at 23.98/25/29.97/50/59.94 fps [240 to 600 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94 fps [89 to 222 Mb/s]",
       "Storage Type": "Single Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1x USB-C Data Output (Shared with Power Input)",
+      "USB": "1x Type-C Data Output (Shared with Power Input)",
       "HDMI": "1x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Headphone": "1x 1/8\" / 3.5 mm TRS Stereo Headphone Output on Camera Body",
@@ -3405,6 +4074,12 @@
       "Operating Temperature": "32 to 104°F / 0 to 40°C",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "33 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "33 Inch"
     }
   },
   {
@@ -3440,7 +4115,7 @@
       "Continuous Shooting": "Mechanical Shutter\r\nUp to 11 fps at 26.1 MP for up to 17 Frames (Raw) / 38 Frames (JPEG)\r\nUp to 8 fps at 26.1 MP for up to 18 Frames (Raw) / 76 Frames (JPEG)\r\nUp to 6 fps at 26.1 MP for up to 21 Frames (Raw) / 220 Frames (JPEG)\r\nUp to 5 fps at 26.1 MP for up to 24 Frames (Raw) / 458 Frames (JPEG)\r\nUp to 4 fps at 26.1 MP for up to 28 Frames (Raw) / Unlimited Frames (JPEG)\r\nUp to 3 fps at 26.1 MP for up to 34 Frames (Raw) / Unlimited Frames (JPEG)\r\nElectronic Shutter\r\nUp to 20 fps at 26.1 MP for up to 17 Frames (Raw) / Unlimited 32 Frames (JPEG)\r\nUp to 10 fps at 26.1 MP for up to 18 Frames (Raw) / Unlimited 81 Frames (JPEG)\r\nUp to 30 fps at 20.9 MP for up to 17 Frames (Raw) / 29 Frames (JPEG)\r\nUp to 20 fps at 20.9 MP for up to 17 Frames (Raw) / 79 Frames (JPEG)\r\nUp to 10 fps at 20.9 MP for up to 18 Frames (Raw) / 153 Frames (JPEG)\r\nUp to 8 fps at 20.9 MP for up to 18 Frames (Raw) / 90 Frames (JPEG)",
       "Image Type": "JPEG, Raw",
       "Storage Type": "SD memory card (~2GB) /\r\nSDHC memory card (~32GB) /\r\nSDXC memory card (~512GB) UHS-I",
-      "USB": "USB Type-C (USB3.1 Gen1)",
+      "USB": "Type-C (USB3.1 Gen1)",
       "HDMI": "HDMI Micro connector (Type D)",
       "Microphone": "Microphone / shutter release input: ø2.5mm",
       "Wireless": "Bluetooth, Wi-Fi",
@@ -3457,6 +4132,11 @@
       "Focal Length": "23mm (35mm Equivalent Focal Length: 35mm)",
       "Maximum Aperture": "f/2",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "26.1 MP",
+      "Display Size": "26.1 Inch"
     }
   },
   {
@@ -3498,7 +4178,7 @@
       "Image Size": "3:2\r\n24.4 MP (6048 x 4032)\r\n13.7 MP (4528 x 3024)\r\n6.1 MP (3024 x 2016)\r\n1:1\r\n16.3 MP (4032 x 4032)\r\n9.1 MP (3024 x 3024)\r\n4.1 MP (2016 x 2016)\r\n16:9\r\n20.6 MP (6048 x 3400)\r\n11.5 MP (4528 x 2544)\r\n5.1 MP (3024 x 1696)",
       "Movie Type": "Internal Recording Modes\t\r\nH.265/MOV/MP4 8/10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps\r\n1920 x 1080 at 23.98/25/29.97/50/59.94/100/120 fps",
       "Storage Type": "Slot 1: SD/SDHC/SDXC (UHS-II)\r\nSlot 2: microSD/microSDHC/microSDXC (UHS-I)",
-      "USB": "1 x USB-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone (Plug-in Power) Input",
       "Wireless": "2.4 / 5 GHz Wi-Fi 5 (802.11ac)\r\nBluetooth 5.0",
@@ -3511,6 +4191,12 @@
       "Dimensions (W x H x D)": "5.7 x 4.1 x 1.9\" / 144 x 103 x 49 mm",
       "Weight (Body Only)": "1.4 lb / 630 g (Body Only)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "24.5 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.5 Inch"
     }
   },
   {
@@ -3544,7 +4230,7 @@
       "Movie Type": "XAVC S, XAVC HS",
       "Movie Size": "Internal Recording Modes\t\r\nXAVC HS 4:2:0 10-Bit\r\nUHD 4K (3840 x 2160) at 50/59.94 fps [45 to 150 Mb/s]\r\nUHD 4K (3840 x 2160) at 23.98 fps [30 to 100 Mb/s]\r\nXAVC HS 4:2:2 10-Bit\r\n3840 x 2160 at 50/59.94 fps [100 to 200 Mb/s]\r\n3840 x 2160 at 23.98 fps [50 to 100 Mb/s]\r\nXAVC S 4:2:2 8-Bit\r\nUHD 4K (3840 x 2160) at 50/59.94 fps [100 to 200 Mb/s]\r\nUHD 4K (3840 x 2160) at 25/29.97 fps [140 Mb/s]\r\nUHD 4K (3840 x 2160) at 23.98 fps [100 Mb/s]\r\nXAVC S 8-Bit\r\n1920 x 1080p at 100/120 fps [60 to 100 Mb/s]\r\n1920 x 1080p at 50/59.94 fps [25 to 50 Mb/s]\r\n1920 x 1080p at 25/29.97 fps [16 to 50 Mb/s]\r\n1920 x 1080p at 23.98 fps [50 Mb/s]\r\nXAVC S 10-Bit\r\n1920 x 1080p at 23.98/25/29.97/50/59.94 fps [50 Mb/s]\r\nXAVC S-I 10-Bit\r\n3840 x 2160 at 59.94 fps [600 Mb/s]\r\n3840 x 2160 at 50 fps [500 Mb/s]\r\n3840 x 2160 at 29.97 fps [300 Mb/s]\r\n3840 x 2160 at 25 fps [250 Mb/s]\r\n3840 x 2160 at 23.98 fps [50 Mb/s]\r\n1920 x 1080p at 59.94 fps [222 Mb/s]\r\n1920 x 1080p at 50 fps [185 Mb/s]\r\n1920 x 1080p at 29.97 fps [111 Mb/s]\r\n1920 x 1080p at 25 fps [93 Mb/s]\r\n1920 x 1080p at 23.98 fps [89 Mb/s]",
       "Storage Type": "Single Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C (USB 3.2 / 3.1 Gen 1) Data Input/Output (Shared with Power Input)\r\n1 x Sony Multi/Micro-USB Control",
+      "USB": "1 x Type-C (USB 3.2 / 3.1 Gen 1) Data Input/Output (Shared with Power Input)\r\n1 x Sony Multi/Micro-USB Control",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3559,6 +4245,12 @@
       "Operating Temperature": "32 to 104°F / 0 to 40°C",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "12 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "12 Inch"
     }
   },
   {
@@ -3600,7 +4292,7 @@
       "Movie Type": "ALL-I (Time-lapse video only), IPB, MP4",
       "Movie Size": "H.264/H.265/MPEG-4 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps [60 to 340 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94/100/150 fps [12 to 270 Mb/s]",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C (USB 3.2 / 3.1 Gen 2) Data/Tether Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C (USB 3.2 / 3.1 Gen 2) Data/Tether Input/Output (Shared with Power Input)",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output on Camera Body",
@@ -3617,6 +4309,11 @@
       "Lens Mount": "Canon RF mount",
       "Description": "Compatible Lenses:\r\nCanon RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.2 MP",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -3658,7 +4355,7 @@
       "Movie Type": "XAVC S, XAVC HS",
       "Movie Size": "Internal Recording Modes\t\n\r\nH.265/XAVC HS 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/50/59.94 fps [50 to 200 Mb/s]\r\nH.265/XAVC HS 4:2:0 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/50/59.94 fps [30 to 150 Mb/s]\r\nH.264/XAVC S-I 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps [240 to 600 Mb/s]\r\n1920 x 1080p at 23.98/25/29.97/50/59.94 fps [89 to 222 Mb/s]\r\nXAVC S 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps [100 to 200 Mb/s]\r\n1920 x 1080p at 23.98/25/29.97/50/59.94 fps [50 Mb/s]\r\nXAVC S 4:2:0 8-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps [60 to 150 Mb/s]\r\n1920 x 1080p at 23.98/25/29.97/50/59.94/100/119.88 fps [16 to 100 Mb/s]\n\r\nExternal Recording Modes\t\n\r\n4:2:2 10-Bit via HDMI\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps\r\n1920 x 1080p at 23.98/50/59.94 fps\r\n1920 x 1080i at 50/59.94 fps\r\n4:2:0 8-Bit via HDMI\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps\r\n1920 x 1080p at 23.98/50/59.94 fps\r\n1920 x 1080i at 50/59.94 fps",
       "Storage Type": "Slot 1: CFexpress Type A / SD (UHS-II)\r\nSlot 2: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C Input/Output\r\n1 x Sony Multi/Micro-USB Input/Output (Shared with Remote Input)\r\n1 x USB-C (USB 3.2 / 3.1 Gen 2) Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C Input/Output\r\n1 x Sony Multi/Micro-USB Input/Output (Shared with Remote Input)\r\n1 x Type-C (USB 3.2 / 3.1 Gen 2) Input/Output (Shared with Power Input)",
       "HDMI": "1 x HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3675,6 +4372,12 @@
       "Operating Temperature": "32 to 104°F / 0 to 40°C",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "33 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "33 Inch"
     }
   },
   {
@@ -3712,8 +4415,8 @@
       "Image Type": "HEIF, JPEG, Raw, TIFF",
       "Image Size": "3:2\r\n40 MP (7728 x 5152)\r\n20 MP (5472 x 3648)\r\n10 MP (3888 x 2592)\r\n1:1\r\n26 MP (5152 x 5152)\r\n13 MP (3648 x 3648)\r\n6.7 MP (2592 x 2592)\r\n16:9\r\n33 MP (7728 x 4344)\r\n16.8 MP (5472 x 3080)\r\n8.4 MP (3888 x 2184)",
       "Movie Type": "H.264/H.265/MP4/MPEG-4 4:2:2 10-Bit\r\n6240 x 3140 at 23.98/24.00/25/29.97 fps [50 to 360 Mb/s]\r\nDCI 4K (4096 x 2160) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\nUHD 4K (3840 x 2160) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 720 Mb/s]\r\nDCI 2K (2048 x 1080) at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\n1920 x 1080 at 23.98/24.00/25/29.97/50/59.94 fps [50 to 360 Mb/s]\r\n2048 x 1080 at 100/200/240 fps [200 to 360 Mb/s]\r\n1920 x 1080 at 100/200/240 fps [200 to 360 Mb/s]",
-      "Storage Type": "1x USB-C Input",
-      "USB": "1x USB-C Input/Output",
+      "Storage Type": "1x Type-C Input",
+      "USB": "1x Type-C Input/Output",
       "HDMI": "1x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone (Plug-in Power) Input on Camera Body",
       "Wireless": "Wi-Fi 5 (802.11ac), Bluetooth 4.2",
@@ -3729,6 +4432,11 @@
       "Lens Mount": "FUJIFILM X",
       "Description": "XF 18-55mm f/2.8-4 R LM OIS Lens",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "FUJIFILM",
+      "Max Image Resolution": "40 MP",
+      "Display Size": "40 Inch"
     }
   },
   {
@@ -3768,7 +4476,7 @@
       "Movie Type": "XAVC S, AVCHD",
       "Movie Size": "XAVC S\r\nUHD 4K (3840 x 2160) at 23.976p/25p/29.97p [60 to 100 Mb/s]\r\nFull HD (1920 x 1080) at 23.976p/24.00p/25p/29.97p/50p/59.94p/100p/119.88p [16 to 100 Mb/s]\r\nAVCHD\r\nFull HD (1920 x 1080) at 50i/59.94i [17 to 24 Mb/s]",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x Sony Multi/Micro-USB Input/Output (Shared with Remote Input)\r\n1 x USB-C (USB 3.2 / 3.1 Gen 1) Input/Output (Shared with Power Input)\r\n1 x PC Sync Socket Output",
+      "USB": "1 x Sony Multi/Micro-USB Input/Output (Shared with Remote Input)\r\n1 x Type-C (USB 3.2 / 3.1 Gen 1) Input/Output (Shared with Power Input)\r\n1 x PC Sync Socket Output",
       "HDMI": "1 x Micro-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3786,6 +4494,12 @@
       "Features": "Wi-Fi\r\nBluetooth",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "61 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "61 Inch"
     }
   },
   {
@@ -3828,7 +4542,7 @@
       "Movie Type": "MOV\r\nMP4",
       "Movie Size": "4K UHD 3,840 x 2,160 / 60 fps\r\n4K UHD 3,840 x 2,160 / 50 fps\r\n4K UHD 3,840 x 2,160 / 30 fps\r\n4K UHD 3,840 x 2,160 / 25 fps\r\n4K UHD 3,840 x 2,160 / 24 fps\r\nFull HD 1,920 x 1,080 / 120 fps\r\nFull HD 1,920 x 1,080 / 100 fps\r\nFull HD 1,920 x 1,080 / 60 fps\r\nFull HD 1,920 x 1,080 / 50 fps\r\nFull HD 1,920 x 1,080 / 30 fps\r\nFull HD 1,920 x 1,080 / 25 fps\r\nFull HD 1,920 x 1,080 / 24 fps\r\nFull HD 1,920 x 1,080 slow-mo / 30 fps x4\r\nFull HD 1,920 x 1,080 slow-mo / 25 fps x4\r\nFull HD 1,920 x 1,080 slow-mo / 24 fps x5\r\nActual frame rates for 120p, 100p, 60p, 50p, 30p, 25p, and 24p are 119.88, 100, 59.94, 50, 29.97, 25, and 23.976 fps respectively\r\nQuality selection available at all sizes except 3,840 x 2,160, 1,920 x 1,080 120p/100p, and 1,920 x 1,080 slow-motion, when quality is fixed at m",
       "Storage Type": "SD (Secure Digital) and UHS-II compliant SDHC and SDXC memory cards\r\nCFexpress (Type B)\r\nXQD Type Memory",
-      "USB": "1 x USB Type-C Input/Output",
+      "USB": "1 x Type-C Input/Output",
       "HDMI": "1 x Mini-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3846,6 +4560,11 @@
       "Operating Humidity": "0 to 85%",
       "Lens Mount": "Nikon Z",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "45.7 MP",
+      "Display Size": "45.7 Inch"
     }
   },
   {
@@ -3895,6 +4614,12 @@
       "Operating Temperature": "-14 °C to 40 °C",
       "Operating Humidity": "Less than 85% (no condensation)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "24.5 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.5 Inch"
     }
   },
   {
@@ -3922,7 +4647,7 @@
       "Viewing Angle": "Opening Angle: Approx. 176 °, Rotation Angle: Approx. 270 °",
       "Continuous Shooting": "Electronic Shutter\r\nApprox. 30fps (1.25x Crop)\r\nJPEG\r\n128frames\r\nCompressed RAW\r\n78frames\r\nLossless Compressed RAW\r\n46frames\r\nUncompressed RAW\r\n23frames\r\nCompressed RAW + JPEG\r\n32frames\r\nLossless Compressed RAW + JPEG\r\n27frames\r\nUncompressed RAW + JPEG\r\n21frames\r\nElectronic Shutter\r\nApprox. 20fps (1.25x Crop)\r\nJPEG\r\n141frames\r\nCompressed RAW\r\n81frames\r\nLossless Compressed RAW\r\n47frames\r\nUncompressed RAW\r\n24frames\r\nCompressed RAW + JPEG\r\n46frames\r\nLossless Compressed RAW + JPEG\r\n38frames\r\nUncompressed RAW + JPEG\r\n21frames\r\nElectronic Shutter\r\nApprox. 10fps (1.25x Crop)\r\nJPEG\r\n204frames\r\nCompressed RAW\r\n113frames\r\nLossless Compressed RAW\r\n57frames\r\nUncompressed RAW\r\n25frames\r\nCompressed RAW + JPEG\r\n66frames\r\nLossless Compressed RAW + JPEG\r\n54frames\r\nUncompressed RAW + JPEG\r\n22frames\r\nElectronic Shutter\r\nApprox. 20fps\r\nJPEG\r\n127frames\r\nCompressed RAW\r\n60frames\r\nLossless Compressed RAW\r\n34frames\r\nUncompressed RAW\r\n23frames\r\nCompressed RAW + JPEG\r\n34frames\r\nLossless Compressed RAW + JPEG\r\n26frames\r\nUncompressed RAW + JPEG\r\n21frames\r\nElectronic Shutter\r\nApprox. 10fps\r\nJPEG\r\n155frames\r\nCompressed RAW\r\n79frames\r\nLossless Compressed RAW\r\n41frames\r\nUncompressed RAW\r\n24frames\r\nCompressed RAW + JPEG\r\n48frames\r\nLossless Compressed RAW + JPEG\r\n39frames\r\nUncompressed RAW + JPEG\r\n22frames\r\nElectronic Shutter\r\nApprox. 8fps\r\nJPEG\r\n173frames\r\nCompressed RAW\r\n82frames\r\nLossless Compressed RAW\r\n41frames\r\nUncompressed RAW\r\n25frames\r\nCompressed RAW + JPEG\r\n52frames\r\nLossless Compressed RAW + JPEG\r\n37frames\r\nUncompressed RAW + JPEG\r\n23frames\r\nMechanical Shutter\r\nApprox. 8.0fps\r\nJPEG\r\n173frames\r\nCompressed RAW\r\n82frames\r\nLossless Compressed RAW\r\n38frames\r\nUncompressed RAW\r\n25frames\r\nCompressed RAW + JPEG\r\n52frames\r\nLossless Compressed RAW + JPEG\r\n34frames\r\nUncompressed RAW + JPEG\r\n23frames\r\nCL\r\nMechanical Shutter\r\nApprox. 5.0fps\r\nJPEG\r\n1000+frames\r\nCompressed RAW\r\n163frames\r\nLossless Compressed RAW\r\n48frames\r\nUncompressed RAW\r\n27frames\r\nMechanical Shutter\r\nApprox. 4.0fps\r\nJPEG\r\n1000+frames\r\nCompressed RAW\r\n1000+frames\r\nLossless Compressed RAW\r\n65frames\r\nUncompressed RAW\r\n28frames\r\nMechanical Shutter\r\nApprox. 3.0fps\r\nJPEG\r\n1000+frames\r\nCompressed RAW\r\n1000+frames\r\nLossless Compressed RAW\r\n152frames\r\nUncompressed RAW\r\n38frames\r\nPre-shot\r\nElectronic Shutter, 1.25 X Crop\r\nApprox. 30fps\r\n30frames\r\n75frames\r\n105frames\r\nElectronic Shutter, 1.25 X Crop\r\nApprox. 20fps\r\n20frames\r\n576frames\r\n596frames\r\nElectronic Shutter, 1.25 X Crop\r\nApprox. 10fps\r\n10frames\r\n1000+frames\r\n1000+frames\r\nElectronic Shutter\r\nApprox. 20fps\r\n20frames\r\n998frames\r\n1018frames\r\nElectronic Shutter\r\nApprox. 10fps\r\n10frames\r\n1000+frames\r\n1000+frames\r\nElectronic Shutter\r\nApprox. 8fps\r\n8frames\r\n1000+frames\r\n1000+frames",
       "Storage Type": "Slot for SD (UHS-I/II compliant) memory card",
-      "USB": "USB Type-C (USB3.2 Gen2x1)",
+      "USB": "Type-C (USB3.2 Gen2x1)",
       "HDMI": "HDMI micro connector (Type-D), 3840 x 2160 (59.94p / 50p / 29.97p / 25p / 23.98p) / 1920 x 1080 (59.94p / 50p / 23.98p) / 1920 x 1080 (59.94i / 50i), YCbCr 4:2:2 10bit / RGB 8bit",
       "Microphone": "Yes (3.5 mm Stereo minijack)",
       "Headphone": "Yes (3.5 mm Stereo minijack)",
@@ -3932,12 +4657,18 @@
       "Flash Compensation": "+/- 3.0 EV (switchable between 1/3 and 1/2 EV steps)",
       "Dedicated Flash System": "Pre-flash TTL",
       "External Flash Compatibility": "Sony α System Flash compatible with Multi Interface Shoe, attach the shoe adaptor for flash compatible with Auto-lock accessory shoe",
-      "Battery": "Battery Life (Still Images)\r\nApprox. 490 shots (Viewfinder) / Approx. 530 shots (LCD monitor) (CIPA standard) ¹¹\n\r\nBattery Life (Movie, actual recording)\r\nApprox. 95 min (Viewfinder) / Approx. 100 min (LCD monitor) (CIPA standard) 12\n\r\nBattery Life (Movie, continuous recording)\r\nApprox. 155 min (Viewfinder) / Approx. 155 min (LCD monitor) (CIPA standard)¹²\n\r\nInternal Battery Charge\r\nYes (Available with USB Type-C Terminal. USB Power Delivery compatible)",
+      "Battery": "Battery Life (Still Images)\r\nApprox. 490 shots (Viewfinder) / Approx. 530 shots (LCD monitor) (CIPA standard) ¹¹\n\r\nBattery Life (Movie, actual recording)\r\nApprox. 95 min (Viewfinder) / Approx. 100 min (LCD monitor) (CIPA standard) 12\n\r\nBattery Life (Movie, continuous recording)\r\nApprox. 155 min (Viewfinder) / Approx. 155 min (LCD monitor) (CIPA standard)¹²\n\r\nInternal Battery Charge\r\nYes (Available with Type-C Terminal. USB Power Delivery compatible)",
       "Dimensions (W x H x D)": "Approx. 124.0 x 71.1 x 63.4 mm, Approx. 124.0 x 71.1 x 58.6 mm (from grip to monitor) / Approx. 5 x 2 7/8 x 2 1/2 inches, Approx. 5 x 2 7/8 x 2 3/8 inches (from grip to monitor)",
       "Weight (Body Only)": "Weight (with battery and memory card included)\r\nApprox. 515 g / Approx. 1 lb 2.2 oz\n\r\nBody only\r\nApprox. 430 g / Approx. 0 lb 15.2 oz",
       "Operating Temperature": "0 - 40 ℃ / 32 - 104 °F",
       "Features": "Other Features\r\nSoft Skin Effect, Creative Look, Custom function, Picture Profile, Time-lapse, Auto Framing, My Image Style\n\r\nCLEAR IMAGE ZOOM (STILL IMAGES)\r\nApprox. 2x\n\r\nCLEAR IMAGE ZOOM (MOVIES)\r\nApprox. 1.5x (4K), Approx. 2x (HD)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "61 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "61 Inch"
     }
   },
   {
@@ -3975,7 +4706,7 @@
       "Continuous Shooting": "Up to 30 fps at Maximum Resolution for up to 240 Frames (Raw) / 400 Frames (JPEG)",
       "Image Type": "HEIF, JPEG, Raw",
       "Storage Type": "Dual Slot: CFexpress Type A / SD (UHS-II)",
-      "USB": "1x USB-C (USB 3.2 / 3.1 Gen 2) Data/Remote Input/Output (Shared with Power Input)\r\n1x Sony Multi/Micro-USB Remote/Time Code Input\r\n1x USB-C Input",
+      "USB": "1x Type-C (USB 3.2 / 3.1 Gen 2) Data/Remote Input/Output (Shared with Power Input)\r\n1x Sony Multi/Micro-USB Remote/Time Code Input\r\n1x Type-C Input",
       "HDMI": "1x HDMI Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -3991,6 +4722,12 @@
       "Dimensions (W x H x D)": "5.4 x 3.8 x 3.3\" / 136.1 x 96.9 x 82.9 mm",
       "Weight (Body Only)": "23.2 oz / 658 g (Body Only)\r\n26.2 oz / 743 g (With Battery, Recording Media)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "50 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "50 Inch"
     }
   },
   {
@@ -4034,7 +4771,7 @@
       "Image Type": "JPEG, Raw",
       "Image Size": "3:2 Raw\r\n5472 x 3648\r\n3:2 JPEG\r\n5472 x 3648\r\n3648 x 2432\r\n2736 x 1824\r\n2400 x 1600\r\n4:3 JPEG\r\n4864 x 3648\r\n3248 x 2432\r\n2432 x 1824\r\n2112 x 1600\r\n16:9 JPEG\r\n5472 x 3072\r\n3648 x 2048\r\n2736 x 1536\r\n2400 x 1344\r\n1:1 JPEG\r\n3648 x 3648\r\n2432 x 2432\r\n1824 x 1824\r\n1600 x 1600",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C (USB 3.2 / 3.1 Gen 2) Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C (USB 3.2 / 3.1 Gen 2) Input/Output (Shared with Power Input)",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output on Camera Body",
@@ -4053,6 +4790,12 @@
       "Lens Mount": "Canon RF",
       "Description": "Compatible Lenses:\r\nCanon RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "400 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "45 Inch"
     }
   },
   {
@@ -4085,6 +4828,12 @@
       "Weight (Body Only)": "WEIGHT (WITH BATTERY AND MEMORY CARD INCLUDED)\r\nApprox. 699 g, approx. 1 lb 8.7 oz",
       "Features": "BIONZ XR image processing engine",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "12 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "12 Inch"
     }
   },
   {
@@ -4117,6 +4866,11 @@
       "Dimension": "15.3 x 7.9 x 7\" / 38.86 x 20.07 x 17.78 cm",
       "Weight": "4.7 lb / 2.1 kg",
       "Power": "Power Consumption 7.8 W"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Video Resolution": "1080P",
+      "Display Size": "3 Inch"
     }
   },
   {
@@ -4157,6 +4911,11 @@
       "Maximum Aperture": "f/2.8 to 4.5",
       "Description": "Filter Size: 62 mm\r\nControl Rings: Focus\r\nZoom: Focus Control\t\r\nAutofocus: Manual Focus",
       "Warranty": "No parts warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Video Resolution": "4K",
+      "Display Size": "1 Inch"
     }
   },
   {
@@ -4198,7 +4957,7 @@
       "Movie Type": "ALL-I (Time-lapse video only), IPB, MP4",
       "Movie Size": "H.264/H.265/MPEG-4 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94 fps [60 to 340 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94/100/150 fps [12 to 270 Mb/s]",
       "Storage Type": "Dual Slot: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C (USB 3.2 / 3.1 Gen 2) Data/Tether Input/Output (Shared with Power Input)",
+      "USB": "1 x Type-C (USB 3.2 / 3.1 Gen 2) Data/Tether Input/Output (Shared with Power Input)",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output on Camera Body",
@@ -4215,6 +4974,11 @@
       "Lens Mount": "Canon RF mount",
       "Description": "Compatible Lenses:\r\nCanon RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.2 MP",
+      "Display Size": "24.2 Inch"
     }
   },
   {
@@ -4252,6 +5016,11 @@
       "Maximum Aperture": "f/2.8 to 4.5",
       "Description": "Filter Size: 62 mm\r\nControl Rings: Focus, Zoom, Iris\r\nFocus Control :Autofocus, Manual Focus",
       "Warranty": "No parts warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Video Resolution": "4K",
+      "Display Size": "1 Inch"
     }
   },
   {
@@ -4290,7 +5059,7 @@
       "Image Size": "3:2 JPEG / Raw\r\n60 MP (9504 x 6336)\r\n26 MP (6240 x 4160)\r\n15 MP (4752 x 3168)\r\n4:3 JPEG / Raw\r\n54 MP (8448 x 6336)\r\n23 MP (5552 x 4160)\r\n13 MP (4224 x 3168)\r\n16:9 JPEG / Raw\r\n51 MP (9504 x 5344)\r\n22 MP (6240 x 3512)\r\n13 MP (4752 x 2672)\r\n1:1 JPEG / Raw\r\n40 MP (6336 x 6336)\r\n17 MP (4160 x 4160)\r\n10 MP (3168 x 3168)",
       "Movie Type": "XAVC S, AVCHD",
       "Movie Size": "XAVC S\r\nUHD 4K (3840 x 2160) at 23.976p/25p/29.97p [60 to 100 Mb/s]\r\nFull HD (1920 x 1080) at 23.976p/24.00p/25p/29.97p/50p/59.94p/100p/119.88p [16 to 100 Mb/s]\r\nAVCHD\r\nFull HD (1920 x 1080) at 50i/59.94i [17 to 24 Mb/s]",
-      "USB": "1 x USB-C (USB 3.2 / 3.1 Gen 2) Data Output (Shared with Power Input)\r\n1 x PC Sync Socket (Sync) Output\r\n1 x Sony Multi/Micro-USB (USB 2.0) Control Input/Output",
+      "USB": "1 x Type-C (USB 3.2 / 3.1 Gen 2) Data Output (Shared with Power Input)\r\n1 x PC Sync Socket (Sync) Output\r\n1 x Sony Multi/Micro-USB (USB 2.0) Control Input/Output",
       "HDMI": "1 x Micro-HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -4308,6 +5077,12 @@
       "Features": "Wi-Fi\r\nBluetooth",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "61 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "61 Inch"
     }
   },
   {
@@ -4354,6 +5129,11 @@
       "Operating Humidity": "-4 to 140°F / -20 to 60°C",
       "Lens Mount": "Sony E",
       "Warranty": "3 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "12.1 MP",
+      "Display Size": "12.1 Inch"
     }
   },
   {
@@ -4393,7 +5173,7 @@
       "Image Size": "3:2\r\n8256 x 5504\r\n6192 x 4128\r\n4128 x 2752",
       "Movie Type": "Internal Recording Modes:\r\nH.265 4:2:2 8/10-Bit\r\nUHD 8K (7680 x 4320) at 23.98/25/29.97 fps [300 to 400 Mb/s]\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94/100/120 fps [150 to 400 Mb/s]\r\n1920 x 1080p at 23.98/25/29.97/50/59.94/100/120 fps [50 to 190 Mb/s]\r\nProRes 422 HQ 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\n1920 x 1080p at 50/59.94/100/120 fps\r\nH.264 4:2:0 8-Bit\r\n1920 x 1080p at 23.98/25/29.97/50/59.94/100/120 fps [30 to 50 Mb/s]\r\nRaw 12-Bit\r\n8256 x 4644 at 23.98/25/29.97/50/59.94 fps [1390 to 5780 Mb/s]\r\n5392 x 3032 at 23.98/25/29.97/50/59.94 fps [600 to 2960 Mb/s]\r\n4128 x 2322 at 23.98/25/29.97/50/59.94/100/120 fps [730 to 3840 Mb/s]\r\n3840 x 2160 at 100/120 fps [1260 to 3020 Mb/s]\r\nProRes RAW HQ 12-Bit\r\n5392 x 3032 at 23.98/25/29.97 fps\r\n4128 x 2322 at 23.98/25/29.97/50/59.94 fps\r\n3840 x 2160 at 50/59.94 fps",
       "Storage Type": "Slot 1: CFexpress Type B / XQD\r\nSlot 2: SD/SDHC/SDXC (UHS-II)",
-      "USB": "1 x USB-C Input\r\n1 x USB-C Data Output",
+      "USB": "1 x Type-C Input\r\n1 x Type-C Data Output",
       "HDMI": "1 x HDMI (Unspecified Signal) Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input/Output",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Input",
@@ -4410,6 +5190,12 @@
       "Weight (Body Only)": "1.8 lb / 820 g (Body Only)",
       "Features": "Auto and Manual Focus\r\nPhase Detection: 209 (Autofocus Points)\r\nAutofocus Sensitivity: -2 to +19 EV\r\nCamera Format: APS-C (1.5x Crop Factor)\r\nBit Depth: 14-Bit\r\nImage Stabilization: Digital (Video Only)\r\nVideo Encoding: NTSC/PAL",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "45.7 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "45.7 Inch"
     }
   },
   {
@@ -4451,7 +5237,7 @@
       "Movie Type": "MOV\r\nMP4",
       "Movie Size": "Raw 12-Bit\r\n7680 x 4320 at 59.94 fps\r\nH.264 4:2:0 8-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\n1920 x 1080p at 23.98/25/29.97/50/59.94/100 fps\r\nH.265 4:2:0 8-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps\r\nH.265 4:2:2 10-Bit\r\nUHD 8K (7680 x 4320) at 23.98/25/29.97 fps\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94/100 fps\r\nProRes 422 HQ 4:2:2 10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97 fps",
       "Storage Type": "Dual Slot: CFexpress Type B / XQD",
-      "USB": "1 x USB-C Input",
+      "USB": "1 x Type-C Input",
       "HDMI": "UHD 8K (7680 x 4320) up to 29.97 fps\r\nUHD 4K (3840 x 2160)",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input/Output",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Input",
@@ -4469,6 +5255,12 @@
       "Operating Humidity": "0 to 85%",
       "Lens Mount": "Nikon Z",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Nikon",
+      "Max Image Resolution": "45.7 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "45.7 Inch"
     }
   },
   {
@@ -4507,7 +5299,7 @@
       "Movie Type": "XAVC S, XAVC HS",
       "Movie Size": "Internal Recording Modes\t\r\nXAVC HS/XAVC S/XAVC S-I 4:2:2/4:2:0 8/10-Bit\r\nUHD 4K (3840 x 2160) at 23.98/25/29.97/50/59.94/100/120 fps [30 to 600 Mb/s]\r\n1920 x 1080 at 23.98/25/29.97/50/59.94/100/120 fps [16 to 222 Mb/s]",
       "Storage Type": "Dual Slot: CFexpress Type A / SD (UHS-II)",
-      "USB": "1x USB-C Data Output (Shared with Power Input)\r\n1x Sony Multi/Micro-USB Output",
+      "USB": "1x Type-C Data Output (Shared with Power Input)\r\n1x Sony Multi/Micro-USB Output",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -4523,6 +5315,11 @@
       "Operating Temperature": "32 to 104°F / 0 to 40°C",
       "Lens Mount": "Sony E",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "24.6 MP",
+      "Display Size": "24.6 Inch"
     }
   },
   {
@@ -4547,10 +5344,16 @@
       "Video Connectors": "1 x BNC (12G-SDI) Output\r\n1 x HDMI Output",
       "Audio Connectors": "2 x 3-Pin XLR Mic/Line Level Input\r\n1 x 1/8\" / 3.5 mm Stereo Headphone Output",
       "WIFi": "2.4 GHz, 5 GHz Wi-Fi",
-      "Others": "1 x BNC Timecode Input/Output\r\n1 x USB Type-C\r\n1 x USB Micro-B\r\n1 x 2.5 mm Control",
+      "Others": "1 x BNC Timecode Input/Output\r\n1 x Type-C\r\n1 x USB Micro-B\r\n1 x 2.5 mm Control",
       "Dimension": "114 x 116 x 153 mm(4 1/2 x 4 5/8 x 6 1/8 inch)",
       "Weight": "Approx 890g (1lb15oz)",
       "Power": "DC 19.5V"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "10.2 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "4 Inch"
     }
   },
   {
@@ -4579,6 +5382,11 @@
       "Others": "1 x BNC Genlock Data Input\r\n1 x BNC Timecode Data Input/Output\r\n1 x 2.5 mm LANC Control\r\n1 x USB Micro-B USB 3.1 Gen 1 Data",
       "Dimension": "5.75 x 5.61 x 9.02\" / 146 x 142.5 x 229 mm",
       "Weight": "4.4 lb / 2 kg"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Video Resolution": "6K",
+      "Display Size": "6 Inch"
     }
   },
   {
@@ -4619,7 +5427,7 @@
       "Image Type": "C-RAW, JPEG, Raw",
       "Movie Type": "H.264/MPEG-4 AVC 8-Bit\r\nUHD 4K (3840 x 2160) at 23.98 fps [120 Mb/s]\r\n1920 x 1080 at 59.94 fps [60 Mb/s]\r\n1920 x 1080 at 23.98/29.97 fps [30 Mb/s]\r\n1920 x 1080 at 120 fps [52 Mb/s]\r\n1280 x 720 at 59.94 fps [26 Mb/s]",
       "Storage Type": "Single Slot: SD/SDHC/SDXC",
-      "USB": "1x USB-C (USB 2.0) Data Output",
+      "USB": "1x Type-C (USB 2.0) Data Output",
       "HDMI": "1 x Micro-HDMI (Unspecified Signal) Output",
       "Microphone": "1x 1/8\" / 3.5 mm TRS Stereo Microphone Input on Camera Body",
       "Wireless": "2.4 GHz Wi-Fi (802.11b/g), Bluetooth 4.2",
@@ -4636,6 +5444,12 @@
       "Lens Mount": "Canon RF",
       "Description": "Compatible Lenses:\r\nCanon RF lens group (excluding EF, EF-S and EF-M lenses)\r\nWhen using Mount Adapter EF-EOS R: Canon EF or EF-S lenses (excluding EF-M lenses)",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "24.1 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "24.1 Inch"
     }
   },
   {
@@ -4659,6 +5473,12 @@
       "HDR Mode": "Yes",
       "Slow Motion Recording": "240 fps Recorded at 1920 x 1080p\r\n120 fps Recorded at 1920 x 1080p",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Max Image Resolution": "64 MP",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -4683,6 +5503,16 @@
       "Slow Motion Recording": "4K (16:9): 3840×2160@120fps\r\n2.7K: 2688×1512@120fps\r\n1080p: 1920×1080@120/240fps",
       "Others": "Lens:\r\nFormat Equivalent: 20 mm\r\nAperture: f/2.0\r\nFocus Range: 0.2 m to ∞\r\nElectronic Shutter Speed:\r\nPhoto: 1/8000-1 s\r\nVideo: 1/8000 s to the limit of frames per second\r\nMax Image Size:\r\n16:9, 3840×2160\r\n1:1, 3072×3072\r\nMax Video Bitrate: 130 Mbps\r\nSupported File System: exFAT\r\nPhoto Format: JPEG/JPEG+DNG\r\nVideo Format: MP4 (H.264/HEVC)\r\nAudio Output: 48 kHz 16-bit; AAC",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Max Image Resolution": "9.4 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "Memory Max": "512 GB",
+      "Battery Capacity": "1300 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -4707,6 +5537,16 @@
       "Slow Motion Recording": "4K (16:9): 3840×2160@120fps\r\n2.7K: 2688×1512@120fps\r\n1080p: 1920×1080@120/240fps",
       "Others": "Lens:\r\nFormat Equivalent: 20 mm\r\nAperture: f/2.0\r\nFocus Range: 0.2 m to ∞\r\nElectronic Shutter Speed:\r\nPhoto: 1/8000-1 s\r\nVideo: 1/8000 s to the limit of frames per second\r\nMax Image Size:\r\n16:9, 3840×2160\r\n1:1, 3072×3072\r\nMax Video Bitrate: 130 Mbps\r\nSupported File System: exFAT\r\nPhoto Format: JPEG/JPEG+DNG\r\nVideo Format: MP4 (H.264/HEVC)\r\nAudio Output: 48 kHz 16-bit; AAC",
       "Manufacturing Warranty": "1 Year DJI Warranty"
+    },
+    "filter": {
+      "Brand": "DJI",
+      "Max Image Resolution": "9.4 MP",
+      "Max Video Resolution": "4K",
+      "Display Size": "2 Inch",
+      "Memory Max": "512 GB",
+      "Battery Capacity": "1300 mAh",
+      "USB Port": "Type-C",
+      "Charging Interface": "Type-C"
     }
   },
   {
@@ -4741,6 +5581,11 @@
       "Features": "CMOS sensor (compatible with Dual Pixel CMOS AF)",
       "Maximum Aperture": "f/4",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Canon",
+      "Max Image Resolution": "30.3 MP",
+      "Display Size": "30.3 Inch"
     }
   },
   {
@@ -4783,7 +5628,7 @@
       "Movie Type": "H.264, XAVC S, H.265, XAVC HS",
       "Movie Size": "MOVIE RECORDING SYSTEM (XAVC HS 8K)\r\n7680 x 4320 (4:2:0, 10bit, NTSC) (Approx.): 30p(400Mbps / 200 Mbps), 24p(400Mbps / 200 Mbps), 7680 x 4320 (4:2:0, 10bit, PAL) (Approx.): 25p(400Mbps / 200 Mbps); 7680 x 4320 (4:2:2, 10bit, NTSC) (Approx.): 30p(520Mbps / 260 Mbps), 24p(520Mbps / 260 Mbps), 7680 x 4320 (4:2:2, 10bit, PAL) (Approx.): 25p(520Mbps / 260 Mbps)\r\nMOVIE RECORDING SYSTEM (XAVC HS 4K)\r\n3840 x 2160 (4:2:0, 10bit, NTSC) (Approx.): 120p (200Mbps), 60p (150Mbps / 75Mbps / 45Mbps), 24p (100Mbps / 50Mbps / 30Mbps); 3840 x 2160 (4:2:0, 10bit, PAL) (Approx.): 100p (200Mbps), 50p (150Mbps / 75Mbps / 45Mbps); 3840 x 2160 (4:2:2, 10bit, NTSC) (Approx.): 120p (280Mbps), 60p (200Mbps / 100Mbps), 24p (100Mbps / 50Mbps); 3840 x 2160 (4:2:2, 10bit, PAL) (Approx.): 100p (280Mbps), 50p (200Mbps / 100Mbps)\r\nMOVIE RECORDING SYSTEM (XAVC S 4K)\r\n3840 x 2160 (4:2:0, 8bit, NTSC) (Approx.): 120p (200Mbps), 60p (150Mbps), 30p (100Mbps / 60Mbps), 24p (100Mbps / 60Mbps); 3840 x 2160 (4:2:0, 8bit, PAL) (Approx.): 100p (200Mbps), 50p (150Mbps), 25p (100Mbps / 60Mbps); 3840 x 2160 (4:2:2, 10bit, NTSC) (Approx.): 120p (280Mbps), 60p (200Mbps), 30p (140Mbps), 24p (100Mbps); 3840 x 2160 (4:2:2, 10bit, PAL) (Approx.): 100p (280Mbps), 50p (200Mbps), 25p (140Mbps)\r\nMOVIE RECORDING SYSTEM (XAVC S HD)\r\n1920 x 1080 (4:2:0, 8bit, NTSC) (Approx.): 120p (100Mbps / 60Mbps), 60p (50Mbps / 25Mbps), 30p (50Mbps / 16Mbps), 24p (50Mbps); 1920 x 1080 (4:2:0, 8bit, PAL) (Approx.): 100p　(100Mbps / 60Mbps), 50p (50Mbps / 25Mbps), 25p (50Mbps / 16Mbps); 1920 x 1080 (4:2:2, 10bit, NTSC) (Approx.): 60p (50Mbps), 30p (50Mbps), 24p (50Mbps); 1920 x 1080 (4:2:2, 10bit, PAL) (Approx.): 50p (50Mbps), 25p (50Mbps)\r\nMOVIE RECORDING SYSTEM (XAVC S-I 4K)\r\n3840 x 2160 (4:2:2, 10bit, NTSC) (Approx.): 60p (600Mbps), 30p (300Mbps), 24p (240Mbps); 3840 x 2160 (4:2:2, 10bit, PAL) (Approx.): 50p (500Mbps), 25p (250Mbps)\r\nMOVIE RECORDING SYSTEM (XAVC S-I HD)\r\n1920 x 1080 (4:2:2, 10bit, NTSC) (Approx.): 60p (222Mbps), 30p (111Mbps), 24p (89Mbps); 1920 x 1080 (4:2:2, 10bit, PAL) (Approx.): 50p (185Mbps), 25p (93Mbps)\r\nSLOW & QUICK MOTION (SHOOTING FRAME RATE) \r\nNTSC mode: 1fps,2fps,4fps,8fps,15fps,30fps,60fps,120fps, 240fps, PAL mode: 1fps,2fps,3fps,6fps,12fps,25fps,50fps,100fps, 200fps",
       "Storage Type": "SLOT1: Multi slot for SD (UHS-I/II compliant) memory card/CFexpress Type A card, SLOT2: Multi slot for SD (UHS-I/II compliant) memory card/CFexpress Type A card",
-      "USB": "1 x USB-C Input",
+      "USB": "1 x Type-C Input",
       "HDMI": "1 x HDMI Output",
       "Microphone": "1 x 1/8\" / 3.5 mm TRS Stereo Microphone Input",
       "Headphone": "1 x 1/8\" / 3.5 mm TRS Stereo Headphone Output",
@@ -4799,6 +5644,11 @@
       "Operating Temperature": "32 - 104 degrees F / 0 - 40 degrees C",
       "Lens Mount": "Sony E-mount",
       "Warranty": "03 Years Service Warranty (No parts warranty)"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Max Image Resolution": "50 MP",
+      "Display Size": "50 Inch"
     }
   }
 ]

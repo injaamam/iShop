@@ -18,6 +18,14 @@
       "Dimension": "128 x 78 x 42 mm",
       "Weight": "96 g",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Thunderobot",
+      "Connection Type": "Wireless",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "96 g",
+      "Color": "White"
     }
   },
   {
@@ -36,6 +44,12 @@
       "Dimension(LxWxH)": "10*70*40",
       "Weight": "84g (appx.)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Thunderobot",
+      "Connection Type": "Wired",
+      "DPI": "2000 DPI",
+      "Weight": "84 g"
     }
   },
   {
@@ -53,6 +67,13 @@
       "Weight System": "Counterweight",
       "Color": "Black",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "XIGMATEK",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -74,6 +95,14 @@
       "Dimension": "100 x 55 x 145 mm",
       "Weight": "20g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Mouse Type": "Office",
+      "Weight": "20 g",
+      "Color": "Black"
     }
   },
   {
@@ -93,6 +122,14 @@
       "Color": "Black",
       "Dimension": "125 x 71 x 41mm (WxHxD)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -111,6 +148,12 @@
       "Tracking Method": "Optical",
       "Color": "Black",
       "Warranty": "01 year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -129,6 +172,12 @@
       "Color": "Black\r\nGrey\r\nRed\r\nBlue",
       "Dimension": "114.6*68*37.2mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -145,6 +194,12 @@
       "Color": "Black",
       "Weight": "clump weight",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -161,6 +216,12 @@
       "Color": "Black",
       "Weight": "clump weight",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -179,6 +240,13 @@
       "Dimension": "121 x 63 x 38mm",
       "Weight": "90±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "DPI": "1600 DPI",
+      "Weight": "5 g",
+      "Color": "Black"
     }
   },
   {
@@ -198,6 +266,13 @@
       "Dimension": "116 x 61.8 x 35.6 mm",
       "Weight": "81g",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wired",
+      "DPI": "1600 DPI",
+      "Weight": "81 g",
+      "Color": "Black"
     }
   },
   {
@@ -217,6 +292,14 @@
       "Dimension": "120 x 60 x 38mm",
       "Weight": "70g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "70 g",
+      "Color": "Black"
     }
   },
   {
@@ -234,6 +317,13 @@
       "Color": "Black",
       "Dimension": "116.7 x 62 x 38mm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Aula",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Button Count": "3 Buttons",
+      "Color": "Black"
     }
   },
   {
@@ -258,6 +348,14 @@
       "Dimension": "124.5*65.5*41mm",
       "Weight": "84gr without cable",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "Black"
     }
   },
   {
@@ -277,6 +375,12 @@
       "Color": "Black",
       "Dimension": "117 * 64 * 37mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -296,6 +400,14 @@
       "Dimension": "132 x 68 x 42.5mm",
       "Weight": "150 g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "4800 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "150 g",
+      "Color": "Black"
     }
   },
   {
@@ -316,6 +428,12 @@
       "Tracking Method": "Optical",
       "Connector": "Wired with USB",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wired",
+      "Button Count": "3 Buttons",
+      "Weight": "90 g"
     }
   },
   {
@@ -334,6 +452,14 @@
       "Dimension": "127 x 67 x 40mm",
       "Weight": "130±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "DPI": "1600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "5 g",
+      "Color": "Black"
     }
   },
   {
@@ -347,6 +473,11 @@
       "Interface": "USB receiver",
       "Sensor technology": "Optical Tracking",
       "Number of buttons": "3"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wired",
+      "DPI": "800 DPI"
     }
   },
   {
@@ -360,6 +491,10 @@
       "Interface": "USB receiver",
       "Sensor technology": "Optical Tracking",
       "Number of buttons": "3"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wired"
     }
   },
   {
@@ -379,6 +514,12 @@
       "Color": "Black",
       "Dimension": "119 x 62 x 37 mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -394,6 +535,13 @@
       "Resolution": "1000DPI",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Button Count": "3 Buttons",
+      "Color": "Black"
     }
   },
   {
@@ -412,6 +560,12 @@
       "Switch Lifecycle": "5 million clicks",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -429,6 +583,12 @@
       "Color": "Black, White, Blue, Pink",
       "Battery Life": "Up to 3 months",
       "Warranty": "365 DAY"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -447,6 +607,14 @@
       "Dimension": "109*60*35mm",
       "Weight": "100g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "100 g",
+      "Color": "Black"
     }
   },
   {
@@ -465,6 +633,13 @@
       "Dimension": "Height: 34 mm (1.33 in)\r\nLength: 63 mm (2.44 in)\r\nDepth: 111 mm (4.37 in)",
       "Weight": "0.12 kg",
       "Warranty": "3-Year warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wired",
+      "DPI": "1600 DPI",
+      "Button Count": "3 Buttons",
+      "Color": "Black"
     }
   },
   {
@@ -484,6 +659,14 @@
       "Weight": "70g/2.5oz",
       "Battery Life": "1*AA Battery(Not Included)",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -505,6 +688,13 @@
       "Weight": "0.06 oz (1.8 g)",
       "Battery Life": "Up to 18 months battery life",
       "Warranty": "01 years warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black (Part#910-005602)"
     }
   },
   {
@@ -524,6 +714,13 @@
       "Weight": "56±2g",
       "Battery Life": "Battery Type: 1 × AA",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -543,6 +740,14 @@
       "Weight": "0.300 Kg",
       "Battery Life": "600mAh Lithium Rechargeable Battery",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -561,6 +766,13 @@
       "Color": "Black",
       "Dimension": "11.6×6.3×3.9cm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Button Count": "3 Buttons",
+      "Color": "Black"
     }
   },
   {
@@ -579,6 +791,14 @@
       "Color": "Black",
       "Dimension": "122*63*39mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -599,6 +819,14 @@
       "Dimension": "126.5 x 66 x 37.8mm",
       "Weight": "126g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "8000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "126 g",
+      "Color": "White"
     }
   },
   {
@@ -618,6 +846,12 @@
       "Tracking Method": "Optical",
       "Color": "Black",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Color": "Black"
     }
   },
   {
@@ -637,6 +871,13 @@
       "Dimension": "8 cm x 5 cm x 12 cm",
       "Battery Life": "Battery Life: Up to 3 Months\r\nBattery Type: 1 AA Battery",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -663,6 +904,14 @@
       "Weight": "95 grams",
       "Battery Life": "300mAh",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "10 g",
+      "Color": "White"
     }
   },
   {
@@ -671,7 +920,11 @@
     "price": "480",
     "description": "2X Optical Mouse\rDPI:  800DPI\rDIM: 4.68L x 2.48W x 1.39H in.",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/a4tech/620d/620d-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/a4tech/620d/620d-500x500.jpg",
+    "filter": {
+      "Brand": "A4TECH",
+      "DPI": "800 DPI"
+    }
   },
   {
     "id": 2383,
@@ -688,6 +941,14 @@
       "Color": "Black",
       "Weight": "91 g (w/ cable)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "91 g",
+      "Color": "Black"
     }
   },
   {
@@ -708,6 +969,13 @@
       "Weight": "55g",
       "Battery Life": "9 months",
       "Warranty": "730 Days"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1300 DPI",
+      "Weight": "20 g",
+      "Color": "Black"
     }
   },
   {
@@ -727,6 +995,13 @@
       "Dimension": "38*99*60mm",
       "Weight": "65±5g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Office",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -742,6 +1017,12 @@
       "Optical Sensor": "1200DPI solution",
       "Dimension": "105*58*31mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -762,6 +1043,14 @@
       "Dimension": "W x H x D: 118mm x 64mm x 34mm",
       "Weight": "Gross weight: 0.18 kg\r\nWeight: 0.4 kg",
       "Warranty": "01 year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "2400 DPI",
+      "Button Count": "3 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -781,6 +1070,13 @@
       "Dimension": "115*74*42mm",
       "Weight": "10g",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "4000 DPI",
+      "Weight": "2.4 g",
+      "Color": "Light Black"
     }
   },
   {
@@ -797,6 +1093,13 @@
       "Weight": "54 Grams",
       "Battery Life": "2x AAA BATTERY",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -816,6 +1119,13 @@
       "Dimension": "10.3cm x 3.8cm x 6.4cm",
       "Battery Life": "Battery Life: Up to 3 Months\r\nBattery Type: 1 AA Battery",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -832,6 +1142,13 @@
       "Weight": "54 Grams",
       "Battery Life": "2x AAA BATTERY",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "White"
     }
   },
   {
@@ -851,6 +1168,13 @@
       "Dimension": "10.3cm x 3.8cm x 6.4cm",
       "Battery Life": "Battery Life: Up to 3 Months\r\nBattery Type: 1 AA Battery",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -869,6 +1193,13 @@
       "Color": "Black\r\nWhite\r\nPurple",
       "Battery Life": "Battery Life: Up to 3 Months\r\nBattery Type: 1 AA Battery",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -888,6 +1219,13 @@
       "Dimension": "125 x 72 x 39mm",
       "Weight": "Acceleration: 35 g",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "35 g",
+      "Color": "Naraka"
     }
   },
   {
@@ -904,6 +1242,13 @@
       "Weight": "58 Grams",
       "Battery Life": "2x AAA BATTERY",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -920,6 +1265,13 @@
       "Weight": "58 Grams",
       "Battery Life": "2x AAA BATTERY",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -937,6 +1289,12 @@
       "Weight": "Dongle weight: 2g\r\nNet Weight: 54g",
       "Battery Life": "Battery Required: 1 x AA Battery",
       "Warranty": "06-Months"
+    },
+    "filter": {
+      "Brand": "ZOOOK",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -956,6 +1314,13 @@
       "Weight": "58±5g",
       "Battery Life": "Operates on 1 AA battery (not included)",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "ORICO",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black (WDM-V2C-BK-BP)"
     }
   },
   {
@@ -972,6 +1337,14 @@
       "Button": "3",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "T-Wolf",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Button Count": "3 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -988,6 +1361,13 @@
       "Dimension": "11.8 x 6.71 x 4 cm (W x H x D)",
       "Weight": "84g",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Targus",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Weight": "84 g",
+      "Color": "Black"
     }
   },
   {
@@ -1007,6 +1387,14 @@
       "Color": "Black",
       "Dimension": "124*88*43mm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -1030,6 +1418,15 @@
       "Dimension": "124*68*40mm",
       "Weight": "104g (built-in weighted block)",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "104 g",
+      "Color": "Black"
     }
   },
   {
@@ -1046,6 +1443,13 @@
       "Color": "Black",
       "Weight": "413 g",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Weight": "413 g",
+      "Color": "Black"
     }
   },
   {
@@ -1069,6 +1473,14 @@
       "Dimension": "115.8 x 64.2 x 37.8mm",
       "Weight": "69g (w/out cable and accessories)",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connection Type": "Wired",
+      "DPI": "12400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "69 g",
+      "Color": "Black"
     }
   },
   {
@@ -1088,6 +1500,13 @@
       "Dimension": "38 x 98 x 61mm",
       "Weight": "55gm",
       "Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1104,6 +1523,13 @@
       "Color": "Black",
       "Dimension": "113x60.5x37.7 mm",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1123,6 +1549,13 @@
       "Dimension": "124.8x63x40.5mm",
       "Weight": "69g(not including cable)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "DPI": "12400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "White"
     }
   },
   {
@@ -1140,6 +1573,15 @@
       "Color": "Blue & green\r\nBlue\r\nYellow\r\nPink",
       "Weight": "81g",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "81 g",
+      "Color": "Blue & green"
     }
   },
   {
@@ -1160,6 +1602,14 @@
       "Dimension": "122*67*40mm",
       "Weight": "77g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "8 g",
+      "Color": "Black"
     }
   },
   {
@@ -1183,6 +1633,14 @@
       "Weight": "79g (Weight With Cable)",
       "Battery Life": "Battery Type: 500mAh\r\n78 hours without lighting\r\n52 hours with default lighting(Breathing)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wireless",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black: 90MP02V0-BMUA00"
     }
   },
   {
@@ -1208,6 +1666,14 @@
       "Weight": "124g",
       "Battery Life": "45-Hour Durable Power Capacity",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wireless",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1234,6 +1700,14 @@
       "Dimension": "89 x 137 x 45mm",
       "Battery Life": "li-polymer",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Connection Type": "Wireless",
+      "DPI": "19000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1254,6 +1728,14 @@
       "Dimension": "126.5 x 66 x 37.8mm",
       "Weight": "83g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "83 g",
+      "Color": "Black"
     }
   },
   {
@@ -1273,6 +1755,13 @@
       "Dimension": "125 x 72 x 39mm",
       "Weight": "78 gm",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "78 g",
+      "Color": "Honeycomb"
     }
   },
   {
@@ -1291,6 +1780,13 @@
       "Color": "Black",
       "Dimension": "126.5 x 66 x 37.8mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "4800 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -1309,6 +1805,15 @@
       "Dimension": "12.2x8.8x4cm",
       "Weight": "151g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wired",
+      "DPI": "3200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "151 g",
+      "Color": "Black"
     }
   },
   {
@@ -1326,6 +1831,14 @@
       "Color": "Black",
       "Dimension": "134 x 72 x 42 mm",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -1334,7 +1847,12 @@
     "price": "850",
     "description": "Resolution: 1000 dpi\rAir Interface: 2.4 GHz\rRadius: 10 m\rWarranty 1 Year",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/accessories/mouse/a4tech/g3-200n-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/accessories/mouse/a4tech/g3-200n-500x500.jpg",
+    "filter": {
+      "Brand": "A4TECH",
+      "DPI": "1000 DPI",
+      "Weight": "2.4 g"
+    }
   },
   {
     "id": 2419,
@@ -1342,7 +1860,13 @@
     "price": "820",
     "description": "2 buttons \rInterface:USB\rHigh resolution: 1000dpi",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/a4tech/g3-300n/g3-300n-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/a4tech/g3-300n/g3-300n-01-500x500.webp",
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Button Count": "2 Buttons"
+    }
   },
   {
     "id": 2420,
@@ -1359,6 +1883,14 @@
       "Color": "Glossy Grey",
       "Battery Life": "1AA Alkaline Battery",
       "Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "2.4 g",
+      "Color": "Glossy Grey"
     }
   },
   {
@@ -1375,6 +1907,13 @@
       "Color": "Black & Grey",
       "Dimension": "106x63x38.5mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black & Grey"
     }
   },
   {
@@ -1398,6 +1937,14 @@
       "Color": "Black",
       "Dimension": "128mm x 68mm x 41mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "8000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "15 g",
+      "Color": "Black"
     }
   },
   {
@@ -1417,6 +1964,15 @@
       "Dimension": "127x79x41mm/5x3.1x1.6in",
       "Weight": "106g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "106 g",
+      "Color": "Black"
     }
   },
   {
@@ -1434,6 +1990,13 @@
       "Button": "6 Buttons",
       "Dimension": "120*63.7*41mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Golden",
+      "Connection Type": "Wired",
+      "DPI": "3200 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -1457,6 +2020,14 @@
       "Color": "White",
       "Dimension": "128mm x 68mm x 41mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "8000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "White"
     }
   },
   {
@@ -1480,6 +2051,14 @@
       "Color": "Pink",
       "Dimension": "128mm x 68mm x 41mm",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "8000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "15 g",
+      "Color": "Pink"
     }
   },
   {
@@ -1502,6 +2081,13 @@
       "Tracking Method": "Optical",
       "Connector": "Wired with USB",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Button Count": "104 Buttons",
+      "Weight": "70 g"
     }
   },
   {
@@ -1521,6 +2107,14 @@
       "Color": "Black",
       "Dimension": "131.5x75.2x41.5mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "3200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1541,6 +2135,13 @@
       "Dimension": "116x7x38mm",
       "Weight": "83.7g",
       "Warranty": "365 DAY"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Gaming",
+      "Weight": "10 g",
+      "Color": "Black"
     }
   },
   {
@@ -1559,6 +2160,13 @@
       "Color": "Black",
       "Dimension": "128 x 67.5 x 40.5mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -1579,6 +2187,14 @@
       "Dimension": "132*68*42.5mm",
       "Weight": "144g",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "4800 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "144 g",
+      "Color": "White"
     }
   },
   {
@@ -1587,7 +2203,11 @@
     "price": "900",
     "description": "1600 DPI\rTracks anywhere without a pad\rVertical light",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/accessories/mouse/a4tech/70fx-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/accessories/mouse/a4tech/70fx-500x500.jpg",
+    "filter": {
+      "Brand": "A4TECH",
+      "DPI": "1600 DPI"
+    }
   },
   {
     "id": 2433,
@@ -1604,6 +2224,14 @@
       "Color": "Black",
       "Weight": "15g",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "15 g",
+      "Color": "Black"
     }
   },
   {
@@ -1624,6 +2252,13 @@
       "Weight": "54g",
       "Battery Life": "Up to 12 months",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Blue (PMW5010-DBLU)"
     }
   },
   {
@@ -1644,6 +2279,13 @@
       "Weight": "66g",
       "Battery Life": "Up to 12 months",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Blue (PMW6008-BLU)"
     }
   },
   {
@@ -1666,6 +2308,14 @@
       "Dimension": "104 x 73 x 58mm",
       "Weight": "105±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "DPI": "3200 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "8 g",
+      "Color": "Black"
     }
   },
   {
@@ -1679,6 +2329,11 @@
       "Interface": "USB receiver",
       "Sensor technology": "Optical Tracking",
       "Number of buttons": "3"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -1696,6 +2351,12 @@
       "Weight": "70.5 g (2.49 oz) with battery",
       "Battery Life": "12-months",
       "Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1716,6 +2377,13 @@
       "Dimension": "110*62*29mm",
       "Battery Life": "Lithium Battery: 500mAh",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1733,6 +2401,13 @@
       "Weight": "85 g ( Batteries not included )",
       "Battery Life": "1AA Alkaline Battery",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1753,6 +2428,14 @@
       "Weight": "0.06Kg",
       "Battery Life": "12 months",
       "Warranty": "3-Year warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1771,6 +2454,13 @@
       "Weight": "69g",
       "Battery Life": "Battery Capacity: 300mAh Lithium\r\nWorking Hours: About 75 hours",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1793,6 +2483,14 @@
       "Dimension": "118 x 61 x 38.4 mm",
       "Weight": "120g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "120 g",
+      "Color": "White"
     }
   },
   {
@@ -1809,6 +2507,13 @@
       "Color": "Dark Gray",
       "Battery Life": "Up to 9 months battery life",
       "Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1300 DPI",
+      "Weight": "2.4 g",
+      "Color": "Dark Gray"
     }
   },
   {
@@ -1832,6 +2537,14 @@
       "Dimension": "approx:123 x 66 x 42mm",
       "Weight": "122±5 g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "Button Count": "1 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "22.5 g",
+      "Color": "Black"
     }
   },
   {
@@ -1853,6 +2566,14 @@
       "Dimension": "Packed Dimensions: (L x D x H)\t120 x 197 x 33 mm (4.72 x 7.76 x 1.30 in)",
       "Battery Life": "Up to 12 months (may vary based on usage)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -1871,6 +2592,14 @@
       "Tracking Method": "Optical",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -1889,6 +2618,14 @@
       "Tracking Method": "Optical",
       "Color": "White",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "White"
     }
   },
   {
@@ -1909,6 +2646,14 @@
       "Dimension": "122x67x40mm",
       "Weight": "82 g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "Black"
     }
   },
   {
@@ -1924,6 +2669,13 @@
       "Resolution": "1600 DPI",
       "Button": "6",
       "Warranty": "01 year Warranty"
+    },
+    "filter": {
+      "Brand": "ThundeRobot",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Mouse Type": "Office",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -1944,6 +2696,12 @@
       "Resolution": "1000 DPI",
       "Connector": "USB",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Weight": "74 g"
     }
   },
   {
@@ -1962,6 +2720,13 @@
       "Resolution": "1200 DPI",
       "Connector": "2.4GHz Wireless",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Button Count": "104 Buttons",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -1970,7 +2735,12 @@
     "price": "1000",
     "description": "Material: ABS\rPower USB DC 5V\rHeight: 9 step adjustable 10mm-150mm\rDimension: 110x96x70mm, Weight: 400g",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/fantech/mb01/mb01-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/fantech/mb01/mb01-01-500x500.jpg",
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "Weight": "400 g"
+    }
   },
   {
     "id": 2454,
@@ -1987,6 +2757,13 @@
       "Weight": "59.2g (Without Battery)",
       "Battery Life": "1AA Battery",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Grey"
     }
   },
   {
@@ -2008,6 +2785,13 @@
       "Connector": "2.4GHz Wireless",
       "Cable Length": "1.35-meter",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Button Count": "104 Buttons",
+      "Weight": "65 g"
     }
   },
   {
@@ -2028,6 +2812,12 @@
       "Connector": "USB",
       "Cable Length": "1.5 Meter",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wired",
+      "DPI": "1600 DPI",
+      "Button Count": "104 Buttons"
     }
   },
   {
@@ -2052,6 +2842,14 @@
       "Dimension": "124.5*65.5*41mm",
       "Weight": "84gr without cable",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "White"
     }
   },
   {
@@ -2073,6 +2871,13 @@
       "Dimension": "5.7 x 9.6 x 3.5mm",
       "Weight": "53gm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Blue"
     }
   },
   {
@@ -2089,6 +2894,13 @@
       "Tracking Method": "Precise Tracking",
       "Color": "Black",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Button Count": "6 Buttons",
+      "Color": "Black"
     }
   },
   {
@@ -2111,6 +2923,14 @@
       "Dimension": "121.51 x 66.80 x 41.80 mm",
       "Weight": "0.25g",
       "Warranty": "no warranty"
+    },
+    "filter": {
+      "Brand": "MotoSpeed",
+      "Connection Type": "Wired",
+      "DPI": "6200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "0.25 g",
+      "Color": "Black"
     }
   },
   {
@@ -2131,6 +2951,14 @@
       "Dimension": "68mm x 125mm x 40mm",
       "Weight": "30g",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "Black"
     }
   },
   {
@@ -2150,6 +2978,13 @@
       "Weight": "89.9 g (with batteries)",
       "Battery Life": "18 months",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "89.9 g",
+      "Color": "Grey: 910-005913"
     }
   },
   {
@@ -2169,6 +3004,14 @@
       "Dimension": "L130 x W65 x H42 mm",
       "Weight": "140 + 5 g(include cable)",
       "Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "5 g",
+      "Color": "Black"
     }
   },
   {
@@ -2185,6 +3028,12 @@
       "Button": "7",
       "Switch Lifecycle": "5 million clicks",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "Button Count": "6400 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -2203,6 +3052,13 @@
       "Color": "Black",
       "Dimension": "127 x 71 x 42mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wired",
+      "DPI": "3200 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -2224,6 +3080,13 @@
       "Dimension": "100x60.6x34",
       "Weight": "54 grams",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Space Edition"
     }
   },
   {
@@ -2245,6 +3108,13 @@
       "Dimension": "100x60.6x34",
       "Weight": "54 grams",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g",
+      "Color": "Mint Edition"
     }
   },
   {
@@ -2253,7 +3123,11 @@
     "price": "500",
     "description": "Material: Durasoft Polymer\rCustom-made for Xtrfy M4 & M4 Wireless\rProduced in collaboration with Lizard Skins\rUltra comfortable, slip-resistant material",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/m4-mouse-grip-tape/m4-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/m4-mouse-grip-tape/m4-01-500x500.jpg",
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless"
+    }
   },
   {
     "id": 2469,
@@ -2261,7 +3135,11 @@
     "price": "500",
     "description": "Material: Durasoft Polymer\rCustom-made for Xtrfy M42 & M42 Wireless\rProduced in collaboration with Lizard Skins\rUltra comfortable, slip-resistant material",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/m4-mouse-grip-tape/m4-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/m4-mouse-grip-tape/m4-01-500x500.jpg",
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless"
+    }
   },
   {
     "id": 2470,
@@ -2269,7 +3147,11 @@
     "price": "500",
     "description": "Material: Durasoft Polymer\rCustom-made for Xtrfy MZ1 & MZ1 Wireless\rProduced in collaboration with Lizard Skins\rUltra comfortable, slip-resistant material",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/m4-mouse-grip-tape/m4-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/m4-mouse-grip-tape/m4-01-500x500.jpg",
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless"
+    }
   },
   {
     "id": 2471,
@@ -2286,6 +3168,14 @@
       "Color": "Black\r\nWhite",
       "Dimension": "126 x 67 x 38 mm",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Button Count": "8 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -2303,6 +3193,12 @@
       "Tracking Method": "Smooth optical tracking",
       "Color": "Black/Grey (910-004424)\r\nRed/Black (910-004641)\r\nBlue/Black (910-004640)\r\nOff-White (910-006867)\r\nBlue Gray (910-006866)\r\nRose (910-006865)",
       "Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g",
+      "Color": "Black/Grey (910-004424)"
     }
   },
   {
@@ -2324,6 +3220,14 @@
       "Dimension": "Packed Dimensions: (L x D x H)\t120 x 197 x 33 mm (4.72 x 7.76 x 1.30 in)",
       "Battery Life": "Up to 12 months (may vary based on usage)",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Button Count": "3 Buttons",
+      "Weight": "2.4 g",
+      "Color": "Platinum Grey"
     }
   },
   {
@@ -2343,6 +3247,15 @@
       "Bonus": "8mm width antiskid roller",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "10 g",
+      "Color": "Black"
     }
   },
   {
@@ -2355,6 +3268,12 @@
     "Specifications": {
       "Interface": "6 button II\r\nkaihua Switch  II",
       "Sensor technology": "Adjustable 2000 DPI"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "DPI": "2000 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -2378,6 +3297,14 @@
       "Dimension": "104 x 73 x 58mm",
       "Weight": "95±5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wireless",
+      "DPI": "3200 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -2399,6 +3326,13 @@
       "Tracking Method": "Optical",
       "Connector": "2.4GHz wireless connection",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connection Type": "Wireless",
+      "DPI": "1400 DPI",
+      "Button Count": "104 Buttons",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -2421,6 +3355,13 @@
       "Weight": "60g",
       "Battery Life": "9 Months",
       "Warranty": "730 Days"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1300 DPI",
+      "Weight": "20 g",
+      "Color": "Black"
     }
   },
   {
@@ -2440,6 +3381,11 @@
       "Wireless operating distance": "Approx 10m",
       "Wireless technology": "Advanced 2.4 GHz wireless connectivity",
       "Warranty": "03 Years Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -2459,6 +3405,11 @@
       "Wireless operating distance": "Approx 10m*",
       "Wireless technology": "Advanced 2.4 GHz wireless connectivity",
       "Warranty": "03 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -2476,6 +3427,14 @@
       "Dimension": "100.1 x 63.7 x 26.5mm",
       "Weight": "60g",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1300 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "2.4 g",
+      "Color": "Dark Gray"
     }
   },
   {
@@ -2495,6 +3454,13 @@
       "Color": "Black",
       "Dimension": "125x64x40mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "10000 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -2514,6 +3480,13 @@
       "Color": "Black",
       "Dimension": "125x64x40mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "10000 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -2522,7 +3495,10 @@
     "price": "1000",
     "description": "Flexible silicone arm\rSteady base\rNon-slip rubber bottom\rCompact and convenient",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/b4-mouse-bungee/b4-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/b4-mouse-bungee/b4-01-500x500.jpg",
+    "filter": {
+      "Brand": "Xtrfy"
+    }
   },
   {
     "id": 2485,
@@ -2530,7 +3506,10 @@
     "price": "1000",
     "description": "Flexible silicone arm\rSteady base\rNon-slip rubber bottom\rCompact and convenient",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/b4-mouse-bungee/b4-04-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/b4-mouse-bungee/b4-04-500x500.jpg",
+    "filter": {
+      "Brand": "Xtrfy"
+    }
   },
   {
     "id": 2486,
@@ -2548,6 +3527,14 @@
       "Color": "Black",
       "Dimension": "128 x 72 x 41mm (WxHxD)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "12000 DPI",
+      "Button Count": "8 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -2566,6 +3553,11 @@
       "Weight": "Mouse(with batteries): 75.2 g\r\nUSB Receiver: 1.8 g",
       "Battery Life": "18 months",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -2581,6 +3573,12 @@
       "Resolution": "800/1200/1600/2400 DPI",
       "Others": "Key number: 6keys\r\nSystem support: Windows XP/Vista/Win7/8/10",
       "Warranty": "01-Year Warrranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "DPI": "2400 DPI",
+      "Button Count": "104 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -2599,6 +3597,13 @@
       "Color": "Black",
       "Dimension": "109mmx64mmx36mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -2615,6 +3620,12 @@
       "Polling Rate": "125 Hz",
       "Color": "Stone Black\r\nBaby Pink\r\nAsh Blue",
       "Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g",
+      "Color": "Stone Black"
     }
   },
   {
@@ -2634,6 +3645,15 @@
       "Dimension": "124x65x41 mm",
       "Weight": "90g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Aula",
+      "Connection Type": "Wired",
+      "DPI": "12400 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "90 g",
+      "Color": "Black"
     }
   },
   {
@@ -2649,6 +3669,13 @@
       "Color": "Black & White",
       "Battery Life": "1200 dpi",
       "Warranty": "01 Year Wrranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black & White"
     }
   },
   {
@@ -2663,6 +3690,13 @@
       "Others": "Number of buttons: 3 + scroll wheel\r\nSensor Type: Optical\r\nPower supply: 2 × AAA",
       "Resolution": "800/1000/1200 dpi",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Defender",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Button Count": "104 Buttons",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -2671,7 +3705,10 @@
     "price": "999",
     "description": "Adjustable Mouse Cord Holder\rQuick and Smart Solution\rSmall but Strong\rEasy Handling",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/c1-cord-holder/c1-cord-holder-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/xtrfy/c1-cord-holder/c1-cord-holder-500x500.jpg",
+    "filter": {
+      "Brand": "Xtrfy"
+    }
   },
   {
     "id": 2495,
@@ -2690,6 +3727,12 @@
       "Weight": "Weight (with batteries): 3.21 oz (91 g)",
       "Battery Life": "Battery: 18 months\r\nBattery Details: 1 x AA (included)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g",
+      "Color": "Black : 910-004905"
     }
   },
   {
@@ -2707,6 +3750,13 @@
       "Dimension": "123 x 127 x 160mm",
       "Weight": "67g",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "67 g",
+      "Color": "Black"
     }
   },
   {
@@ -2725,6 +3775,13 @@
       "Weight": "52 gm",
       "Battery Life": "Battery capacity: AA battery\r\nStandby time: 63 months",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "52 g",
+      "Color": "Black"
     }
   },
   {
@@ -2741,6 +3798,12 @@
       "Dimension": "123x127x160mm",
       "Battery Life": "Battery: 400mAh",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g",
+      "Color": "Grey "
     }
   },
   {
@@ -2759,6 +3822,13 @@
       "Dimension": "105 x 70 x 42",
       "Weight": "91 g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wireless",
+      "Button Count": "6 Buttons",
+      "Weight": "2.4 g",
+      "Color": "Smoky Grey"
     }
   },
   {
@@ -2777,6 +3847,13 @@
       "Acceleration": "15 g",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "15 g",
+      "Color": "Black"
     }
   },
   {
@@ -2797,6 +3874,13 @@
       "Movement Resolution": "1000 dpi",
       "Sensor": "Optical",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "57.6 g",
+      "Color": "Black"
     }
   },
   {
@@ -2816,6 +3900,13 @@
       "Dimension": "113.3mm x 60.6mm x 30.5mm",
       "Weight": "80.2g",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "80.2 g",
+      "Color": "Grey"
     }
   },
   {
@@ -2835,6 +3926,12 @@
       "Number of Buttons": "4",
       "Connector": "Nano USB Receiver",
       "Warranty": "02-Year"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -2857,6 +3954,14 @@
       "Dimension": "126x75x40 mm",
       "Weight": "0.135 kg",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wired",
+      "DPI": "4000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "15 g",
+      "Color": "Black"
     }
   },
   {
@@ -2874,6 +3979,15 @@
       "Color": "Black, White",
       "Dimension": "19.4 x 13.7 x 5.2 cm; 195.45 Grams",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "195.45 g",
+      "Color": "Black"
     }
   },
   {
@@ -2890,6 +4004,12 @@
       "Resolution": "1,600 DPI",
       "Connector": "Wireless",
       "Warranty": "3-Year"
+    },
+    "filter": {
+      "Brand": "Targus",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "70 g"
     }
   },
   {
@@ -2905,6 +4025,12 @@
       "Resolution": "1000 DPI",
       "Connector": "Wireless",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -2929,6 +4055,14 @@
       "Weight": "95 grams",
       "Battery Life": "400mAh",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "95 g",
+      "Color": "Mint"
     }
   },
   {
@@ -2947,6 +4081,13 @@
       "Color": "Black",
       "Dimension": "Height: 40 mm (1.59 in)\r\nLength: 71 mm (2.81 in)\r\nDepth: 123 mm (4.84 in)",
       "Warranty": "3-Year warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wired",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -2973,6 +4114,14 @@
       "Weight": "95 grams",
       "Battery Life": "300mAh",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "10 g",
+      "Color": "Black"
     }
   },
   {
@@ -2991,6 +4140,12 @@
       "Weight": "2.60 oz (73.8 g)",
       "Battery Life": "Battery life: Up to 18 months\r\nBattery life may vary based on user and computing conditions.\r\nBattery Details: 1 x AA (included)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "73.8 g",
+      "Color": "Black"
     }
   },
   {
@@ -3009,6 +4164,12 @@
       "Weight": "2.60 oz (73.8 g)",
       "Battery Life": "Battery life: Up to 18 months\r\nBattery life may vary based on user and computing conditions.\r\nBattery Details: 1 x AA (included)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "73.8 g",
+      "Color": "White"
     }
   },
   {
@@ -3027,6 +4188,12 @@
       "Weight": "2.60 oz (73.8 g)",
       "Battery Life": "Battery life: Up to 18 months\r\nBattery life may vary based on user and computing conditions.\r\nBattery Details: 1 x AA (included)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "Weight": "73.8 g",
+      "Color": "Rose"
     }
   },
   {
@@ -3050,6 +4217,14 @@
       "Dimension": "130mm x 78mm x 38mm",
       "Battery Life": "Battery Capacity 300mAh",
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "3212 g",
+      "Color": "Sakura Edition"
     }
   },
   {
@@ -3076,6 +4251,14 @@
       "Weight": "95 grams",
       "Battery Life": "300mAh",
       "Warranty": "365 DAY"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "10 g",
+      "Color": "BEIGE"
     }
   },
   {
@@ -3094,6 +4277,12 @@
       "Tracking Method": "Optical",
       "Connector": "Plug & Play Nano USB Receiver",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1300 DPI",
+      "Weight": "60 g"
     }
   },
   {
@@ -3116,6 +4305,14 @@
       "Dimension": "(L)128*(W)72*(H)43 mm",
       "Weight": "100g (+-5%) without cable",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Matte Black"
     }
   },
   {
@@ -3134,6 +4331,13 @@
       "Number of Buttons": "7",
       "Resolution": "1200-1800-2400-3600DPI",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Button Count": "108 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -3151,6 +4355,13 @@
       "Color": "Black",
       "Dimension": "126 x 65 x 39.5 mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "10000 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -3170,6 +4381,13 @@
       "Movement Resolution": "1000 dpi",
       "Sensor": "Optical",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "82 g",
+      "Color": "Black"
     }
   },
   {
@@ -3187,6 +4405,13 @@
       "Polling Rate": "125Hz",
       "Connector": "Wireless 2.4G Hz\r\nReceiver: Nano USB Receiver",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -3208,6 +4433,13 @@
       "Weight": "68g",
       "Battery Life": "About 25 days",
       "Warranty": "730 Days"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1300 DPI",
+      "Weight": "20 g",
+      "Color": "Silver"
     }
   },
   {
@@ -3229,6 +4461,12 @@
       "Resolution": "1600 DPI",
       "Connector": "USB Port",
       "Warranty": "1 Year - CRU"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wired",
+      "DPI": "1600 DPI",
+      "Weight": "120 g"
     }
   },
   {
@@ -3249,6 +4487,11 @@
       "Weight": "63±5g",
       "Connector": "Nano USB Receiver",
       "Warranty": "02-Year"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Connection Type": "Wired",
+      "Weight": "5 g"
     }
   },
   {
@@ -3269,6 +4512,13 @@
       "Weight": "Weight: 91.0 g (Mouse)\r\nWeight: 1.8 g (Nano receiver)",
       "Battery Life": "Battery Life (not rechargeable): 24 months",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -3286,6 +4536,13 @@
       "Weight": "Weight: 67 g ( Batteries not included )",
       "Resolution": "1000/1600/2000 DPI",
       "Polling Rate": "125Hz"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wireless",
+      "DPI": "2000 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "67 g"
     }
   },
   {
@@ -3304,6 +4561,14 @@
       "Color": "Black",
       "Dimension": "128 x 74 x 44 mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connection Type": "Wired",
+      "DPI": "12000 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -3321,6 +4586,13 @@
       "Connector": "USB",
       "Diameter": "50mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "104 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -3338,6 +4610,15 @@
       "Button": "7 optimized MMO programmable buttons (Total 8 Buttons)",
       "Color": "Black",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wired",
+      "DPI": "12400 DPI",
+      "Button Count": "8 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "Black"
     }
   },
   {
@@ -3357,6 +4638,13 @@
       "Resolution": "1000 DPI",
       "Connector": "2.4 GHz Wireless via Nano USB",
       "Warranty": "03-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Button Count": "106 Buttons",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -3375,6 +4663,13 @@
       "Dimension": "Height: 116.6 mm\r\nWidth: 62.15 mm\r\nDepth: 38.2 mm",
       "Weight": "Weight: 85 g, (mouse only)",
       "Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "DPI": "8000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "85 g",
+      "Color": "Black"
     }
   },
   {
@@ -3402,6 +4697,14 @@
       "Dimension": "126.8mm x 65.5mm x 41mm",
       "Weight": "88g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wired",
+      "DPI": "5 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "Black"
     }
   },
   {
@@ -3424,6 +4727,13 @@
       "Dimension": "120mm x 65mm x 39mm",
       "Weight": "141 g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "3325 g",
+      "Color": "Black"
     }
   },
   {
@@ -3444,6 +4754,12 @@
       "Tracking Method": "Optical",
       "Connector": "Plug-and-play Nano receiver",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "59 g"
     }
   },
   {
@@ -3466,6 +4782,12 @@
       "Tracking Method": "optical sensor",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -3489,6 +4811,13 @@
       "Microphone Size": "6x5.0mm",
       "Sensitivity": "108dB±3 dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "4 g"
     }
   },
   {
@@ -3512,6 +4841,13 @@
       "Dimension": "73.5mm x 124mm x 41mm",
       "Weight": "Net Weight: 150 g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "A4Tech",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "Crackle"
     }
   },
   {
@@ -3536,6 +4872,15 @@
       "Dimension": "132 x 77 x 36mm",
       "Weight": "160 ± 5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "DPI": "4000 DPI",
+      "Button Count": "1 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "Black"
     }
   },
   {
@@ -3561,6 +4906,14 @@
       "Weight": "79g (without cable and dongle)",
       "Battery Life": "Battery Type: 370mAh\n\r\nBattery Life:\r\n2.4GHz mode: Up to 119 hours\r\nBLE mode: Up to 143 hours\r\n*No lighting effect",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wireless",
+      "DPI": "36000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -3581,6 +4934,14 @@
       "Dimension": "118.2(L)x68(w)x40(H) mm",
       "Weight": "84g (Weight Without Cable)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wired",
+      "DPI": "7000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "Black"
     }
   },
   {
@@ -3603,6 +4964,15 @@
       "Dimension": "123 x 68 x 40mm",
       "Weight": "59g w/o cable",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Connection Type": "Wired",
+      "DPI": "8000 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "Black"
     }
   },
   {
@@ -3625,6 +4995,14 @@
       "Color": "Black",
       "Weight": "62-gram",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wireless",
+      "DPI": "12000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -3644,6 +5022,14 @@
       "Dimension(LxWxH)": "123 x 66 x 42mm",
       "Weight": "122±5g",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Button Count": "1 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "22.5 g"
     }
   },
   {
@@ -3661,6 +5047,12 @@
       "Resolution": "On-the-fly adjustable DPI (200-8000)",
       "Cable Length": "1.8m nylon braided cable",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Button Count": "26 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g"
     }
   },
   {
@@ -3680,6 +5072,14 @@
       "Color": "Gray\r\nBlack",
       "Battery Life": "600mAh",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connection Type": "Wireless",
+      "DPI": "3200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Gray"
     }
   },
   {
@@ -3704,6 +5104,13 @@
       "Microphone Size": "φ6.0*5.0mm",
       "Sensitivity": "108±3 dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "224 g"
     }
   },
   {
@@ -3723,6 +5130,14 @@
       "Acceleration": "8G Acceleration",
       "Color": "Black, Grey",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "DPI": "1000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "8 g",
+      "Color": "Black"
     }
   },
   {
@@ -3741,6 +5156,12 @@
       "Weight": "2.68 oz (76 g)",
       "Battery Life": "Up to 24 months battery life",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "DPI": "1000 DPI",
+      "Weight": "76 g",
+      "Color": "Tonal Graphite (910-006988)"
     }
   },
   {
@@ -3761,6 +5182,15 @@
       "Dimension": "126 x 65 x 395mm",
       "Weight": "Perforated combination: about 82g (without wire)\r\nSolid without counterweight: about 86g (without wire)\r\nSolid with counterweight: about 95g (without wire)",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wired",
+      "DPI": "6200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "Black"
     }
   },
   {
@@ -3784,6 +5214,15 @@
       "Color": "Red\r\nGray",
       "Dimension": "approx 126 x 68 x 39mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "DPI": "4000 DPI",
+      "Button Count": "10 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "20 g",
+      "Color": "Red"
     }
   },
   {
@@ -3804,6 +5243,13 @@
       "Tracking Method": "Experience Precision Tracking on Any Surface",
       "Color": "Black",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -3822,6 +5268,14 @@
       "Dimension": "136x88x36mm",
       "Weight": "177g±5g",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wired",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "177 g",
+      "Color": "Black/ Gray"
     }
   },
   {
@@ -3839,6 +5293,13 @@
       "Resolution": "1600 DPI",
       "Tracking Method": "Optical",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Button Count": "104 Buttons",
+      "Weight": "545 g"
     }
   },
   {
@@ -3854,6 +5315,11 @@
       "Resolution": "1200/1600/2400/3200",
       "Diameter": "50mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Button Count": "104 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -3875,6 +5341,11 @@
       "Microphone Size": "Adjustable",
       "Sensitivity": "112",
       "Warranty": "2 year"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -3896,6 +5367,13 @@
       "Weight": "56 g",
       "Battery Life": "Up to 12 months",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "50 g",
+      "Color": "Purple"
     }
   },
   {
@@ -3917,6 +5395,13 @@
       "Weight": "Keyboard: 451 g (with battery)\r\nMouse: 84 g (with battery)",
       "Battery Life": "Mouse: AA*1\r\nKeyboard: AAA*1",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wireless",
+      "DPI": "800 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -3937,6 +5422,15 @@
       "Dimension": "125*65*39mm",
       "Weight": "75g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connection Type": "Wireless",
+      "DPI": "6400 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -3954,6 +5448,14 @@
       "Color": "Black",
       "Weight": "Below 65gms",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "65 g",
+      "Color": "Black"
     }
   },
   {
@@ -3971,6 +5473,13 @@
       "Button": "6 Programmable Buttons",
       "Color": "Black, Silver",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "DPI": "3200 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -3993,6 +5502,14 @@
       "Dimension": "Height: 40.7 mm (1.60 in)\r\nWidth: 84.4 mm (3.32 in)\r\nDepth: 133.8 mm(5.27 in)",
       "Weight": "0.17 kg (0.37 lbs)",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wired",
+      "DPI": "8200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "Black"
     }
   },
   {
@@ -4012,6 +5529,14 @@
       "Color": "Black",
       "Weight": "Mouse plus cable - 144 grams.\r\nMouse without cable - 108 grams.",
       "Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wired",
+      "DPI": "4000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "16 g",
+      "Color": "Black"
     }
   },
   {
@@ -4036,6 +5561,14 @@
       "Dimension": "106.62*72.92*43.58MM",
       "Weight": "92.0±5g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "DeepCool",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -4056,6 +5589,14 @@
       "Weight": "Weight: 101.2 g - weight includes a battery (25g) and receiver (1.8g)",
       "Battery Life": "Up to 24 months battery life",
       "Warranty": "01 years warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "400 DPI",
+      "Button Count": "5 Buttons",
+      "Weight": "101.2 g",
+      "Color": "Graphite (910-006262)"
     }
   },
   {
@@ -4079,6 +5620,12 @@
       "Resolution": "1200 DPI",
       "Connector": "Supported PC with USB port",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Connection Type": "Wireless",
+      "DPI": "1200 DPI",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -4087,7 +5634,12 @@
     "price": "3100",
     "description": "Switch between Bluetooth 3.0, 4.0 and 2.4G\rIntelligently switch among devices\rAdjustable real-time DPI button",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/rapoo/mt550/mt550-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/rapoo/mt550/mt550-500x500.jpg",
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g"
+    }
   },
   {
     "id": 2567,
@@ -4110,6 +5662,15 @@
       "Dimension": "129 x 70 x 43.5mm",
       "Weight": "160 ± 5g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "DPI": "12000 DPI",
+      "Button Count": "1 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -4127,6 +5688,11 @@
       "Weight System": "8 zinc alloy weights",
       "Bonus": "OMRON game micro switch",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -4150,6 +5716,14 @@
       "Dimension": "12.50 x 7.50 x 4.50 cm / 4.92 x 2.95 x 1.77 inches",
       "Weight": "0.1470 kg",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "30 g",
+      "Color": "Black"
     }
   },
   {
@@ -4169,6 +5743,13 @@
       "Dimension": "39 x 121 x 64mm",
       "Weight": "75g",
       "Warranty": "1 Year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "White"
     }
   },
   {
@@ -4186,6 +5767,13 @@
       "Button": "7 Programmable Buttons",
       "Color": "Black",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "DPI": "10000 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -4207,6 +5795,14 @@
       "Resolution": "800-1600-2400-3200-4000-4800DPI",
       "Connector": "USB",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "4800 DPI",
+      "Button Count": "104 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "760 g"
     }
   },
   {
@@ -4234,6 +5830,14 @@
       "Microphone Sensitivity": "40±2dB",
       "Sensitivity": "Headset Sensitivity: 120+3dB\r\nMicrophone Sensitivity: 40+2dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "200 DPI",
+      "Button Count": "104 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "429.3 g"
     }
   },
   {
@@ -4256,6 +5860,14 @@
       "Weight": "250g",
       "Battery Life": "Built-in 1000mA Li-ion battery",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wireless",
+      "DPI": "5 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -4281,6 +5893,14 @@
       "Microphone Sensitivity": "120±3db",
       "Sensitivity": "120±3db",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Connection Type": "Wired",
+      "DPI": "2400 DPI",
+      "Button Count": "1 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "8 g"
     }
   },
   {
@@ -4306,6 +5926,14 @@
       "Microphone Sensitivity": "120±3db (Headphone)\r\n-56±2db (Mic Sensitivity)",
       "Sensitivity": "120±3db (Mic Sensitivity: -56±2db)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Connection Type": "Wired",
+      "DPI": "3200 DPI",
+      "Button Count": "1 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "8 g"
     }
   },
   {
@@ -4329,6 +5957,14 @@
       "Dimension": "126 x 63.5 x39.6 mm",
       "Weight": "lightweight",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -4348,6 +5984,12 @@
       "Resolution": "800-1600-2400-3200-4000-4800 DPI",
       "Connector": "USB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "4800 DPI",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -4375,6 +6017,14 @@
       "Dimension": "130 * 70 * 40 mm",
       "Weight": "0.5 kg",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "FANTECH",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -4399,6 +6049,14 @@
       "Dimension": "125 * 64 * 39 mm",
       "Weight": "74g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "12000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "3360 g",
+      "Color": "Black"
     }
   },
   {
@@ -4420,6 +6078,13 @@
       "Color": "White",
       "Weight": "68 g",
       "Warranty": "1-year warranty (Must claim box and all accessories)"
+    },
+    "filter": {
+      "Brand": "Keychron",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Weight": "50 g",
+      "Color": "White"
     }
   },
   {
@@ -4442,6 +6107,13 @@
       "Resolution": "1600 by default; Adjustable via DPM - 1000, 1600, 2400, 4000",
       "Tracking Method": "Optical",
       "Connector": "2.4GHz Wireless via USB Dongle"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Connection Type": "Wireless",
+      "DPI": "4000 DPI",
+      "Button Count": "104 Buttons",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -4466,6 +6138,15 @@
       "Weight": "99 g",
       "Battery Life": "250 hours",
       "Warranty": "02 years Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "12000 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -4490,6 +6171,14 @@
       "Dimension": "124 (L) x 65 (W) x 39(H)mm",
       "Weight": "83 g",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "DeepCool",
+      "Connection Type": "Wireless",
+      "DPI": "19000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -4512,6 +6201,13 @@
       "Dimension": "128.3 mm x 74.5 mm x 42 mm (5.05\" x 2.93\" x 1.66\")",
       "Weight": "122g",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -4533,6 +6229,12 @@
       "Connector": "USB plug",
       "Diameter": "50 mm driver",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "4800 DPI",
+      "Button Count": "104 Buttons"
     }
   },
   {
@@ -4552,6 +6254,13 @@
       "Dimension": "4.33” x 3.02” x 1.63”\r\n(110.1 x 76.6 x 41.5 mm)",
       "Weight": "0.196 lbs (88.8 g)",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connection Type": "Wired",
+      "Button Count": "4 Buttons",
+      "Weight": "88.8 g",
+      "Color": "Black"
     }
   },
   {
@@ -4571,6 +6280,13 @@
       "Dimension": "4.33” x 3.02” x 1.63”\r\n(110.1 x 76.6 x 41.5 mm)",
       "Weight": "0.196 lbs (88.8 g)",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connection Type": "Wired",
+      "Button Count": "4 Buttons",
+      "Weight": "88.8 g",
+      "Color": "White"
     }
   },
   {
@@ -4590,6 +6306,13 @@
       "Dimension": "4.33” x 3.02” x 1.63”\r\n(110.1 x 76.6 x 41.5 mm)",
       "Weight": "0.196 lbs (88.8 g)",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connection Type": "Wired",
+      "Button Count": "4 Buttons",
+      "Weight": "88.8 g",
+      "Color": "Black"
     }
   },
   {
@@ -4609,6 +6332,13 @@
       "Dimension": "4.33” x 3.02” x 1.63”\r\n(110.1 x 76.6 x 41.5 mm)",
       "Weight": "0.196 lbs (88.8 g)",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Matias",
+      "Connection Type": "Wired",
+      "Button Count": "4 Buttons",
+      "Weight": "88.8 g",
+      "Color": "White"
     }
   },
   {
@@ -4633,6 +6363,14 @@
       "Dimension": "120 x 58 x 38mm",
       "Weight": "69gr without cable",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "White"
     }
   },
   {
@@ -4657,6 +6395,14 @@
       "Dimension": "120 x 58 x 38mm",
       "Weight": "69gr without cable",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -4677,6 +6423,14 @@
       "Dimension": "126.8 x 67.23 x 38.35 mm",
       "Weight": "67 g",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "NZXT",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "67 g",
+      "Color": "Black (MS-1WRAX-BM)"
     }
   },
   {
@@ -4699,6 +6453,13 @@
       "Dimension": "Length: 124.2mm\r\nHeight: 38.2mm\r\nWidth: 66.8mm",
       "Weight": "Weight (without cable): 59g\r\nWeight (with cable): 80g",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "HyperX",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -4715,6 +6476,13 @@
       "Dimension(LxWxH)": "Length x Grip Width x Height:\r\n5\" x 2.43\" x 1.68\"\r\n127.0 mm x 61.7 mm x 42.7 mm",
       "Weight": "0.211 lbs / 96 g",
       "Warranty": "01 Year Warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connection Type": "Wired",
+      "DPI": "6400 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "96 g"
     }
   },
   {
@@ -4740,6 +6508,13 @@
       "Microphone Sensitivity": "-38dB",
       "Sensitivity": "Headset Sensitivity : 119dB\r\nMicrophone Sensitivity : -38dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wired",
+      "DPI": "200 DPI",
+      "Button Count": "12 Buttons",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -4763,6 +6538,14 @@
       "Color": "Black",
       "Dimension": "115.2x63x37.6mm",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Thermaltake",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -4786,6 +6569,14 @@
       "Weight": "About 49g (not including receiver & data cable)",
       "Battery Life": "Battery life: 48hrs\r\nBattery capacity: 240mAh",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "26000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Ghost/Black"
     }
   },
   {
@@ -4805,6 +6596,14 @@
       "Color": "Black",
       "Weight": "up to five 3.6g weights",
       "Warranty": "02 year of warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wired",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -4822,6 +6621,15 @@
       "Dimension": "124.9x67.1x40.2mm",
       "Battery Life": "Lithium battery(800mAh)/Full Battery life: 160 hours",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "20000 DPI",
+      "Button Count": "20000 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -4844,6 +6652,14 @@
       "Weight": "75g",
       "Battery Life": "Lithium battery(800mAh)/Full Battery life: 185 hours",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "26000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -4867,6 +6683,14 @@
       "Weight": "68g",
       "Battery Life": "Battery type: lithium battery, 800mAh\r\nPort: Type-C",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "26000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "White"
     }
   },
   {
@@ -4890,6 +6714,14 @@
       "Weight": "74gr w/o cable",
       "Battery Life": "Up to 70 Hour of Battery Life",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "12000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "3360 g",
+      "Color": "Black"
     }
   },
   {
@@ -4913,6 +6745,14 @@
       "Weight": "74gr w/o cable",
       "Battery Life": "Up to 70 Hour of Battery Life",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "12000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "3360 g",
+      "Color": "Pink"
     }
   },
   {
@@ -4932,6 +6772,13 @@
       "Color": "XG-M4-RGB-Black",
       "Weight": "69 g (excluding cable)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "XG-M4-RGB-Black"
     }
   },
   {
@@ -4954,6 +6801,14 @@
       "Color": "Black",
       "Weight": "105g (w/out cable and accessories)",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connection Type": "Wired",
+      "DPI": "18000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "105 g",
+      "Color": "Black"
     }
   },
   {
@@ -4971,6 +6826,12 @@
       "Tracking Method": "Multi-Surface Precision Tracking",
       "Color": "Black",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -4993,6 +6854,14 @@
       "Color": "Black",
       "Weight": "122g (w/o cable and accessories)",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connection Type": "Wired",
+      "DPI": "16000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "122 g",
+      "Color": "Black"
     }
   },
   {
@@ -5013,6 +6882,14 @@
       "Weight": "125 g",
       "Battery Life": "Battery type: 1x AA battery (included)\r\nBattery life: up to 24-months",
       "Warranty": "1 years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "4000 DPI",
+      "Mouse Type": "Ergonomic",
+      "Weight": "125 g",
+      "Color": "Graphite: 910-006479"
     }
   },
   {
@@ -5034,6 +6911,13 @@
       "Weight": "Mouse:\r\nWeight: 4.76 oz (135 g)\r\nNano receiver:\r\nWeight: 0.63 oz (18 g)",
       "Battery Life": "Battery Details: 1 x AA (pre-installed)\r\nBattery life: 24 months may vary based on use and computing conditions.",
       "Warranty": "01 years warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "1000 DPI",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5049,6 +6933,12 @@
       "Cable Length": "1.8M length",
       "Others": "LED Mode: 4 Modes\r\nSwitch: Omron, 20M Clicks",
       "Warranty": "2 Years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Vertux",
+      "Connection Type": "Wired",
+      "DPI": "12000 DPI",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -5069,6 +6959,13 @@
       "Color": "Retro",
       "Weight": "59 g (excluding cable)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Retro"
     }
   },
   {
@@ -5094,6 +6991,14 @@
       "Weight": "About 113g",
       "Battery Life": "Lithium battery(600mAh)/Full Battery life：30-125 hours",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "19000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5115,6 +7020,14 @@
       "Dimension": "120*64*40mm",
       "Battery Life": "Up to 40 Hours of Battery Life",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "19000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -5136,6 +7049,15 @@
       "Dimension": "120*64*40mm",
       "Battery Life": "Up to 40 Hours of Battery Life",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "19000 DPI",
+      "Button Count": "3370 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -5155,6 +7077,13 @@
       "Color": "XG-M4-RGB-Black\r\nXG-M4-RGB-Tokyo",
       "Weight": "69 g (excluding cable)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "XG-M4-RGB-Black"
     }
   },
   {
@@ -5174,6 +7103,13 @@
       "Color": "Black",
       "Weight": "56g (excluding cable)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wired",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -5197,6 +7133,14 @@
       "Dimension": "127.0 mm / 5 in (Length) x 61.7 mm / 2.43 in (Grip Width) x 42.7 mm / 1.68 in (Height)",
       "Weight": "105 g / 0.23 lbs",
       "Warranty": "01 Year Warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connection Type": "Wired",
+      "DPI": "20000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -5220,6 +7164,13 @@
       "Weight": "66g / 0.14 lbs (Excluding batteries)",
       "Battery Life": "Up to 350 hours",
       "Warranty": "365 Days Warranty"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Ergonomic",
+      "Weight": "66 g",
+      "Color": "Black"
     }
   },
   {
@@ -5240,6 +7191,13 @@
       "Weight": "67 g",
       "Battery Life": "500 mA (up to 75 h)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5260,6 +7218,13 @@
       "Weight": "71 g",
       "Battery Life": "500 mA (up to 75 h)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5280,6 +7245,13 @@
       "Weight": "71 g",
       "Battery Life": "500 mA (up to 75 h)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "White"
     }
   },
   {
@@ -5303,6 +7275,14 @@
       "Dimension": "Height: 5.17 in (131.4 mm)\r\nWidth: 1.62 in (41.1 mm)\r\nDepth: 3.12 in (79.2 mm)",
       "Weight": "3.14 oz (89 g)",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wired",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -5326,6 +7306,14 @@
       "Dimension": "Height: 5.17 in (131.4 mm)\r\nWidth: 1.62 in (41.1 mm)\r\nDepth: 3.12 in (79.2 mm)",
       "Weight": "3.14 oz (89 g)",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wired",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "White"
     }
   },
   {
@@ -5345,6 +7333,14 @@
       "Weight": "99 g",
       "Battery Life": "Li-Po (500 mAh)\r\nup to 70 days on a single full charge",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "8000 DPI",
+      "Button Count": "6 Buttons",
+      "Weight": "99 g",
+      "Color": "Pale Gray (910-006933)"
     }
   },
   {
@@ -5365,6 +7361,14 @@
       "Weight": "62 g",
       "Battery Life": "500 mA (up to 75 h)",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless",
+      "DPI": "0 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "White"
     }
   },
   {
@@ -5385,6 +7389,14 @@
       "Weight": "62 g",
       "Battery Life": "500 mA (up to 75 h)",
       "Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Xtrfy",
+      "Connection Type": "Wireless",
+      "DPI": "0 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5409,6 +7421,14 @@
       "Weight": "110 g / 0.242 lbs",
       "Battery Life": "Up to 285 hours (HyperSpeed)\r\nUp to 535 hours (Bluetooth)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connection Type": "Wireless",
+      "DPI": "18000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "5 g",
+      "Color": "Black"
     }
   },
   {
@@ -5426,6 +7446,11 @@
       "Dimension": "Height: 0.85 inch (2.16 cm)\r\nWidth: 2.25 inches (5.71 cm)\r\nDepth: 4.47 inches (11.35 cm)",
       "Weight": "0.22 pound (0.099 kg)",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Apple",
+      "Connection Type": "Wireless",
+      "Color": "Silver"
     }
   },
   {
@@ -5446,6 +7471,13 @@
       "Weight": "MX Master 3S mouse\r\nWeight: 141 g\r\nLogi Bolt USB Receiver\r\nWeight: 2 g",
       "Battery Life": "Rechargeable Li-Ion (500 mAh) battery\r\nUp to 70 days on a single full charge",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "8000 DPI",
+      "Weight": "2 g",
+      "Color": "Graphite gray: 910-006565"
     }
   },
   {
@@ -5470,6 +7502,14 @@
       "Weight": "80 g (2.82 oz) ULTRA LIGHTWEIGHT",
       "Battery Life": "Default lighting: 48 hours\r\nNo lighting: 60 hours",
       "Warranty": "02 years warranty (must claim with the box)"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -5485,6 +7525,12 @@
       "Color": "Space Grey",
       "Dimension": "2.16 x 5.71 x 11.35 cm",
       "Weight": "99g"
+    },
+    "filter": {
+      "Brand": "Apple",
+      "Connection Type": "Wireless",
+      "Weight": "99 g",
+      "Color": "Space Grey"
     }
   },
   {
@@ -5508,6 +7554,14 @@
       "Weight": "3.60 oz (102 g)",
       "Battery Life": "Constant motion 140 hrs",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -5532,6 +7586,14 @@
       "Weight": "74 g",
       "Battery Life": "70 hours of battery life",
       "Warranty": "01 Year Warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connection Type": "Wireless",
+      "DPI": "20000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "50 g",
+      "Color": "Black"
     }
   },
   {
@@ -5555,6 +7617,14 @@
       "Weight": "3.74 oz (106 g)",
       "Battery Life": "Constant motion 130 hrs (37 hrs RGB on)",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -5577,6 +7647,13 @@
       "Weight": "3.74 oz (106 g)",
       "Battery Life": "Constant motion 130 hrs (37 hrs RGB on)",
       "Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g"
     }
   },
   {
@@ -5585,7 +7662,11 @@
     "price": "17000",
     "description": "Wireless and rechargeable\rMulti-Touch gestures\rForce Touch technology\rEdge-to-edge glass surface area",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/apple/magic-trackpad/magic-trackpad-white-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mouse/apple/magic-trackpad/magic-trackpad-white-01-500x500.webp",
+    "filter": {
+      "Brand": "Apple",
+      "Connection Type": "Wireless"
+    }
   },
   {
     "id": 2638,
@@ -5609,6 +7690,14 @@
       "Weight": "77 g / 2.72 oz (excluding cable and dongle)",
       "Battery Life": "Up to 100 hours on Razer HyperSpeed Wireless (constant motion at 1000 Hz)\r\nUp to 22 hours with the Razer HyperPolling Wireless Dongle and Mouse Dock Pro* (constant motion at 8000 Hz)\r\n*both sold separately\r\nUp to 170 hours on Bluetooth",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connection Type": "Wireless",
+      "DPI": "30000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5631,6 +7720,14 @@
       "Weight": "112 g / 3.95 oz (Excluding cable)",
       "Battery Life": "Up to 110 hours on Razer HyperSpeed Wireless (constant motion at 1000 Hz)\r\nUp to 32 hours with the Razer HyperPolling Wireless Dongle and Mouse Dock Pro* (constant motion at 8000 Hz)\r\n*both sold separately\r\nUp to 150 hours on Bluetooth",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connection Type": "Wireless",
+      "DPI": "30000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "70 g",
+      "Color": "Black"
     }
   },
   {
@@ -5647,6 +7744,11 @@
       "Button": "6",
       "Dimension": "117 x 68 x 39mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wireless",
+      "DPI": "4000 DPI"
     }
   },
   {
@@ -5661,6 +7763,12 @@
       "Resolution": "6600 DPI",
       "Button": "6",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wired",
+      "DPI": "6600 DPI",
+      "Mouse Type": "Gaming"
     }
   },
   {
@@ -5676,6 +7784,12 @@
       "Others": "Windows / VISTA / MAC",
       "Dimension": "112 x 70 x 42mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "IMICE",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.5 g"
     }
   },
   {
@@ -5699,6 +7813,14 @@
       "Weight": "About 49g (not including receiver & data cable)",
       "Battery Life": "Battery life: 48hrs\r\nBattery capacity: 240mAh",
       "Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connection Type": "Wireless",
+      "DPI": "26000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Ghost/Black"
     }
   },
   {
@@ -5718,6 +7840,14 @@
       "Color": "Black",
       "Dimension": "113 x 60 x 38 mm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wired",
+      "DPI": "1200 DPI",
+      "Button Count": "4 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -5736,6 +7866,14 @@
       "Dimension": "127 x 72 x 39mm",
       "Weight": "118g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Meetion",
+      "Connection Type": "Wired",
+      "DPI": "2400 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "118 g",
+      "Color": "Black"
     }
   },
   {
@@ -5751,6 +7889,12 @@
       "Optical Sensor": "800-1600dpi",
       "Dimension": "104*58*37mm",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "2.4 g"
     }
   },
   {
@@ -5769,6 +7913,14 @@
       "Color": "Black",
       "Dimension": "123x63x42mm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Aula",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Button Count": "4 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -5786,6 +7938,12 @@
       "Color": "Black Silver",
       "Dimension": "102 x 56 x 37mm",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Color": "Black Silver"
     }
   },
   {
@@ -5805,6 +7963,13 @@
       "Dimension": "102 x 63 x 38.6mm",
       "Weight": "63g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connection Type": "Wireless",
+      "DPI": "1600 DPI",
+      "Weight": "63 g",
+      "Color": "Black"
     }
   },
   {
@@ -5824,6 +7989,14 @@
       "Dimension": "114 x 70 x38mm",
       "Battery Life": "1x AA Batteries",
       "Warranty": "12 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connection Type": "Wireless",
+      "DPI": "2000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Space"
     }
   },
   {
@@ -5841,6 +8014,15 @@
       "Color": "Black",
       "Weight": "110g",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connection Type": "Wired",
+      "DPI": "3600 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "110 g",
+      "Color": "Black"
     }
   },
   {
@@ -5858,6 +8040,12 @@
       "Tracking Method": "Optical Tracking",
       "Color": "Black",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "LOGITECH",
+      "Connection Type": "Wireless",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5878,6 +8066,13 @@
       "Dimension": "4.84\" x 3.38\" x 1.94\" (123.4mm x 86 mm x 49.5 mm)",
       "Weight": "0.3kg",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wireless",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5895,6 +8090,13 @@
       "Switch Lifecycle": "10 million click life",
       "Color": "Black",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connection Type": "Wireless",
+      "DPI": "4000 DPI",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -5918,6 +8120,14 @@
       "Dimension": "L 123mm x W 68mm x H 44mm",
       "Weight": "89g (without cable)",
       "Warranty": "1 year replacement warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connection Type": "Wireless",
+      "DPI": "19000 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5941,6 +8151,14 @@
       "Weight": "114 g(mouse only)",
       "Battery Life": "Default lighting :\tup to 48 hours\r\nNo lighting :\tup to 60 hours\r\n5-minute charge on USB 2.0 gives 2.5 hours of gameplay",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connection Type": "Wireless",
+      "DPI": "25600 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "40 g",
+      "Color": "Black"
     }
   },
   {
@@ -5949,7 +8167,11 @@
     "price": "2200",
     "description": "Resolution: 4,000 CPI\rButton Numbers: 8\rCable Length: 1.8 M",
     "category": "mouse",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/A4 Tech/mouse/A4 TECH BLOODY A90-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/A4 Tech/mouse/A4 TECH BLOODY A90-1-500x500.jpg",
+    "filter": {
+      "Brand": "A4TECH",
+      "Mouse Type": "Gaming"
+    }
   },
   {
     "id": 2658,
@@ -5972,6 +8194,15 @@
       "Weight": "Approximately 65g",
       "Battery Life": "900mAh",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Ajazz",
+      "Connection Type": "Wireless",
+      "DPI": "26000 DPI",
+      "Button Count": "6 Buttons",
+      "Mouse Type": "Gaming",
+      "Weight": "2.4 g",
+      "Color": "Black"
     }
   },
   {
@@ -5991,6 +8222,14 @@
       "Color": "Black",
       "Dimension": "70x127x43mm",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "7200 DPI",
+      "Button Count": "7 Buttons",
+      "Mouse Type": "Gaming",
+      "Color": "Black"
     }
   },
   {
@@ -6012,6 +8251,14 @@
       "Dimension": "130 x 76 x 43 mm",
       "Weight": "91g",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connection Type": "Wired",
+      "DPI": "12800 DPI",
+      "Mouse Type": "Gaming",
+      "Weight": "91 g",
+      "Color": "Black"
     }
   }
 ]

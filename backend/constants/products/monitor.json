@@ -26,6 +26,15 @@
       "Color": "Black",
       "Weight": "± 3.26Kg (with packed)",
       "Warranty": "1 year (No Warranty For Adapter)"
+    },
+    "filter": {
+      "Brand": "Gigasonic",
+      "Screen Size": "17\"",
+      "Resolution": "1600 x 900",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -55,6 +64,15 @@
       "Color": "Black",
       "Weight": "3.58Kg (with packed)",
       "Warranty": "1 year  (No Warranty For Adapter)"
+    },
+    "filter": {
+      "Brand": "Gigasonic",
+      "Screen Size": "19\"",
+      "Resolution": "2560 x 1600",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -89,6 +107,17 @@
       "Power Consumption": "9W Typ, 12W Max, <0.3W sleep/off, <0.3W switch-off",
       "Voltage": "100 - 240 VAC, 50-60Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "18.5\"",
+      "Resolution": "1366 x 768",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, USB",
+      "Color": "Black"
     }
   },
   {
@@ -126,6 +155,16 @@
       "Power Consumption": "Max: 24W",
       "Voltage": "12V/2A",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "TrendSonic",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "7 ms",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -157,6 +196,17 @@
       "Power Consumption": "Consumption (Standard): 20W\r\nConsumption (Standby): ≤0.5W",
       "Voltage": "12V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "6.5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -187,6 +237,16 @@
       "Weight": "1.65 Kg",
       "Power Consumption": "<24W (Operating), <1W (Off-mode)",
       "Warranty": "03 Years Warranty"
+    },
+    "filter": {
+      "Brand": "Acer",
+      "Screen Size": "19.5\"",
+      "Resolution": "1600 x 900",
+      "Panel Type": "TN",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -230,6 +290,17 @@
       "Power Consumption": "Consumption (typical): 15.3W\r\nConsumption (max): 17W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Viewsonic",
+      "Screen Size": "19\"",
+      "Resolution": "1366 x 768",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -259,6 +330,15 @@
       "Power Consumption": "≤ 24 W\r\n≤ 0.5 W",
       "Voltage": "100 to 240 VAC, 50/60 Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Hikvision",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "6.5 ms",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -291,6 +371,17 @@
       "Weight": "2.5 kg",
       "Power Consumption": "24W",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "21.45\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -327,6 +418,17 @@
       "Dimension": "492*281*7.6mm",
       "Voltage": "100V ~ 240 V",
       "Warranty": "03 years of Service (02 years For Panel & 1 year Adapter)."
+    },
+    "filter": {
+      "Brand": "Walton",
+      "Screen Size": "21.45\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -364,6 +466,15 @@
       "Type": "DC 12V",
       "Power Consumption": "＜24W",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "PC",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -401,6 +512,15 @@
       "Type": "DC 12V",
       "Power Consumption": "＜24W",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "PC",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -427,6 +547,17 @@
       "Audio Jack": "Audio In",
       "Color": "Black",
       "Warranty": "3-years"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -460,6 +591,16 @@
       "Power Consumption": "Max: 24W",
       "Voltage": "12V/2A",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "TrendSonic",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -491,6 +632,15 @@
       "Power Consumption": "≤ 24 W\r\n≤ 0.5 W",
       "Voltage": "100 to 240 VAC, 50/60 Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Hikvision",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "6.5 ms",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -528,6 +678,17 @@
       "Color": "Black",
       "Voltage": "100V ~ 240 V",
       "Warranty": "03 years of Service (02 years For Panel & 1 year Adapter)."
+    },
+    "filter": {
+      "Brand": "Walton",
+      "Screen Size": "21.45\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -556,6 +717,17 @@
       "Audio Jack": "Audio In",
       "Color": "Black",
       "Warranty": "3-years"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -599,6 +771,17 @@
       "Voltage": "AC 100-240V",
       "Others": "Eco Mode (Conserve): 11W\r\nEco Mode (optimized): 13W\r\nStand-by: 0.5W",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "22\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -638,6 +821,17 @@
       "Type": "DC 12V",
       "Power Consumption": "24W",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "PC",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -678,6 +872,17 @@
       "Power Consumption": "Off mode: 0.3 W (typ.)\r\nOn mode: 14.8 W (typ.)\r\nStandby mode: 0.5 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -718,6 +923,17 @@
       "Power Consumption": "Off mode: 0.3 W (typ.)\r\nOn mode: 14.8 W (typ.)\r\nStandby mode: 0.5 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -761,6 +977,17 @@
       "Voltage": "AC 100-240V",
       "Others": "Eco Mode (Conserve): 16W\r\nEco Mode (optimized): 18W\r\nStand-by: 0.3W",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "22\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -803,6 +1030,17 @@
       "Power Consumption": "On mode: 13.3 W (Typ.) (EnergyStar test method)\r\nStandby mode: 0.5 W (Typ.)\r\nOff mode: 0.3 W (Typ.)\r\nPower LED indicator: Operation - White, Standby mode- White (blinking)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -829,6 +1067,16 @@
       "Weight": "2.81 kg",
       "Type": "Input voltage 100 to 240 VAC",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1600 x 900",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -868,6 +1116,17 @@
       "Power Consumption": "On mode: 19.9 W (typ.)\r\nStandby mode:0.5 W (typ.)\r\nOff mode:0.3 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "03-Year Warranty"
+    },
+    "filter": {
+      "Brand": "PHILIPS",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -907,6 +1166,17 @@
       "Power Consumption": "10W (typ) . 14W (Max). 9.51W (Energy Star)\r\nLess than 0.3W (Stand by/Sleep)",
       "Voltage": "100 VAC to 240 VAC / 50 Hz or 60 Hz ± 3 Hz / 0.6 A (typical)",
       "Warranty": "03-years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "18.5\"",
+      "Resolution": "1366 x 768",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -955,6 +1225,17 @@
       "Power Consumption": "On mode: 23.8 W(typ)\r\nStandby mode: < 0.5 W (typ.)\r\nOff mode: < 0.3 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -996,6 +1277,17 @@
       "Type": "DC 12V",
       "Power Consumption": "24W",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "PC",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "7 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -1036,6 +1328,17 @@
       "Power Consumption": "Off mode: 0.3 W (typ.)\r\nOn mode: 17.5 W (typ.)\r\nStandby mode: 0.5 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1085,6 +1388,17 @@
       "Power Consumption": "On mode: 28.2 W(typ)\r\nStandby mode: 0.5 W (typ.)\r\nOff mode: 0.3 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -1113,6 +1427,15 @@
       "Color": "White",
       "Power Consumption": "24W",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "PC",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -1155,6 +1478,17 @@
       "Power Consumption": "On mode: 51 W(typ)\r\nStandby mode: 0.5 W (typ.)\r\nOff mode: 0.3 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "31.5\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -1193,6 +1527,17 @@
       "Power Consumption": "12W",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "19\"",
+      "Resolution": "366 x 768",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1237,6 +1582,17 @@
       "Power Consumption": "On mode: 20.3 W(typ)\r\nStandby mode: 0.5 W (typ.)\r\nOff mode: 0.3 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -1277,6 +1633,17 @@
       "Power Consumption": "Power Consumption (Operational)\r\n11W (Typ). 14W (Max). 10.7W (Energy Star)\r\nPower Consumption Stand-by/Sleep\r\nLess than 0.3W",
       "Voltage": "100 VAC to 240 VAC / 50 Hz or 60 Hz ± 3 Hz / 0.7 A (typical)",
       "Warranty": "03-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "19.5\"",
+      "Resolution": "1600 x 900",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -1306,6 +1673,15 @@
       "Type": "External Power Adapter (100-240Vac, 50/60Hz)",
       "Power Consumption": "Consumption - NOrmal On(EPA): 13W\r\nConsumption - NOrmal On(typ.): 15WConsumption - Sleep Mode(Max): Under 0.3W\r\nConsumption - DC Off(Max): Under 0.3W",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "768\"",
+      "Resolution": "1366 x 768",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9"
     }
   },
   {
@@ -1351,6 +1727,17 @@
       "Power Consumption": "On mode: 29.8 W(typ)\r\nStandby mode: 0.5 W (typ.)\r\nOff mode: 0.3 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -1398,6 +1785,17 @@
       "Power Consumption": "On mode: 26.6 W (typ.)\r\nStandby mode: 0.5 W (typ.)\r\nOff mode: 0.3 W (typ.)",
       "Voltage": "100-240VAC, 50-60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Philips",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -1426,6 +1824,17 @@
       "Audio Jack": "Audio In",
       "Color": "Black",
       "Warranty": "3-years"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1464,6 +1873,17 @@
       "Power Consumption": "Power Consumption (Typ.)\t18W\r\nPower Consumption (Max.) 21W",
       "Voltage": "100-240Vac, 50/60Hz",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "22\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "Black"
     }
   },
   {
@@ -1494,6 +1914,16 @@
       "Type": "External Adaptor 30W",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "21.45\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -1527,6 +1957,17 @@
       "Type": "DC 12V",
       "Power Consumption": "22W (Standard)\r\n≤0.5W (Standby)",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1554,6 +1995,17 @@
       "HDMI": "Yes",
       "Color": "White",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -1587,6 +2039,17 @@
       "Type": "Adapter",
       "Power Consumption": "Consumption (Standard): ≤15W\r\nConsumption (Standby):  <0.5W",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1620,6 +2083,17 @@
       "Type": "Adapter",
       "Power Consumption": "Consumption (Standard): ≤15W\r\nConsumption (Standby):  <0.5W",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1659,6 +2133,17 @@
       "Power Consumption": "16 W (maximum)\r\n15 W (typical)\r\n 0.3 W (standby)",
       "Voltage": "100 to 240 VAC",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "19.5\"",
+      "Resolution": "1600 x 900",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1694,6 +2179,17 @@
       "Power Consumption": "Power Consumption (Typical): 17 Watt",
       "Voltage": "AC 100-240 V (50/60 Hz)",
       "Warranty": "03-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "19.5\"",
+      "Resolution": "1600 x 900",
+      "Panel Type": "TN",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1733,6 +2229,17 @@
       "Type": "External Adaptor 12V 2A",
       "Voltage": "Power Input : 100~240V , 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1761,6 +2268,16 @@
       "Type": "100 - 240 VAC 50/60 Hz",
       "Power Consumption": "20 W (maximum), 18.5 W (typical), 0.5 W (standby)",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "7 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -1788,6 +2305,17 @@
       "Color": "White",
       "Dimension": "492.7×284.0x48.4mm (20“x11.2”x1.9”)",
       "Warranty": "03 years Warranty"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -1829,6 +2357,17 @@
       "Power Consumption": "Eco Mode (Conserve): 16W\r\nEco Mode (optimized): 18W\r\nConsumption (typical): 20W\r\nConsumption (max): 22W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "22\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1860,6 +2399,17 @@
       "Voltage": "24 W",
       "Others": "Inpute: 12V-2A",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -1901,6 +2451,17 @@
       "Power Consumption": "Consumption (typical): 22W\r\nConsumption (max): 24W",
       "Voltage": "AC 100-240V, 50/60 Hz",
       "Warranty": "03 years Warranty"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "22\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1944,6 +2505,17 @@
       "Voltage": "100 - 240V",
       "Others": "Power Supply: Built-in",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -1984,6 +2556,17 @@
       "Type": "Adapter",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "03  years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "22\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "Black"
     }
   },
   {
@@ -2023,6 +2606,17 @@
       "Power Consumption": "25W",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "22\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "BLACK"
     }
   },
   {
@@ -2063,6 +2657,16 @@
       "Power Consumption": "Typical: 11.0 W\r\nEco Mode: 0.5 W",
       "Voltage": "100 to 240 VAC, 50 / 60 Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI"
     }
   },
   {
@@ -2103,6 +2707,17 @@
       "Power Consumption": "25W",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -2145,6 +2760,17 @@
       "Power Consumption": "19 W (maximum), 13 W (typical), 0.5 W (standby)",
       "Voltage": "100 - 240 VAC 50/60 Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -2184,6 +2810,17 @@
       "Power Consumption": "Power Consumption (On mode): 12.13 W\r\nPower Consumption SDR (On mode): 12.1 kWh/1000h\r\nPower Consumption (Max): 19 Watt\r\nPower Consumption Stand by: 0.3 Watt\r\nPower Consumption Sleep: 0.3 Watt\r\nPower Consumption (Off Mode): 0.3 Watt",
       "Voltage": "AC 100-240 V (50/60 Hz)",
       "Warranty": "03-years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "10 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -2223,6 +2860,16 @@
       "Power Consumption": "<12.79W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "21.45\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -2260,6 +2907,17 @@
       "Type": "Adapter",
       "Voltage": "100~240V (50/60Hz)",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -2293,6 +2951,17 @@
       "Dimension": "538.99*161.16*398.52mm",
       "Weight": "3.3kg",
       "Warranty": "3-years"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -2333,6 +3002,17 @@
       "Power Consumption": "21 W (maximum), 19 W (typical), 0.3 W (standby)",
       "Voltage": "100 - 240 VAC 50/60 Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -2366,6 +3046,17 @@
       "Color": "Black",
       "Voltage": "220 V - 240 V",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -2416,6 +3107,17 @@
       "Power Consumption": "Power Consumption:<26W*\r\nPower Saving Mode:<0.5W\r\nPower Off Mode: <0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 Years International Limited Warranty (Terms & condition Apply As Per Asus)"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -2455,6 +3157,16 @@
       "Power Consumption": "Max Power Consumption: 48W\r\nStandby Power: 0.5W",
       "Others": "Wireless Charging Station on Monitor Stand",
       "Warranty": "03 years of Service (02 years For Panel & 1 year Adapter)."
+    },
+    "filter": {
+      "Brand": "Walton",
+      "Screen Size": "9\"",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, USB",
+      "Color": "Black"
     }
   },
   {
@@ -2489,6 +3201,16 @@
       "Power Consumption": "Power consumption during operation: 24 W\r\nPower consumption in sleep mode: 0.5 W",
       "Voltage": "100-240 V / 50-60 Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Huawei",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -2538,6 +3260,17 @@
       "Weight": "Net Weight with Stand : 5.7 Kg\r\nNet Weight without Stand : 3.4 Kg\r\nGross Weight : 7.2 Kg",
       "Power Consumption": "Power Consumption : <13.05W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : 0W",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DVI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -2578,6 +3311,17 @@
       "Type": "AC 100-240V",
       "Power Consumption": "Max Power Consumption: 60W\r\nStandby Power: 0.5W",
       "Warranty": "03 years of Service (02 years For Panel & 1 year Adapter)."
+    },
+    "filter": {
+      "Brand": "Walton",
+      "Screen Size": "9\"",
+      "Resolution": "100 x 100",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -2608,6 +3352,16 @@
       "Power Consumption": "Consumption (Standard): 25W\r\nConsumption (Standby): ≤0.5W",
       "Voltage": "DC 12V",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -2637,6 +3391,16 @@
       "Height Adjustment": "N/A",
       "Vesa Wall Mount": "75x75mm",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -2665,6 +3429,17 @@
       "Dimension": "613.2 x 205.3 x 476 mm",
       "Weight": "4300g",
       "Warranty": "2 Years Service Warranty (1 Year Parts and No Adapter Warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "3 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -2691,6 +3466,17 @@
       "Dimension": "680 x 110 x 430mm",
       "Weight": "4.84 kg",
       "Warranty": "2 Years Service Warranty (1 Year Parts and No Adapter Warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -2734,6 +3520,17 @@
       "Type": "External Adaptor (12V 2.5A)",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years warranty"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -2773,6 +3570,16 @@
       "Power Consumption": "Consumption (Standard): ≤ 30W\r\nConsumption (Standby): ≤0.5W",
       "Voltage": "DC 12V 2.5A",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "7 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort"
     }
   },
   {
@@ -2814,6 +3621,17 @@
       "Power Consumption": "Power Consumption: <16.8W*\r\nPower Saving Mode: <0.5W\r\nPower Off Mode : <0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "23.6\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -2862,6 +3680,17 @@
       "Power Consumption": "Power Consumption : <12W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -2906,6 +3735,17 @@
       "Type": "External Adaptor (12V 2.5A)",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -2946,6 +3786,17 @@
       "Power Consumption": "25W",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "24\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "Black"
     }
   },
   {
@@ -2985,6 +3836,17 @@
       "Type": "Internal",
       "Power Consumption": "Standby: 0.5 W\r\nTypical: 18.0 W\r\nMaximum: 28.0 W",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -3024,6 +3886,16 @@
       "Power Consumption": "24 W (maximum), 22 W (typical), 0.5 W (standby)",
       "Voltage": "100 - 240 VAC 50/60 Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort"
     }
   },
   {
@@ -3063,6 +3935,16 @@
       "Power Consumption": "Power Consumption : <19W \r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI"
     }
   },
   {
@@ -3106,6 +3988,17 @@
       "Power Consumption": "Eco Mode (Conserve): 15W\r\nEco Mode (optimized): 18W\r\nConsumption (typical): 22W\r\nConsumption (max): 25W\r\nStand-by: 0.3W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "24\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -3149,6 +4042,17 @@
       "Power Consumption": "Power Consumption (normal): 27W\r\nPower Consumption (max): 27W\r\nPower Consumption (sleep mode): <0.5W",
       "Voltage": "100 - 240V",
       "Warranty": "03 Year Warranty"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "8 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -3179,6 +4083,17 @@
       "Vesa Wall Mount": "Yes",
       "Color": "White",
       "Warranty": "3- year Warranty"
+    },
+    "filter": {
+      "Brand": "Acer",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -3214,6 +4129,16 @@
       "Power Consumption": "Power Consumption : 12.02 W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI"
     }
   },
   {
@@ -3257,6 +4182,17 @@
       "Power Consumption": "Power Consumption Operational: 16 Watt\r\nPower Consumption Stand by: 0.3 Watt\r\nPower Consumption Sleep: 0.3 Watt",
       "Voltage": "AC 100/240 V (50/60 Hz)",
       "Warranty": "03-years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "Black"
     }
   },
   {
@@ -3292,6 +4228,16 @@
       "Type": "Input voltage 100 to 240 VAC",
       "Power Consumption": "50 W (maximum), 20 W (typical), 0.5 W (standby",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB"
     }
   },
   {
@@ -3320,6 +4266,16 @@
       "Dimension": "Shipping Dimensions (WxHxD): 24.1\" x 15.7\" x 5.0\"\r\nWith Stand (WxHxD): 21.3\" x 16.3\" x 7.9\"\r\nWithout Stand (WxHxD): 21.3\" x 12.6\" x 2.0\"",
       "Weight": "Shipping Weight: 9 lbs\r\nWith Stand Weight: 6.5 lbs\r\nWithout Stand Weight: 5.6 lbs",
       "Warranty": "03 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI"
     }
   },
   {
@@ -3352,6 +4308,16 @@
       "Weight": "3.6 kg",
       "Power Consumption": "36W",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -3385,6 +4351,17 @@
       "Dimension": "539.94*145.02*396.61mm",
       "Weight": "3.5kg",
       "Warranty": "03-year Warranty"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -3432,6 +4409,17 @@
       "Type": "External Adaptor (12V 2.5A)",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "24.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -3471,6 +4459,17 @@
       "Power Consumption": "20 W (maximum), 14.3 W (typical), 0.5 W (standby)",
       "Voltage": "100 to 240 VAC",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Silver & Black"
     }
   },
   {
@@ -3510,6 +4509,16 @@
       "Voltage": "100~240 VAC 50/60 Hz",
       "Others": "Operating Temperature Range: 5 to 35°C",
       "Warranty": "03-Year Warranty"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -3551,6 +4560,17 @@
       "Power Consumption": "Power Consumption: <22.97 W*\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.5W",
       "Voltage": "100-240V, 50 / 60Hz",
       "Warranty": "03 years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -3589,6 +4609,17 @@
       "Power Consumption": "Consumption (typical): 22W\r\nConsumption (max): 25W",
       "Voltage": "AC 100-240V",
       "Warranty": "3-Years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Colors: 16.7M"
     }
   },
   {
@@ -3624,6 +4655,16 @@
       "Power Consumption": "Rated Power: 36W Max",
       "Others": "Working temperature: 0 c ~ 50 c\r\nWorking humidity: 20% RH-90% RH",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -3666,6 +4707,17 @@
       "Power Consumption": "Eco Mode (Conserve): 15W\r\nEco Mode (optimized): 18W\r\nConsumption (typical): 22W\r\nConsumption (max): 25W\r\nStand-by: 0.3W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -3710,6 +4762,17 @@
       "Power Consumption": "Typical / Max: 19.6W / 36W\r\nSleep / Off mode: <0.5W\r\nSwitch-off Mode: <0.3W",
       "Voltage": "AC 100 to 240 V (50-60Hz)",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "27\"",
+      "Resolution": "100 x 100",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Cloud grey"
     }
   },
   {
@@ -3741,6 +4804,17 @@
       "Vesa Wall Mount": "100x100mm (4 holes)",
       "Color": "Black",
       "Warranty": "03-years Warranty"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "100 x 100",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DVI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -3777,6 +4851,16 @@
       "Power Consumption": "Power Consumption (On mode): 16 W\r\nPower Consumption (Max): 25 Watt\r\nPower Consumption Stand: 0.3 Watt\r\nPower Consumption Sleep: 0.3 Watt\r\nPower Consumption (Off Mode): 0.3 Watt",
       "Voltage": "AC 100-240 V (50/60 Hz)",
       "Warranty": "03 Years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "8 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "VGA, DisplayPort"
     }
   },
   {
@@ -3816,6 +4900,16 @@
       "Power Consumption": "Consumption (Standard): ≤ 36W\r\nConsumption (Standby): ≤0.5W",
       "Voltage": "DC 12V 3A",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "7 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort"
     }
   },
   {
@@ -3843,6 +4937,15 @@
       "Dimension": "Shipping Dimensions (WxHxD): 27.2\" x 17.6\" x 5.6\"\r\nWith Stand (WxHxD): 24 1\" x 18.0\" x 7.9\"\r\nWithout Stand (WxHxD): 24.1\" x 14.3\" x 2.0\"",
       "Weight": "Shipping Weight: 11.7 lbs\r\nWith Stand Weight: 8.5 lbs\r\nWithout Stand Weight: 7.2 lbs",
       "Warranty": "03 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Color Depth (Number of Colors): 16.7"
     }
   },
   {
@@ -3883,6 +4986,16 @@
       "Type": "External Adaptor (12V 2.5A)",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort"
     }
   },
   {
@@ -3928,6 +5041,17 @@
       "Type": "External Adaptor (12V 2.5A)",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -3967,6 +5091,16 @@
       "Power Consumption": "Power Consumption : <21W \r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI"
     }
   },
   {
@@ -4015,6 +5149,17 @@
       "Power Consumption": "(sleep mode): <0.5W",
       "Voltage": "100 - 240V",
       "Warranty": "03 Year Warranty"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4061,6 +5206,16 @@
       "Power Consumption": "Power Consumption : <13.5W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years Warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB"
     }
   },
   {
@@ -4101,6 +5256,17 @@
       "Power Consumption": "Power Save/Sleep Mode (Max): < 0.3W\r\nDC Off: < 0.3W\r\nPower Consumption (Typ.): 16W\r\nPower Consumption (Max.): 18W",
       "Voltage": "100-240Vac, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4142,6 +5308,17 @@
       "Power Consumption": "30.2W (Typical)\r\n28W (Typical)\r\n0.5 W (Standby)",
       "Voltage": "100-240Vac, 50/60Hz",
       "Warranty": "03-Year Warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4178,6 +5355,17 @@
       "Power Consumption": "25W Typ, 38W Max, 0.5W Sleep, 0.3W Power Off",
       "Voltage": "100 - 240 VAC, 47 - 63 Hz",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "0.5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4223,6 +5411,16 @@
       "Power Consumption": "Power Consumption: 17.5W*\r\nPower Saving Mode: 0.5W\r\nPower Off Mode: 0.3W",
       "Voltage": "100~240Vac",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -4259,6 +5457,15 @@
       "Power Consumption": "Power Consumption : <18W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "Voltage : 100-240V, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -4303,6 +5510,17 @@
       "Power Consumption": "Maximum: 35 W\r\nTypical: 25.0 W\r\nStandby: 0.5 W",
       "Voltage": "100 to 240 VAC, 50 / 60 Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4342,6 +5560,17 @@
       "Type": "Power Cable",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4388,6 +5617,16 @@
       "Power Consumption": "Power Consumption (On mode): 12 W\r\nPower Consumption Stand by: 0.3 Watt\r\nPower Consumption Sleep: 0.3 Watt\r\nPower Consumption (Off Mode): 0.2 Watt",
       "Voltage": "AC 100-240 V (50/60 Hz)",
       "Warranty": "03-years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "93\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -4423,6 +5662,16 @@
       "Type": "Input voltage 100 to 240 VAC",
       "Power Consumption": "53 W (maximum), 22 W (typical), 0.5 W (standby)",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB"
     }
   },
   {
@@ -4465,6 +5714,17 @@
       "Type": "External Adaptor",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years Warrenty"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "White"
     }
   },
   {
@@ -4505,6 +5765,17 @@
       "Type": "Integrated",
       "Power Consumption": "Typical / Max: 22W / 32W",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "23.8\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Raven Black"
     }
   },
   {
@@ -4550,6 +5821,17 @@
       "Power Consumption": "Standby: 0.5 W\r\nTypical: 21.0 W\r\nMaximum: 52.0 W",
       "Voltage": "100 - 240 VAC, 40 - 60 Hz",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Raven Black"
     }
   },
   {
@@ -4594,6 +5876,17 @@
       "Power Consumption": "Power Consumption (normal): 32W\r\nPower Consumption (max): 32W\r\nPower Consumption (sleep mode): <0.5W",
       "Voltage": "100 - 240V",
       "Warranty": "03 Year Warranty"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "8 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4636,6 +5929,17 @@
       "Power Consumption": "Power Consumption Operational: 19 Watt\r\nPower Consumption Stand by: 0.3 Watt\r\nPower Consumption Sleep: 0.3 Watt",
       "Voltage": "AC 100/240 V (50/60 Hz)",
       "Warranty": "03-years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "Black"
     }
   },
   {
@@ -4685,6 +5989,17 @@
       "Power Consumption": "Power Consumption (normal): 16.5W\r\nPower Consumption (max): 110W\r\nPower Consumption (sleep mode): <0.3W",
       "Voltage": "100 - 240V",
       "Warranty": "03 Year Warranty"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -4725,6 +6040,15 @@
       "Power Consumption": "Typical: 32.0 W\r\nStandby: 0.5 W",
       "Voltage": "AC 100-240V ~ 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -4760,6 +6084,17 @@
       "Weight": "Net (kg): 3.2\r\nNet Without Stand (kg): 2.8\r\nGross (kg): 4.2",
       "Power Consumption": "24W",
       "Warranty": "3 Year"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4804,6 +6139,16 @@
       "Power Consumption": "Power Saving Mode: 0‎.5W\r\nPower Off Mode: 0‎.3W",
       "Voltage": "AC 100V - 240V",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "7\"",
+      "Resolution": "920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -4847,6 +6192,16 @@
       "Power Consumption": "Power Consumption: 18W\r\nPower Saving Mode: 0.5W\r\nPower Off Mode: 0.3W",
       "Voltage": "AC 100-240V ~ 50/60Hz",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "0.3114\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4881,6 +6236,16 @@
       "Power Consumption": "Power Consumption : <8W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "15.6\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "DisplayPort, USB"
     }
   },
   {
@@ -4921,6 +6286,17 @@
       "Power Consumption": "23.93 x 1.35 x 14.01 in without a stand.\r\n30.5 W (maximum)\r\n17.5 W (typical)\r\n 0.5 W (standby)",
       "Voltage": "100 - 240 VAC 50/60 Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -4970,6 +6346,17 @@
       "Power Consumption": "Power Consumption: 18W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -4996,6 +6383,16 @@
       "Weight": "4.28KG",
       "Power Consumption": "36W",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "ThundeRobot",
+      "Screen Size": "25\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -5040,6 +6437,16 @@
       "Power Consumption": "53 W (maximum), 36 W (typical), 0.5 W (standby)",
       "Voltage": "100 to 240 VAC",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "10\"",
+      "Resolution": "1920 x 1200",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5078,6 +6485,17 @@
       "Voltage": "100-240V, 50/60Hz",
       "Others": "Power Save/Sleep Mode (Max)\t< 0.3W \r\nDC Off (Max)\t< 0.3W",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "Black"
     }
   },
   {
@@ -5126,6 +6544,17 @@
       "Power Consumption": "Power Consumption (normal): 18W\r\nPower Consumption (max): 32W\r\nPower Consumption (sleep mode): <0.5W",
       "Voltage": "100 - 240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -5160,6 +6589,17 @@
       "Type": "External Adaptor 12V 3A",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -5205,6 +6645,16 @@
       "Power Consumption": "Power Consumption (On mode): 12 W\r\nPower Consumption Stand by: 0.3 Watt\r\nPower Consumption Sleep: 0.3 Watt\r\nPower Consumption (Off Mode): 0.2 Watt",
       "Voltage": "AC 100-240 V (50/60 Hz)",
       "Warranty": "03-years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Screen Size": "82\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5246,6 +6696,16 @@
       "Type": "External Adaptor (19V 3.42A)",
       "Voltage": "100~240V, 50~60Hz",
       "Warranty": "3 Years Warrenty"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "White"
     }
   },
   {
@@ -5285,6 +6745,16 @@
       "Power Consumption": "Standby: 0.5 W\r\nTypical: 39.0 W\r\nMaximum: 56.0 W",
       "Voltage": "100 to 240 VAC, 50 / 60 Hz",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "1440\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   },
   {
@@ -5323,6 +6793,17 @@
       "Type": "Power Supply: 19V/5.79A\r\nPower Input: AC 100-240V（50/60HZ)",
       "Power Consumption": "</=120W\r\nStandby Power: 0.5w",
       "Warranty": "03 years of Service (02 years For Panel & 1 year Adapter)."
+    },
+    "filter": {
+      "Brand": "Walton",
+      "Screen Size": "155.4\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5366,6 +6847,17 @@
       "Power Consumption": "Power Consumption: <19.88W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "31.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -5398,6 +6890,16 @@
       "Weight": "4.47 Kg",
       "Power Consumption": "48W\r\nConsumption In Sleep Mode: ＜0.5W",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Thunderobot",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -5445,6 +6947,17 @@
       "Power Consumption": "Standby: 0.5 W\r\nTypical: 20.0 W\r\nMaximum: 130.0 W",
       "Others": "100 - 240 VAC 50/60 Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5478,6 +6991,16 @@
       "Weight": "Net Weight : 6kg\r\nGross Weight: 8.7kg",
       "Power Consumption": "Power Consumption: <40 W*\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.5W\r\nVoltage : 100-240V, 50 / 60Hz",
       "Warranty": "03 years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   },
   {
@@ -5525,6 +7048,17 @@
       "Power Consumption": "Power Consumption (normal): 19W\r\nPower Consumption (max): 55W\r\nPower Consumption (sleep mode): <0.5W",
       "Voltage": "100 - 240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -5573,6 +7107,17 @@
       "Power Consumption": "Monitor With Stand 6.2 kg (13.7 lbs)\r\nMonitor Head Only 4.3 kg (9.5 lbs)",
       "Voltage": "AC 100 to 240 V (50-60Hz)",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "240 Hz",
+      "Response Time": "0.5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Raven Black"
     }
   },
   {
@@ -5619,6 +7164,17 @@
       "Power Consumption": "Consumption (typical): 27W\r\nConsumption (max): 30W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "29\"",
+      "Resolution": "2560 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -5658,6 +7214,17 @@
       "Power Consumption": "Consumption (Standard) MAX. 54W\r\nConsumption (Standby) <0.5W",
       "Voltage": "DC 12V 4.5A",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "240 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5691,6 +7258,17 @@
       "Voltage": "100 - 240 V",
       "Others": "52 W (Typical)\r\n0.45 W (Standby)",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Acer",
+      "Screen Size": "31.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -5734,6 +7312,16 @@
       "Power Consumption": "Power Consumption : 12.68 W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort"
     }
   },
   {
@@ -5769,6 +7357,16 @@
       "Type": "Input voltage 100 to 240 VAC",
       "Power Consumption": "53 W (maximum), 22 W (typical), 0.5 W (standby)",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB"
     }
   },
   {
@@ -5817,6 +7415,17 @@
       "Power Consumption": "Power Consumption : <15W*\r\nPower Saving Mode: <0.5W\r\nPower Off Mode : 0W (hard switch)",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 Years Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5849,6 +7458,17 @@
       "Dimension": "Height: 452 mm\r\nWidth: 612.5 mm\r\nDepth: 185 mm",
       "Weight": "6 kg",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5891,6 +7511,17 @@
       "Power Consumption": "Consumption (typical): 8W\r\nConsumption (max): 8.3W",
       "Voltage": "AC 100-240V",
       "Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "16\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "6.5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -5933,6 +7564,17 @@
       "Power Consumption": "Power Consumption : <18W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -5972,6 +7614,17 @@
       "Type": "External Adaptor",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "250 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6017,6 +7670,17 @@
       "Type": "Power supply: DC  12V  4A\r\nPower Input: AC 100-240V,50-60Hz, 1.2A",
       "Power Consumption": "48W",
       "Warranty": "03 years of Service (02 years For Panel & 1 year Adapter) warranty."
+    },
+    "filter": {
+      "Brand": "Walton",
+      "Screen Size": "233.1\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6057,6 +7721,17 @@
       "Power Consumption": "<48W",
       "Voltage": "12V/4A",
       "Warranty": "3-years"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "200 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -6094,6 +7769,17 @@
       "Power Consumption": "Eco Mode (Conserve): 24W\r\nEco Mode (optimized): 28W\r\nConsumption (typical): 30W\r\nConsumption (max): 34W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 Year"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6138,6 +7824,17 @@
       "Type": "Power supply: DC  12V  4A\r\nPower Input: AC 100-240V,50-60Hz, 1.2A",
       "Power Consumption": "48W",
       "Warranty": "03 years of Service (02 years For Panel & 1 year Adapter) warranty."
+    },
+    "filter": {
+      "Brand": "Walton",
+      "Screen Size": "233.1\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6177,6 +7874,17 @@
       "Power Consumption": "Consumption (Standard): MAX. 54W\r\nConsumption (Standby):  <0.5W",
       "Voltage": "12V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -6221,6 +7929,17 @@
       "Power Consumption": "Typical / Max: 24W / 65W\r\nSleep / Off mode: <0.5W\r\nSwitch-off Mode: <0.3W",
       "Voltage": "AC 100 to 240 V (50-60Hz)",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Raven Black"
     }
   },
   {
@@ -6265,6 +7984,16 @@
       "Power Consumption": "Eco Mode (Conserve): 20W\r\nEco Mode (optimized): 24W\r\nConsumption (typical): 29W\r\nConsumption (max): 33W",
       "Voltage": "AC 100-240V",
       "Warranty": "03 Years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "0.5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -6308,6 +8037,17 @@
       "Power Consumption": "Power On: < 23.5W\r\nStandby: < 0.5W\r\nPower Off: < 0.3 W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "31.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "170 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6357,6 +8097,17 @@
       "Type": "External Power(Adapter)\r\nAC Input: 100-240Vac, 50/60Hz",
       "Power Consumption": "Power Consumption (Typ.): 24W\r\nPower Consumption (Max.): 140W",
       "Warranty": "3 Year Warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "23.8\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DVI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -6401,6 +8152,17 @@
       "Power Consumption": "Power Consumption : 18.56W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode : <0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "21.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "Black"
     }
   },
   {
@@ -6446,6 +8208,17 @@
       "Power Consumption": "Consumption (typical): 43W\r\nConsumption (max): 46W",
       "Voltage": "AC 100-240V",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Viewsonic",
+      "Screen Size": "32\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6488,6 +8261,17 @@
       "Power Consumption": "Maximum: 53.0 W\r\nTypical: 25.0 W\r\nStandby: 0.5 W",
       "Voltage": "100 to 240 VAC, 50 / 60 Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "23.8\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black & Silver"
     }
   },
   {
@@ -6528,6 +8312,16 @@
       "Power Consumption": "Consumption (Standard): Typical:48W , Max:55W\r\nConsumption (Standby): <0.5W",
       "Voltage": "DC 12V 4A",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "200 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -6566,6 +8360,16 @@
       "Power Consumption": "Consumption (Standard): 40W",
       "Voltage": "AC 100-240V",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "2160\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   },
   {
@@ -6616,6 +8420,17 @@
       "Power Consumption": "Eco Mode (Conserve): 11.6W\r\nEco Mode (optimized): 13.6W\r\nConsumption (typical): 16W\r\nConsumption (max): 27.5W\r\nStand-by: 0.3W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Viewsonic",
+      "Screen Size": "24\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -6653,6 +8468,17 @@
       "Power Consumption": "30.4 W (maximum), 24.6 W (typical), 0.5 W (standby)",
       "Voltage": "100 - 240 VAC 50/60 Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "31.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "7 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA",
+      "Color": "White"
     }
   },
   {
@@ -6692,6 +8518,16 @@
       "Power Consumption": "150W Max",
       "Others": "Operating humidity:20% to 80% RH\r\nOperating temperature:0℃ to 40℃",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "9\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   },
   {
@@ -6733,6 +8569,17 @@
       "Weight": "5.8kg with Stand\r\n5.1kg without Stand",
       "Power Consumption": "32W",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6776,6 +8623,17 @@
       "Power Consumption": "38 W (Typical)\r\n40 W (Maximum)\r\n0.5 W (Standby)",
       "Voltage": "100-240Vac, 50/60Hz",
       "Warranty": "3 Year Warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6814,6 +8672,15 @@
       "Power Consumption": "Standby: 0.5 W\r\nTypical: 35.0 W\r\nMaximum: 60.0 W",
       "Voltage": "100 to 240 VAC, 50 / 60 Hz",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "1\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB"
     }
   },
   {
@@ -6844,6 +8711,16 @@
       "Power Consumption": "<18W",
       "Others": "Power Saving Mode <0.5W\r\nPower Off Mode <0.5W",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -6886,6 +8763,17 @@
       "Power Consumption": "35W",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "32\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -6918,6 +8806,16 @@
       "Type": "Voltage : 100-240V, 50/60Hz",
       "Power Consumption": "Power Consumption : <18W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : 0W",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "1080\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   },
   {
@@ -6955,6 +8853,16 @@
       "Power Consumption": "Power Consumption (Max.): 34W\r\nPower Consumption (Sleep Mode): Less than 0.5W\r\nPower Consumption (Typ.): 32W\r\nPower Consumption (DC Off): Less than 0.3W",
       "Voltage": "100~240V (50/60Hz)",
       "Warranty": "03 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -6989,6 +8897,17 @@
       "Power Consumption": "65W",
       "Voltage": "24V=2.71A",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "34\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7030,6 +8949,17 @@
       "Power Consumption": "POWER INPUT: 50~60Hz",
       "Voltage": "100~240V",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "31.5\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "170 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7063,6 +8993,16 @@
       "Vesa Wall Mount": "75x75mm",
       "Power Consumption": "65W",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   },
   {
@@ -7109,6 +9049,17 @@
       "Power Consumption": "Typical / Max: 35W / 70W\r\nSleep / Off mode: <0.5W\r\nSwitch-off Mode: <0.3W",
       "Voltage": "AC 100 to 240 V (50-60Hz)",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Screen Size": "32\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "0.5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Raven Black"
     }
   },
   {
@@ -7158,6 +9109,16 @@
       "Power Consumption": "Power Consumption : <15W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: 0W (hard switch)",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "24.1\"",
+      "Resolution": "1920 x 1200",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7197,6 +9158,17 @@
       "Type": "Internal",
       "Others": "Power Supply: 100 to 240 VAC, 50 / 60 Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "HP",
+      "Screen Size": "31.5\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7241,6 +9213,16 @@
       "Power Consumption": "Power Consumption : <16W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -7288,6 +9270,17 @@
       "Power Consumption": "Power Consumption : <40W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7328,6 +9321,16 @@
       "Power Consumption": "Power Consumption: 36W\r\nPower Saving Mode: 0.5W\r\nPower Off Mode: 0.3W",
       "Voltage": "AC 100-240V ~ 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Gigabyte",
+      "Screen Size": "31.5\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7366,6 +9369,16 @@
       "Power Consumption": "65W",
       "Voltage": "24V = 2.71A",
       "Warranty": "2 Years Service Warranty (1 Year Parts and No Adapter Warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -7398,6 +9411,17 @@
       "Weight": "5.75 kg (12.68 lbs)",
       "Type": "External Adaptor (19V 5.79A)",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7436,6 +9460,17 @@
       "Color": "Black",
       "Weight": "12kg",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Screen Size": "32\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "8 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7486,6 +9521,17 @@
       "Power Consumption": "Power Consumption : <26W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode : <0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "27\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "280 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7535,6 +9581,17 @@
       "Power Consumption": "Power Consumption: <28 W*\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.5W",
       "Voltage": "100-240V, 50 / 60Hz",
       "Warranty": "03 Years Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "29.5\"",
+      "Resolution": "2560 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "200 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7575,6 +9632,17 @@
       "Type": "External Adaptor",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7611,6 +9679,17 @@
       "Weight": "5.6kg with Stand\r\n4.4kg without Stand",
       "Power Consumption": "25W",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "14 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI",
+      "Color": "Black"
     }
   },
   {
@@ -7658,6 +9737,17 @@
       "Voltage": "100-240V, 50/60Hz",
       "Others": "Digital Signal Frequency : \r\nUSB-C, DisplayPort: 265~265 KHz (H) / 48~180Hz (V) \r\nHDMI: 30~223 KHz (H) / 48~144Hz (V)",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7704,6 +9794,17 @@
       "Power Consumption": "Consumption (typical): 50W\r\nConsumption (max): 55W",
       "Voltage": "AC 100-240V",
       "Warranty": "03 years  warranty"
+    },
+    "filter": {
+      "Brand": "Viewsonic",
+      "Screen Size": "32\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "VA",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "3 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7751,6 +9852,17 @@
       "Power Consumption": "Power Consumption (normal): 24 W\r\nPower Consumption (max): 155 W\r\nPower Consumption (sleep mode): <0.5 W\r\nPower Delivery(USB C / Thunderbolt 3): 65 W",
       "Voltage": "100 - 240V",
       "Warranty": "3-years"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7796,6 +9908,17 @@
       "Power Consumption": "Power Consumption : <25W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode : <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "32\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7836,6 +9959,16 @@
       "Power Consumption": "Consumption (Standard): TYP. 64W, MAX. 78 W\r\nConsumption (Standby): <0.5W",
       "Voltage": "AC 100-240V~50/60Hz 2.0A",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -7883,6 +10016,17 @@
       "Power Consumption": "Power Consumption : <23.1W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.3W",
       "Others": "Digital Signal Frequency : \r\nUSB-C, DisplayPort : 30KHz to 255KHz (H) / 48Hz to 180Hz (V)\r\nHDMI : 30KHz to 225KHz (H) / 48Hz to 144Hz (V)",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -7925,6 +10069,17 @@
       "Power Consumption": "<48W",
       "Voltage": "12V/4A",
       "Warranty": "3-years Warranty"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -7967,6 +10122,16 @@
       "Power Consumption": "Power Saving Mode: 0.5W\r\nPower Off Mode: 0.3W",
       "Voltage": "AC 100-240V ~ 50/60H",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Gigabyte",
+      "Screen Size": "34\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "120 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8014,6 +10179,17 @@
       "Power Consumption": "Power Consumption: <28 W*\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.5W",
       "Voltage": "100-240V, 50 / 60Hz",
       "Warranty": "03 Years Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "31.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8054,6 +10230,16 @@
       "Power Consumption": "40W (Typ.)\r\n24W (Energy Star)\r\n44W (Max.)\r\n0.5W (Sleep Mode)\r\nLess than 0.3W (DC Off)",
       "Voltage": "100~240V (50/60Hz)",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -8103,6 +10289,17 @@
       "Voltage": "100 - 240V",
       "Others": "Power Delivery(USB C / Thunderbolt 3): 60W",
       "Warranty": "3 Year"
+    },
+    "filter": {
+      "Brand": "BenQ",
+      "Screen Size": "28\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8143,6 +10340,17 @@
       "Type": "External Adaptor",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "32\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8193,6 +10401,17 @@
       "Power Consumption": "Eco Mode (Conserve): 16.5W\r\nEco Mode (optimized): 19.3W\r\nConsumption (typical): 22.5W\r\nConsumption (max): 34W\r\nStand-by: 0.3W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Viewsonic",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8235,6 +10454,16 @@
       "Voltage": "AC 100V - 240V",
       "Others": "Power Saving Mode: 0.5W\r\nPower Off Mode: 0.5W",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "34\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8285,6 +10514,17 @@
       "Power Consumption": "Power On (Typical): < 18.6W\r\nPower Saving Mode : < 0.5W ;\r\nPower Off Mode : 0W (Hard Switch)",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DVI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8317,6 +10557,16 @@
       "Dimension": "Phys. Dimension with Stand (W x H x D) : 639.5 x (405.2~555.2) x 233.4 mm\r\nPhys. Dimension without Stand (W x H x D) : 639.5 x 369.4 x 54 mm",
       "Weight": "Net Weight with Stand : 7.6 Kg\r\nNet Weight without Stand : 6.1 Kg\r\nGross Weight : 9.6 Kg",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "2160\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort"
     }
   },
   {
@@ -8358,6 +10608,17 @@
       "Power Consumption": "Power Consumption (Typ.): 45W\r\nPower Consumption (Max.): 48W\r\nPower Consumption (Sleep Mode): Less than 0.3W\r\nPower Consumption (DC Off): Less than 0.3W",
       "Voltage": "100~240V (50/60Hz)",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8402,6 +10663,17 @@
       "Type": "External Adaptor 19V 3.42A",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "9\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8447,6 +10719,17 @@
       "Power Consumption": "59 W",
       "Voltage": "AC 100~240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Screen Size": "32\"",
+      "Resolution": "100 x 100",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8489,6 +10772,17 @@
       "Type": "Adapter",
       "Voltage": "100-240 Vac, 50/60 Hz",
       "Warranty": "3 year warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8532,6 +10826,17 @@
       "Type": "External Adaptor, 19V / 3.42A",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "9\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8577,6 +10882,16 @@
       "Voltage": "AC 100-240V ~ 50/60Hz",
       "Others": "Power Saving Mode: 0.5W\r\nPower Off Mode: 0.3W",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "1\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8621,6 +10936,16 @@
       "Power Consumption": "Power Consumption (Typ.): 45W\r\nPower Consumption (Max.): 65W\r\nPower Consumption (Sleep Mode): 0.5W\r\nPower Consumption (DC Off): Less than 0.3W",
       "Voltage": "100~240V (50/60Hz)",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "31.5\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8668,6 +10993,17 @@
       "Power Consumption": "Power Consumption (Typ.)\t44W\r\nPower Consumption (Energy Star) 25.4W\r\nPower Consumption (Max.) 185W",
       "Voltage": "100-240 Vac, 50/60Hz",
       "Warranty": "03-year"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8715,6 +11051,17 @@
       "Power Consumption": "Consumption (typical): 30W\r\nConsumption (max): 52W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "34\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -8760,6 +11107,17 @@
       "Power Consumption": "Power Consumption (Typ.)\t48W\r\nPower Consumption (Max.) 65W\r\nPower Consumption (Sleep Mode)Less than 0.5W\r\nPower Consumption (DC Off)Less than 0.3W",
       "Voltage": "100 ~ 240Vac, 50/60Hz",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "32\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8805,6 +11163,17 @@
       "Power Consumption": "Power Consumption (Typ.)\t48W\r\nPower Consumption (Max.)65W\r\nPower Consumption (Sleep Mode): Less than 0.5W\r\nPower Consumption (DC Off): Less than 0.3W",
       "Voltage": "100-240Vac, 50/60Hz",
       "Warranty": "3 year"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8852,6 +11221,17 @@
       "Power Consumption": "Power Consumption (Typ.)\t40WPower \r\nConsumption (Max.) 130W",
       "Voltage": "100-240 Vac, 50/60 Hz",
       "Warranty": "3 year warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8905,6 +11285,17 @@
       "Power Consumption": "Power Consumption : < 32W\r\nPower Saving Mode : < 0.5W\r\nPower Off Mode: 0W (hard switch)",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 Years"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -8955,6 +11346,17 @@
       "Power Consumption": "Power Consumption : < 26.5W\r\nPower Saving Mode : < 0.5W\r\nPower Off Mode: 0W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "31.5\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DVI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9004,6 +11406,16 @@
       "Voltage": "AC 100V~240V /50~60Hz",
       "Others": "Power Saving Mode: 0.5W\r\nPower Off Mode: 0.3W",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "31.5\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "VA",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9054,6 +11466,17 @@
       "Power Consumption": "Eco Mode (Conserve): 19.3W\r\nEco Mode (optimized): 21.5W\r\nConsumption (typical): 24W\r\nConsumption (max): 28W\r\nStand-by: 0.3W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Viewsonic",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9088,6 +11511,17 @@
       "Vesa Wall Mount": "100*100 mm(4 holes)",
       "Color": "Black",
       "Warranty": "3-years"
+    },
+    "filter": {
+      "Brand": "Value-Top",
+      "Screen Size": "9\"",
+      "Resolution": "5120 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9140,6 +11574,17 @@
       "Power Consumption": "Power Consumption: 26.14 W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: 0W (hard switch)",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03-Year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9186,6 +11631,16 @@
       "Voltage": "AC 100V~240V /50~60Hz",
       "Others": "Power Saving Mode: 0.5W\r\nPower Off Mode: 0.3W",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "GIGABYTE",
+      "Screen Size": "31.5\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9233,6 +11688,17 @@
       "Power Consumption": "Power Consumption (Typ.)\t160W\r\nPower Consumption (Max.) 55W",
       "Voltage": "100-240 Vac, 50/60 Hz",
       "Warranty": "3 year warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "32\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9278,6 +11744,17 @@
       "Power Consumption": "Power Consumption (Typ.): 180W\r\nPower Consumption (Max.): 180W\r\nPower Consumption (Sleep Mode): Less than 0.5W\r\nPower Consumption (DC Off): Less than 0.3W",
       "Voltage": "100-240Vac, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "34\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9313,6 +11790,16 @@
       "Weight": "12kg",
       "Type": "150W AC Adapter",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Screen Size": "32\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   },
   {
@@ -9362,6 +11849,17 @@
       "Power Consumption": "Consumption (typical): 48W\r\nConsumption (max): 71W",
       "Voltage": "AC 100-240V",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Viewsonic",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "7 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9408,6 +11906,16 @@
       "Power Consumption": "Power Consumption (Typ.): 40W\r\nPower Consumption (Max.): 190W\r\nPower Consumption (Sleep Mode): Less than 0.5W\r\nPower Consumption (DC Off): Less than 0.3W",
       "Voltage": "100 to 240 VAC, 50 / 60 Hz at 2.5 to 3 A",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27.6\"",
+      "Resolution": "2560 x 2880",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9455,6 +11963,17 @@
       "Power Consumption": "Power Consumption : <27W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : <0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "3 Year"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "24.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "360 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9508,6 +12027,17 @@
       "Power Consumption": "Power Consumption : 26.4 W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : 0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03-Year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "34\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "165 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9560,6 +12090,17 @@
       "Power Consumption": "Power Consumption : <56.72W\r\nPower Saving Mode : <0.5W\r\nPower Off Mode : 0W (hard switch)",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03-Year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "34\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9607,6 +12148,17 @@
       "Power Consumption": "Power Consumption:<27W\r\nPower Saving Mode:<0.5W\r\nPower Off Mode:<0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "24.5\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "360 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9657,6 +12209,17 @@
       "Power Consumption": "Consumption (typical): 33.6W\r\nConsumption (max): 38.6W",
       "Voltage": "AC 100-240V",
       "Warranty": "3 years Warranty"
+    },
+    "filter": {
+      "Brand": "ViewSonic",
+      "Screen Size": "34\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "VA",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9699,6 +12262,17 @@
       "Type": "External Power(Adapter)",
       "Voltage": "19.5V 10.8A",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "9\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9744,6 +12318,17 @@
       "Type": "External Power(Adapter)",
       "Power Consumption": "Power Consumption (Typ.): 65W\r\nPower Consumption (Max.): 95W",
       "Warranty": "3 Year Warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black & Red"
     }
   },
   {
@@ -9783,6 +12368,17 @@
       "Weight": "9.1 kg",
       "Others": "AC Adapter: 180W",
       "Warranty": "3 Years / Zero Dead Pixels"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "OLED",
+      "Refresh Rate": "240 Hz",
+      "Response Time": "0.03 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9830,6 +12426,17 @@
       "Power Consumption": "POWER INPUT: 50~60Hz",
       "Voltage": "100~240V",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "26.5\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "OLED",
+      "Refresh Rate": "360 Hz",
+      "Response Time": "0.03 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9877,6 +12484,16 @@
       "Power Consumption": "Power Consumption: <47W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.5W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Screen Size": "49\"",
+      "Resolution": "3840 x 1080",
+      "Panel Type": "VA",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "4 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9921,6 +12538,17 @@
       "Weight": "15.2 lb / 6.9 kg (with Stand)\r\n6.2 lb / 2.8 kg (without Stand)",
       "Power Consumption": "Standby: 0.5 W\r\nTypical: 38.0 W",
       "Warranty": "03-Year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "1440\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "240 Hz",
+      "Response Time": "0.03 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9967,6 +12595,17 @@
       "Power Consumption": "Power Save/Sleep Mode (Max): Less than 0.5W\r\nPower Consumption (Typ.): 74W\r\nPower Consumption (Max.): 94W",
       "Voltage": "100~240V (50/60Hz)",
       "Warranty": "3 Years Warranty"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "OLED",
+      "Refresh Rate": "240 Hz",
+      "Response Time": "0.03 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -9999,6 +12638,16 @@
       "Vesa Wall Mount": "100 x 100 mm",
       "Color": "White",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "10\"",
+      "Resolution": "3840 x 1660",
+      "Panel Type": "IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "White"
     }
   },
   {
@@ -10045,6 +12694,17 @@
       "Power Consumption": "Power Consumption : 31W\r\nPower Saving Mode :  <0.5W\r\nPower Off Mode :  <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03-Year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "9\"",
+      "Resolution": "3440 x 1440",
+      "Panel Type": "OLED",
+      "Refresh Rate": "240 Hz",
+      "Response Time": "0.03 ms",
+      "Aspect Ratio": "21:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -10089,6 +12749,17 @@
       "Power Consumption": "Power Consumption: <220W\r\nPower Saving Mode: <0.5W\r\nPower Off Mode: <0.3W",
       "Voltage": "100-240V, 50/60Hz",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Screen Size": "41.5\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "OLED",
+      "Refresh Rate": "138 Hz",
+      "Response Time": "0.1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -10130,6 +12801,17 @@
       "Type": "External Power(Adapter)",
       "Voltage": "100-240Vac, 50/60Hz",
       "Warranty": "03 Years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "27\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "OLED",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -10171,6 +12853,17 @@
       "Power Consumption": "Power Consumption (Typ.) : 72W \r\nPower Consumption (Max.) : 210W",
       "Voltage": "100-240 Vac, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "LG",
+      "Screen Size": "32\"",
+      "Resolution": "3840 x 2160",
+      "Panel Type": "OLED",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -10211,6 +12904,17 @@
       "Type": "External Adaptor",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "31.5\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "170 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -10243,6 +12947,17 @@
       "Power Consumption": "＜ 30W",
       "Voltage": "100-240V,50/60Hz",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "NPC",
+      "Screen Size": "9\"",
+      "Resolution": "1920 x 1080",
+      "Panel Type": "IPS",
+      "Refresh Rate": "100 Hz",
+      "Response Time": "5 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort",
+      "Color": "Black"
     }
   },
   {
@@ -10278,6 +12993,16 @@
       "Power Consumption": "Rated Power: 36W Max",
       "Others": "Working temperature: 0 c ~ 50 c\r\nWorking humidity: 20% RH-90% RH",
       "Warranty": "2 years warranty (1-year parts and 1-year service warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "6 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, VGA"
     }
   },
   {
@@ -10313,6 +13038,17 @@
       "Power Consumption": "Consumption (Standard): ≤36W\r\nConsumption (Standby):  0.5W",
       "Voltage": "DC 12V",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "100 x 100",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -10358,6 +13094,17 @@
       "Type": "External Adaptor 19V 3.42A",
       "Voltage": "100~240V, 50/60Hz",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "MSI",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "180 Hz",
+      "Response Time": "1 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB",
+      "Color": "Black"
     }
   },
   {
@@ -10398,6 +13145,16 @@
       "Power Consumption": "Consumption (Standard): Typ. 52W, Max. 145W\r\nConsumption (Standby): ≤0.5W",
       "Voltage": "DC 19V 7.89A",
       "Warranty": "03 years"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "Screen Size": "9\"",
+      "Resolution": "2560 x 1440",
+      "Panel Type": "IPS",
+      "Refresh Rate": "75 Hz",
+      "Response Time": "4 ms",
+      "Aspect Ratio": "16:9",
+      "Connectivity": "HDMI, DisplayPort, USB"
     }
   }
 ]

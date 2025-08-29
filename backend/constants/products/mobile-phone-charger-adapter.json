@@ -5,7 +5,13 @@
     "price": "350",
     "description": "Input: AC100 – 240V, 50 / 60Hz, 0.3A\rOutput: 1 × USB-A – 5V / 2.1A – 10.5W max\rAdapter weight: 30g\rMaterial: flame retardant PC + ABS",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c106a/hoco-c106a-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c106a/hoco-c106a-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Max Output Power": "10.5 W"
+    }
   },
   {
     "id": 2347,
@@ -13,7 +19,13 @@
     "price": "350",
     "description": "Input: AC100 – 240V, 50 / 60Hz, 0.3A\rOutput: 1 × USB-A – 5V / 2.1A – 10.5W max\rAdapter weight: 30g\rMaterial: flame retardant PC + ABS",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c106a/hoco-c106a-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c106a/hoco-c106a-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Max Output Power": "10.5 W"
+    }
   },
   {
     "id": 2348,
@@ -21,7 +33,13 @@
     "price": "340",
     "description": "Input:100-240VAC,50/60HZ\rOutput : 5V-2.5A/9V-2A/12V-1.5A\rCharge any devices, Support QC3.0\r1*USB 2 Pin",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/xiaomi/mi-3a/mi-3a-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/xiaomi/mi-3a/mi-3a-1-500x500.jpg",
+    "filter": {
+      "Brand": "Xiaomi",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Fast Charge Protocols": "QC3.0"
+    }
   },
   {
     "id": 2349,
@@ -29,7 +47,12 @@
     "price": "450",
     "description": "Output Rate 3A\rInput 100-240V\rOutput 5V-3A\rWeight 39.5g±1g",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/foneng/eu46-qc3-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/foneng/eu46-qc3-01-500x500.webp",
+    "filter": {
+      "Brand": "FONENG",
+      "Charger Type": "Wall",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2350,
@@ -37,7 +60,13 @@
     "price": "490",
     "description": "Input: AC100-240V, 50 / 60Hz, 0.5A\rPlug Type: EU Plug\rOutput: 5V / 3A, 9V / 2A, 12V / 1.5A – 18W max\rFast charging protocol: QC3.0",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/cs21a/cs21a-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/cs21a/cs21a-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2351,
@@ -45,7 +74,14 @@
     "price": "499",
     "description": "Power: 30W fast charging\rInput: 110-240V 50/60HZ 0.35A (Max)\rOutput: USB-A 5V/6A 9V/3.3A 12V/2.5A (Max)\rQualcomm Quick Charge 3.0+ Technology",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/megastar/c001/c001-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/megastar/c001/c001-500x500.webp",
+    "filter": {
+      "Brand": "Megastar",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2352,
@@ -53,7 +89,14 @@
     "price": "525",
     "description": "Material: aluminum alloy + ABS\rOutput: 1 × USB-A – 5V / 3A, 9V / 2A, 12V / 1.5A – 18W (Max)\rcharging protocol support: for QC3.0 / QC2.0 / AFC / FCP \rweight: 41g",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/z49a/z49a-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/z49a/z49a-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Car",
+      "Ports": "USB-A",
+      "Fast Charge Protocols": "QC3.0, FCP, AFC",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2353,
@@ -61,7 +104,14 @@
     "price": "450",
     "description": "Power: 45W fast charging\rInput: 110-240V 50/60HZ 0.35A (Max)\rOutput: USB-A 5V/6A 9V/3.3A 12V/2.5A (Max)\rQC 3.0 Double Engine Flash Charge Automatic Identification",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/megastar/c002/c002-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/megastar/c002/c002-01-500x500.webp",
+    "filter": {
+      "Brand": "Megastar",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "45 W"
+    }
   },
   {
     "id": 2354,
@@ -69,7 +119,13 @@
     "price": "600",
     "description": "Interface: 1x USB A \rOutput Power: 12W,  5V/ 2.4A\rInput Power: AC 100-240V 0.3Amax 50/60Hz\rMaterial: PC+ABS",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/wml-ch07-eu-b/wml-ch07-eu-b-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/wml-ch07-eu-b/wml-ch07-eu-b-500x500.webp",
+    "filter": {
+      "Brand": "VENTION",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Max Output Power": "12 W"
+    }
   },
   {
     "id": 2355,
@@ -77,7 +133,14 @@
     "price": "699",
     "description": "Output: Type-C: 20W (PD/QC/AFC/FCP)\rPlug type: EU Plug\rDimension: 68*34*34mm\rWeight: 38g",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c101a/c101a-lightning-03-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c101a/c101a-lightning-03-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD, FCP, AFC",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2356,
@@ -85,7 +148,14 @@
     "price": "699",
     "description": "Output: Type-C: 20W (PD/QC/AFC/FCP)\rPlug type: EU Plug\rDimension: 68*34*34mm\rWeight: 38g",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c101a/c101a-type-c-04-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c101a/c101a-type-c-04-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD, FCP, AFC",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2357,
@@ -93,7 +163,13 @@
     "price": "620",
     "description": "Power Output: 18 Watts\rIntelligent identification chip\rMaterial: PC+ABS, High-Gloss Surface Texture\rSupport QC3.0 Multi-Protocol Fast Charging",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h11-eu/c-h11-eu-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h11-eu/c-h11-eu-500x500.webp",
+    "filter": {
+      "Brand": "Yison",
+      "Charger Type": "Wall",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2358,
@@ -101,7 +177,14 @@
     "price": "750",
     "description": "Output: Type-C: 20W (PD/QC/FCP/AFC)\rPlug Type: EU plug\rSize: 81x34x34mm,\rWeight: ~53g",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/n40-mighty/hoco-n40-mighty-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/n40-mighty/hoco-n40-mighty-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD, FCP, AFC",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2359,
@@ -109,7 +192,13 @@
     "price": "620",
     "description": "Power Output: 18 Watts\rIntelligent identification chip\rMaterial: PC+ABS, High-Gloss Surface Texture\rSupport QC3.0 Multi-Protocol Fast Charging",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h11-eu/c-h11-eu-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h11-eu/c-h11-eu-500x500.webp",
+    "filter": {
+      "Brand": "Yison",
+      "Charger Type": "Wall",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2360,
@@ -117,7 +206,12 @@
     "price": "650",
     "description": "Input AC100-240V\rOutput DC 5v/2.4A\rPorts: USB A*2\rMaterial: ABS+PC",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/riversong /ad29-m-safekub-d2/ad29-m-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/riversong /ad29-m-safekub-d2/ad29-m-500x500.webp",
+    "filter": {
+      "Brand": "Riversong",
+      "Charger Type": "Wall",
+      "Ports": "USB-A"
+    }
   },
   {
     "id": 2361,
@@ -125,7 +219,13 @@
     "price": "899",
     "description": "Input Type-C: 5V / 2A, 9V / 2A, 12V / 1.5A\rWireless output: 5W / 7.5W / 10W / 15W, Wireless output for Apple: 7.5W.\rBreathing Light Indicator\rMaterial: Aluminum alloy.",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/cw6 pro/cw6-pro-02-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/cw6 pro/cw6-pro-02-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wireless",
+      "Ports": "Type-C",
+      "Max Output Power": "5 W"
+    }
   },
   {
     "id": 2362,
@@ -133,7 +233,12 @@
     "price": "890",
     "description": "Up to 20W of Power Output\rSmaller Size Higher Performance\rInput: 100-240V~0.6A 50-60Hz\rOutput: 5V⎓3A / 9V⎓2.22A / 12V⎓1.67A (20W Max)",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/anker/20w-usb-c/20w-usb-c-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/anker/20w-usb-c/20w-usb-c-01-500x500.webp",
+    "filter": {
+      "Brand": "Anker",
+      "Charger Type": "Wall",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2363,
@@ -150,6 +255,14 @@
       "Material": "Premium Shell Material",
       "Color": "Black",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "VENTION",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD, QC4.0, PPS, SCP, FCP, AFC",
+      "Max Output Power": "20 W",
+      "Color": "Black"
     }
   },
   {
@@ -158,7 +271,14 @@
     "price": "990",
     "description": "Input Port: Type A and Type C\rCharging Output: 18W and 20W PD\rApple MFi Certification\rInterface Technics: Nickel-plated",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/ffbh0/ffbh0-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/ffbh0/ffbh0-01-500x500.webp",
+    "filter": {
+      "Brand": "Vention",
+      "Charger Type": "Car",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2365,
@@ -174,6 +294,14 @@
       "Dimensions": "81 × 44 × 28mm",
       "Materials": "Flame retardant PC + ABS",
       "Warranty": "03-months Warranty"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "QC3.0, PPS, SCP, FCP, AFC",
+      "Max Output Power": "30 W",
+      "Color": "Black"
     }
   },
   {
@@ -182,7 +310,12 @@
     "price": "850",
     "description": "Port: 2x USB\rInput: 12V/24V socket compatible\rOutput: DC 5V 3.4A Max\rCigarette Lighter Socket Output",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/ugreen/dual-usb-car-charger/dual-usb-car-charger-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/ugreen/dual-usb-car-charger/dual-usb-car-charger-500x500.webp",
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Car",
+      "Ports": "USB-A"
+    }
   },
   {
     "id": 2367,
@@ -190,7 +323,14 @@
     "price": "999",
     "description": "Output: Type-C: 20W (PD/QC/FCP/AFC)\rPlug Type: EU plug\rSize: 81x34x34mm,\rWeight: ~53g",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/n40-mighty/hoco-n40-mighty-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/n40-mighty/hoco-n40-mighty-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD, FCP, AFC",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2368,
@@ -198,7 +338,14 @@
     "price": "850",
     "description": "Intelligent Charge: Yes\rDisplay screen: No\rApplied Fast Charge Protocols: USB PD\rMax. Output Power: 20W",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/c20ce-02/c20ce-02-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/c20ce-02/c20ce-02-01-500x500.webp",
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2369,
@@ -216,6 +363,14 @@
       "Dimension": "150 x 100 x 30mm",
       "Weight": "200gm",
       "Warranty": "1.5-year Warranty"
+    },
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "18 W",
+      "Color": "Black"
     }
   },
   {
@@ -224,7 +379,13 @@
     "price": "990",
     "description": "Interface(s): Type-C\rTransmitted Power: 20W\rOutput: 5V/3A 9V/2.22A 12V/1.67A 3.3-5.9V/=3A 3.3-11V/1.8A\rInput :  100-240V~50/60Hz 500mA Max\rAdvanced GaN Technology",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/ugreen/nexode-mini-cd318/nexode-mini-cd318-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/ugreen/nexode-mini-cd318/nexode-mini-cd318-01-500x500.webp",
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2371,
@@ -232,7 +393,13 @@
     "price": "1129",
     "description": "Twin USB-A ports pump out a combined 24W\rScratch-resistant alloy surface\rGold-plated circuitry\rUltra-Compact",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/vjy36a-01/vjy36a-01-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/vjy36a-01/vjy36a-01-01-500x500.webp",
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Charger Type": "Car",
+      "Ports": "USB-A",
+      "Max Output Power": "24 W"
+    }
   },
   {
     "id": 2372,
@@ -240,7 +407,13 @@
     "price": "1155",
     "description": "20W PD Quick Charging\rOutput: 5V=3A; 9V=2.22A; 12V=1.67A\rDownsized Design, Wide Compatibility\rWide Compatibility, Intelligent Power Management",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/falb0-us/falb0-us-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/falb0-us/falb0-us-01-500x500.webp",
+    "filter": {
+      "Brand": "Vention",
+      "Charger Type": "Wall",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2373,
@@ -257,6 +430,14 @@
       "Supported System": "Quick Charge 3.0 for Huawei P9/ Mate 9/ Mate 8/ Mate 7/ Honor 8\r\nMobile Phone Charger for Samsung Galaxy S9/S8 S7 / S7 Edge / S6 / S6 E\r\nUSB Charger for Google Nexus 6, HTC One M8, HTC One Remix, HTC Desire\r\nUniversal Charger for iPhone X/8+/8/7/6\r\nFast Charge for LG G6,LG G5,LG G Flex2,LG V30,LG V20\r\nQuick Charging for Motorola Droid\r\nFast charging for Huawei P9/ Mate 9/ Mate 8/ Mate 7/ Honor 8\r\nBackward compatible with QC 1.0 a\r\nSupports 3.6V-6.5V/2A, 6.5V-9V/2A, 9V-12/1.5A output",
       "Color": "Black",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "VENTION",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "18 W",
+      "Color": "Black"
     }
   },
   {
@@ -265,7 +446,14 @@
     "price": "1050",
     "description": "20-Watt PD Fast Charging\rIntelligent Chip, Multi-Protection\rInput: 100-204V-50Hz/60Hz 0.5A(max)\rOutput: Type-C 5V=3A 9V=2.22A 12V=1.67A",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h7-eu/celebrat-c-h7-eu-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h7-eu/celebrat-c-h7-eu-500x500.webp",
+    "filter": {
+      "Brand": "Yison",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2375,
@@ -273,7 +461,13 @@
     "price": "1150",
     "description": "Dual-Port USB Wall Charger\r3.4A Max Fast Charging\rInterface Technics: Nickel-plated\rUniversal Compatibility",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fbab0-uk/fbab0-uk-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fbab0-uk/fbab0-uk-01-500x500.webp",
+    "filter": {
+      "Brand": "VENTION",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2376,
@@ -281,7 +475,14 @@
     "price": "1250",
     "description": "Max. Output Power: 30W\rOutput Interface: USB\rPower Source: A.C. Source\rApplied Fast Charge Protocols: Qualcomm Quick Charge 3.0",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/xiaomi/mdy-11-ez/mdy-11-ex-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/xiaomi/mdy-11-ez/mdy-11-ex-500x500.webp",
+    "filter": {
+      "Brand": "Xiaomi",
+      "Charger Type": "Wall",
+      "Ports": "USB-A",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2377,
@@ -293,6 +494,12 @@
     "Specifications": {
       "Others": "Input : AC 100-240Vac, 50/60Hz, 0.5A Max\r\nTotal Output : 20W\r\nUSB Port : USB-C x 1\r\nOutput Current : 5V 3A / 9V 2.22A / 12V 1.67A  20W Max",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "20 W"
     }
   },
   {
@@ -306,6 +513,14 @@
       "Power Supply": "Input: AC 100V-240V 50/60HZ\r\nOutput: Type-C PD 20W; Type-A 18W QC3.0",
       "Color": "White",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "ZOOOK",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD, QC3.0",
+      "Max Output Power": "20 W",
+      "Color": "White"
     }
   },
   {
@@ -314,7 +529,14 @@
     "price": "1300",
     "description": "Input: AC110-240V, 50 / 60Hz, 1.5A\rSupports: PD65W / PPS / QC3.0 / FCP / AFC / VOOC 2.0\rOutput: Type-C – 5V / 3A, 9V / 3A, 12V / 3A, 15V / 3A, 20V / 3.25A – 65W max..\rUSB-A – 5V / 3A, 9V / 2A, 12V / 1.5A – 18W max.",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c113a/hoco-c113a-awesome-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/hoco/c113a/hoco-c113a-awesome-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "QC3.0, PPS, FCP, AFC, VOOC",
+      "Max Output Power": "65 W"
+    }
   },
   {
     "id": 2380,
@@ -331,6 +553,14 @@
       "Supported System": "Universal compatibility: USB-C and USB-A quick charging ports are compatible with iPhone 13, 13 Mini, 13 Pro, 13 Pro Max, 12, 12 Pro, 12 Pro Max, SE, X, iPad, AirPods Pro, Galaxy S20, S21, A51, A50, A40, Mate 4, 40pro, P30, P30 Pro, P40 Pro, P4 Pro, P4 Pro, P40 Pro, P40 Pro, P40 Pro, P40 Pro, P40 Pro, P40 Pro, P40 Pro, P30 Pro, P400 Pro, P2 0 etc.",
       "Color": "Black",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "VENTION",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD, QC3.0",
+      "Max Output Power": "20 W",
+      "Color": "Black"
     }
   },
   {
@@ -339,7 +569,14 @@
     "price": "1350",
     "description": "Interface: USB-C\rTotal Output: 30W Max\rPower Output: 5V--3A; 9V--3A; 12V--2.5A\rProtocols: PPS/PD3.0/QC4.0/SCP/FCP/AFC/BC1.2/Apple 2.4A",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fadw0-eu/fadw0-eu-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fadw0-eu/fadw0-eu-01-500x500.webp",
+    "filter": {
+      "Brand": "Vention",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "QC4.0, PPS, SCP, FCP, AFC",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2382,
@@ -350,6 +587,12 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/ugreen/cd319/cd319-04-500x500.webp",
     "Specifications": {
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "30 W"
     }
   },
   {
@@ -367,6 +610,14 @@
       "Material": "Premium Shell Material",
       "Color": "Black",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "VENTION",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD, QC4.0, PPS, SCP, FCP, AFC",
+      "Max Output Power": "30 W",
+      "Color": "Black"
     }
   },
   {
@@ -375,7 +626,13 @@
     "price": "1440",
     "description": "Interface(s): Type-C\rTransmitted Power: 30W\rInput : 100-240V/0.8A\rOutput voltage:5V/3A, 9V/3A, 12V/2A, 20V/1.5A",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/ugreen/cd127/cd122-001-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/ugreen/cd127/cd122-001-500x500.webp",
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2385,
@@ -383,7 +640,13 @@
     "price": "1250",
     "description": "25-Watt PD Fast Charging\rBuilt-in Intelligent Chip\rMulti-Protection\rInput: 100-204V-50Hz/60Hz 0.5A(max)",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h8-eu/celebrat-c-h8-eu-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/yison/celebrat-c-h8-eu/celebrat-c-h8-eu-500x500.webp",
+    "filter": {
+      "Brand": "Yison",
+      "Charger Type": "Wall",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "25 W"
+    }
   },
   {
     "id": 2386,
@@ -391,7 +654,13 @@
     "price": "1500",
     "description": "Interface: USB3.0+ Type C\rInput: DC12V-24V\rOutput: 3A(Max)/38W Max\rMaterial: Zinc alloy",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/wiwu/pc100/pc100-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/wiwu/pc100/pc100-01-500x500.webp",
+    "filter": {
+      "Brand": "WiWU",
+      "Charger Type": "Car",
+      "Ports": "Type-C",
+      "Max Output Power": "38 W"
+    }
   },
   {
     "id": 2387,
@@ -399,7 +668,12 @@
     "price": "1490",
     "description": "Exclusive Auto Detect\rUniversal Compatibility\rIntelligent Circuit Design\rSmart Charging Technology",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/cable/tp-link/25w-5-port-charger/25w-5-Port-charger-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/cable/tp-link/25w-5-port-charger/25w-5-Port-charger-500x500.jpg",
+    "filter": {
+      "Brand": "TP-Link",
+      "Charger Type": "Wall",
+      "Max Output Power": "25 W"
+    }
   },
   {
     "id": 2388,
@@ -415,6 +689,14 @@
       "Dimensions": "68 × 55 × 52mm",
       "Materials": "flame retardant PC",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "QC3.0, FCP, AFC",
+      "Max Output Power": "15 W",
+      "Color": "Black"
     }
   },
   {
@@ -428,6 +710,13 @@
       "Others": "Input : AC 100-240V, 50/60Hz, 1.5A Max\r\nTotal Output : 30W\r\nUSB Port : USB-C x 1\r\nOutput Current : 5V 3A /9V 3A/12V 2.5A /15V 2A/ 20V - 1.5A (30W Max)",
       "Color": "Black\r\nWhite\r\nMatte Blue\r\nLavender\r\nMint Green",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "30 W",
+      "Color": "Black"
     }
   },
   {
@@ -443,6 +732,13 @@
       "Power Supply": "Input : 100-240V/0.8A",
       "Color": "White",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "30 W",
+      "Color": "White"
     }
   },
   {
@@ -456,6 +752,12 @@
       "Power": "Total output: 120W\r\nUSB 1/USB 2/USB 3 output: 5V 3A, 9V 2A, 10V 2A, 12V 2.5A, 30W\r\nType-C output: 5V 3A, 9V 2.22A, 12V 2.5A, 15V 2A, 20V 1.5A, 30W",
       "Weight": "0.15kgs",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Car",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "120 W"
     }
   },
   {
@@ -470,6 +772,13 @@
       "Transmission Rate": "18W",
       "Color": "White",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "18 W",
+      "Color": "White"
     }
   },
   {
@@ -478,7 +787,13 @@
     "price": "1850",
     "description": "30W fast Charging\rSimultaneous Charging for 2 devices\rType-C Output: 5V/3A; 9V/3A; 10V/2A; 12V/2.5A; 30W Max.\riP Output: 5V/3A; 9V/2.77A; 25W Max",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/baseus/enjoyment-retractable/enjoyment-retractable-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/baseus/enjoyment-retractable/enjoyment-retractable-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Car",
+      "Ports": "Type-C",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2394,
@@ -494,6 +809,14 @@
       "Dimensions": "31.5*31.5*36.6 mm",
       "Materials": "Fire-proof PC",
       "Warranty": "06-month Warranty"
+    },
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "35 W",
+      "Color": "White"
     }
   },
   {
@@ -502,7 +825,13 @@
     "price": "1650",
     "description": "Transmitted Power: 35W\rInterface: USB Type-A & USB Type-C\rGaN Fast Charging \rMaterial: Fire-proof PC",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/gan35be-02/gan35be-02-001-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/gan35be-02/gan35be-02-001-500x500.webp",
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "35 W"
+    }
   },
   {
     "id": 2396,
@@ -514,6 +843,13 @@
     "Specifications": {
       "Others": "Input : AC 100-240V, 50/60Hz, 1.5A Max\r\nTotal Output : 30W\r\nUSB Port : 1x USB-C 1x USB-A\r\nOutput Current \r\nUSB-C : 3.3 - 11V 3A (PPS) / 5V 3A / 9V 3A / 12V 2.5A / 15V 2A / 20V 1.5A (30W Max)\r\nUSB-A : 5V 3A / 9V 2A / 12V 1.5A (QC 18W)\r\nShare Mode: USB-C 1 + USB-A Output : 5V 3A (15W Max)",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "30 W"
     }
   },
   {
@@ -522,7 +858,13 @@
     "price": "1670",
     "description": "Transmitted Power: 35W\rInterface: USB Type-A & USB Type-C\rGaN Fast Charging \rMaterial: Fire-proof PC",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/gan35be-01/gan35be-01-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/gan35be-01/gan35be-01-01-500x500.webp",
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "35 W"
+    }
   },
   {
     "id": 2398,
@@ -530,7 +872,13 @@
     "price": "1820",
     "description": "Twin USB-A ports pump out a combined 24W\rScratch-resistant alloy surface\rGold-plated circuitry\rUltra-Compact",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/anker/powerdrive-2-alloy/powerdrive-2-alloy-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/anker/powerdrive-2-alloy/powerdrive-2-alloy-01-500x500.webp",
+    "filter": {
+      "Brand": "Anker",
+      "Charger Type": "Car",
+      "Ports": "USB-A",
+      "Max Output Power": "24 W"
+    }
   },
   {
     "id": 2399,
@@ -538,7 +886,12 @@
     "price": "1710",
     "description": "Up to 30W of Power Output\rSmaller Size Higher Performance\rHigh-Speed Charging\rUpgraded Protection with ActiveShield 2.0",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/anker/511/511-nano-3-black-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/anker/511/511-nano-3-black-500x500.webp",
+    "filter": {
+      "Brand": "Anker",
+      "Charger Type": "Wall",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2400,
@@ -546,7 +899,13 @@
     "price": "1990",
     "description": "Output: 2x Type-C, 1x USB-A\rTotal Output: 65W (Max)\rNet weight: 118g\rGaN Ultra Technology",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/joyroom/jr-tcg01/jr-tcg01-02-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/joyroom/jr-tcg01/jr-tcg01-02-500x500.webp",
+    "filter": {
+      "Brand": "Joyroom",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "65 W"
+    }
   },
   {
     "id": 2401,
@@ -559,6 +918,14 @@
       "Others": "Input : AC 100-240V, 50/60Hz, 0.8A Max\r\nTotal Output: 30W\r\nUSB Port: 2x USB-C\r\nOutput: USB-C 1/2 : 3.3 - 11V 3A (PPS) / 5V 3A / 9V 3A / 12V 2.5A / 15V 2A / 20V 1.5A (30W Max)\r\nSolo Mode: USB-C 1/2 Output : 30W (Max)\r\nShare Mode: USB-C 1 + USB-C 2 Output : 5V 3A (15W Max) \r\nPPS Supported",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "30 W",
+      "Color": "Black"
     }
   },
   {
@@ -567,7 +934,13 @@
     "price": "1940",
     "description": "Dual 35W Output Power\rOutput Power: 35W Max\rInterface: USB Type-C, EU Plug\rCompatible with wide range of Device",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fbpw0-eu/fbpw0-eu-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fbpw0-eu/fbpw0-eu-01-500x500.webp",
+    "filter": {
+      "Brand": "Vention",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "35 W"
+    }
   },
   {
     "id": 2403,
@@ -575,7 +948,13 @@
     "price": "2099",
     "description": "Ports: Type C + Type-C\rMaximum Power Output: 30W\rCharge 2 Devices Simultaneously\rLED Light Indicator",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/voltme/cazo-30-type-c/cazo-30-type-c-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/voltme/cazo-30-type-c/cazo-30-type-c-01-500x500.webp",
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Car",
+      "Ports": "Type-C",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2404,
@@ -588,6 +967,14 @@
       "Others": "USB-C: 3.3-11V 3A (PPS)/5V 3A/9V 3A/12V 2.91A/15V 2.33A/20V 1.75A (35W Max)\r\nUSB-A: 5V 3A / 9V 2A / 12V 1.5A； (18W Max)\r\nDual Port Output: \r\nC+A=18W+18W (36W Max)\r\nUSB-C: 5V 3A / 9V 2A / 12V 1.5A；\r\nUSB-A: 5V 3A / 9V 2A / 12V 1.5A；",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "36 W",
+      "Color": "Black"
     }
   },
   {
@@ -602,6 +989,14 @@
       "Others": "Single Port Output: \r\nUSB-C1/C2: 3.3-11V 3A (PPS)/5V 3A/9V 3A/12V 2.91A/15V 2.33A/20V 1.75A (35W Max)\r\nDual Port Output: \r\nC1+C2=18W+18W (36W Max)\r\n- USB-C1/C2: 5V 3A / 9V 2A / 12V 1.5A；",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "35 W",
+      "Color": "Black"
     }
   },
   {
@@ -610,7 +1005,13 @@
     "price": "1890",
     "description": "Power Output: 20 watts\rConnector Type: USB Type-C\t\rHigh-quality charger for iPhone, iPad\rCompact & Lightweight",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/apple/20w-usb-c/20w-uk-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/apple/20w-usb-c/20w-uk-01-500x500.webp",
+    "filter": {
+      "Brand": "Apple",
+      "Charger Type": "Travel",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2407,
@@ -618,7 +1019,13 @@
     "price": "2390",
     "description": "Input: PD(QC)18-36W\rOutput: 15W/10W/7.5W/5W\rCharge Phone, Watch, TWS earbuds\rMaterial: PC+ABS",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/mcdodo/ch-706/ch-706-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/mcdodo/ch-706/ch-706-01-500x500.webp",
+    "filter": {
+      "Brand": "Mcdodo",
+      "Charger Type": "Wireless",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "36 W"
+    }
   },
   {
     "id": 2408,
@@ -632,6 +1039,14 @@
       "Others": "Single Port Output:\r\nUSB-C: 3.3-11V 5A (PPS)/5V 3A/9V 3A/12V 3A/15V 3A/20V 2.25A (45W Max)\r\nUSB-A: 5V 3A / 9V 2A / 12V 1.5A (18W Max)\n\r\nDual Port Output:\r\nC+A=25W+18W (43W Max)\r\nUSB-C: 3.3-11V 2.75A (PPS)/5V 3A / 9V 2.78A / 12V 2.08A；(25W Max)\r\nUSB-A: 5V 3A / 9V 2A / 12V 1.5A；",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "45 W",
+      "Color": "Black"
     }
   },
   {
@@ -646,6 +1061,14 @@
       "Others": "Plug Type: USA Variants\r\nTechnology: V-Dynamic, GaN III, PD 3.0, QC 3.0, PPS, FCP\r\nCharging Time: 50% in 25 Minutes\r\nSafety: Over Current, Short Circuit, Over Voltage",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Fast Charge Protocols": "PD, QC3.0, PPS, FCP",
+      "Max Output Power": "45 W",
+      "Color": "Black"
     }
   },
   {
@@ -654,7 +1077,11 @@
     "price": "2350",
     "description": "Most Convenient Wireless Charger\rQuick Charge for Saving Your Time\rSafety Protection\rED Status",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/cable/ugreen/qi-30570/ugreen-qi-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/cable/ugreen/qi-30570/ugreen-qi-1-500x500.jpg",
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Wireless"
+    }
   },
   {
     "id": 2411,
@@ -662,7 +1089,12 @@
     "price": "2590",
     "description": "360° Adjustable Angle\rStrong Magnetism\r15W Fast Charging\rMaterial: Fire-proof ABS",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/cable/wiwu/ch-306/ch-306-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/cable/wiwu/ch-306/ch-306-01-500x500.webp",
+    "filter": {
+      "Brand": "WiWU",
+      "Charger Type": "Car",
+      "Max Output Power": "15 W"
+    }
   },
   {
     "id": 2412,
@@ -670,7 +1102,12 @@
     "price": "2349",
     "description": "Simultaneous Dual-Device Charging\rNext-Gen Speed\rHigh-Speed Charging\r18W of Output Power for Latest iPhones",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/anker/powerport-pd-2-35w/powerport-pd-2-35w-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/anker/powerport-pd-2-35w/powerport-pd-2-35w-01-500x500.webp",
+    "filter": {
+      "Brand": "Anker",
+      "Charger Type": "Wall",
+      "Max Output Power": "18 W"
+    }
   },
   {
     "id": 2413,
@@ -678,7 +1115,14 @@
     "price": "2650",
     "description": "Interface: 1x USB-A, 2x Type-C, 1x Universal Sockets\r65W High Power with QC3.0 fast charging\rIntegrated US/UK/EU sockets and plugs\rHigh-Grade Fire-Proof PC Material, 9 Multi-Protection",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/ldnio/z6-/z6-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/ldnio/z6-/z6-01-500x500.webp",
+    "filter": {
+      "Brand": "LDNIO",
+      "Charger Type": "Travel",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "QC3.0",
+      "Max Output Power": "65 W"
+    }
   },
   {
     "id": 2414,
@@ -692,6 +1136,12 @@
       "Weight": "50g",
       "Materials": "Aluminum alloy +PC+ABS",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Car",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "31.5 W"
     }
   },
   {
@@ -700,7 +1150,13 @@
     "price": "2490",
     "description": "Output: 2x Type-C, 2x USB-A\rTotal Output: 67W (Max)\rNet weight: 153g\rGaN Ultra Technology",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/joyroom/jr-tcg02/jr-tcg02-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/joyroom/jr-tcg02/jr-tcg02-01-500x500.webp",
+    "filter": {
+      "Brand": "Joyroom",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "67 W"
+    }
   },
   {
     "id": 2416,
@@ -708,7 +1164,13 @@
     "price": "2600",
     "description": "Power Delivery: 15W \rInput: 5V/2A, 9V/2A, 12V/2A\riOS device output power: 7.5W\rHigh-quality Case,Universal Compatibility",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/ugreen/cd245/cd245-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/ugreen/cd245/cd245-01-500x500.webp",
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Wireless",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "15 W"
+    }
   },
   {
     "id": 2417,
@@ -716,7 +1178,12 @@
     "price": "2490",
     "description": "Optimized for Qi-Enabled Devices Up to 5w\rQi-Certified and Universal Compatibility \rCase Compatible Up to 3mm\rPortrait Mode Allows for Easy Chat, Web Browsing, and More",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/belkin/boost-up-5w/boost-up-5w-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/belkin/boost-up-5w/boost-up-5w-01-500x500.webp",
+    "filter": {
+      "Brand": "Belkin",
+      "Charger Type": "Wireless",
+      "Max Output Power": "5 W"
+    }
   },
   {
     "id": 2418,
@@ -724,7 +1191,13 @@
     "price": "2090",
     "description": "Transmitted Power: 65W\rInterface: USB Type-A & USB Type-C\rFast Charging \r2 Type Plug-in",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/xiaomi/mi-20w/mi-20w-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/xiaomi/mi-20w/mi-20w-01-500x500.webp",
+    "filter": {
+      "Brand": "Xiaomi",
+      "Charger Type": "Wireless",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "65 W"
+    }
   },
   {
     "id": 2419,
@@ -732,7 +1205,13 @@
     "price": "3025",
     "description": "Interface: Type-C x 1, USB-A x 2\rOutput: Type-C - 20W, USB-A - 18W (Max Total)\rFuse Rating: 8A MAX\rFire Rating: UL 94V-0",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fjcb0/fjcb0-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/vention/fjcb0/fjcb0-01-500x500.webp",
+    "filter": {
+      "Brand": "Vention",
+      "Charger Type": "Travel",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2420,
@@ -751,6 +1230,13 @@
       "Dimension": "60x60x33mm",
       "Weight": "160g",
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "66 W",
+      "Color": "Black"
     }
   },
   {
@@ -759,7 +1245,12 @@
     "price": "2650",
     "description": "Direction adjustable and precise alignment\rAutomatic lock-in design\rDouble fixed structure design\rMax 15W Qi wireless charging",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/daily-lifestyle/baseus/wisdom-auto-alignment-car-mount-wireless-charger/wisdom-auto-alignment-car-mount-wireless-charger-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/daily-lifestyle/baseus/wisdom-auto-alignment-car-mount-wireless-charger/wisdom-auto-alignment-car-mount-wireless-charger-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Wireless",
+      "Max Output Power": "15 W"
+    }
   },
   {
     "id": 2422,
@@ -767,7 +1258,12 @@
     "price": "2650",
     "description": "Smaller Size Higher Performance\rGaN5 Chip More Powerful\rBPSII Smart Power Split Safe Charging Without Overcharging\rBCT Intelligent Temperature",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/gan5-pro-65w-eu/gan5-pro-65w-eu-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/gan5-pro-65w-eu/gan5-pro-65w-eu-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Wall",
+      "Max Output Power": "65 W"
+    }
   },
   {
     "id": 2423,
@@ -781,6 +1277,14 @@
       "Others": "Number of Ports: 3\r\nOutput\t\r\nUSB-C1/C2: 3.3-11V 5A (PPS) / 5V 3A / 9V 3A / 12V 3A / 15V 3A / 20V 3.35A (67W Max)\r\nUSB-A: 4.5V 5A / 5V 4.5A / 9V 3A / 12V 3A / 20V 1.8A\r\nC1+C2=45W+18W\r\nC1+A=45W+18W\r\nC2+A=5V 3A (15W)\r\nC1+(C2+A)=45W+15W",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "67 W",
+      "Color": "Black"
     }
   },
   {
@@ -797,6 +1301,14 @@
       "Weight": "187g",
       "Dimensions": "70.5mm x 31mm x 69mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD, QC3.0",
+      "Max Output Power": "60 W",
+      "Color": "Black"
     }
   },
   {
@@ -805,7 +1317,13 @@
     "price": "2940",
     "description": "Output Type: 20W\rCompatible with Type-C-enabled Apple devices\rUltra-compact design, Efficient charging\rSpecial Features: Folding Pins, Quick Charge Technology",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/apple/mhjf3ze/mhjf3ze-02-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/apple/mhjf3ze/mhjf3ze-02-500x500.webp",
+    "filter": {
+      "Brand": "Apple",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Max Output Power": "20 W"
+    }
   },
   {
     "id": 2426,
@@ -816,6 +1334,12 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/ugreen/cd294/cd294-01-500x500.webp",
     "Specifications": {
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "45 W"
     }
   },
   {
@@ -834,6 +1358,13 @@
       "Dimension": "3 x 6.5 x 7 cm",
       "Weight": "300g",
       "Warranty": "1.5-year Warranty"
+    },
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "65 W",
+      "Color": "Black"
     }
   },
   {
@@ -842,7 +1373,13 @@
     "price": "2990",
     "description": "Input: AC 100-240V, 50/60Hz, 1.5A max.\rPorts: 1 x Type-C + 1 x USB Ports\rType-C+USB Output: 45W+20W\rCompatible Devices: Smartphones, Tablets, Laptops",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/gan2-lite-fast/gan2-lite-fast-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/gan2-lite-fast/gan2-lite-fast-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "45 W"
+    }
   },
   {
     "id": 2429,
@@ -850,7 +1387,13 @@
     "price": "4085",
     "description": "GaN technology for efficient, rapid charging\rMultiple output options: USB-A & Type-C ports\rUSB-A delivers up to 60W, Type-C up to 65W\rInterchangeable plugs for US, EU, and UK",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/gan65fst-02/gan65fst-02-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/vyvylabs/gan65fst-02/gan65fst-02-01-500x500.webp",
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "60 W"
+    }
   },
   {
     "id": 2430,
@@ -866,6 +1409,14 @@
       "Weight": "125g",
       "Dimensions": "29.5mm x 47mm x 58.6mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "PROLiNK",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD, QC3.0, PPS",
+      "Max Output Power": "65 W",
+      "Color": "White"
     }
   },
   {
@@ -879,6 +1430,11 @@
       "Dimension": "6.69 x 3.43 x 3.94 inches",
       "Weight": "447.9 gm",
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wall",
+      "Ports": "USB-A"
     }
   },
   {
@@ -893,6 +1449,14 @@
       "Others": "Number of Ports: 3\r\nOutput\t\r\nUSB-C1/C2: 3.3-21V 5A (PPS) / 5V 3A / 9V 3A / 12V 3A / 15V 3A / 20V 5A (100W Max)\r\nUSB-A: 5V 3A / 9V 2A / 12V 1.5A\r\nC1+C2=60W+40W；\r\nC1/C2+A=80W+18W；\r\nC1+C2+A=45W+30W+18W",
       "Color": "Black",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "Voltme",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "100 W",
+      "Color": "Black"
     }
   },
   {
@@ -907,6 +1471,13 @@
       "Others": "65W Fast Charger\r\nV-Dynamic Technology\r\nGaN Technology\r\nUltra Thin And Super Powerful \r\nPortable And Foldable PD Fast Charging Supported\r\nOver Voltage Protection\r\nOver Charge Protection\r\nShort Circuit Protection\r\nMini & Easy To Carry",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "65 W",
+      "Color": "Black"
     }
   },
   {
@@ -915,7 +1486,13 @@
     "price": "4190",
     "description": "Input Power: 9V-2A, 12V-2A\rDouble Coil Output: 10W+10W Max.\rUSB or Type-C Output: 5V⎓1A\rCompatibility: Universal",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/swan/swan-3-in-1-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/swan/swan-3-in-1-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "10 W"
+    }
   },
   {
     "id": 2435,
@@ -923,7 +1500,14 @@
     "price": "4500",
     "description": "Interface: Dual USB Type-C, 3-Pin Plag\rUSB-C PD 3.0 Certified, Integrated GaN Technology\rPPS Technology for Dynamic, Optimal Charging\rOS Compatibility with Android, iOS",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/belkin/boostcharge-pro/boostcharge-pro-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/belkin/boostcharge-pro/boostcharge-pro-01-500x500.webp",
+    "filter": {
+      "Brand": "Belkin",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD, PPS",
+      "Max Output Power": "65 W"
+    }
   },
   {
     "id": 2436,
@@ -931,7 +1515,13 @@
     "price": "4050",
     "description": "Interface: Type-C to Type-C\rCurrent: 5A (20V/5A 100W with E-marker chip)\rType-C+USB Output: 65.0W+30.0W\rLength: 1m",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/baseus/gan5-pro/gan5-pro-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/baseus/gan5-pro/gan5-pro-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "100 W"
+    }
   },
   {
     "id": 2437,
@@ -942,6 +1532,12 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/ugreen/cd328/cd328-01-500x500.webp",
     "Specifications": {
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Desktop",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "100 W"
     }
   },
   {
@@ -956,6 +1552,13 @@
       "Transmission Rate": "18W",
       "Color": "Black",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "18 W",
+      "Color": "Black"
     }
   },
   {
@@ -973,6 +1576,13 @@
       "Color": "Black",
       "Weight": "215g",
       "Warranty": "1-year Warranty"
+    },
+    "filter": {
+      "Brand": "Ugreen",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "100 W",
+      "Color": "Black"
     }
   },
   {
@@ -981,7 +1591,14 @@
     "price": "6590",
     "description": "Total Output: 140W\rPorts: 2x Type-C, 2x USB-A\rMaximum current: 5A\rPD 3.1 Charging Technology",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/choetech/pd6005/pd6005-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/choetech/pd6005/pd6005-01-500x500.webp",
+    "filter": {
+      "Brand": "Choetech",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "140 W"
+    }
   },
   {
     "id": 2441,
@@ -989,7 +1606,12 @@
     "price": "6600",
     "description": "140W Fast Charging for Device\rUpgraded GaN V Technology\rCompact Design\r3 Ports for Charging",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/gan5-pro/gan5-pro-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/mobile-accessories/baseus/gan5-pro/gan5-pro-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Wall",
+      "Max Output Power": "140 W"
+    }
   },
   {
     "id": 2442,
@@ -1003,6 +1625,14 @@
       "Others": "Number of Ports: 3\r\nOutput\t\r\nUSB-C1：5V 3A / 9V 3A / 12V 3A / 15V 3A / 20V 5A/ 28V 5A (PPS:3.3-21V/5A） (140W Max)\r\nUSB-C2：5V 3A / 9V 3A / 12V 3A / 15V 3A / 20V 5A (PPS:3.3-21V/5A） (100W Max)\r\nUSB-A: 4.5V 5A / 5V 4.5A / 9V 2A / 12V 1.5A；\r\nC1+C2=65W+65W；\r\nC1+A=100W+22.5W；\r\nC2+A=100W+22.5W；\r\nC1+C2+A=65W+45W+22.5W",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "VOLTME",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PPS",
+      "Max Output Power": "140 W",
+      "Color": "Black"
     }
   },
   {
@@ -1016,6 +1646,12 @@
       "Dimension": "6.69 x 3.43 x 3.94 inches",
       "Weight": "447.9 gm",
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "UGREEN",
+      "Charger Type": "Wireless",
+      "Ports": "USB-A + Type-C",
+      "Max Output Power": "25 W"
     }
   },
   {
@@ -1034,6 +1670,13 @@
       "Dimension": "41 * 34 * 28mm",
       "Cable Length": "1M",
       "Warranty": "6-Month"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Wall",
+      "Ports": "Type-C",
+      "Max Output Power": "15 W",
+      "Color": "Black - TZCCSUP-L01"
     }
   },
   {
@@ -1042,7 +1685,13 @@
     "price": "810",
     "description": "30W fast Charging\rSimultaneous Charging for 2 devices\rType-C Output: 5V/3A; 9V/3A; 10V/2A; 12V/2.5A; 30W Max.\riP Output: 5V/3A; 9V/2.77A; 25W Max",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/baseus/tiny-star/tiny-star-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/charger/baseus/tiny-star/tiny-star-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus",
+      "Charger Type": "Car",
+      "Ports": "Type-C",
+      "Max Output Power": "30 W"
+    }
   },
   {
     "id": 2446,
@@ -1050,7 +1699,14 @@
     "price": "1250",
     "description": "Interface: USB Type-C\r25W PD Charger EU\rInput Voltage 100-240 V\rPlug: 2 Pin",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/samsung/25w-pd-charger-adapter/25w-pd-charger-adapter-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/samsung/25w-pd-charger-adapter/25w-pd-charger-adapter-01-500x500.webp",
+    "filter": {
+      "Brand": "Samsung",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD",
+      "Max Output Power": "25 W"
+    }
   },
   {
     "id": 2447,
@@ -1058,7 +1714,12 @@
     "price": "2499",
     "description": "80W Type-A Adapter\rOnePlus 10 Pro 5G to 50% in just 12 minutes\rOutput: 5V-2A/5-11V 7.3A (Max)\rOver-voltage, over-temperature and short-circuit safeguards.",
     "category": "mobile-phone-charger-adapter",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/oneplus/supervooc-80w/supervooc-80w-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/adapter/oneplus/supervooc-80w/supervooc-80w-01-500x500.webp",
+    "filter": {
+      "Brand": "OnePlus",
+      "Charger Type": "Wall",
+      "Max Output Power": "80 W"
+    }
   },
   {
     "id": 2448,
@@ -1076,6 +1737,14 @@
       "Dimension": "52 x 30 x 108.3 mm",
       "Weight": "155 g",
       "Warranty": "1-year"
+    },
+    "filter": {
+      "Brand": "Samsung",
+      "Charger Type": "Wall",
+      "Ports": "USB-A + Type-C",
+      "Fast Charge Protocols": "PD, PPS, AFC",
+      "Max Output Power": "65 W",
+      "Color": "Black"
     }
   }
 ]

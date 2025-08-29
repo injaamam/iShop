@@ -5,7 +5,11 @@
     "price": "11900",
     "description": "3.5mm jack\rWireless adaptor\rEasy-access controls\rDual hidden microphones",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/playstation-pulse-3d/playstation-pulse-3d-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/playstation-pulse-3d/playstation-pulse-3d-500x500.jpg",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "3.5 Inch"
+    }
   },
   {
     "id": 2347,
@@ -13,7 +17,12 @@
     "price": "21500",
     "description": "Supported PS4 Titles on Blu-ray Disc\rDrive Supports: 4K Ultra HD Blu-Ray Discs, Blu-Ray Discs and DVDs\rInternet connection is required to pair Disc Drive and Console\rCompatible PS5 Models: PS5 CFI-2000 model group - slim",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/disc-drive/disc-drive-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/disc-drive/disc-drive-01-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "4 Inch",
+      "Resolution": "4K"
+    }
   },
   {
     "id": 2348,
@@ -42,6 +51,12 @@
       "Weight": "Net weight: 690g\r\nGross weight: 2100g",
       "Power Consumption": "Rated power\t<  12W",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "G-STORY",
+      "Display Size": "15.6 Inch",
+      "Resolution": "4K",
+      "Refresh Rate": "60 Hz"
     }
   },
   {
@@ -50,7 +65,10 @@
     "price": "4500",
     "description": "Dedicated app buttons: Disney+, Netflix, Spotify, and YouTube\rBuilt-in media playback controls\rSeamless console compatibility\rCompatible TVs with the built-in IR transmitter",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/media-remote/media-remote-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/media-remote/media-remote-01-500x500.jpg",
+    "filter": {
+      "Brand": "Sony"
+    }
   },
   {
     "id": 2350,
@@ -61,6 +79,11 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/ps5-console-cover/ps5-cover-midnight-black-01-500x500.webp",
     "Specifications": {
       "Color": "Midnight Black\r\nSterling Silver\r\nVolcanic Red\r\nCobalt Blue\r\nGray Camouflage\r\nCosmic Red\r\nStarlight Blue\r\nGalactic Purple\r\nNova Pink"
+    },
+    "filter": {
+      "Brand": "PlayStation",
+      "Display Size": "1 Inch",
+      "Color": "Midnight Black"
     }
   },
   {
@@ -69,7 +92,11 @@
     "price": "7500",
     "description": "Head Case Design, Easy to Use\rUltra-Thin and Super Lightweight\r1x Matching DualSense Controller Cover\rCompatible with PS5, PS5 Disc Edition",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/ps5-cover/playstation-5-console-cover-god-of-war/playstation-5-console-cover-god-of-war-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/ps5-cover/playstation-5-console-cover-god-of-war/playstation-5-console-cover-god-of-war-01-500x500.webp",
+    "filter": {
+      "Brand": "PlayStation",
+      "Display Size": "1 Inch"
+    }
   },
   {
     "id": 2352,
@@ -77,7 +104,11 @@
     "price": "6600",
     "description": "Dual Lenses for 1080p Capture\rUSB Type-A Connector, Built-in Stand\rBackground Removal Tools\rCompatible with PlayStation 5",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-hd-camera/playstation-hd-camera-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-hd-camera/playstation-hd-camera-01-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "1080 Inch"
+    }
   },
   {
     "id": 2353,
@@ -85,7 +116,11 @@
     "price": "7600",
     "description": "Textured Triggers and Bumpers\r30ft wireless range\rRedesigned D-pad\rMenu/View buttons for Navigation",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/x-box-one-controller/camo-controller/xbox-one-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/x-box-one-controller/camo-controller/xbox-one-01-500x500.webp",
+    "filter": {
+      "Brand": "Microsoft",
+      "Display Size": "30 Inch"
+    }
   },
   {
     "id": 2354,
@@ -93,7 +128,11 @@
     "price": "2800",
     "description": "Premium Metal Stand, Rubber Padding\rStand PS5 Console Horizontally In Style\rMaterial: Hard Plastic Center and Metal Ring\rCompatible PS5 Models: PS5 CFI-1000, PS5 CFI-2000",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/vertical-stand/vertical-stand-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/vertical-stand/vertical-stand-01-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "5 Inch"
+    }
   },
   {
     "id": 2355,
@@ -101,7 +140,10 @@
     "price": "7900",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-1-500x500.jpg",
+    "filter": {
+      "Brand": "Xbox"
+    }
   },
   {
     "id": 2356,
@@ -109,7 +151,10 @@
     "price": "7999",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless-blue-red/xbox-wireless-blue-red-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless-blue-red/xbox-wireless-blue-red-1-500x500.jpg",
+    "filter": {
+      "Brand": "Xbox"
+    }
   },
   {
     "id": 2357,
@@ -117,7 +162,10 @@
     "price": "7550",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-electric-volt-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-electric-volt-01-500x500.jpg",
+    "filter": {
+      "Brand": "Microsoft"
+    }
   },
   {
     "id": 2358,
@@ -125,7 +173,10 @@
     "price": "8500",
     "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Galactic Purple",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/playstation-5-dualsense-galactic-purple-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/playstation-5-dualsense-galactic-purple-01-500x500.jpg",
+    "filter": {
+      "Brand": "PlayStation"
+    }
   },
   {
     "id": 2359,
@@ -133,7 +184,10 @@
     "price": "8800",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-daystrike-camo-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-daystrike-camo-01-500x500.jpg",
+    "filter": {
+      "Brand": "Microsoft"
+    }
   },
   {
     "id": 2360,
@@ -141,7 +195,10 @@
     "price": "7350",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-02-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-02-500x500.webp",
+    "filter": {
+      "Brand": "Xbox"
+    }
   },
   {
     "id": 2361,
@@ -149,7 +206,10 @@
     "price": "8800",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-arctic-camo-special-edition-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-arctic-camo-special-edition-01-500x500.webp",
+    "filter": {
+      "Brand": "Xbox"
+    }
   },
   {
     "id": 2362,
@@ -157,7 +217,11 @@
     "price": "8800",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rHybrid D-Pad\rBattery Life:  up to 40 hours (AA batteries)",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/stormcloud-vapor-special-edition/wireless-controller-stormcloud-vapor-001-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/stormcloud-vapor-special-edition/wireless-controller-stormcloud-vapor-001-500x500.webp",
+    "filter": {
+      "Brand": "Microsoft",
+      "Display Size": "40 Inch"
+    }
   },
   {
     "id": 2363,
@@ -165,7 +229,10 @@
     "price": "7449",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless-blue-red/xbox-wireless-red-02-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless-blue-red/xbox-wireless-red-02-500x500.webp",
+    "filter": {
+      "Brand": "Xbox"
+    }
   },
   {
     "id": 2364,
@@ -173,7 +240,10 @@
     "price": "8500",
     "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery\rIntegrated Speaker",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-500x500.jpg",
+    "filter": {
+      "Brand": "PlayStation"
+    }
   },
   {
     "id": 2365,
@@ -181,7 +251,10 @@
     "price": "8500",
     "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Starlight Blue",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/playstation-5-dualsense-starlight-blue-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/playstation-5-dualsense-starlight-blue-01-500x500.webp",
+    "filter": {
+      "Brand": "PlayStation"
+    }
   },
   {
     "id": 2366,
@@ -189,7 +262,10 @@
     "price": "8800",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-mineral-camo-special-edition-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/xbox-wireless/xbox-wireless-controller-mineral-camo-special-edition-01-500x500.webp",
+    "filter": {
+      "Brand": "Microsoft"
+    }
   },
   {
     "id": 2367,
@@ -197,7 +273,10 @@
     "price": "8500",
     "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Cosmic Red",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-10-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-10-500x500.jpg",
+    "filter": {
+      "Brand": "PlayStation"
+    }
   },
   {
     "id": 2368,
@@ -205,7 +284,10 @@
     "price": "8500",
     "description": "Built-in microphone and headset jack\rMotion sensor, Create button\rBuilt-in Battery, Integrated Speaker\rColor: Midnight Black",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/sony/dualsense/dualsense-01-500x500.jpg",
+    "filter": {
+      "Brand": "PlayStation"
+    }
   },
   {
     "id": 2369,
@@ -213,7 +295,10 @@
     "price": "8500",
     "description": "Textured Triggers and Bumpers\rBluetooth Technology\rButton Mapping\rHybrid D-Pad",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/nocturnal-vapor-special-edition/nocturnal-vapor-special-edition-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/game-pad/microsoft/nocturnal-vapor-special-edition/nocturnal-vapor-special-edition-01-500x500.webp",
+    "filter": {
+      "Brand": "Xbox"
+    }
   },
   {
     "id": 2370,
@@ -225,6 +310,10 @@
     "Specifications": {
       "Color": "Gray",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Color": "Gray"
     }
   },
   {
@@ -237,6 +326,10 @@
     "Specifications": {
       "Color": "Turquoise",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Color": "Turquoise"
     }
   },
   {
@@ -249,6 +342,10 @@
     "Specifications": {
       "Color": "Blue",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Color": "Blue"
     }
   },
   {
@@ -261,6 +358,10 @@
     "Specifications": {
       "Color": "Yellow",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Color": "Yellow"
     }
   },
   {
@@ -273,6 +374,10 @@
     "Specifications": {
       "Color": "Coral",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Color": "Coral"
     }
   },
   {
@@ -284,6 +389,11 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-oled-model-white-set/nintendo-switch-oled-model-white-set-01-500x500.webp",
     "Specifications": {
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Display Size": "7 Inch",
+      "Storage": "64 GB"
     }
   },
   {
@@ -295,6 +405,11 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/neon-blue-neon-red/neon-blue-neon-red-500x500.webp",
     "Specifications": {
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Display Size": "7 Inch",
+      "Storage": "64 GB"
     }
   },
   {
@@ -306,6 +421,11 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/oled/oled-01-500x500.webp",
     "Specifications": {
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo",
+      "Display Size": "7 Inch",
+      "Storage": "64 GB"
     }
   },
   {
@@ -314,7 +434,11 @@
     "price": "33900",
     "description": "Display Size: 8-inch Full HD LCD Screen\rResolution: 1080p at 60fps \rProcessor Speed: 3.5 GHz\rDualSense Wireless Controller",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-portal-remote-player/playstation-portal-remote-player-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-portal-remote-player/playstation-portal-remote-player-01-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "8 Inch"
+    }
   },
   {
     "id": 2379,
@@ -322,7 +446,13 @@
     "price": "52400",
     "description": "CPU: 8X Cores @ 3.8 GHz (3.66 GHz w/SMT) Custom Zen 2 CPU\rGPU: 12 TFLOPS, 52 CUs @1.825 GHz Custom RDNA 2 GPU\rMemory: 10GB GDDR6, Storage: 1TB SSD\rUp to 8K HDR, Frame rates of up to 120FPS",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/microsoft/xbox-series-s/xbox-series-s-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/microsoft/xbox-series-s/xbox-series-s-01-500x500.webp",
+    "filter": {
+      "Brand": "Microsoft",
+      "Display Size": "8 Inch",
+      "Resolution": "8K",
+      "Storage": "1 TB"
+    }
   },
   {
     "id": 2380,
@@ -330,7 +460,13 @@
     "price": "39400",
     "description": "CPU: 8X Cores @ 3.8 GHz (3.66 GHz w/SMT) Custom Zen 2 CPU\rGPU: 12 TFLOPS, 52 CUs @1.825 GHz Custom RDNA 2 GPU\rMemory: 10GB GDDR6, Storage: 512GB SSD\rUp to 8K HDR, Frame rates of up to 120FPS",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/microsoft/xbox-series-s/xbox-series-s-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/microsoft/xbox-series-s/xbox-series-s-01-500x500.webp",
+    "filter": {
+      "Brand": "Microsoft",
+      "Display Size": "8 Inch",
+      "Resolution": "8K",
+      "Storage": "10 GB"
+    }
   },
   {
     "id": 2381,
@@ -341,6 +477,9 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/nintendo/nintendo-switch-fortnite-wildcat-bundle/nintendo-switch-fortnite-wildcat-bundle-01-500x500.webp",
     "Specifications": {
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Nintendo"
     }
   },
   {
@@ -349,7 +488,12 @@
     "price": "44900",
     "description": "1.84 TFLOPS, AMD Radeon based Graphics\rProcessor: x86-64 AMD Jaguar\r8GB GDDR5+ 1TB Storage\r1x Wireless Controller",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/gaming-console/play-station/sony/ps4-slim-jet/ps4-slim-jet-1-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/gaming-console/play-station/sony/ps4-slim-jet/ps4-slim-jet-1-500x500.jpg",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "1.84 Inch",
+      "Storage": "1 TB"
+    }
   },
   {
     "id": 2383,
@@ -357,7 +501,13 @@
     "price": "65000",
     "description": "8-core Jaguar Evolved CPU 2.3GHz Processor\r16GB RAM + 1TB Storage\r4K UHD Blue Ray\r1x Wireless Controller",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/gaming-console/xbox/microsoft/xbox-one-x/xbox-one-x-3-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gadget/gaming-console/xbox/microsoft/xbox-one-x/xbox-one-x-3-500x500.jpg",
+    "filter": {
+      "Brand": "Microsoft",
+      "Display Size": "8 Inch",
+      "Resolution": "4K",
+      "Storage": "1 TB"
+    }
   },
   {
     "id": 2384,
@@ -365,7 +515,12 @@
     "price": "63900",
     "description": "AMD Zen 2-based CPU with 8 cores at 3.5GHz (variable frequency)\rGPU: 10.28 TFLOPs, 36CUs at 2.23GHz\rBackward Compatibility & Game Boost\r4K UltraHD TV Gaming, 8K support",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-digital-edition/sony-playstation-5-digital-edition-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-digital-edition/sony-playstation-5-digital-edition-01-500x500.jpg",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "2 Inch",
+      "Resolution": "8K"
+    }
   },
   {
     "id": 2385,
@@ -373,7 +528,14 @@
     "price": "69500",
     "description": "Up to 120fps with 120Hz Output\rRay Tracking - 4K TV Gaming \r1TB Ultra-High Speed SSD\r3D AudioTech",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-digital-edition-slim/playstation-5-digital-edition-slim-001-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-digital-edition-slim/playstation-5-digital-edition-slim-001-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "120 Inch",
+      "Resolution": "4K",
+      "Refresh Rate": "120 Hz",
+      "Storage": "1 TB"
+    }
   },
   {
     "id": 2386,
@@ -381,7 +543,14 @@
     "price": "76000",
     "description": "Up to 120fps with 120Hz Output\rRay Tracking - 4K TV Gaming\r1TB Ultra-High Speed SSD\r3D AudioTech, Disc Drive",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-analog-console-slim-edition/playstation-5-analog-console-slim-edition-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-analog-console-slim-edition/playstation-5-analog-console-slim-edition-01-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "120 Inch",
+      "Resolution": "4K",
+      "Refresh Rate": "120 Hz",
+      "Storage": "1 TB"
+    }
   },
   {
     "id": 2387,
@@ -389,7 +558,14 @@
     "price": "71900",
     "description": "Up to 120fps with 120Hz Output\rRay tracing - 4K TV Gaming\r1TB Ultra-High Speed SSD\r3D AudioTech, Disc Drive",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-analog-console-slim-edition/playstation-5-analog-console-slim-edition-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-analog-console-slim-edition/playstation-5-analog-console-slim-edition-01-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "120 Inch",
+      "Resolution": "4K",
+      "Refresh Rate": "120 Hz",
+      "Storage": "1 TB"
+    }
   },
   {
     "id": 2388,
@@ -409,6 +585,12 @@
       "Operating System": "Windows 11 Home",
       "Other Features": "Gamepad controls:\r\nA B X Y buttons\r\nD-pad\r\nL & R Hall Effect analog triggers\r\nL & R bumpers\r\nView button\r\nMenu button\r\nCommand Center button\r\nArmoury Crate button\r\n2 x assignable grip buttons\r\nThumbsticks: 2 x full-size analog sticks\r\nHaptics: HD haptics\r\nGyro: 6-Axis IMU",
       "Warranty Details": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Display Size": "1 Inch",
+      "Resolution": "1920 x 1080",
+      "Storage": "16 GB"
     }
   },
   {
@@ -442,6 +624,13 @@
       "Dimension": "298mm x 117mm x 49mm",
       "Weight": "Approx. 640 grams",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Valve",
+      "Display Size": "7.4 Inch",
+      "Resolution": "1280 x 800",
+      "Refresh Rate": "90 Hz",
+      "Storage": "512 GB"
     }
   },
   {
@@ -450,7 +639,14 @@
     "price": "104000",
     "description": "Up to 120fps with 120Hz Output\rAdvanced Ray Tracking - 4K TV Gaming \r2TB Ultra-High Speed SSD\r3D AudioTech, Wi-Fi 7 Compatible, PSSR",
     "category": "gaming-console",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-pro/playstation-5-pro-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-console/playstation/playstation-5-pro/playstation-5-pro-500x500.webp",
+    "filter": {
+      "Brand": "Sony",
+      "Display Size": "120 Inch",
+      "Resolution": "4K",
+      "Refresh Rate": "120 Hz",
+      "Storage": "2 TB"
+    }
   },
   {
     "id": 2391,
@@ -483,6 +679,13 @@
       "Dimension": "298mm x 117mm x 49mm",
       "Weight": "Approx. 640 grams",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Valve",
+      "Display Size": "7.4 Inch",
+      "Resolution": "1280 x 800",
+      "Refresh Rate": "90 Hz",
+      "Storage": "1 TB"
     }
   },
   {
@@ -500,6 +703,10 @@
       "System Requirements": "PlayStation Link compatible devices, including your PS5 console, PC, Mac and PlayStation Portal remote player",
       "Microphone Size": "Retractable microphone",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Color": "White"
     }
   }
 ]

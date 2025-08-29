@@ -14,6 +14,14 @@
       "Connectivity": "USB 3.1 Gen1 (USB 3.0)",
       "System Requirements": "Windows 10 / 8.1 / 8 / 7 / Vista, MAC OS 10.6 or later,\r\nLinux 2.6 or later",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "TEAM",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -31,6 +39,14 @@
       "Connectivity": "USB 3.1 Gen1 (USB 3.0)",
       "System Requirements": "Windows 10 / 8.1 / 8 / 7 / Vista, MAC OS 10.6 or later,\r\nLinux 2.6 or later",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "TEAM",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -50,6 +66,16 @@
       "System Requirement": "Operating System Windows 10 / 8.1 / 8 / 7 / Vista, MAC OS 10.4 or later,\r\nLinux 2.6.33 or later",
       "Weight": "19g",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Team",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "90 MB/s",
+      "WRITE SPEED": "90 MB/s",
+      "Weight": "32 g",
+      "Color": "Nickel Black"
     }
   },
   {
@@ -66,6 +92,15 @@
       "Connectivity": "USB 3.2 Gen1",
       "System Requirements": "Windows 10 / 8.1 / 8 / 7 / Vista, MAC OS 10.6 or later,\r\nLinux 2.6 or later",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "TEAM",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g"
     }
   },
   {
@@ -85,6 +120,16 @@
       "Dimensions": "72 x 24 x 4.6 mm",
       "Weight": "19g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Team",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "90 MB/s",
+      "WRITE SPEED": "90 MB/s",
+      "Weight": "128 g",
+      "Color": "Nickel Black"
     }
   },
   {
@@ -101,6 +146,16 @@
       "Color": "Black",
       "Connectivity": "USB 3.1",
       "Warranty": "Lifetime"
+    },
+    "filter": {
+      "Brand": "Smart",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "32 g",
+      "Color": "Black"
     }
   },
   {
@@ -119,6 +174,16 @@
       "System Requirement": "Windows XP, Vista, 7, 8, 8.1, 10, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "9g",
       "Warranty": "Lifetime"
+    },
+    "filter": {
+      "Brand": "Adata",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -136,6 +201,16 @@
       "Connectivity": "USB 3.1 / USB 3.2 Gen 1 (USB Type-C), USB 3.1 / USB 3.2 Gen 1 (USB Type-A)",
       "Dimensions": "‎1.75 x 0.48 x 0.34 inches",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "SanDisk",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "32 g",
+      "Color": "Silver"
     }
   },
   {
@@ -155,6 +230,14 @@
       "System Requirement": "Windows 10/8.1/8\r\nMac OS 10.6.X or above\r\nLinux Kernel 2.6.X or above",
       "Weight": "7.8g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Mysterious Black"
     }
   },
   {
@@ -174,6 +257,16 @@
       "System Requirement": "Windows 11, 10, macOS (v. 10.15.x +) , Linux (v. 4.4 +), Chrome OS",
       "Weight": "11g",
       "Warranty": "Product Life Time"
+    },
+    "filter": {
+      "Brand": "Kingston",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -194,6 +287,16 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "3.6g",
       "Warranty": "Limited lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.0",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -211,6 +314,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nLinux Kernel 2.6.x or above \r\nMAC OS 10.6.x or above",
       "Weight": "6.7g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "32 g",
+      "Color": "Ocean Blue"
     }
   },
   {
@@ -228,6 +339,14 @@
       "Connectivity": "USB 3.2 (backward compatible with USB 2.0)",
       "System Requirements": "Windows XP/Vista/7/8/8.1/10 or later\r\nMac OSX 10.5 or later\n\r\nLinux Kernel 2.6 or later",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Adata",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black/Blue & Black/Yellow"
     }
   },
   {
@@ -244,6 +363,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nLinux Kernel 2.6.x or above\r\nMAC OS 10.6.x or above",
       "Weight": "10g",
       "Warranty": "Life Time"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "32 g",
+      "Color": "Champagne Gold"
     }
   },
   {
@@ -262,6 +389,14 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "8 g / 0.018 lbs (USB Only)",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.0",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "White and Grey"
     }
   },
   {
@@ -281,6 +416,14 @@
       "System Requirement": "Windows 10/8.1/8\r\nLinux Kernel 2.6.x or above\r\nMAC OS 10.6.x or above",
       "Weight": "8.5g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -298,6 +441,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nMac OS 10.6.X or above \r\nLinux Kernel 2.6.X or above",
       "Weight": "7.7g",
       "Warranty": "Life time"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Ocean Blue"
     }
   },
   {
@@ -317,6 +468,15 @@
       "System Requirement": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+",
       "Weight": "About 5.7 g",
       "Warranty": "05-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "70 MB/s",
+      "WRITE SPEED": "70 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -333,6 +493,16 @@
       "Color": "Black",
       "Connectivity": "USB 3.1",
       "Warranty": "Lifetime"
+    },
+    "filter": {
+      "Brand": "Smart",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -349,6 +519,15 @@
       "Temperature": "Operating Temperature: 0°C to 60°C\r\nStorage Temperature: -25°C to 85°C",
       "System Requirement": "Windows 7, 8 ,10 Mac OS: 10.3 and above",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "PNY",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -366,6 +545,14 @@
       "System Requirement": "Windows XP/7/8/+; Mac OS X 10.5+; Linux 2.4.x or+; Android 7.0 or above",
       "Weight": "About 7g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Netac",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "Weight": "64 g",
+      "Color": "Pearl nickel"
     }
   },
   {
@@ -383,6 +570,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nMac OS 10.6.X or above \r\nLinux Kernel 2.6.X or above",
       "Weight": "7.7g",
       "Warranty": "Life time"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "32 g",
+      "Color": "Ocean Blue"
     }
   },
   {
@@ -402,6 +597,15 @@
       "System Requirement": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+",
       "Weight": "8 g (0.02 lb)",
       "Warranty": "05-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "30 MB/s",
+      "WRITE SPEED": "30 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -420,6 +624,16 @@
       "System Requirement": "Windows Vista, 7, 8, 8.1, 10, 11, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "9g / 0.32oz",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "ADATA",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -436,6 +650,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nLinux Kernel 2.6.x or above\r\nMAC OS 10.6.x or above",
       "Weight": "10g",
       "Warranty": "Life Time"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Gold"
     }
   },
   {
@@ -454,6 +676,16 @@
       "System Requirement": "Windows Vista, 7, 8, 8.1, 10, 11, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "3.5g / 0.13oz",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "ADATA",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -474,6 +706,16 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "9 g / 0.020 lbs (USB Only)",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -490,6 +732,13 @@
       "Dimensions": "2.5 x 0.83 x 0.42 inches",
       "Weight": "9 g (0.32 oz)",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "64 GB",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -509,6 +758,14 @@
       "System Requirement": "Windows 10/8.1/8\r\nMac OS 10.6.X or above\r\nLinux Kernel 2.6.X or above",
       "Weight": "2.4g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "32 g",
+      "Color": "Blue"
     }
   },
   {
@@ -526,6 +783,14 @@
       "System Requirement": "Microsoft Windows 7\r\nMicrosoft Windows 8\r\nMicrosoft Windows 10\r\nMac OS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "8.5 g (0.30 oz)",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -543,6 +808,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nLinux Kernel 2.6.x or above \r\nMAC OS 10.6.x or above",
       "Weight": "7g",
       "Warranty": "Product Lifetime"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "128 g",
+      "Color": "Sunrise Red"
     }
   },
   {
@@ -562,6 +835,16 @@
       "Dimensions": "72 x 24 x 4.6 mm",
       "Weight": "19g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Team",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "90 MB/s",
+      "WRITE SPEED": "90 MB/s",
+      "Weight": "32 g",
+      "Color": "Nickel Black"
     }
   },
   {
@@ -581,6 +864,15 @@
       "System Requirement": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+",
       "Weight": "28 g (0.06 lb)",
       "Warranty": "05-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "20 MB/s",
+      "WRITE SPEED": "20 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -597,6 +889,15 @@
       "Temperature": "Operating Temperature: 0°C to 60°C\r\nStorage Temperature: -25°C to 85°C",
       "System Requirement": "Windows 7, 8 ,10 Mac OS: 10.3 and above",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "PNY",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "200 MB/s",
+      "WRITE SPEED": "200 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -616,6 +917,14 @@
       "System Requirement": "Microsoft Windows 7\r\nMicrosoft Windows 8\r\nMicrosoft Windows 10\r\nMac OS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "4.9 g (0.17 oz)",
       "Warranty": "Five-year Limited Warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black/White"
     }
   },
   {
@@ -632,6 +941,16 @@
       "Dimensions": "(L X W X H) 40mm x 15.8mm x 5.72mm",
       "Weight": "0.0251kg",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "Sandisk",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "32 g",
+      "Color": "Silver"
     }
   },
   {
@@ -648,6 +967,16 @@
       "Dimensions": "(L X W X H) 40mm x 15.8mm x 5.72mm",
       "Weight": "0.0251kg",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "Sandisk",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "64 g",
+      "Color": "Silver"
     }
   },
   {
@@ -665,6 +994,15 @@
       "System Requirement": "Windows XP, Vista, 7, 8, 8.1, 10, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "10g",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Adata",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g"
     }
   },
   {
@@ -685,6 +1023,16 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "4.82 g",
       "Warranty": "Limited lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.0",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "64 g",
+      "Color": "Metallic Gray"
     }
   },
   {
@@ -703,6 +1051,16 @@
       "System Requirement": "Windows Vista, 7, 8, 8.1, 10, 11, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "9g / 0.32oz",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "ADATA",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -721,6 +1079,15 @@
       "System Requirement": "Windows 7, 8 ,10 Mac OS: 10.3 and above",
       "Weight": "21.6 g",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "PNY",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "70 MB/s",
+      "WRITE SPEED": "70 MB/s",
+      "Weight": "128 g"
     }
   },
   {
@@ -737,6 +1104,15 @@
       "Temperature": "Operating Temperature: 0°C to 60°C\r\nStorage Temperature: -25°C to 85°C",
       "System Requirement": "Windows 7, 8 ,10 Mac OS: 10.3 and above",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "PNY",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g"
     }
   },
   {
@@ -757,6 +1133,16 @@
       "System Requirement": "Windows 11, 10, macOS (v. 10.15.x +) , Linux (v. 4.4 +), Chrome OS",
       "Weight": "11g",
       "Warranty": "Product Life Time"
+    },
+    "filter": {
+      "Brand": "Kingston",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -774,6 +1160,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nLinux Kernel 2.6.x or above \r\nMAC OS 10.6.x or above",
       "Weight": "7g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "128 g",
+      "Color": "Sunrise Red"
     }
   },
   {
@@ -793,6 +1187,14 @@
       "System Requirement": "Windows 10/8.1/8\r\nMac OS 10.6.X or above\r\nLinux Kernel 2.6.X or above",
       "Weight": "7.8g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "128 g",
+      "Color": "Mysterious Black"
     }
   },
   {
@@ -811,6 +1213,16 @@
       "System Requirement": "Windows Vista, 7, 8, 8.1, 10, 11, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "3.5g / 0.13oz",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "ADATA",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -829,6 +1241,16 @@
       "Dimensions": "44.41mm x 12.1mm x 8.6mm",
       "Weight": "3.7gms",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "SanDisk",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "32 g",
+      "Color": "Black"
     }
   },
   {
@@ -847,6 +1269,16 @@
       "System Requirement": "Windows XP, Vista, 7, 8, 8.1, 10, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "9g",
       "Warranty": "Warranty Lifetime"
+    },
+    "filter": {
+      "Brand": "Adata",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Black with Red"
     }
   },
   {
@@ -864,6 +1296,14 @@
       "System Requirement": "Microsoft Windows 7 or later\r\nmacOS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "9 g (0.32 oz)",
       "Warranty": "05-year warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "Weight": "128 g",
+      "Color": "Black & Green"
     }
   },
   {
@@ -882,6 +1322,16 @@
       "System Requirement": "Windows Vista, 7, 8, 8.1, 10, 11, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "9g / 0.32oz",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "ADATA",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Green"
     }
   },
   {
@@ -900,6 +1350,16 @@
       "Dimensions": "44.41mm x 12.1mm x 8.6mm",
       "Weight": "3.7gms",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "SanDisk",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -919,6 +1379,15 @@
       "System Requirement": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+",
       "Weight": "8 g (0.02 lb)",
       "Warranty": "05-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "30 MB/s",
+      "WRITE SPEED": "30 MB/s",
+      "Weight": "128 g"
     }
   },
   {
@@ -935,6 +1404,14 @@
       "Dimensions": "2.5 x 0.83 x 0.42 inches",
       "Weight": "9 g (0.32 oz)",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -953,6 +1430,16 @@
       "System Requirement": "Windows 10 / 8.1 / 8 / 7 / Vista, MAC OS 10.4 or later, Linux 2.6.33 or later \r\nMobile devices running Android OS 4.1 or later\r\nWith USB Type-C transmission joint smartphones and tablets (the device itself must support OTG function)",
       "Weight": "5g",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "TEAM",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "32 g",
+      "Color": "Black"
     }
   },
   {
@@ -969,6 +1456,13 @@
       "System Requirement": "-Windows 10/8.1/8/7\r\n-Linux Kernel 2.6.x or above\r\n-MAC OS 10.6.x or above\r\n-Android 5.0 or above (For USB Type-C ready mobile devices and must support OTG function)",
       "Weight": "3.6g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "32 GB",
+      "Connector TYPE": "Type-C + USB-A",
+      "Weight": "32 g",
+      "Color": "Red"
     }
   },
   {
@@ -985,6 +1479,13 @@
       "System Requirement": "-Windows 10/8.1/8/7\r\n-Linux Kernel 2.6.x or above\r\n-MAC OS 10.6.x or above\r\n-Android 5.0 or above (For USB Type-C ready mobile devices and must support OTG function)",
       "Weight": "3.6g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "64 GB",
+      "Connector TYPE": "Type-C + USB-A",
+      "Weight": "64 g",
+      "Color": "Red"
     }
   },
   {
@@ -1004,6 +1505,16 @@
       "Dimensions": "72 x 24 x 4.6 mm",
       "Weight": "19g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Team",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "90 MB/s",
+      "WRITE SPEED": "90 MB/s",
+      "Weight": "64 g",
+      "Color": "Nickel Black"
     }
   },
   {
@@ -1023,6 +1534,16 @@
       "System Requirement": "Microsoft Windows 7 or later\r\nmacOS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "0.18 oz / 5 g",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "130 MB/s",
+      "WRITE SPEED": "130 MB/s",
+      "Weight": "32 g",
+      "Color": "Silver"
     }
   },
   {
@@ -1042,6 +1563,14 @@
       "System Requirement": "Windows 10/8.1/8\r\nMac OS 10.6.X or above\r\nLinux Kernel 2.6.X or above",
       "Weight": "6.5g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "64 g",
+      "Color": "Black nickel"
     }
   },
   {
@@ -1062,6 +1591,16 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "17.8 g / 0.0392 lbs",
       "Warranty": "Limited lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "130 MB/s",
+      "WRITE SPEED": "130 MB/s",
+      "Weight": "64 g",
+      "Color": "Metallic Gray"
     }
   },
   {
@@ -1081,6 +1620,15 @@
       "System Requirement": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+",
       "Weight": "About 5.7 g",
       "Warranty": "05-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "70 MB/s",
+      "WRITE SPEED": "70 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -1098,6 +1646,16 @@
       "Dimensions": "45.04mm x 19.05mm x 7.75mm",
       "Weight": "3.4gms",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "SanDisk",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -1118,6 +1676,16 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "4.25 g / 0.009 lbs (USB Only)",
       "Warranty": "Limited lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.0",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "64 g",
+      "Color": "Gray"
     }
   },
   {
@@ -1135,6 +1703,15 @@
       "Temperature": "Operating Temperature: 32 to 95°F / 0 to 35°C\r\nStorage Temperature: 0 to 158°F / -17 to 70°C",
       "Dimensions": "59.44mm x 12.57mm x 8.56mm",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "SanDisk",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -1152,6 +1729,14 @@
       "System Requirement": "Microsoft Windows 7\r\nMicrosoft Windows 8\r\nMicrosoft Windows 10\r\nMac OS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "8.5 g (0.30 oz)",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -1172,6 +1757,16 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "3.6g",
       "Warranty": "Limited lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.0",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "128 g",
+      "Color": "Black"
     }
   },
   {
@@ -1191,6 +1786,15 @@
       "System Requirement": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+",
       "Weight": "28 g (0.06 lb)",
       "Warranty": "05-year Warranty"
+    },
+    "filter": {
+      "Brand": "Dahua",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "20 MB/s",
+      "WRITE SPEED": "20 MB/s",
+      "Weight": "128 g"
     }
   },
   {
@@ -1208,6 +1812,14 @@
       "System Requirement": "Microsoft Windows 7 or later\r\nmacOS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "9 g (0.32 oz)",
       "Warranty": "05-year warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "Weight": "128 g",
+      "Color": "Black & Green"
     }
   },
   {
@@ -1224,6 +1836,16 @@
       "Dimensions": "(L X W X H) 40mm x 15.8mm x 5.72mm",
       "Weight": "0.0251kg",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "Sandisk",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "128 g",
+      "Color": "Silver"
     }
   },
   {
@@ -1244,6 +1866,16 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "4.82 g",
       "Warranty": "Limited lifetime warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.0",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "128 g",
+      "Color": "Metallic Gray"
     }
   },
   {
@@ -1261,6 +1893,14 @@
       "System Requirement": "Windows 10/8.1/8/7\r\nLinux Kernel 2.6.x or above \r\nMAC OS 10.6.x or above",
       "Weight": "7g",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Apacer",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "256 g",
+      "Color": "Sunrise Red"
     }
   },
   {
@@ -1279,6 +1919,15 @@
       "System Requirement": "PC and Mac systems",
       "Weight": "22.5 g / 0.05 lbs (USB Only)",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.0",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -1296,6 +1945,14 @@
       "System Requirement": "Microsoft Windows 7 or later\r\nmacOS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "9 g (0.32 oz)",
       "Warranty": "Lifetime"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "Weight": "256 g",
+      "Color": "Black"
     }
   },
   {
@@ -1314,6 +1971,16 @@
       "System Requirement": "Windows Vista, 7, 8, 8.1, 10, 11, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "9g / 0.32oz",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "ADATA",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "256 g",
+      "Color": "Green"
     }
   },
   {
@@ -1331,6 +1998,14 @@
       "System Requirement": "Microsoft Windows 7\r\nMicrosoft Windows 8\r\nMicrosoft Windows 10\r\nMac OS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "8.5 g (0.30 oz)",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "Weight": "256 g",
+      "Color": "Black"
     }
   },
   {
@@ -1347,6 +2022,13 @@
       "Dimensions": "2.5 x 0.83 x 0.42 inches",
       "Weight": "9 g (0.32 oz)",
       "Warranty": "05 years warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "256 GB",
+      "Connector TYPE": "USB-A",
+      "Weight": "256 g",
+      "Color": "Black"
     }
   },
   {
@@ -1365,6 +2047,16 @@
       "System Requirement": "Windows Vista, 7, 8, 8.1, 10, 11, Mac OS X 10.6 or later, Linux kernel 2.6 or later, with no device driver needed",
       "Weight": "9g / 0.32oz",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "ADATA",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "256 g",
+      "Color": "Black"
     }
   },
   {
@@ -1383,6 +2075,15 @@
       "System Requirement": "Windows 7, 8 ,10 Mac OS: 10.3 and above",
       "Weight": "21.6 g",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "PNY",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "70 MB/s",
+      "WRITE SPEED": "70 MB/s",
+      "Weight": "256 g"
     }
   },
   {
@@ -1399,6 +2100,15 @@
       "Temperature": "Operating Temperature: 0°C to 60°C\r\nStorage Temperature: -25°C to 85°C",
       "System Requirement": "Windows 7, 8 ,10 Mac OS: 10.3 and above",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "PNY",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "100 MB/s",
+      "WRITE SPEED": "100 MB/s",
+      "Weight": "256 g"
     }
   },
   {
@@ -1416,6 +2126,14 @@
       "System Requirement": "Microsoft Windows 7 or later\r\nmacOS 9.0 or later\r\nLinux Kernel 2.4.2 or later",
       "Weight": "9 g (0.32 oz)",
       "Warranty": "05-Year warranty"
+    },
+    "filter": {
+      "Brand": "Transcend",
+      "CAPACITY": "256 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "Weight": "256 g",
+      "Color": "Black & Green"
     }
   },
   {
@@ -1435,6 +2153,15 @@
       "System Requirement": "Mac, Windows, Linux",
       "Weight": "16g / .035lbs",
       "Warranty": "Lifetime Warranty"
+    },
+    "filter": {
+      "Brand": "Lexar",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "400 MB/s",
+      "WRITE SPEED": "400 MB/s",
+      "Weight": "128 g"
     }
   },
   {
@@ -1452,6 +2179,14 @@
       "System Requirement": "Mobile Devices: https://www.sandisk.com/support/iXpandcompatibility\r\nPC & Mac: Windows 8, Windows 10, Chrome OS, Mac OS X v10.9 and higher",
       "Weight": "5gms",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "SanDisk",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Lightning + Type-C",
+      "Weight": "64 g",
+      "Color": "Black"
     }
   },
   {
@@ -1468,6 +2203,15 @@
       "Connectivity": "USB Type-A\r\nUSB Type-B",
       "System Requirement": "Windows 2000, XP, Vista, 7 - Mac OS 10.4 or later - Linux Kernel 2.4 or later",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "TwinMOS",
+      "CAPACITY": "64 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "USB-A",
+      "READ SPEED": "90 MB/s",
+      "WRITE SPEED": "90 MB/s",
+      "Weight": "64 g"
     }
   },
   {
@@ -1485,6 +2229,15 @@
       "Temperature": "Operating Temperature: 32 to 95°F / 0 to 35°C\r\nStorage Temperature: 0 to 158°F / -17 to 70°C",
       "Dimensions": "59.44mm x 12.57mm x 8.56mm",
       "Warranty": "Life Time Warranty"
+    },
+    "filter": {
+      "Brand": "SanDisk",
+      "CAPACITY": "32 GB",
+      "USB Version": "USB 3.1 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "150 MB/s",
+      "WRITE SPEED": "150 MB/s",
+      "Weight": "32 g"
     }
   },
   {
@@ -1501,6 +2254,15 @@
       "Temperature": "Operating Temperature: 0°C to 60°C\r\nStorage Temperature: -25°C to 85°C",
       "System Requirement": "Windows 7/Windows 8/Windows 10/Windows 11\r\nMacOS 10.0 and later\r\nAndroid 5.0 and later",
       "Warranty": "Lifetime warranty"
+    },
+    "filter": {
+      "Brand": "PNY",
+      "CAPACITY": "128 GB",
+      "USB Version": "USB 3.2 Gen 1",
+      "Connector TYPE": "Type-C + USB-A",
+      "READ SPEED": "200 MB/s",
+      "WRITE SPEED": "200 MB/s",
+      "Weight": "128 g"
     }
   }
 ]

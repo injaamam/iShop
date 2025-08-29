@@ -23,6 +23,21 @@
       "Form Factor": "Ultra Micro Tower",
       "I/O Slots": "Video- 1 Rear VGA port, 1 Rear DisplayPort 1.1a, USB 2.0 Type(A Ports)- 1 total (1 rear), USB 3.2 Gen 1 Type (A Ports)- 4 total (1 internal and 3 rear), USB 3.2 Gen 2 Type(A Ports)-2 total (2 front)Network RJ-45(Ethernet)- 4.",
       "Warranty": "HPE 1Y Tech Care Basic Service"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor": "Intel E-2314",
+      "Processor Cores": "4 Cores",
+      "Processor Threads": "4 Threads",
+      "Memory": "16 GB",
+      "Memory Type": "DDR4",
+      "Storage": "16 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Tower",
+      "Network": "1GbE",
+      "Power Supply": "65 W",
+      "Operating System": "Windows Server",
+      "Warranty": "1 Years"
     }
   },
   {
@@ -46,6 +61,18 @@
       "Power Supply": "Power Cord - C13, 2M, 250V, 10A (UK, Malaysia, Singapore, HK, Brunei, DDD)",
       "Others": "Heatsink for 80W or less CPU\r\nKeyboard and Optical Mouse, USB, Black, English",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel E-2314",
+      "Processor Cores": "4 Cores",
+      "Processor Threads": "4 Threads",
+      "Memory": "1 GB",
+      "Storage": "1 TB",
+      "Storage Type": "SAS",
+      "Network": "1GbE",
+      "Power Supply": "65 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -67,6 +94,18 @@
       "Optical Drive": "DVD+/-RW, SATA, Internal",
       "Power Supply": "Power Cords\tPower Cord: C13, 2M, 250V, 10A (UK, Malaysia, Singapore, HK, Brunei, DDD)",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel E-2334",
+      "Processor Cores": "4 Cores",
+      "Processor Threads": "8 Threads",
+      "Memory": "16 GB",
+      "Storage": "16 TB",
+      "Storage Type": "SAS",
+      "Network": "1GbE",
+      "Power Supply": "65 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -92,6 +131,20 @@
       "Form Factor": "1U rack",
       "I/O Slots": "VGA Port- 1 standard (rear), Serial Port- 1 optional, Network Ports- 2x 1GbE embedded NIC (standard on all chassis types), iLO Remote Mgmt Port- 1 Gb Dedicated, USB - 5 USB ports (standard), Front: 1xUSB 3.2, 1xUSB 2.0 iLO Service Port, Rear: 2xUSB 3.2, Internal: 1x USB 3.2",
       "Warranty": "HPE 3Y Tech Care Basic Service"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor": "Intel E-2314",
+      "Processor Threads": "2 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "65 W",
+      "Operating System": "Windows Server",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -115,6 +168,20 @@
       "Power Supply": "Dual, Hot-Plug, Redundant Power Supply (1+1), 600W MM",
       "Drive Bays": "2.5\" Chassis with up to 16 SAS/SATA Drives",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel E-2414",
+      "Processor Cores": "4 Cores",
+      "Processor Threads": "4 Threads",
+      "Memory": "16 GB",
+      "Memory Type": "DDR5",
+      "Storage": "16 TB",
+      "Storage Type": "SAS",
+      "Network": "10GbE",
+      "Power Supply": "55 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -132,6 +199,18 @@
       "Network": "Intel i350 Quad Port 1Gb Adapter, Dual Port 10G LOM",
       "Power Supply": "2 x Cisco UCS 1050W AC Power Supply for Rack Server",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Cisco",
+      "Processor Cores": "12 Cores",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "120 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -153,6 +232,19 @@
       "Power Supply": "Dual, Hot Plug, Redundant Power Supply (1+1), 800W, Mixed Mode",
       "I/O Slots": "Expansion Slots: Up to 6 x PCIe Gen4 slots",
       "Warranty": "3 Years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "8 Cores",
+      "Processor Threads": "16 Threads",
+      "Memory": "16 GB",
+      "Memory Type": "DDR4",
+      "Storage": "16 TB",
+      "Storage Type": "SAS",
+      "Network": "1GbE",
+      "Power Supply": "105 W",
+      "Warranty": "4309 Years"
     }
   },
   {
@@ -178,6 +270,21 @@
       "I/O Slots": "Front: 1 x VGA. Rear: 1 x iDRAC Ethernet, 1 x VGA",
       "Others": "USB Ports\r\nFront: 1 x iDRAC Direct (Micro-USB), 1 x USB 3.0. Rear: 5 x USB 2.0, 1 x USB 2.0, 1 x USB 3",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "8 Cores",
+      "Processor Threads": "16 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "SATA",
+      "Form Factor": "Micro",
+      "Network": "1GbE",
+      "Power Supply": "105 W",
+      "Operating System": "No OS",
+      "Warranty": "4309 Years"
     }
   },
   {
@@ -195,6 +302,18 @@
       "Network": "Dual 10GBASE-T Intel x550 Ethernet ports",
       "Power Supply": "2 x Cisco UCS 1050W AC Power Supply for Rack Server",
       "Warranty": "3 years warranty"
+    },
+    "filter": {
+      "Brand": "Cisco",
+      "Processor Cores": "16 Cores",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "120 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -220,6 +339,20 @@
       "Drive Bays": "Chassis with up to 8x2.5\" Drives",
       "Others": "ReadyRails Sliding Rails with Cable Management Arm",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "8 Cores",
+      "Processor Threads": "16 Threads",
+      "Memory": "1 GB",
+      "Memory Type": "DDR4",
+      "Storage": "1 TB",
+      "Storage Type": "SAS",
+      "Network": "10GbE",
+      "Power Supply": "105 W",
+      "Operating System": "No OS",
+      "Warranty": "4309 Years"
     }
   },
   {
@@ -244,6 +377,20 @@
       "Power Supply": "High-efficiency, hot-plug, redundant power supplies (1+1), 800W",
       "Drive Bays": "Chassis with up to (8 x 2.5\") SAS/SATA Hard Drives for 2CPU Configuration",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "1 GB",
+      "Memory Type": "DDR4",
+      "Storage": "1 TB",
+      "Storage Type": "SAS",
+      "Network": "1GbE",
+      "Power Supply": "135 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -268,6 +415,21 @@
       "Power Supply": "Dual, Hot-plug, Power Supply Fully Redundant (1+1), 800W\r\nJumper Cord - C13/C14, 4M, 250V, 10A (US, EU, TW, APCC countries except ANZ)",
       "Others": "PCIe Riser: Riser Config 1, Half Length, Low Profile, 3x16 + 1x8 + 2x16 (Gen5)\r\nBezel: PowerEdge 2U Standard Bezel\r\nEmbedded Systems Management: iDRAC9, Enterprise 16G\r\nTrusted Platform Module 2.0 V3\r\nStandard Heatsink for 2 CPU configuration",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "12 Cores",
+      "Processor Threads": "24 Threads",
+      "Memory": "1 GB",
+      "Memory Type": "DDR5",
+      "Storage": "1 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "150 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -292,6 +454,21 @@
       "Power Supply": "Dual, Hot-plug, Power Supply Fully Redundant (1+1), 800W, Mixed Mode, NAF\r\n2 x Jumper Cord - C13/C14, 4M, 250V, 10A (US, EU, TW, APCC countries except ANZ)",
       "Others": "PCIe Riser: Riser Config 1, Half Length, Low Profile, 3x16 + 1x8 + 2x16 (Gen5)\r\nBezel: PowerEdge 2U Standard Bezel\r\nEmbedded Systems Management: iDRAC9, Enterprise 16G\r\nTrusted Platform Module 2.0 V3\r\nStandard Heatsink for 2 CPU configuration",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "1 GB",
+      "Memory Type": "DDR5",
+      "Storage": "1 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "150 W",
+      "Operating System": "No OS",
+      "Warranty": "4514 Years"
     }
   },
   {
@@ -315,6 +492,20 @@
       "Power Supply": "Dual, Hot-Plug,Power Supply Redundant (1+1), 1400W, Mixed Mode",
       "Drive Bays": "Chassis with up to 16x2.5\" Drives",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "12 Cores",
+      "Processor Threads": "24 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR5",
+      "Storage": "32 TB",
+      "Storage Type": "SAS",
+      "Network": "10GbE",
+      "Power Supply": "150 W",
+      "Operating System": "No OS",
+      "Warranty": "4410 Years"
     }
   },
   {
@@ -338,6 +529,20 @@
       "Power Supply": "Dual, Hot-Plug,Power Supply Redundant (1+1), 1400W, Mixed Mode",
       "Drive Bays": "Chassis with up to 16x2.5\" Drives",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel GOLD",
+      "Processor Cores": "26 Cores",
+      "Processor Threads": "52 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "SAS",
+      "Network": "10GbE",
+      "Power Supply": "185 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -364,6 +569,19 @@
       "I/O Slots": "Serial Optional, Video 1 (SFF 1 front, optional via Universal Media Bay), Network Ports -  4 x  1GbE embedded with optional FlexibleLOM. HPE iLO Remote Management Network Port - 1 Gb Dedicated. Micro SD Slot - 1 Micro SD. USB 3.0Up to 5 total: 1 front, 2 rear, 2 internal (secure), 2 optional USB 2.0 front via Universal Media Bay SID (Systems Insight Display)Optional.",
       "Others": "Security:\r\nBezel kit, Power-on password, Serial interface control, Administrator's password, UEFI, iLO Advanced supports directory, services integration, TPM 1.2, FIPS.",
       "Warranty": "3 Years HPE Standard Warranty"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor Threads": "8 Threads",
+      "Memory": "64 GB",
+      "Memory Type": "DDR4",
+      "Storage": "64 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "120 W",
+      "Operating System": "Windows Server",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -381,6 +599,19 @@
       "Network": "Intel i350 Quad Port 1Gb Adapter, Dual Port 10G LOM",
       "Power Supply": "2 x Cisco UCS 1050W AC Power Supply for Rack Server",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Cisco",
+      "Processor Cores": "10 Cores",
+      "Processor Threads": "4310 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "105 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -407,6 +638,21 @@
       "Drive Bays": "Chassis with up to 16x2.5\" Drives",
       "Others": "Trusted Platform Module 2.0 V3\r\nStandard Heatsink for 2 CPU configuration\r\nPowerEdge 2U Standard Bezel\r\nReadyRails Sliding Rails with Cable Management Arm",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "1 GB",
+      "Memory Type": "DDR4",
+      "Storage": "1 TB",
+      "Storage Type": "SAS",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "135 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -432,6 +678,21 @@
       "Drive Bays": "Chassis with up to 8x3.5\" Drives",
       "Others": "Trusted Platform Module 2.0 V3\r\nStandard Heatsink for 2 CPU configuration\r\nPowerEdge 2U Standard Bezel\r\nReadyRails Sliding Rails with Cable Management Arm",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "20 Cores",
+      "Processor Threads": "40 Threads",
+      "Memory": "10 GB",
+      "Memory Type": "DDR4",
+      "Storage": "10 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "150 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -457,6 +718,21 @@
       "Drive Bays": "Riser Config 1, Half Length, Low Profile, 3x16 + 1x8 + 2x16 (Gen5)",
       "Others": "Trusted Platform Module 2.0 V3\r\nStandard Heatsink for 2 CPU configuration\r\nPowerEdge 2U Standard Bezel\r\nReadyRails Sliding Rails with Cable Management Arm",
       "Warranty": "03 years warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "12 Cores",
+      "Processor Threads": "24 Threads",
+      "Memory": "10 GB",
+      "Memory Type": "DDR5",
+      "Storage": "10 TB",
+      "Storage Type": "SAS",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "150 W",
+      "Operating System": "No OS",
+      "Warranty": "4410 Years"
     }
   },
   {
@@ -481,6 +757,19 @@
       "Form Factor": "2U Rack form factor with Rail Kit & Cable Management Arm",
       "I/O Slots": "Serial- Optional, rear, Display Port- 1 optional front display port via Universal Media Bay, VGA Port - 1 standard, rear for all chassis,1 Optional front display port (Via Universal Media Bay), Network Ports- None standard. Choice of OCP networking card or stand-up networking card required. BTO models will come pre-selected with a primary networking card, HPE iLO Remote Management Network Port - 1 Gb Dedicated, rear, Front iLO Service Port- 1 standard (Not available when System Insight Display Kit is ordered), USB 3.0- Up to 5 total: 1 front(3.0), 2 rear(3.0), 2 internal (secure – 1 – 3.0, 1 – 2.0), 1 optional USB 2.0 front via Universal Media Bay, Systems Insight Display (SID)- Optional",
       "Warranty": "3 Years HPE Standard Warranty"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor Threads": "8 Threads",
+      "Memory": "64 GB",
+      "Memory Type": "DDR5",
+      "Storage": "64 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "165 W",
+      "Operating System": "Windows Server",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -505,6 +794,19 @@
       "Form Factor": "2U Rack form factor with Rail Kit & Cable Management Arm",
       "I/O Slots": "Serial- Optional, rear, Display Port- 1 optional front display port via Universal Media Bay, VGA Port - 1 standard, rear for all chassis,1 Optional front display port (Via Universal Media Bay), Network Ports- None standard. Choice of OCP networking card or stand-up networking card required. BTO models will come pre-selected with a primary networking card, HPE iLO Remote Management Network Port - 1 Gb Dedicated, rear, Front iLO Service Port- 1 standard (Not available when System Insight Display Kit is ordered), USB 3.0- Up to 5 total: 1 front(3.0), 2 rear(3.0), 2 internal (secure – 1 – 3.0, 1 – 2.0), 1 optional USB 2.0 front via Universal Media Bay, Systems Insight Display (SID)- Optional",
       "Warranty": "3 Years HPE Standard Warranty"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor Threads": "8 Threads",
+      "Memory": "64 GB",
+      "Memory Type": "DDR5",
+      "Storage": "64 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "150 W",
+      "Operating System": "Windows Server",
+      "Warranty": "4410 Years"
     }
   },
   {
@@ -525,6 +827,17 @@
       "Fans": "Gen 2 Fan",
       "Power Supply and Cable": "Dual, Hot-Plug, Redundant Power Supply (1+1), 600W",
       "Warranty": "3 year Warranty"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel E-2356G",
+      "Processor Cores": "6 Cores",
+      "Processor Threads": "12 Threads",
+      "Memory": "32 GB",
+      "Storage": "32 TB",
+      "Network": "1GbE",
+      "Power Supply": "80 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -547,6 +860,18 @@
       "Power Supply": "Dual, Fully Redundant(1+1), Hot-Plug Power Supply,1100W MM(100-240Vac) Titanium",
       "Form Factor": "2.5\" Chassis with up to 8 Universal Drives, Smart Flow, 2CPU, PERC12",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel GOLD",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "32 GB",
+      "Storage": "32 TB",
+      "Storage Type": "SSD",
+      "Network": "10GbE",
+      "Power Supply": "185 W",
+      "Warranty": "6426 Years"
     }
   },
   {
@@ -568,6 +893,18 @@
       "Power Supply": "Dual, Hot-plug, Power Supply Fault Tolerant Redundant (1+1), 1400W, Mixed Mode, NAF",
       "Form Factor": "2.5\" Chassis with up to 8 Hard Drives (SAS/SATA), 2 CPU, PERC 11",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "12 Cores",
+      "Processor Threads": "24 Threads",
+      "Memory": "32 GB",
+      "Storage": "32 TB",
+      "Storage Type": "SSD",
+      "Network": "10GbE",
+      "Power Supply": "150 W",
+      "Warranty": "4410 Years"
     }
   },
   {
@@ -589,6 +926,19 @@
       "Power Supply": "Dual, Hot-Plug, Fully Redundant Power Supply (1+1), 1400W, Mixed Mode",
       "Form Factor": "2.5\" Chassis with 8 Universal Drive Slots (SAS/SATA/NVME), Front PERC 12, 2 CPU",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "20 Cores",
+      "Processor Threads": "40 Threads",
+      "Memory": "64 GB",
+      "Memory Type": "DDR5",
+      "Storage": "64 TB",
+      "Storage Type": "SAS",
+      "Network": "10GbE",
+      "Power Supply": "165 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -612,6 +962,20 @@
       "Form Factor": "2.5\" Chassis with up to 8 SAS/SATA Drives, Front PERC 11",
       "Others": "Processor Thermal Config Heatsink for 2 CPU Configuration with OCP\r\nPower Cords Jumper Cord - C19/C20, 2.5M, 250V, 16A (TW and APCC countries except ANZ)\r\nPCIe Riser Riser Config 0, 4x16 FH Slots (Gen5), 4x16 FH DW GPU Capable Slots (Gen5)\r\nBezel PowerEdge 2U Standard Bezel\r\nBoot Optimized Storage Cards BOSS-N1 controller card + with 2 SED M.2 960GB (RAID 1)\r\nOptics & Cables for Network Cards SFP+ SR Optic, 10GbE, for all SFP+ ports except high temp validation warning cards\r\nReadyRails Sliding Rails With Strain Relief Bar\r\nTrusted Platform Module 2.0 V3",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel GOLD",
+      "Processor Cores": "24 Cores",
+      "Processor Threads": "48 Threads",
+      "Memory": "64 GB",
+      "Memory Type": "DDR5",
+      "Storage": "64 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "225 W",
+      "Warranty": "6442 Years"
     }
   },
   {
@@ -635,6 +999,20 @@
       "Form Factor": "2.5\" Chassis with up to 8 SAS/SATA Drives, Front PERC 11",
       "Others": "Processor Thermal Config Heatsink for 2 CPU Configuration with OCP\r\nPower Cords Jumper Cord - C19/C20, 2.5M, 250V, 16A (TW and APCC countries except ANZ)\r\nPCIe Riser Riser Config 0, 4x16 FH Slots (Gen5), 4x16 FH DW GPU Capable Slots (Gen5)\r\nPowerEdge 2U Standard Bezel\r\nBoot Optimized Storage Cards BOSS-N1 controller card + with 2 SED M.2 960GB (RAID 1)\r\nOptics & Cables for Network Cards SFP+ SR Optic, 10GbE, for all SFP+ ports except high temp validation warning cards\r\nReadyRails Sliding Rails With Strain Relief Bar\r\nTrusted Platform Module 2.0 V3",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel PLATINUM",
+      "Processor Cores": "48 Cores",
+      "Processor Threads": "96 Threads",
+      "Memory": "128 GB",
+      "Memory Type": "DDR5",
+      "Storage": "128 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "350 W",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -658,6 +1036,20 @@
       "Form Factor": "2.5\" Chassis with up to 8 SAS/SATA Drives, Front PERC 11",
       "Others": "Processor Thermal Config Heatsink for 2 CPU Configuration with OCP\r\nPower Cords Jumper Cord - C19/C20, 2.5M, 250V, 16A (TW and APCC countries except ANZ)\r\nPCIe Riser Riser Config 0, 4x16 FH Slots (Gen5), 4x16 FH DW GPU Capable Slots (Gen5)\r\nSFP+ SR Optic, 10GbE, for all SFP+ ports except high temp validation warning cards\r\nPowerEdge 2U Standard Bezel\r\nReadyRails Sliding Rails With Strain Relief Bar\r\nTrusted Platform Module 2.0 V3",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR5",
+      "Storage": "32 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "10GbE",
+      "Power Supply": "150 W",
+      "Warranty": "4514 Years"
     }
   },
   {
@@ -682,6 +1074,21 @@
       "Power Supply": "High-efficiency, hot-plug, redundant power supplies (1+1), 800W",
       "Drive Bays": "Chassis with up to (8 x 2.5\") SAS/SATA Hard Drives for 2CPU Configuration",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "1 GB",
+      "Memory Type": "DDR4",
+      "Storage": "1 TB",
+      "Storage Type": "SAS",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "135 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -707,6 +1114,20 @@
       "Drive Bays": "Chassis with up to 12x3.5\" Drives",
       "Others": "ReadyRails Sliding Rails with Cable Management Arm",
       "Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "Dell",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "10 Cores",
+      "Processor Threads": "4310 Threads",
+      "Memory": "1 GB",
+      "Memory Type": "DDR4",
+      "Storage": "1 TB",
+      "Storage Type": "SAS",
+      "Network": "1GbE",
+      "Power Supply": "105 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -733,6 +1154,19 @@
       "I/O Slots": "Serial Optional, Video 1 (SFF 1 front, optional via Universal Media Bay), Network Ports -  4 x  1GbE embedded with optional FlexibleLOM. HPE iLO Remote Management Network Port - 1 Gb Dedicated. Micro SD Slot - 1 Micro SD. USB 3.0Up to 5 total: 1 front, 2 rear, 2 internal (secure), 2 optional USB 2.0 front via Universal Media Bay SID (Systems Insight Display)Optional.",
       "Others": "Security:\r\nBezel kit, Power-on password, Serial interface control, Administrator's password, UEFI, iLO Advanced supports directory, services integration, TPM 1.2, FIPS.",
       "Warranty": "3 Years HPE Standard Warranty"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor Threads": "8 Threads",
+      "Memory": "64 GB",
+      "Memory Type": "DDR4",
+      "Storage": "64 TB",
+      "Storage Type": "SSD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "120 W",
+      "Operating System": "Windows Server",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -754,6 +1188,20 @@
       "Drive Bays": "8 Bays",
       "Form Factor": "2U Rack form factor with Rail Kit & Cable Management Arm",
       "Warranty": "3 Years HPE Standard Warranty"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor": "Intel SILVER",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Power Supply": "105 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -775,6 +1223,21 @@
       "Drive Bays": "8 Bays",
       "Form Factor": "2U Rack form factor with Rail Kit & Cable Management Arm",
       "Warranty": "3 Years HPE Standard Warranty"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor": "Intel GOLD",
+      "Processor Cores": "12 Cores",
+      "Processor Threads": "24 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "150 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -799,6 +1262,21 @@
       "I/O Slots": "1 x VGA, 4 x 1GbE embedded, Front - 1 x iLO Service Port, 5 x USB 3.0 ( 1 x Front, 2 x Rear, 2 x Internal)",
       "Others": "USB Ports: 5 x USB 3.0 ( 1 x Front, 2 x Rear, 2 x Internal)\r\nExpansion Slots: Up to 8 PCIe slots",
       "Warranty": "3 Years HPE Standard Warranty"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor": "Intel GOLD",
+      "Processor Cores": "16 Cores",
+      "Processor Threads": "32 Threads",
+      "Memory": "32 GB",
+      "Memory Type": "DDR4",
+      "Storage": "32 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "185 W",
+      "Operating System": "No OS",
+      "Warranty": "3 Years"
     }
   },
   {
@@ -826,6 +1304,20 @@
       "Form Factor": "4U Tower",
       "I/O Slots": "VGA Port- 1 standard (rear), Serial Port- 1 optional (rear), Network Port (RJ-45)- 2 x 1 Gb ports as standard (rear, 1 shared for HPE iLO), Dedicated iLO Management Port (RJ-45)- 1 optional (rear), USB 3.0 Port- 6 (1 front, 4 rear, 1 internal), USB 2.0 Port- 1 (1 front), MicroSD Slot- Optional via HPE 32GB microSD RAID1 USB Boot Device",
       "Warranty": "HPE 3Y Tech Care Basic Service"
+    },
+    "filter": {
+      "Brand": "HPE",
+      "Processor": "Intel E-2334",
+      "Processor Threads": "1 Threads",
+      "Memory": "16 GB",
+      "Memory Type": "DDR4",
+      "Storage": "16 TB",
+      "Storage Type": "HDD",
+      "Form Factor": "Rack Mount",
+      "Network": "1GbE",
+      "Power Supply": "65 W",
+      "Operating System": "Windows Server",
+      "Warranty": "3 Years"
     }
   }
 ]

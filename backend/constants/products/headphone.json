@@ -5,7 +5,13 @@
     "price": "11900",
     "description": "3.5mm jack\rWireless adaptor\rEasy-access controls\rDual hidden microphones",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/playstation-pulse-3d/playstation-pulse-3d-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/playstation-pulse-3d/playstation-pulse-3d-500x500.jpg",
+    "filter": {
+      "Brand": "Sony",
+      "Connectivity": "Wireless",
+      "Driver Size": "3.5 mm",
+      "Battery Capacity": "3.5 mAh"
+    }
   },
   {
     "id": 2347,
@@ -24,6 +30,15 @@
       "Color": "Black",
       "Cable Length": "1.4m",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "27 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -41,6 +56,14 @@
       "Frequency": "30 - 16 KHz",
       "Microphone Size": "Ergonomic",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "T-WOLF",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "3.5 mm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -61,6 +84,16 @@
       "Color": "Black",
       "Cable Length": "Cable Length: 1.4",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "116 g",
+      "Color": "Black"
     }
   },
   {
@@ -78,6 +111,14 @@
       "Dimensions": "15*16.5*6.5CM",
       "Cable Length": "Approx 1.2m±10%",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "3.5 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "20 mAh"
     }
   },
   {
@@ -95,6 +136,13 @@
       "Driver Diameter": "40mm",
       "Cable Length": "4ft+-10%",
       "Manufacturing Warranty": "01 year Warranty"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "20 mAh"
     }
   },
   {
@@ -114,6 +162,14 @@
       "Cable Length": "1.2 M",
       "Frequency": "20Hz to 20KHz",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Driver Size": "3.5 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -135,6 +191,15 @@
       "Cable Length": "1.8m",
       "Microphone Size": "6 x 2.7mm",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -151,6 +216,14 @@
       "Dimensions": "165 x 165 x 55 mm",
       "Color": "Black",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "3.5 mm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -167,6 +240,14 @@
       "Dimensions": "165 x 165 x 55 mm",
       "Color": "Black",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "3.5 mm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -175,7 +256,12 @@
     "price": "1000",
     "description": "Frequency: 20Hz - 20kHz\rSensitivity: 100dB +/-3dB\rCable Length: 5.90 ft",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h110/logitec-h110-headphone-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h110/logitec-h110-headphone-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
+    }
   },
   {
     "id": 2357,
@@ -183,7 +269,12 @@
     "price": "1000",
     "description": "Frequency: 20Hz - 20kHz\rSensitivity: 100dB +/-3dB\rCable Length: 5.90 ft",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h111/h111-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h111/h111-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
+    }
   },
   {
     "id": 2358,
@@ -204,6 +295,16 @@
       "Weight": "109g",
       "Color": "Black",
       "Manufacturing Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Connectivity": "Wireless",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "200 mAh",
+      "Battery Life": "20 Hours",
+      "Weight": "109 g",
+      "Color": "Black"
     }
   },
   {
@@ -222,6 +323,16 @@
       "Color": "Black",
       "Cable Length": "Approx 1.2m±10%",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "0.6 kg",
+      "Color": "Black"
     }
   },
   {
@@ -239,6 +350,15 @@
       "Color": "Black",
       "Cable Length": "1.8m",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -255,6 +375,13 @@
       "Connectivity": "USB",
       "Color": "Black",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -263,7 +390,12 @@
     "price": "1200",
     "description": "Frequency: 20 Hz -20 kHz\rSensitivity: 102 dB\rCable Length:  2 M",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/accessories/headset/a4tech/hs-19-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/accessories/headset/a4tech/hs-19-500x500.jpg",
+    "filter": {
+      "Brand": "A4TECH",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
+    }
   },
   {
     "id": 2363,
@@ -271,7 +403,12 @@
     "price": "1200",
     "description": "Frequency range: 20 Hz-20 kHz\rImpedance: 32 Ohm\rSensitivity: 102 dB",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/a4tech/g437/1-500x500.png"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/a4tech/g437/1-500x500.png",
+    "filter": {
+      "Brand": "A4TECH",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
+    }
   },
   {
     "id": 2364,
@@ -288,6 +425,14 @@
       "Battery Life": "Charging Time: About 2H",
       "Others": "USB Port: Type-C",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "200 mAh",
+      "Battery Life": "2 Hours"
     }
   },
   {
@@ -308,6 +453,16 @@
       "Weight": "208g",
       "Color": "Black",
       "Manufacturing Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "45 Hours",
+      "Weight": "208 g",
+      "Color": "Black"
     }
   },
   {
@@ -331,6 +486,16 @@
       "Cable Length": "1.8m",
       "Microphone Size": "Φ6.0*2.7mm",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "242 g",
+      "Color": "White"
     }
   },
   {
@@ -339,7 +504,11 @@
     "price": "1300",
     "description": "High quality USB digital audio output\rThe multiple functions of the remote\rMicrophone noise reduction\rSmooth HD voice call",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headset/rapoo/h120/h120-3-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headset/rapoo/h120/h120-3-500x500.jpg",
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired"
+    }
   },
   {
     "id": 2368,
@@ -359,6 +528,15 @@
       "Cable Length": "2 Meter",
       "System Requirements": "Windows 7 / 8 / 8.1 / 10 / Mac OS X",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -378,6 +556,13 @@
       "Microphone Size": "Φ6*5mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -396,6 +581,15 @@
       "Weight": "116g",
       "Color": "Black",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "5.1 mm",
+      "Battery Capacity": "200 mAh",
+      "Weight": "116 g",
+      "Color": "Black"
     }
   },
   {
@@ -415,6 +609,15 @@
       "Dimensions": "204x174x82mm",
       "Weight": "262g",
       "Manufacturing Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "800 mAh",
+      "Battery Life": "90 Hours",
+      "Weight": "262 g"
     }
   },
   {
@@ -433,6 +636,16 @@
       "Battery Life": "Play time ≈70h\r\nCall time ≈40h",
       "Color": "Black",
       "Manufacturing Warranty": "6 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "600 mAh",
+      "Battery Life": "70 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -450,6 +663,14 @@
       "Color": "Black / White / Red",
       "Cable Length": "2m",
       "Manufacturing Warranty": "1 year warranty"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "20 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Color": "Black / White / Red"
     }
   },
   {
@@ -470,6 +691,15 @@
       "Impendance": "≤2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -488,6 +718,16 @@
       "Color": "Black\r\nSilver",
       "Cable Length": "2m",
       "Manufacturing Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "2 Hours",
+      "Weight": "193 g",
+      "Color": "Black"
     }
   },
   {
@@ -508,6 +748,15 @@
       "Impendance": "≤2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -524,6 +773,15 @@
       "Weight": "~165g",
       "Color": "Black",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "165 g",
+      "Color": "Black"
     }
   },
   {
@@ -543,6 +801,16 @@
       "Others": "USB Port: Type-C\r\nWireless Working Range: 10M (without obstacles)\r\nPlay Time: 18H(60% Vol.) \r\nTalk Time: 18H(60% Vol.)\r\nCharging Time: 2.5H\r\nProfiles Supported: HFP/HSP/A2DP/AVRCP\r\nAudio code: AAC/SBC",
       "Dimensions": "166*161*68mm",
       "Weight": "150g"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "30 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "5 Hours",
+      "Weight": "150 g"
     }
   },
   {
@@ -564,6 +832,14 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "365 Days Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -584,6 +860,13 @@
       "Microphone Size": "4.0x1.5 mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -604,6 +887,17 @@
       "Weight": "245g",
       "Color": "Black",
       "Manufacturing Warranty": "6 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "300 mAh",
+      "Battery Life": "2 Hours",
+      "Weight": "245 g",
+      "Color": "Black"
     }
   },
   {
@@ -626,6 +920,15 @@
       "Microphone Size": "∅6 x 2.7mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "20 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -646,6 +949,14 @@
       "Microphone Size": "6 x 2.7mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "20 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -668,6 +979,15 @@
       "Cable Length": "2.1m±10%",
       "Microphone Size": "Ø4.0×1.5mm",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "20 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "320 g"
     }
   },
   {
@@ -688,6 +1008,16 @@
       "Color": "Black\r\nWhite",
       "Cable Length": "2m Plastic cable",
       "Manufacturing Warranty": "01 Year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "3.5 mm",
+      "Impedance": "21 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Weight": "337 g",
+      "Color": "Black"
     }
   },
   {
@@ -708,6 +1038,17 @@
       "Weight": "200g",
       "Color": "Black",
       "Manufacturing Warranty": "01 year warranty available"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "2.5 mAh",
+      "Battery Life": "8 Hours",
+      "Weight": "200 g",
+      "Color": "Black"
     }
   },
   {
@@ -726,6 +1067,17 @@
       "Weight": "0.185 Kg",
       "Color": "Black",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "22 Hours",
+      "Weight": "0.185 kg",
+      "Color": "Black"
     }
   },
   {
@@ -748,6 +1100,15 @@
       "Microphone Size": "4 x 1.3 mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Translucent White"
     }
   },
   {
@@ -770,6 +1131,16 @@
       "Cable Length": "3m",
       "Sensitivity": "112 dB SPL/V @ 1 kHz",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "AKG",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Weight": "7.05 g",
+      "Color": "Black"
     }
   },
   {
@@ -790,6 +1161,15 @@
       "Frequency": "100 Hz-10 kHz",
       "Pick-up Pattern": "Single-Directional Mic.",
       "Manufacturing Warranty": "1-year Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -811,6 +1191,15 @@
       "Sensitivity": "-42 dB",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "200 g",
+      "Color": "Black"
     }
   },
   {
@@ -828,6 +1217,15 @@
       "Battery Life": "Playtime: About 10 hours\r\nStandby time: about 3500H",
       "Color": "Black",
       "Manufacturing Warranty": "3 Months (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "300 mAh",
+      "Battery Life": "10 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -848,6 +1246,17 @@
       "Weight": "175g",
       "Color": "Black",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "250 mAh",
+      "Battery Life": "8 Hours",
+      "Weight": "175 g",
+      "Color": "Black"
     }
   },
   {
@@ -870,6 +1279,16 @@
       "Microphone Size": "Bi-directional",
       "Impendance": "22 Ohms",
       "Manufacturing Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "3.5 mm",
+      "Impedance": "22 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Weight": "2.82 g",
+      "Color": "Black"
     }
   },
   {
@@ -878,7 +1297,12 @@
     "price": "1750",
     "description": "Frequency: 20Hz - 20kHz\rSensitivity: 122 dB +/-3 dB\rCable Length:1.8m",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h150/h150-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h150/h150-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
+    }
   },
   {
     "id": 2396,
@@ -895,6 +1319,14 @@
       "Color": "Black",
       "Cable Length": "3.0 m (9.8'), straight, left-side exit",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Audio",
+      "Driver Size": "15 mm",
+      "Impedance": "47 Ohm",
+      "Battery Capacity": "15 mAh",
+      "Weight": "190 g",
+      "Color": "Black"
     }
   },
   {
@@ -912,6 +1344,14 @@
       "Color": "Black",
       "Cable Length": "3.0 m (9.8'), straight, left-side exit",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Audio",
+      "Driver Size": "15 mm",
+      "Impedance": "47 Ohm",
+      "Battery Capacity": "15 mAh",
+      "Weight": "220 g",
+      "Color": "Black"
     }
   },
   {
@@ -934,6 +1374,14 @@
       "Frequency": "100 Hz-10 KHz",
       "Pick-up Pattern": "Single-Directional Mic",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Color": "Black & Red"
     }
   },
   {
@@ -954,6 +1402,16 @@
       "Color": "Black",
       "Cable Length": "3m",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "AKG",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "30 mm",
+      "Impedance": "55 Ohm",
+      "Battery Capacity": "30 mAh",
+      "Weight": "8.5 g",
+      "Color": "Black"
     }
   },
   {
@@ -972,6 +1430,15 @@
       "Others": "Playing Time: About 8 Hours (70% Volume)   \r\nTalk Time: About 6 Hours (90% Volume)\r\nStandby Time: About 50 Hours   \r\nInput Voltage: Micro USB Dc 5v 500ma\r\nCharging Time: About 2.5 Hours",
       "Color": "Blue, Red, Green and Black",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "300 mAh",
+      "Color": "Blue"
     }
   },
   {
@@ -989,6 +1456,14 @@
       "Weight": "w/o cable: 285 g",
       "Color": "Black",
       "Cable Length": "Coiled Cable (min. 1.3m / max. 3m)"
+    },
+    "filter": {
+      "Brand": "Sennheiser",
+      "Driver Size": "8 mm",
+      "Impedance": "64 Ohm",
+      "Battery Capacity": "8 mAh",
+      "Weight": "285 g",
+      "Color": "Black"
     }
   },
   {
@@ -1007,6 +1482,14 @@
       "Connector": "3.5mm",
       "Drivers": "Φ40MM",
       "Warranty": "06-Months"
+    },
+    "filter": {
+      "Brand": "Zoook",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "1 mAh"
     }
   },
   {
@@ -1024,6 +1507,13 @@
       "Connectivity": "Wired",
       "Cable Length": "2.1 Meter",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh"
     }
   },
   {
@@ -1041,6 +1531,14 @@
       "Connectivity": "Wired",
       "Color": "Black",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wired",
+      "Driver Size": "11 mm",
+      "Impedance": "150 Ohm",
+      "Battery Capacity": "11 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1062,6 +1560,15 @@
       "Cable Length": "2.1m",
       "Microphone Size": "Ø6.0×2.7mm",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "328.7 g",
+      "Color": "Black + White"
     }
   },
   {
@@ -1079,6 +1586,14 @@
       "Color": "Black",
       "Cable Length": "Includes two interchangeable cables: detachable 1.2 m - 3.0 m (3.9' - 9.8') coiled cable and detachable 3.0 m (9.8') straight cable",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Audio",
+      "Driver Size": "15 mm",
+      "Impedance": "35 Ohm",
+      "Battery Capacity": "15 mAh",
+      "Weight": "240 g",
+      "Color": "Black"
     }
   },
   {
@@ -1100,6 +1615,16 @@
       "Color": "Black",
       "Cable Length": "3m",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "AKG",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "30 mm",
+      "Impedance": "55 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Weight": "240 g",
+      "Color": "Black"
     }
   },
   {
@@ -1123,6 +1648,17 @@
       "Frequency": "20-20,000Hz",
       "Impendance": "2.2KΩ",
       "Manufacturing Warranty": "365 Days Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Battery Life": "20 Hours",
+      "Weight": "214.5 g",
+      "Color": "Black"
     }
   },
   {
@@ -1141,6 +1677,16 @@
       "Weight": "198g",
       "Color": "Black, Silver",
       "Manufacturing Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "12 Hours",
+      "Weight": "198 g",
+      "Color": "Black"
     }
   },
   {
@@ -1158,6 +1704,14 @@
       "Color": "Black",
       "Cable Length": "Interchangeable cables: detachable 1.2 m - 3.0 m (3.9' - 9.8') coiled cable, detachable 3.0 m (9.8') straight cable and detachable 1.2 m (3.9') straight cable",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Audio",
+      "Driver Size": "15 mm",
+      "Impedance": "38 Ohm",
+      "Battery Capacity": "15 mAh",
+      "Weight": "285 g",
+      "Color": "Black"
     }
   },
   {
@@ -1174,6 +1728,14 @@
       "Duration": "Standby Time: 280H\r\nCall Time: About 20H",
       "Color": "White\r\nBlack",
       "Warranty": "3 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Connectivity": "Wireless",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "300 mAh",
+      "Battery Life": "20 Hours",
+      "Color": "White"
     }
   },
   {
@@ -1197,6 +1759,16 @@
       "Frequency": "50 to 20,000 Hz (at 3 cm)",
       "Pick-up Pattern": "Unidirectional",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Audio",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "45 mm",
+      "Impedance": "38 Ohm",
+      "Battery Capacity": "15 mAh",
+      "Weight": "190 g",
+      "Color": "Black"
     }
   },
   {
@@ -1215,6 +1787,15 @@
       "Weight": "380 g",
       "Cable Length": "3 m",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Beyerdynamic",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "3.5 mm",
+      "Impedance": "250 Ohm",
+      "Battery Capacity": "250 mAh",
+      "Weight": "380 g"
     }
   },
   {
@@ -1228,6 +1809,11 @@
       "Connectivity": "Bluetooth",
       "Others": "Upgraded acoustic technology, HIFI sound quality, surround stereo\r\nActive noise reduction, to reduce ambient noise and reduce distortion of human voice\r\nSupports Bluetooth and AUX connection methods\r\nIntegrated lightweight headbeam design for comfortable wearing\r\nLife waterproof, suitable for outdoor use",
       "Manufacturing Warranty": "6 Months Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth"
     }
   },
   {
@@ -1246,6 +1832,14 @@
       "Weight": "250 g",
       "Color": "Black & White",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Beyerdynamic",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Impedance": "250 Ohm",
+      "Weight": "250 g",
+      "Color": "Black & White"
     }
   },
   {
@@ -1270,6 +1864,15 @@
       "Microphone Size": "6.0x5.0mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1287,6 +1890,14 @@
       "Color": "Black",
       "Cable Length": "Interchangeable cables: detachable 1.2 m - 3.0 m (3.9' - 9.8') coiled cable, detachable 3.0 m (9.8') straight cable and detachable 1.2 m (3.9') straight cable",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Audio",
+      "Driver Size": "5 mm",
+      "Impedance": "35 Ohm",
+      "Battery Capacity": "5 mAh",
+      "Weight": "280 g",
+      "Color": "Black"
     }
   },
   {
@@ -1308,6 +1919,16 @@
       "Color": "Black",
       "Cable Length": "220mm",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "340 g",
+      "Color": "Black"
     }
   },
   {
@@ -1330,6 +1951,15 @@
       "Frequency": "100 Hz-10 KHz",
       "Noise ratio": "Omni-Directional Noise-Canceling Mic.",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "7 mAh",
+      "Color": "Black & Grey"
     }
   },
   {
@@ -1348,6 +1978,13 @@
       "Noise ratio": "Noise-isolating",
       "Pick-up Pattern": "6/10",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Battery Capacity": "7.1 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1365,6 +2002,12 @@
       "Microphone Size": "120-degree adjustable flip-up microphone",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "7.1 mAh",
+      "Color": "Grey"
     }
   },
   {
@@ -1387,6 +2030,16 @@
       "System Requirements": "Compatible for PS4, Xbox One Controller, PC, Laptop, Tablet, iMac, Computer, Mobile Phone, and other devices",
       "Microphone Size": "Rotatable Noise Cancelling Microphone",
       "Manufacturing Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "295 g",
+      "Color": "Black"
     }
   },
   {
@@ -1408,6 +2061,15 @@
       "Microphone Size": "4.0x1.5 mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "2 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1426,6 +2088,15 @@
       "Others": "Connection distance: 10 meters\r\n Charging time: about\t2.5hours\r\nCharging Port: USB Type-C\r\nChipset: JL",
       "Color": "Black",
       "Manufacturing Warranty": "3 months Warranty (must claimed with full box and accessories)"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "300 mAh",
+      "Battery Life": "36 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -1444,6 +2115,14 @@
       "Color": "Black, White, Blue",
       "Microphone Size": "6 x 2.7mm",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Aula",
+      "Connectivity": "Wireless",
+      "Driver Size": "20 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1463,6 +2142,15 @@
       "Drivers": "10mm",
       "Color": "Red",
       "Warranty": "3 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "110 mAh",
+      "Battery Life": "5 Hours",
+      "Color": "Red"
     }
   },
   {
@@ -1483,6 +2171,15 @@
       "Weight": "370 g",
       "Color": "Black",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Beyerdynamic",
+      "Connectivity": "Wired",
+      "Driver Size": "45 mm",
+      "Impedance": "250 Ohm",
+      "Battery Capacity": "45 mAh",
+      "Weight": "370 g",
+      "Color": "Black"
     }
   },
   {
@@ -1506,6 +2203,16 @@
       "Noise ratio": "Noise Cancelling Gaming Headset",
       "Microphone Size": "Foldable Microphone",
       "Manufacturing Warranty": "01 Year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "3.5 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Weight": "376 g",
+      "Color": "Black"
     }
   },
   {
@@ -1528,6 +2235,15 @@
       "Frequency": "100Hz～8KHz",
       "Pick-up Pattern": "Noise-cancelling Cardioid",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Weight": "112 g",
+      "Color": "Black"
     }
   },
   {
@@ -1548,6 +2264,16 @@
       "Cable Length": "USB Type-C Charging Cable: 50 cm",
       "Frequency": "100Hz- 10KHz",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "5.3 mAh",
+      "Battery Life": "40 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -1564,6 +2290,16 @@
       "Weight": "50g",
       "Color": "Black \r\nWhite\r\nPurple\r\nBlue",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Monka",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Battery Life": "6 Hours",
+      "Weight": "50 g",
+      "Color": "Black "
     }
   },
   {
@@ -1572,7 +2308,14 @@
     "price": "2500",
     "description": "Bluetooth Version: 5.2\rLightweight and Flat-Fold Design\rMic & AUX Input Support\rType-C Charging",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/oraimo/boompop-2/boompop-2-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/oraimo/boompop-2/boompop-2-01-500x500.webp",
+    "filter": {
+      "Brand": "Oraimo",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "5.2 mm",
+      "Battery Capacity": "5.2 mAh"
+    }
   },
   {
     "id": 2433,
@@ -1591,6 +2334,16 @@
       "Weight": "143g",
       "Color": "Black",
       "Manufacturing Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "500 mAh",
+      "Battery Life": "46 Hours",
+      "Weight": "143 g",
+      "Color": "Black"
     }
   },
   {
@@ -1610,6 +2363,16 @@
       "Weight": "218g",
       "Color": "Black",
       "Manufacturing Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Remax",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "50 Hours",
+      "Weight": "218 g",
+      "Color": "Black"
     }
   },
   {
@@ -1625,6 +2388,11 @@
       "Resolution": "1200/1600/2400/3200",
       "Diameter": "50mm",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Driver Size": "104 mm",
+      "Battery Capacity": "104 mAh"
     }
   },
   {
@@ -1642,6 +2410,14 @@
       "Color": "Black",
       "Microphone Size": "Detachable Microphone",
       "Manufacturing Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "204 g",
+      "Color": "Black"
     }
   },
   {
@@ -1663,6 +2439,17 @@
       "Weight": "204g",
       "Color": "Black",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "500 mAh",
+      "Battery Life": "80 Hours",
+      "Weight": "204 g",
+      "Color": "Black"
     }
   },
   {
@@ -1684,6 +2471,15 @@
       "Cable Length": "2.0 m",
       "Frequency": "100 Hz-10 KHz",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "A4Tech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1700,6 +2496,12 @@
       "Microphone Size": "Noise-Cancelling Mic & One Key Mute Function",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Red"
     }
   },
   {
@@ -1717,6 +2519,13 @@
       "Color": "Black",
       "Cable Length": "3.5'",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Micropack",
+      "Connectivity": "Wired",
+      "Driver Size": "7 mm",
+      "Battery Capacity": "7 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1736,6 +2545,16 @@
       "Color": "Black\r\nWhite",
       "Cable Length": "3.5mm Audio Cable: 100 cm",
       "Manufacturing Warranty": "01 years"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "35 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -1759,6 +2578,16 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "358 g",
+      "Color": "Black"
     }
   },
   {
@@ -1780,6 +2609,15 @@
       "Cable Length": "2.0 m",
       "Frequency": "100 Hz-10 KHz",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "A4Tech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1802,6 +2640,17 @@
       "Frequency": "100Hz- 10KHz",
       "Pick-up Pattern": "ENC Omni-Directional",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "A4TECH",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "5.3 mAh",
+      "Battery Life": "50 Hours",
+      "Weight": "263 g",
+      "Color": "Black"
     }
   },
   {
@@ -1823,6 +2672,15 @@
       "Frequency": "100Hz～3.4KHz",
       "Pick-up Pattern": "Noise-cancelling\r\nCardioid",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "100 mAh",
+      "Weight": "106 g",
+      "Color": "Black"
     }
   },
   {
@@ -1840,6 +2698,12 @@
       "Cable Length": "1.8m",
       "Frequency": "100Hz to 10kHz",
       "Manufacturing Warranty": "2 Years Warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wired",
+      "Weight": "0.47 g",
+      "Color": "Carbon (CA-9011377-AP)"
     }
   },
   {
@@ -1854,6 +2718,13 @@
       "Weight": "263g Ultra-Light Design",
       "Color": "Black",
       "Manufacturing Warranty": "2-Year Warranty"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "263 g",
+      "Color": "Black"
     }
   },
   {
@@ -1878,6 +2749,16 @@
       "Microphone Size": "∅6 x 2.7mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "298 g",
+      "Color": "Black+Ochre"
     }
   },
   {
@@ -1886,7 +2767,12 @@
     "price": "3200",
     "description": "Frequency: 20Hz - 20kHz\rSensitivity: 115dB +/-3dB\rCable Length: 5.90 ft",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h340/h340-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h340/h340-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
+    }
   },
   {
     "id": 2450,
@@ -1907,6 +2793,16 @@
       "Cable Length": "2.2M Cable",
       "Microphone Size": "4.0 x 1.5mm",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "447 g",
+      "Color": "Black"
     }
   },
   {
@@ -1922,6 +2818,11 @@
       "Microphone Size": "Noise Isolating Microphone",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "7.1 mAh"
     }
   },
   {
@@ -1942,6 +2843,15 @@
       "Frequency": "100 - 10000 Hz",
       "Noise ratio": "-44 dB",
       "Manufacturing Warranty": "02-year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "3.12 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.12 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -1965,6 +2875,16 @@
       "Cable Length": "2.0m±10%",
       "Microphone Size": "Ø6.0×2.7mm",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "298 g",
+      "Color": "Black"
     }
   },
   {
@@ -1985,6 +2905,16 @@
       "Drivers": "Φ40mm NdFeB driver",
       "Color": "Gray\r\nBlack\r\nBlue",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "350 mAh",
+      "Color": "Gray"
     }
   },
   {
@@ -2005,6 +2935,17 @@
       "Color": "Black",
       "Microphone Size": "06.0*2.7mm",
       "Manufacturing Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "24 Hours",
+      "Weight": "0.18 kg",
+      "Color": "Black"
     }
   },
   {
@@ -2027,6 +2968,15 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "365 Days Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -2047,6 +2997,14 @@
       "Frequency": "100Hz - 10KHz",
       "Impendance": "16ohm",
       "Manufacturing Warranty": "01 Years"
+    },
+    "filter": {
+      "Brand": "A4Tech",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Color": "Red"
     }
   },
   {
@@ -2067,6 +3025,15 @@
       "Sensitivity": "-42±3 dB",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "600 mAh",
+      "Battery Life": "14 Hours",
+      "Color": "White"
     }
   },
   {
@@ -2085,6 +3052,16 @@
       "Weight": "267gm",
       "Color": "Black",
       "Manufacturing Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "267 g",
+      "Color": "Black"
     }
   },
   {
@@ -2108,6 +3085,15 @@
       "Microphone Size": "ENC Dual Mic Array",
       "Pick-up Pattern": "Noise-cancelling\r\nCardioid",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "100 mAh",
+      "Weight": "115 g",
+      "Color": "Black"
     }
   },
   {
@@ -2127,6 +3113,15 @@
       "Connectivity": "Wired",
       "Color": "Black",
       "Manufacturing Warranty": "2 Year Warranty"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Connectivity": "Wired",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -2150,6 +3145,15 @@
       "Microphone Size": "ENC Dual Mic Array",
       "Pick-up Pattern": "Omni-Directional",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Weight": "115 g",
+      "Color": "Black"
     }
   },
   {
@@ -2167,6 +3171,12 @@
       "Cable Length": "1.8m",
       "Frequency": "100Hz to 10kHz",
       "Manufacturing Warranty": "2 Years Warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wired",
+      "Weight": "0.47 g",
+      "Color": "Carbon"
     }
   },
   {
@@ -2192,6 +3202,13 @@
       "Microphone Sensitivity": "120±3db (Headphone)\r\n-56±2db (Mic Sensitivity)",
       "Sensitivity": "120±3db (Mic Sensitivity: -56±2db)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Connectivity": "Wired",
+      "Driver Size": "104 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "104 mAh"
     }
   },
   {
@@ -2207,6 +3224,14 @@
       "Weight": "8.1 ounces",
       "Color": "Black",
       "Manufacturing Warranty": "12 Months"
+    },
+    "filter": {
+      "Brand": "Tribit",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "8.1 g",
+      "Color": "Black"
     }
   },
   {
@@ -2223,6 +3248,16 @@
       "Weight": "225g",
       "Color": "Black",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Tribit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "30 Hours",
+      "Weight": "225 g",
+      "Color": "Black"
     }
   },
   {
@@ -2248,6 +3283,13 @@
       "Microphone Sensitivity": "120±3db",
       "Sensitivity": "120±3db",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Connectivity": "Wired",
+      "Driver Size": "10000000 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "10000000 mAh"
     }
   },
   {
@@ -2274,6 +3316,18 @@
       "Impendance": "2200 Ohm",
       "Pick-up Pattern": "Omni Directional",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "60 mAh",
+      "Battery Life": "60 Hours",
+      "Weight": "252 g",
+      "Color": "Black"
     }
   },
   {
@@ -2297,6 +3351,15 @@
       "Microphone Size": "ENC Dual Mic Array",
       "Pick-up Pattern": "Omni-Directional",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Weight": "115 g",
+      "Color": "Black"
     }
   },
   {
@@ -2322,6 +3385,15 @@
       "Sensitivity": "-40 dB",
       "Pick-up Pattern": "Uni-directional",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "ASUS",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "4 mAh",
+      "Weight": "294 g",
+      "Color": "Grey"
     }
   },
   {
@@ -2344,6 +3416,16 @@
       "Frequency": "100 Hz - 10 KHz",
       "Impendance": "32 Ohm",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "30 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "30 mAh",
+      "Weight": "6.9 g",
+      "Color": "White"
     }
   },
   {
@@ -2366,6 +3448,16 @@
       "Frequency": "100 Hz - 10 KHz",
       "Impendance": "32 Ohm",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "30 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "30 mAh",
+      "Weight": "6.9 g",
+      "Color": "Rose Pink"
     }
   },
   {
@@ -2389,6 +3481,16 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Rapoo",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "336 g",
+      "Color": "Black"
     }
   },
   {
@@ -2407,6 +3509,16 @@
       "Battery Life": "Up to 57 hr",
       "Weight": "160g",
       "Manufacturing Warranty": "06-month Warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "33 mm",
+      "Impedance": "30 Ohm",
+      "Battery Capacity": "33 mAh",
+      "Battery Life": "57 Hours",
+      "Weight": "160 g"
     }
   },
   {
@@ -2427,6 +3539,15 @@
       "Frequency": "100Hz to 10kHz",
       "Impendance": "2.2k Ohms",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "32 mAh",
+      "Color": "Carbon black"
     }
   },
   {
@@ -2445,6 +3566,16 @@
       "Color": "Black",
       "Frequency": "20Hz - 20kHz",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "5 Hours",
+      "Weight": "255 g",
+      "Color": "Black"
     }
   },
   {
@@ -2463,6 +3594,15 @@
       "Weight": "225g",
       "Color": "Black",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Tribit",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "34 Hours",
+      "Weight": "225 g",
+      "Color": "Black"
     }
   },
   {
@@ -2482,6 +3622,15 @@
       "Weight": "Approx. 221g",
       "Color": "Black\r\nGreen\r\nGray\r\nIvory",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "33 Hours",
+      "Weight": "221 g",
+      "Color": "Black"
     }
   },
   {
@@ -2501,6 +3650,16 @@
       "Noise ratio": "32dB",
       "Microphone Size": "CVC8.0 Microphone",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Tribit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "3003 mAh",
+      "Battery Life": "3 Hours",
+      "Weight": "250 g",
+      "Color": "Black"
     }
   },
   {
@@ -2520,6 +3679,14 @@
       "Weight": "260 g",
       "Color": "Black, Blue",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Fastrack",
+      "Connectivity": "Wireless",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "260 g",
+      "Color": "Black"
     }
   },
   {
@@ -2541,6 +3708,15 @@
       "Frequency": "100Hz to 10kHz",
       "Impendance": "2.2k Ohms",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Carbon black"
     }
   },
   {
@@ -2559,6 +3735,14 @@
       "Color": "Black",
       "Cable Length": "1.5 m / 4.9 ft",
       "Manufacturing Warranty": "2-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "2 mAh",
+      "Weight": "0.125 kg",
+      "Color": "Black"
     }
   },
   {
@@ -2582,6 +3766,16 @@
       "Frequency": "100 Hz – 10 kHz",
       "Pick-up Pattern": "Unidirectional ECM boom",
       "Manufacturing Warranty": "01 years warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "322 g",
+      "Color": "Black"
     }
   },
   {
@@ -2599,6 +3793,15 @@
       "Weight": "296 ± 1g",
       "Color": "Black\r\nIvory",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "296 g",
+      "Color": "Black"
     }
   },
   {
@@ -2618,6 +3821,14 @@
       "Color": "Black",
       "Frequency": "100Hz-14kHz",
       "Manufacturing Warranty": "2-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "188 g",
+      "Color": "Black"
     }
   },
   {
@@ -2637,6 +3848,14 @@
       "Color": "Black",
       "Frequency": "100Hz-14kHz",
       "Manufacturing Warranty": "2-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "188 g",
+      "Color": "Black"
     }
   },
   {
@@ -2659,6 +3878,16 @@
       "Noise ratio": "-44 dB",
       "Sensitivity": "44dB",
       "Manufacturing Warranty": "02-year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Weight": "111 g",
+      "Color": "Black"
     }
   },
   {
@@ -2681,6 +3910,13 @@
       "Noise ratio": "17 dB",
       "Pick-up Pattern": "Uni-directional",
       "Manufacturing Warranty": "2-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Battery Capacity": "2 mAh",
+      "Weight": "177 g",
+      "Color": "Black"
     }
   },
   {
@@ -2704,6 +3940,16 @@
       "Frequency": "Analog: 20Hz - 10000Hz\r\nDigital: 100Hz - 6300Hz",
       "Noise ratio": "-44 dB",
       "Manufacturing Warranty": "02-year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Battery Life": "18 Hours",
+      "Weight": "130 g",
+      "Color": "Black"
     }
   },
   {
@@ -2727,6 +3973,16 @@
       "Frequency": "Analog: 20Hz - 10000Hz\r\nDigital: 100Hz - 6300Hz",
       "Noise ratio": "-44 dB",
       "Manufacturing Warranty": "02-year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Battery Life": "18 Hours",
+      "Weight": "130 g",
+      "Color": "Black"
     }
   },
   {
@@ -2746,6 +4002,14 @@
       "Weight": "350g",
       "Color": "Black",
       "Cable Length": "2400mm"
+    },
+    "filter": {
+      "Brand": "RODE",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "350 g",
+      "Color": "Black"
     }
   },
   {
@@ -2768,6 +4032,16 @@
       "Frequency": "100 ~ 10000 Hz",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wired",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "310 g",
+      "Color": "Black"
     }
   },
   {
@@ -2791,6 +4065,14 @@
       "Noise ratio": "67dB",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "RODE",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "100 g",
+      "Color": "Black"
     }
   },
   {
@@ -2811,6 +4093,14 @@
       "Color": "Black",
       "Frequency": "100Hz-8.000Hz",
       "Manufacturing Warranty": "2-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Life": "37 Hours",
+      "Weight": "6.22 g",
+      "Color": "Black"
     }
   },
   {
@@ -2833,6 +4123,15 @@
       "Frequency": "Analog 100Hz - 7000Hz",
       "Sensitivity": "-17dBFS/pa",
       "Manufacturing Warranty": "2-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "28 mm",
+      "Battery Life": "24 Hours",
+      "Weight": "75 g",
+      "Color": "Black"
     }
   },
   {
@@ -2853,6 +4152,15 @@
       "Weight": "136g\r\n4.8oz",
       "Frequency": "Analog: 20Hz - 10000Hz\r\nDigital: 20Hz - 1000Hz",
       "Manufacturing Warranty": "02-year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Battery Life": "32 Hours",
+      "Weight": "136 g"
     }
   },
   {
@@ -2873,6 +4181,15 @@
       "Weight": "136g\r\n4.8oz",
       "Frequency": "Analog: 20Hz - 10000Hz\r\nDigital: 20Hz - 1000Hz",
       "Manufacturing Warranty": "02-year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Battery Life": "32 Hours",
+      "Weight": "136 g"
     }
   },
   {
@@ -2889,6 +4206,15 @@
       "Weight": "13.6 ounces (384.8 grams)",
       "Color": "Silver\r\nSpace Gray\r\nSky Blue\r\nPink\r\nGreen",
       "Manufacturing Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Apple",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "13.6 g",
+      "Color": "Silver"
     }
   },
   {
@@ -2905,6 +4231,12 @@
       "Microphone Size": "Noise Isolating Microphone",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "7.1 mAh",
+      "Color": "Yellow"
     }
   },
   {
@@ -2913,7 +4245,12 @@
     "price": "4400",
     "description": "Frequency: 20Hz - 20kHz\rSensitivity: 94dBV/Pa +/- 3 dB\rCable Length: 7.64 ft",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h390/logitech-h390-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h390/logitech-h390-500x500.jpg",
+    "filter": {
+      "Brand": "Logitech",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
+    }
   },
   {
     "id": 2501,
@@ -2934,6 +4271,16 @@
       "Color": "Black",
       "System Requirements": "Mac Desktop PC",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "266 g",
+      "Color": "Black"
     }
   },
   {
@@ -2957,6 +4304,15 @@
       "Microphone Size": "ENC Dual Mic Array",
       "Pick-up Pattern": "Omni-Directional",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Weight": "115 g",
+      "Color": "Black"
     }
   },
   {
@@ -2982,6 +4338,18 @@
       "Impendance": "2200 Ohm",
       "Pick-up Pattern": "Omni Directional",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "60 Hours",
+      "Weight": "252 g",
+      "Color": "Space Edition"
     }
   },
   {
@@ -3007,6 +4375,18 @@
       "Impendance": "2200 Ohm",
       "Pick-up Pattern": "Omni Directional",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "60 Hours",
+      "Weight": "252 g",
+      "Color": "Sakura Edition"
     }
   },
   {
@@ -3028,6 +4408,15 @@
       "Microphone Size": "Ø6.0x5mm",
       "Impendance": "2.2KΩ",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "375 g",
+      "Color": "Black"
     }
   },
   {
@@ -3043,6 +4432,12 @@
       "Cable Length": "2.0m",
       "System Requirements": "Compatible for PS4, Xbox One Controller, PC, Laptop, Tablet, iMac, Computer, Mobile Phone, and other devices",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "EKSA",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "7.1 mAh",
+      "Color": "Grey"
     }
   },
   {
@@ -3067,6 +4462,17 @@
       "Frequency": "100Hz～10KHz",
       "Pick-up Pattern": "uni-Directional",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.1",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "350 mAh",
+      "Battery Life": "22 Hours",
+      "Weight": "120 g",
+      "Color": "Black"
     }
   },
   {
@@ -3092,6 +4498,18 @@
       "Impendance": "2200 Ohm",
       "Pick-up Pattern": "Omni Directional",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "60 Hours",
+      "Weight": "252 g",
+      "Color": "Mint Edition"
     }
   },
   {
@@ -3115,6 +4533,15 @@
       "Microphone Size": "ENC Dual Mic Array",
       "Pick-up Pattern": "Omni-Directional",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "28 mAh",
+      "Weight": "115 g",
+      "Color": "Black"
     }
   },
   {
@@ -3136,6 +4563,15 @@
       "System Requirements": "PC/ PS4/ NS",
       "Frequency": "50-20KHZ",
       "Manufacturing Warranty": "1 year warranty"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "53 mm",
+      "Impedance": "64 Ohm",
+      "Battery Capacity": "53 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -3155,6 +4591,15 @@
       "Others": "Chip: AC7018F\r\nUSB  Port: Type-C\r\nAudio code: AAC  SBC\r\nActive Noise reduction depth: -40db\r\nWireless Working Range:10M  (without obstacles)\r\nProfiles Supported: a2dp 1.3.2\\avctp 1.4\\avdtp 1.3\\ avrcp1.6.2\\hfp 1.8 \\spp 1.2\\l2cap core 5.3",
       "Color": "Black",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "700 mAh",
+      "Battery Life": "5 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -3163,7 +4608,13 @@
     "price": "4000",
     "description": "Connectivity:  3.5mm Adapter\rDimensions:205 x 180 x 100 mm\rWeight: 0.25 kg",
     "category": "headphone",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/HP Accssories/Headphone/HP Omen Wired Gaming Headset/OMEN-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/HP Accssories/Headphone/HP Omen Wired Gaming Headset/OMEN-500x500.jpg",
+    "filter": {
+      "Brand": "HP",
+      "Connectivity": "Wired",
+      "Driver Size": "3.5 mm",
+      "Battery Capacity": "3.5 mAh"
+    }
   },
   {
     "id": 2513,
@@ -3188,6 +4639,15 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 year warranty"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "53 mm",
+      "Impedance": "64 Ohm",
+      "Battery Capacity": "53 mAh",
+      "Color": "White"
     }
   },
   {
@@ -3206,6 +4666,16 @@
       "Weight": "160g",
       "Color": "Black (JBLT510BTBLKAM)\r\nBlue (JBLT510BTBLUAM)",
       "Manufacturing Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "32 mAh",
+      "Weight": "160 g",
+      "Color": "Black (JBLT510BTBLKAM)"
     }
   },
   {
@@ -3233,6 +4703,16 @@
       "Impendance": "2200 Ohm",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "53 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "53 mAh",
+      "Weight": "266 g",
+      "Color": "Black"
     }
   },
   {
@@ -3251,6 +4731,17 @@
       "Weight": "213g",
       "Color": "Black",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Tribit",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "30 Hours",
+      "Weight": "213 g",
+      "Color": "Black"
     }
   },
   {
@@ -3277,6 +4768,15 @@
       "Noise ratio": "> 60 dB",
       "Pick-up Pattern": "Unidirectional ECM boom",
       "Manufacturing Warranty": "01 years warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "44 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "250 g",
+      "Color": "Black & Blue"
     }
   },
   {
@@ -3301,6 +4801,17 @@
       "Frequency": "100Hz～10KHz",
       "Pick-up Pattern": "uni-Directional",
       "Manufacturing Warranty": "2 Year"
+    },
+    "filter": {
+      "Brand": "Inbertec",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.1",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "350 mAh",
+      "Battery Life": "22 Hours",
+      "Weight": "120 g",
+      "Color": "Black"
     }
   },
   {
@@ -3323,6 +4834,17 @@
       "Microphone Size": "4.0x1.5mm",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "400 mAh",
+      "Battery Life": "41 Hours",
+      "Weight": "180 g",
+      "Color": "Grey"
     }
   },
   {
@@ -3345,6 +4867,16 @@
       "Microphone Size": "4.0*1.5mm",
       "Impendance": "2.2kΩ",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "7.1 mm",
+      "Impedance": "118 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "0.5 kg",
+      "Color": "Black"
     }
   },
   {
@@ -3363,6 +4895,14 @@
       "Cable Length": "5.90 ft (1.8m)",
       "System Requirements": "Works with Common calling applications across almost all platforms and operating systems.\r\nWindows® or macOS®\r\nChrome OS™\r\nUSB port",
       "Manufacturing Warranty": "02 years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Driver Size": "20 mm",
+      "Impedance": "20 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "4.23 kg"
     }
   },
   {
@@ -3380,6 +4920,13 @@
       "Color": "Black",
       "Frequency": "Wideband|Hifi and Digital Signal Processing",
       "Manufacturing Warranty": "02 Years Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Weight": "0.1711 kg",
+      "Color": "Black"
     }
   },
   {
@@ -3402,6 +4949,17 @@
       "Impendance": "2.2K Ohm(MAX)",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Battery Life": "41 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -3425,6 +4983,17 @@
       "Cable Length": "Type-C Charging Cable: 80 cm\r\n3.5mm Audio Cable: 150 cm",
       "Frequency": "100Hz - 10KHz",
       "Manufacturing Warranty": "1 year warranty"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "3.5 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "1200 mAh",
+      "Battery Life": "44 Hours",
+      "Weight": "335 g",
+      "Color": "White"
     }
   },
   {
@@ -3447,6 +5016,17 @@
       "Color": "Black",
       "Frequency": "100Hz - 10KHz",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "A4tech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.3",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "1200 mAh",
+      "Battery Life": "44 Hours",
+      "Color": "Black"
     }
   },
   {
@@ -3470,6 +5050,13 @@
       "Microphone Size": "6 mm",
       "Pick-up Pattern": "Cardioid (Unidirectional)",
       "Manufacturing Warranty": "02 Years Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Impedance": "39 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "280 g",
+      "Color": "Black"
     }
   },
   {
@@ -3494,6 +5081,16 @@
       "Frequency": "100 Hz - 10 kHz",
       "Pick-up Pattern": "Cardioid (Unidirectional)",
       "Manufacturing Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "36 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "240 g",
+      "Color": "Black"
     }
   },
   {
@@ -3518,6 +5115,16 @@
       "Frequency": "100 Hz – 10 kHz",
       "Pick-up Pattern": "Unidirectional",
       "Manufacturing Warranty": "01 Year Warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "285 g",
+      "Color": "Black"
     }
   },
   {
@@ -3538,6 +5145,13 @@
       "Frequency": "1-5kHz",
       "Pick-up Pattern": "Noise cancelling\r\nUni-Directional",
       "Manufacturing Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "JABRA",
+      "Connectivity": "Wired",
+      "Driver Size": "12 mm",
+      "Impedance": "32 Ohm",
+      "Color": "Black"
     }
   },
   {
@@ -3558,6 +5172,13 @@
       "Frequency": "1-5kHz",
       "Pick-up Pattern": "Noise cancelling\r\nUni-Directional",
       "Manufacturing Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "JABRA",
+      "Connectivity": "Wired",
+      "Driver Size": "12 mm",
+      "Impedance": "32 Ohm",
+      "Color": "Black"
     }
   },
   {
@@ -3580,6 +5201,17 @@
       "System Requirements": "LIGHTSPEED Wireless: USB 2.0 port (type A port). PC with window 10 or later, macOS X 10.14 or later, PlayStation 5, or PlayStation 4",
       "Frequency": "100 Hz - 8 KHz",
       "Manufacturing Warranty": "02 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "45 Ohm",
+      "Battery Capacity": "1.57 mAh",
+      "Battery Life": "18 Hours",
+      "Weight": "5.8 g",
+      "Color": "Black and Neon Yellow"
     }
   },
   {
@@ -3603,6 +5235,16 @@
       "Cable Length": "USB-C charging cable: 1 m",
       "Frequency": "100-7KHz",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "30 mm",
+      "Impedance": "32 Ohm",
+      "Battery Life": "16 Hours",
+      "Weight": "122 g",
+      "Color": "Black"
     }
   },
   {
@@ -3623,6 +5265,11 @@
       "System Requirements": "Windows Vista or higher\r\nmacOS 10.7 or higher\r\nLinux\r\nOne USB 2.0 port",
       "Frequency": "100 Hz - 10 KHZ",
       "Manufacturing Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Weight": "120 g"
     }
   },
   {
@@ -3642,6 +5289,15 @@
       "Others": "Foldable\r\n1 Built-in Microphone\r\nDetachable Cable\r\nHands Free Call\r\nJBL Pure Bass Sound\r\nMulti-Point Connection",
       "Color": "Black\r\nBlue",
       "Manufacturing Warranty": "6 Months Warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -3663,6 +5319,16 @@
       "Color": "Pink",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "350 g",
+      "Color": "Pink"
     }
   },
   {
@@ -3686,6 +5352,15 @@
       "Sensitivity": "-43dBV (0dB=1V/Pa,1kHz)",
       "Pick-up Pattern": "Noise-cancelling",
       "Manufacturing Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "HyperX",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "65 Ohm",
+      "Weight": "298 g",
+      "Color": "Black & Red"
     }
   },
   {
@@ -3709,6 +5384,15 @@
       "Frequency": "100 Hz–20 KHz",
       "Pick-up Pattern": "Cardioid (Unidirectional)",
       "Manufacturing Warranty": "02 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "280 g",
+      "Color": "Black with blue"
     }
   },
   {
@@ -3731,6 +5415,15 @@
       "Microphone Size": "Length mic boom: 150mm (include gooseneck)\r\nCapsule diameter: Ø6",
       "Pick-up Pattern": "condenser (back electret)",
       "Manufacturing Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "HyperX",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "53 mm",
+      "Impedance": "60 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "320 g",
+      "Color": "Red"
     }
   },
   {
@@ -3753,6 +5446,15 @@
       "Microphone Size": "Length mic boom: 150mm (include gooseneck)\r\nCapsule diameter: Ø6",
       "Pick-up Pattern": "condenser (back electret)",
       "Manufacturing Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "HyperX",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "53 mm",
+      "Impedance": "60 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "320 g",
+      "Color": "Gun Metal"
     }
   },
   {
@@ -3776,6 +5478,16 @@
       "Frequency": "100Hz – 10kHz",
       "Pick-up Pattern": "Noise cancelling unidirectional microphone",
       "Manufacturing Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "3.9 mm",
+      "Impedance": "4.8 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Weight": "171 g",
+      "Color": "Black"
     }
   },
   {
@@ -3792,6 +5504,12 @@
       "Color": "Charcoal",
       "Noise ratio": "Noice Isolation and Control",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Cisco",
+      "Connectivity": "Wired",
+      "Weight": "13.9 g",
+      "Color": "Charcoal"
     }
   },
   {
@@ -3810,6 +5528,16 @@
       "Weight": "220g",
       "Color": "Black",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "220 g",
+      "Color": "Black"
     }
   },
   {
@@ -3828,6 +5556,14 @@
       "Color": "Black",
       "Cable Length": "1.5 m",
       "Manufacturing Warranty": "02-year"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Driver Size": "28 mm",
+      "Battery Capacity": "2 mAh",
+      "Weight": "0.125 kg",
+      "Color": "Black"
     }
   },
   {
@@ -3849,6 +5585,15 @@
       "System Requirements": "Windows 10 and above",
       "Frequency": "100-10,000 Hz",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "SteelSeries",
+      "Connectivity": "Wireless",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "36 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -3872,6 +5617,16 @@
       "Noise ratio": "Bi-directional, Noise-cancelling",
       "Sensitivity": "-38dBV (0dB=1V/Pa at 1kHz)",
       "Manufacturing Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "HyperX",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "65 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Weight": "57 g",
+      "Color": "Black (4P5L2AA)"
     }
   },
   {
@@ -3891,6 +5646,15 @@
       "Weight": "200g",
       "Cable Length": "3m",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "AKG",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "200 g"
     }
   },
   {
@@ -3910,6 +5674,16 @@
       "Color": "Black",
       "Frequency": "100–6500 Hz",
       "Manufacturing Warranty": "01 year replacement warranty"
+    },
+    "filter": {
+      "Brand": "SteelSeries",
+      "Connectivity": "Wireless",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "4 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "4 mAh",
+      "Weight": "9 g",
+      "Color": "Black"
     }
   },
   {
@@ -3930,6 +5704,13 @@
       "Frequency": "101Hz – 10000Hz",
       "Pick-up Pattern": "Noise cancelling\r\nUni-Directional",
       "Manufacturing Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "JABRA",
+      "Connectivity": "Wired",
+      "Driver Size": "9 mm",
+      "Impedance": "32 Ohm",
+      "Color": "Black"
     }
   },
   {
@@ -3950,6 +5731,13 @@
       "Frequency": "101Hz – 10000Hz",
       "Pick-up Pattern": "Noise cancelling\r\nUni-Directional",
       "Manufacturing Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "JABRA",
+      "Connectivity": "Wired",
+      "Driver Size": "9 mm",
+      "Impedance": "32 Ohm",
+      "Color": "Black"
     }
   },
   {
@@ -3970,6 +5758,15 @@
       "Cable Length": "3.93ft headset cable; 4.26ft USB dongle cable | USB cable",
       "Pick-up Pattern": "Uni-directional, Noise-cancelling",
       "Manufacturing Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "HyperX",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "53 mm",
+      "Battery Capacity": "53 mAh",
+      "Weight": "0.67 g",
+      "Color": "Gun Metal (727A8AA)"
     }
   },
   {
@@ -3990,6 +5787,14 @@
       "Frequency": "100Hz to 10kHz",
       "Noise ratio": "Omnidirectional noise canceling",
       "Manufacturing Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wired",
+      "Driver Size": "7.1 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "7.1 mAh",
+      "Color": "Carbon Black"
     }
   },
   {
@@ -4012,6 +5817,16 @@
       "Frequency": "50 ~ 10000 Hz",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wired",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "310 g",
+      "Color": "Black"
     }
   },
   {
@@ -4032,6 +5847,13 @@
       "Frequency": "101Hz – 10000Hz",
       "Pick-up Pattern": "Noise cancelling\r\nUni-Directional",
       "Manufacturing Warranty": "02 year warranty"
+    },
+    "filter": {
+      "Brand": "JABRA",
+      "Connectivity": "Wired",
+      "Driver Size": "9 mm",
+      "Impedance": "32 Ohm",
+      "Color": "Black"
     }
   },
   {
@@ -4052,6 +5874,13 @@
       "Frequency": "101Hz – 10000Hz",
       "Pick-up Pattern": "Noise cancelling\r\nUni-Directional",
       "Manufacturing Warranty": "3 years"
+    },
+    "filter": {
+      "Brand": "JABRA",
+      "Connectivity": "Wired",
+      "Driver Size": "9 mm",
+      "Impedance": "32 Ohm",
+      "Color": "Black"
     }
   },
   {
@@ -4075,6 +5904,16 @@
       "Sensitivity": "-39 dB ± 3 dB",
       "Pick-up Pattern": "Unidirectional",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "9018 mAh",
+      "Weight": "384 g",
+      "Color": "Black"
     }
   },
   {
@@ -4095,6 +5934,14 @@
       "Frequency": "100Hz - 14000Hz",
       "Sensitivity": "-38dBV/Pa",
       "Manufacturing Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "63 g",
+      "Color": "Black"
     }
   },
   {
@@ -4118,6 +5965,15 @@
       "Microphone Size": "6 mm",
       "Pick-up Pattern": "Cardioid (Unidirectional)",
       "Manufacturing Warranty": "02 Years Warranty"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "35 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "320 g",
+      "Color": "Black"
     }
   },
   {
@@ -4140,6 +5996,15 @@
       "Impendance": "2.2k Ohms",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Corsair",
+      "Connectivity": "Wireless",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "20 mAh",
+      "Battery Life": "20 Hours",
+      "Color": "White"
     }
   },
   {
@@ -4166,6 +6031,17 @@
       "Microphone Size": "6 mm",
       "Pick-up Pattern": "Cardioid (Unidirectional)",
       "Manufacturing Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB",
+      "Driver Size": "40 mm",
+      "Impedance": "39 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "29 Hours",
+      "Weight": "278 g",
+      "Color": "Black"
     }
   },
   {
@@ -4192,6 +6068,17 @@
       "Microphone Size": "6 mm",
       "Pick-up Pattern": "Cardioid (Unidirectional)",
       "Manufacturing Warranty": "2 Years"
+    },
+    "filter": {
+      "Brand": "Logitech",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB",
+      "Driver Size": "40 mm",
+      "Impedance": "39 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "29 Hours",
+      "Weight": "278 g",
+      "Color": "Lilac/ Purple"
     }
   },
   {
@@ -4217,6 +6104,17 @@
       "Frequency": "100 Hz - 10 kHz",
       "Pick-up Pattern": "Unidirectional",
       "Manufacturing Warranty": "1 year warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "50 Hours",
+      "Weight": "250 g",
+      "Color": "Roblox Edition"
     }
   },
   {
@@ -4238,6 +6136,15 @@
       "System Requirements": "Nova 5 App: iPhone (iOS 15.6) & Android (Android 9)\r\nGG + Engine: Windows 8.1 and above, Mac OS 10.13 and above\r\nGG + Sonar Audio Software Suite: Windows 10 and above (required for ChatMix on PC)",
       "Frequency": "100-10,000 Hz @ 32kHz/16bit",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "SteelSeries",
+      "Connectivity": "Wireless",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "36 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4262,6 +6169,17 @@
       "Frequency": "100 Hz - 10 kHz",
       "Pick-up Pattern": "Unidirectional",
       "Manufacturing Warranty": "1 Year Warranty (Need to submit product box for warranty claim)"
+    },
+    "filter": {
+      "Brand": "Razer",
+      "Connectivity": "Wireless",
+      "Input Jack": "USB Type-C",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Battery Life": "11 Hours",
+      "Weight": "365 g",
+      "Color": "White"
     }
   },
   {
@@ -4277,6 +6195,15 @@
       "Weight": "6.22 oz / 176.4 g",
       "Color": "Black",
       "Manufacturing Warranty": "02-year"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "37 mAh",
+      "Battery Life": "37 Hours",
+      "Weight": "6.22 g",
+      "Color": "Black"
     }
   },
   {
@@ -4298,6 +6225,15 @@
       "System Requirements": "Nova 5 App: iPhone (iOS 15.6) & Android (Android 9)\r\nGG + Engine: Windows 8.1 and above, Mac OS 10.13 and above\r\nGG + Sonar Audio Software Suite: Windows 10 and above (required for ChatMix on PC)",
       "Frequency": "100-10,000 Hz @ 32kHz/16bit",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "SteelSeries",
+      "Connectivity": "Wireless",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "36 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4318,6 +6254,16 @@
       "Color": "Black",
       "Cable Length": "3m",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "AKG",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "120 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "238 g",
+      "Color": "Black"
     }
   },
   {
@@ -4338,6 +6284,14 @@
       "Weight": "285 g (10 oz)",
       "Cable Length": "Detachable cables (includes 1.2 m-3.0 m coiled cable, 3.0 m straight cable, and 1.2m straight cable)",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Audio",
+      "Connectivity": "Wired",
+      "Driver Size": "45 mm",
+      "Impedance": "38 Ohm",
+      "Battery Capacity": "45 mAh",
+      "Weight": "285 g"
     }
   },
   {
@@ -4362,6 +6316,17 @@
       "Frequency": "85 -15,000 Hz",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Audio-Technica",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "45 mm",
+      "Impedance": "38 Ohm",
+      "Battery Capacity": "3.7 mAh",
+      "Battery Life": "50 Hours",
+      "Weight": "307 g",
+      "Color": "Dark Blue"
     }
   },
   {
@@ -4387,6 +6352,16 @@
       "Sensitivity": "-40 dB",
       "Pick-up Pattern": "Unidirectional",
       "Manufacturing Warranty": "01 year Replacement warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "9281 mAh",
+      "Weight": "310 g",
+      "Color": "Black"
     }
   },
   {
@@ -4408,6 +6383,15 @@
       "Sensitivity": "-35 dBv/Pa (analog microphone)/-26 dBFS/Pa (digital microphone)",
       "Pick-up Pattern": "cushion pattern",
       "Manufacturing Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "100 mm",
+      "Battery Capacity": "100 mAh",
+      "Weight": "197 g",
+      "Color": "Black"
     }
   },
   {
@@ -4429,6 +6413,15 @@
       "Sensitivity": "-35 dBv/Pa (analog microphone)/-26 dBFS/Pa (digital microphone)",
       "Pick-up Pattern": "cushion pattern",
       "Manufacturing Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "100 mm",
+      "Battery Capacity": "100 mAh",
+      "Weight": "197 g",
+      "Color": "Black"
     }
   },
   {
@@ -4450,6 +6443,16 @@
       "Frequency": "5-20.000Hz for analog microphone/100Hz - 8000Hz for digital microphone",
       "Microphone Size": "4 Analog MEMS / 6 Digital MEMS",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "10 mAh",
+      "Battery Life": "37 Hours",
+      "Weight": "286 g",
+      "Color": "Black (28599-999-999)"
     }
   },
   {
@@ -4471,6 +6474,16 @@
       "Frequency": "5-20.000Hz for analog microphone/100Hz - 8000Hz for digital microphone",
       "Microphone Size": "4 Analog MEMS / 6 Digital MEMS",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "10 mAh",
+      "Battery Life": "37 Hours",
+      "Weight": "286 g",
+      "Color": "Black (28599-999-989)"
     }
   },
   {
@@ -4494,6 +6507,15 @@
       "Microphone Size": "6 x 5 mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4515,6 +6537,15 @@
       "Microphone Size": "4 x 1.5mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4532,6 +6563,13 @@
       "System Requirements": "PlayStation Link compatible devices, including your PS5 console, PC, Mac and PlayStation Portal remote player",
       "Microphone Size": "Retractable microphone",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth",
+      "Battery Life": "30 Hours",
+      "Color": "White"
     }
   },
   {
@@ -4552,6 +6590,13 @@
       "Microphone Size": "φ6x5 mm",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike",
+      "Connectivity": "Wired",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Color": "White"
     }
   },
   {
@@ -4574,6 +6619,16 @@
       "Cable Length": "1.8mm",
       "Microphone Size": "6*5mm",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Weight": "212 g",
+      "Color": "Black"
     }
   },
   {
@@ -4597,6 +6652,16 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Weight": "283 g",
+      "Color": "Black"
     }
   },
   {
@@ -4614,6 +6679,14 @@
       "Cable Length": "4.92 Ft",
       "Pick-up Pattern": "Omni-Directional",
       "Manufacturing Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "20 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4634,6 +6707,14 @@
       "Sensitivity": "109dB±3 dB",
       "Impendance": "21±15% Ω",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "HAVIT",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "3 mAh",
+      "Color": "Block"
     }
   },
   {
@@ -4656,6 +6737,17 @@
       "Noise ratio": "Yes",
       "Pick-up Pattern": "Omni Directional",
       "Manufacturing Warranty": "365 DAY Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "20 Hours",
+      "Weight": "0.203 kg",
+      "Color": "Grey"
     }
   },
   {
@@ -4676,6 +6768,15 @@
       "Impendance": "≤2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "White"
     }
   },
   {
@@ -4696,6 +6797,15 @@
       "Impendance": "≤2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Pink"
     }
   },
   {
@@ -4717,6 +6827,14 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "365 Days Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "36 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4737,6 +6855,15 @@
       "Impendance": "≤ 2.2KQ (Max)",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4754,6 +6881,14 @@
       "Color": "White",
       "Impendance": "≤ 2.2K Ω(Max)",
       "Manufacturing Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Driver Size": "3.5 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Color": "White"
     }
   },
   {
@@ -4775,6 +6910,15 @@
       "Impendance": "≤ 2.2KQ (Max)",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Input Jack": "USB",
+      "Driver Size": "50 mm",
+      "Impedance": "16 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4798,6 +6942,16 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "365 Days Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Input Jack": "3.5 mm",
+      "Driver Size": "40 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "3.5 mAh",
+      "Battery Life": "20 Hours",
+      "Weight": "214.5 g"
     }
   },
   {
@@ -4820,6 +6974,14 @@
       "Impendance": "2200 Ohm ± 30% at 1KHz",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Impedance": "32 Ohm",
+      "Battery Capacity": "50 mAh",
+      "Color": "Black"
     }
   },
   {
@@ -4837,6 +6999,14 @@
       "Color": "Black, White",
       "Pick-up Pattern": "Omnidirectional",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon",
+      "Connectivity": "Wired",
+      "Driver Size": "50 mm",
+      "Battery Capacity": "20 mAh",
+      "Weight": "1.25 g",
+      "Color": "Black"
     }
   },
   {
@@ -4864,6 +7034,14 @@
       "Microphone Sensitivity": "40±2dB",
       "Sensitivity": "Headset Sensitivity: 120+3dB\r\nMicrophone Sensitivity: 40+2dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Driver Size": "515 mm",
+      "Impedance": "22 Ohm",
+      "Battery Capacity": "515 mAh",
+      "Weight": "429.3 g"
     }
   },
   {
@@ -4886,6 +7064,16 @@
       "Impendance": "2.2KΩ",
       "Pick-up Pattern": "Omni-directional",
       "Manufacturing Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wireless",
+      "Driver Size": "40 mm",
+      "Impedance": "17 Ohm",
+      "Battery Capacity": "40 mAh",
+      "Battery Life": "18 Hours",
+      "Weight": "168 g",
+      "Color": "Pink"
     }
   },
   {
@@ -4901,6 +7089,15 @@
       "Connectivity": "Bluetooth 5.0",
       "Others": "Battery: 500mAh\r\nPlay music/Call Time: 25H\r\nStandby time: 250H\r\nCharging Port: USB Type-C",
       "Weight": "220g",
+      "Color": "Black"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Connectivity": "Wireless",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "40 mm",
+      "Battery Capacity": "500 mAh",
+      "Weight": "220 g",
       "Color": "Black"
     }
   },
@@ -4927,6 +7124,14 @@
       "Microphone Sensitivity": "-38dB",
       "Sensitivity": "Headset Sensitivity : 119dB\r\nMicrophone Sensitivity : -38dB",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech",
+      "Connectivity": "Wired",
+      "Driver Size": "511 mm",
+      "Impedance": "21 Ohm",
+      "Battery Capacity": "511 mAh",
+      "Weight": "2.4 kg"
     }
   }
 ]

@@ -16,6 +16,9 @@
       "USB": "Type-C",
       "Power": "3.7V-15A",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech"
     }
   },
   {
@@ -35,6 +38,9 @@
       "USB": "Yes",
       "Power": "3.7V-1.5A",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech"
     }
   },
   {
@@ -55,6 +61,9 @@
       "USB": "Yes",
       "Power": "3.7V, 1.1A",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech"
     }
   },
   {
@@ -74,6 +83,9 @@
       "USB": "USB A",
       "Power": "3.7V, 1.1A",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Fantech"
     }
   },
   {
@@ -91,6 +103,9 @@
       "USB": "USB 2.0",
       "Power": "Power: 3W x 2 (RMS)\r\nOperating Voltage: 5V",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -111,6 +126,9 @@
       "System Requirements": "Phone/PC/Pad/MP3/MP4",
       "Power": "Input Interface: 5V/USB\r\nPower: 2x 3W",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "T-WOLF"
     }
   },
   {
@@ -129,6 +147,9 @@
       "System Requirements": "Desktop, home theater, PS4 gaming device, and LCDs",
       "Power": "Input Interface: 5V USB\r\nPower: 3W*2",
       "Manufacturing Warranty": "1 Year Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "T-WOLF"
     }
   },
   {
@@ -149,6 +170,9 @@
       "USB": "Yes",
       "Input Connetor": "USB wired",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -168,6 +192,9 @@
       "System Requirements": "Desktop, home theater, PS4 gaming device, and LCDs",
       "Power": "3W",
       "Manufacturing Warranty": "1 Year Replacement Warranty"
+    },
+    "filter": {
+      "Brand": "T-Wolf"
     }
   },
   {
@@ -186,6 +213,9 @@
       "Wired": "Yes",
       "USB": "Yes",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -206,6 +236,9 @@
       "Wired": "Yes",
       "USB": "Yes",
       "Manufacturing Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -224,6 +257,9 @@
       "Wired": "Yes",
       "USB": "Yes",
       "Manufacturing Warranty": "1 Year warranty"
+    },
+    "filter": {
+      "Brand": "FANTECH"
     }
   },
   {
@@ -235,6 +271,9 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/speaker/rapoo/a60/a60-03-500x500.webp",
     "Specifications": {
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Rapoo"
     }
   },
   {
@@ -256,6 +295,9 @@
       "USB": "Yes",
       "Power": "5V DC Power Adapter",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -277,6 +319,9 @@
       "Input Connetor": "3.5 mm jack (audio), USB (power)",
       "Power": "Power supply: USB",
       "Manufacturing Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Xtrike"
     }
   },
   {
@@ -294,6 +339,9 @@
       "Wired": "Yes",
       "Power": "AC Power",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -312,6 +360,9 @@
       "USB": "Yes",
       "Input Connetor": "3.5mm plug",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech"
     }
   },
   {
@@ -332,6 +383,9 @@
       "Wired": "Yes",
       "USB": "Yes",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Fantech"
     }
   },
   {
@@ -351,6 +405,9 @@
       "Input Connetor": "USB + 3.5mm TRRS jack",
       "System Requirements": "PC, Playstation, Xbox, Switch, Mobile, Mac",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Fantech"
     }
   },
   {
@@ -374,6 +431,9 @@
       "Wired": "Yes",
       "USB": "Yes",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -394,6 +454,9 @@
       "Input Connetor": "3.5 mm Jack",
       "Power": "USB Powered",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -413,6 +476,9 @@
       "Wired": "Yes",
       "USB": "Yes",
       "Manufacturing Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -432,6 +498,9 @@
       "Input Connetor": "3.5 mm jack (audio), USB (power)",
       "Power": "Power supply: USB",
       "Manufacturing Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Xtrike"
     }
   },
   {
@@ -447,6 +516,9 @@
       "Wired": "Yes",
       "Input Connetor": "3.5mm/USB Port",
       "Manufacturing Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "Rapoo"
     }
   },
   {
@@ -467,6 +539,9 @@
       "USB": "Yes",
       "Power": "DC 5V",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -489,6 +564,9 @@
       "Input Connetor": "3.5mm stereo line-in",
       "Power": "USB 5V/2A",
       "Manufacturing Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -510,6 +588,9 @@
       "USB": "Yes",
       "Input Connetor": "Input: 3.5mm stereo line in\r\nDC input: USB 5V 1A",
       "Manufacturing Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -529,6 +610,9 @@
       "USB": "Yes",
       "Power": "RMS 2W x 2(THD+N=10%,F0=1KHz)",
       "Manufacturing Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "Edifier"
     }
   },
   {
@@ -546,6 +630,9 @@
       "Color": "Black",
       "Connection Type": "Bluetooth V5.0",
       "Warranty": "01 Year warranty"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -564,6 +651,9 @@
       "Wired": "USB powered + 3.5mm plug",
       "USB": "Yes",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "AULA"
     }
   },
   {
@@ -582,6 +672,9 @@
       "USB": "Yes",
       "Power": "DC 5V",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -599,6 +692,9 @@
       "Dimension": "80*90*180 mm",
       "Bluetooth": "Bluetooth V5.0",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike"
     }
   },
   {
@@ -619,6 +715,9 @@
       "Input Connetor": "USB 5V + 3.5MM",
       "Power": "AC 110V-220V",
       "Manufacturing Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Havit"
     }
   },
   {
@@ -631,6 +730,9 @@
     "Specifications": {
       "Others": "High-quality speaker deliver a clean and accurate sound\r\nPlug and play. The speaker is powered by a single USB cable\r\nMesmerizing LED light create a soothing ambiance or a vibrant atmosphere, enhancing your listening experience.\r\n Convenient volume knob for easy accessible",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike"
     }
   },
   {
@@ -648,6 +750,9 @@
       "Battery": "2400mAh",
       "Power": "<25 W",
       "Manufacturing Warranty": "1 Year Replacement"
+    },
+    "filter": {
+      "Brand": "T-WOLF"
     }
   },
   {
@@ -667,6 +772,9 @@
       "Battery": "",
       "Power": "DC-5V-1A",
       "Manufacturing Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtrike"
     }
   },
   {
@@ -684,6 +792,9 @@
       "Dimension": "Main machine: 110x131x158mm\r\nAuxiliary machine: 67x79x98mm",
       "USB": "Yes",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xtrike"
     }
   },
   {
@@ -701,6 +812,9 @@
       "Input Connetor": "1x Balanced XLR3-31 Type\r\n1x 1/4\" (6.35 mm) Balanced TRS",
       "Power": "Power Consumption: 55 W",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Yamaha"
     }
   },
   {
@@ -723,6 +837,9 @@
       "USB": "Yes",
       "Power": "240 50/60Hz",
       "Manufacturing Warranty": "365 Days"
+    },
+    "filter": {
+      "Brand": "Xtreme"
     }
   },
   {
@@ -745,6 +862,9 @@
       "Input Connetor": "3.5mm",
       "Power": "5V via USB",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redragon"
     }
   },
   {
@@ -765,6 +885,9 @@
       "Wired": "Yes",
       "Battery": "~230V 50Hz",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Xtreme"
     }
   },
   {
@@ -785,6 +908,9 @@
       "Wired": "Yes",
       "Input Connetor": "Input: 3.5mm stereo",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -808,6 +934,9 @@
       "USB": "Yes",
       "Input Connetor": "2RCA",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -829,6 +958,9 @@
       "Bluetooth": "Yes",
       "Input Connetor": "2RCA",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -845,6 +977,9 @@
       "Drivers": "3 Inch (Satellite), 5.2 Inch (Subwoofer)",
       "Weight": "4.5 Kg",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -866,6 +1001,9 @@
       "USB": "Yes",
       "Input Connetor": "3.5 mm stereo, USB, SD, Bluetooth",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -882,6 +1020,9 @@
       "Drivers": "6.5 Inch(subwoofer)",
       "Weight": "4.8 Kg",
       "Manufacturing Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -903,6 +1044,9 @@
       "Bluetooth": "Yes",
       "Input Connetor": "Bluetooth, 3.5mm stereo",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -924,6 +1068,9 @@
       "Bluetooth": "Yes",
       "Input Connetor": "4RCA",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -946,6 +1093,9 @@
       "Battery": "12v, 4.5A Acid Battery\r\nCharging Time: 2 Hours",
       "Power": "230V 50Hz",
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Xtreme"
     }
   },
   {
@@ -966,6 +1116,9 @@
       "Battery capacity / voltage": "6000 mAh",
       "Battery Life": "Up to 7 hours",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Edifier"
     }
   },
   {
@@ -986,6 +1139,9 @@
       "USB": "Yes",
       "Input Connetor": "2RCA",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -1003,6 +1159,9 @@
       "Bluetooth": "Yes",
       "Input Connetor": "LINE IN 1\r\nLINE IN 2",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Edifier"
     }
   },
   {
@@ -1022,6 +1181,9 @@
       "USB": "Yes.",
       "Power": "80 Watt",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1043,6 +1205,9 @@
       "Battery capacity / voltage": "6600mAh",
       "Battery Life": "Up to 7 hours",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Edifier"
     }
   },
   {
@@ -1063,6 +1228,9 @@
       "USB": "Yes.",
       "Power": "100V-240V~50/60Hz 0.5A",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1084,6 +1252,9 @@
       "Input Connetor": "3.5 mm Aux",
       "Power": "100 - 240V AC",
       "Manufacturing Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1101,6 +1272,9 @@
       "Color": "Black",
       "Connection Type": "Wireless",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1123,6 +1297,9 @@
       "Battery capacity / voltage": "equivalent to 3.7V 4800mAh",
       "Battery Life": "Battery charge time: 3.5 hours\r\nMusic play time: up to 6 hours",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -1140,6 +1317,9 @@
       "Color": "Black",
       "Connection Type": "Analogue audio input (stereo mini), USB typeA, FAT32 / NTFS, Optical-audio input, Bluetooth version5.0",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1162,6 +1342,9 @@
       "Connection Type": "Bluetooth, USB stick, Aux cable",
       "Battery Life": "Maximum music playing time: 12hrs\r\nCharging time: 3.5hrs",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -1180,6 +1363,9 @@
       "Connection Type": "Bluetooth, AUX",
       "Battery capacity / voltage": "12V/12A",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Boston"
     }
   },
   {
@@ -1201,6 +1387,9 @@
       "Battery capacity / voltage": "equivalent to 3.7V 4800mAh",
       "Battery Life": "Battery charge time: 3.5 hours\r\nMusic play time: up to 6 hours",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Boston"
     }
   },
   {
@@ -1217,6 +1406,9 @@
       "Weight": "14.5kg",
       "Battery capacity / voltage": "0.5W",
       "Warranty": "01-Year Service Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1235,6 +1427,9 @@
       "Color": "Black",
       "Connection Type": "Optical-audio input, Analogue audio input (stereo mini),USB typeA,FAT32 / NTFS\r\nBluetooth 5.0",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1256,6 +1451,9 @@
       "Battery capacity / voltage": "3.635V, 3283mAh",
       "Battery Life": "10 hours",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -1276,6 +1474,9 @@
       "Connection Type": "Bluetooth & Wi-Fi",
       "Battery capacity / voltage": "3.635V, 3283mAh",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -1296,6 +1497,9 @@
       "Input Connetor": "1x ANALOG AUDIO INPUT\r\n1x ANALOG AUDIO OUTPUT\r\n1x HDMI OUTPUT\r\n1x COMPOSITE VIDEO OUTPUT\r\n2x SPEAKER OUTPUT FRONT\r\nMICROPHONE INPUT: 2 (6φ / Guitar available for one port - MIC 2 / GUITAR)",
       "Power": "POWER CONSUMPTION (IN STANDBY): 0.5 W",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1316,6 +1520,9 @@
       "Connection Type": "Bluetooth & Wi-Fi",
       "Battery capacity / voltage": "3.635V, 6600 mAh",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -1336,6 +1543,9 @@
       "Input Connetor": "1x ANALOG AUDIO INPUT\r\n1x ANALOG AUDIO OUTPUT\r\n1x HDMI OUTPUT\r\n1x COMPOSITE VIDEO OUTPUT\r\n2x SPEAKER OUTPUT FRONT\r\nMICROPHONE INPUT: 2 (6φ / Guitar available for one port - MIC 2 / GUITAR)",
       "Power": "POWER CONSUMPTION (IN STANDBY): 0.5 W",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1353,6 +1563,9 @@
       "USB": "1x USB connection for software updates only",
       "Input Connetor": "Rear panel of the console:\r\n1x HDMI output with Audio Return Channel (ARC)\r\n5x HDMI inputs\r\n2x optical digital audio connections\r\n2x coaxial digital audio connections\r\n2x analogue L/R audio inputs\r\n1x 3.5 mm connection for the Acoustimass module\r\n1x data port\r\n1x IR repeater port\r\n1x Ethernet port for SoundTouch and software updates via a network\n\r\nFront of the console:\r\n1x HDMI input\r\n1x 3.5 mm jack for ADAPTiQ system and headphones\r\n1x power button\r\n1x source button\r\n1x system setup button",
       "Manufacturing Warranty": "1 year service warranty"
+    },
+    "filter": {
+      "Brand": "Bose"
     }
   },
   {
@@ -1370,6 +1583,9 @@
       "USB": "1x USB connection for software updates only",
       "Input Connetor": "Rear panel of the console:\r\n1x HDMI output with Audio Return Channel (ARC)\r\n5x HDMI inputs\r\n2x optical digital audio connections\r\n2x coaxial digital audio connections\r\n2x analogue L/R audio inputs\r\n1x 3.5 mm connection for the Acoustimass module\r\n1x data port\r\n1x IR repeater port\r\n1x Ethernet port for SoundTouch and software updates via a network\n\r\nFront of the console:\r\n1x HDMI input\r\n1x 3.5 mm jack for ADAPTiQ system and headphones\r\n1x power button\r\n1x source button\r\n1x system setup button",
       "Manufacturing Warranty": "1 year service warranty"
+    },
+    "filter": {
+      "Brand": "Bose"
     }
   },
   {
@@ -1388,6 +1604,9 @@
       "Color": "Black",
       "Connection Type": "Inputs: 1 x HDMI 1.4 - Audio/Video, 1 x Optical TOSLINK - Audio\r\nOutputs\t: 1 x HDMI 1.4 - ARC/Audio/Video\r\nUSB I/O: 1 x USB-A (Unspecified Interface) (Audio) (Rear)\r\nWireless Audio Protocols: Bluetooth 4.2",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -1406,6 +1625,9 @@
       "Bluetooth": "Yes",
       "Input Connetor": "2RCA",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -1414,7 +1636,10 @@
     "price": "4600",
     "description": "RICH SOUND FOR A FULL RANGE AUDIO EXPERIENCE\rEASY CONTROLS\rBALANCED SOUND 25 WATTS",
     "category": "speaker-and-home-theater",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/Speaker /SPEAKER LOGITECH Z311-500x500.png"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/Speaker /SPEAKER LOGITECH Z311-500x500.png",
+    "filter": {
+      "Brand": "Logitech"
+    }
   },
   {
     "id": 2421,
@@ -1432,6 +1657,9 @@
       "Color": "Black",
       "Connection Type": "Wireless and wired",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -1447,6 +1675,9 @@
       "Color": "Black",
       "Connection Type": "Bluetooth, USB",
       "Warranty": "01-Year warranty"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1458,6 +1689,9 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/Accessories/speaker /Microlab/M300U-500x500.jpg",
     "Specifications": {
       "Manufacturing Warranty": "01 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -1476,6 +1710,9 @@
       "USB": "USB reader supports MP3/WMA dual formats decoding",
       "Power": "15W Satellite 3W.2 - Subwoofer: 15W",
       "Manufacturing Warranty": "1 Year Limited"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1487,6 +1724,9 @@
     "main_image": "https://www.startech.com.bd/image/cache/catalog/speaker/microlab/tmn1/tmn1-01-500x500.webp",
     "Specifications": {
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Microlab"
     }
   },
   {
@@ -1509,6 +1749,9 @@
       "USB": "Yes",
       "Power": "~230V 50Hz",
       "Manufacturing Warranty": "01 year warranty."
+    },
+    "filter": {
+      "Brand": "Xtreme"
     }
   },
   {
@@ -1528,6 +1771,9 @@
       "USB": "USB reader supports MP3/WMA dual formats decoding",
       "Power": "AC 220-240V~50/60HZ",
       "Manufacturing Warranty": "1 Year Limited"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1547,6 +1793,9 @@
       "Color": "Black",
       "Connection Type": "3.5mm AUX, Bluetooth, USB",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier"
     }
   },
   {
@@ -1563,6 +1812,9 @@
       "USB": "USB reader supports MP3/WMA dual formats decoding",
       "Battery": "2 AA batteries required.",
       "Manufacturing Warranty": "1 Year Limited"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1581,6 +1833,9 @@
       "Color": "Black and White",
       "Connection Type": "Wireless (Bluetooth)",
       "Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -1601,6 +1856,9 @@
       "Input Connetor": "3.5mm",
       "Power": "50 W",
       "Manufacturing Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1619,6 +1877,9 @@
       "Bluetooth": "Yes. version 5.0",
       "USB": "Yes",
       "Manufacturing Warranty": "01-Year Service Warranty"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1640,6 +1901,9 @@
       "Bluetooth": "Yes",
       "USB": "Yes",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Redner"
     }
   },
   {
@@ -1659,6 +1923,9 @@
       "Connection Type": "Bluetooth",
       "Battery capacity / voltage": "Power output: 10Wx5+30W (RMS)\r\nAudio Wattage\t80 Watts\r\nVoltage\t220 Volts",
       "Warranty": "01 year service"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1681,6 +1948,9 @@
       "Battery": "12V voltage and 3.2Ah capacity",
       "Power": "AC 100V-240V~50/60Hz 1A",
       "Manufacturing Warranty": "01 Year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1699,6 +1969,9 @@
       "Connection Type": "INPUT AND OUTPUT TERMINALS: HDMI(ARC), Optical-audio input, USB type A\r\nBLUETOOTH: RX (receiver)\r\nBLUETOOTH VERSION: version 4.2",
       "Battery capacity / voltage": "POWER CONSUMPTION: 30 W\r\nPOWER CONSUMPTION(ON REMOTE START MODE): 0.5 W (Bluetooth standby off/Control for HDMI off)\r\nPOWER OUTPUT (TOTAL): 120 W",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1720,6 +1993,9 @@
       "Bluetooth": "Yes. version 5.0",
       "USB": "Yes.",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1741,6 +2017,9 @@
       "Wired": "yes",
       "Bluetooth": "yes",
       "Manufacturing Warranty": "01 years"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1758,6 +2037,9 @@
       "Weight": "10.3Kg (net)",
       "Connection Type": "Bluetooth 4.0 version",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1770,6 +2052,9 @@
     "Specifications": {
       "Frequency": "35 Hz-20 KHz",
       "Total Speakers": "2:1"
+    },
+    "filter": {
+      "Brand": "Logitech"
     }
   },
   {
@@ -1794,6 +2079,9 @@
       "USB": "yes",
       "Battery": "80W RMS",
       "Manufacturing Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1816,6 +2104,9 @@
       "Battery": "12V",
       "Power": "4.5Ah",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1835,6 +2126,9 @@
       "Battery": "11.1V/8000mAh(88.8Wh)",
       "Power": "AC 100~240V",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1858,6 +2152,9 @@
       "Battery": "NO",
       "Power": "AC 120V-240V~50/60Hz 2A",
       "Manufacturing Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1875,6 +2172,9 @@
       "Color": "Brown and Black",
       "Connection Type": "Bluetooth, 3.5mm to RCA, Optical, Coaxial",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Edifier"
     }
   },
   {
@@ -1892,6 +2192,9 @@
       "Input Connetor": "Mini XLR cable connecter",
       "Power": "Mini XLR cable connects to Rally Display Hub for both signal and power",
       "Manufacturing Warranty": "02 years warranty"
+    },
+    "filter": {
+      "Brand": "Logitech"
     }
   },
   {
@@ -1909,6 +2212,9 @@
       "Color": "Black",
       "Connection Type": "Optical-audio input, Analogue audio input (stereo mini),USB typeA,FAT32 / NTFS\r\nBluetooth 5.0",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1925,6 +2231,9 @@
       "Color": "Black",
       "Connection Type": "Wireless\r\nBluetooth Version 5.0",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1941,6 +2250,9 @@
       "Color": "Black",
       "Connection Type": "Wireless\r\nBluetooth Version 5.0",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -1963,6 +2275,9 @@
       "USB": "Yes",
       "Input Connetor": "3.5 mm Aux",
       "Manufacturing Warranty": "01 year"
+    },
+    "filter": {
+      "Brand": "F&D"
     }
   },
   {
@@ -1984,6 +2299,9 @@
       "USB": "Yes",
       "Input Connetor": "Line In 1, Line In 2, Optical, Coaxial, Bluetooth",
       "Manufacturing Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier"
     }
   },
   {
@@ -2004,6 +2322,9 @@
       "Connection Type": "Bluetooth 4.2",
       "Battery Life": "<6 hrs",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2016,6 +2337,9 @@
     "Specifications": {
       "Frequency": "35 Hz-20 KHz",
       "Total Speakers": "5:1"
+    },
+    "filter": {
+      "Brand": "Logitech"
     }
   },
   {
@@ -2034,6 +2358,9 @@
       "Color": "Black",
       "Connection Type": "Inputs: 1 x HDMI 1.4 - Audio/Video, 1 x Optical TOSLINK - Audio\r\nOutputs: 1 x HDMI 1.4 - ARC/Audio/Video\r\nUSB I/O: 1 x USB-A (Unspecified Interface) (Audio) (Rear)\r\nWireless Audio Protocols: Bluetooth 4.2",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2057,6 +2384,9 @@
       "Battery capacity / voltage": "27Wh equivalent to 3.6V 7500mAh",
       "Battery Life": "Battery charge time: 3.5 hours\r\nMusic play time: up to 10 hours",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2077,6 +2407,9 @@
       "Connection Type": "Bluetooth 4.2",
       "Battery Life": "<6 hrs",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2096,6 +2429,9 @@
       "Connection Type": "Bluetooth Wireless",
       "Battery capacity / voltage": "AC110-240V~ 50/60Hz",
       "Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -2119,6 +2455,9 @@
       "Battery capacity / voltage": "BATTERY 200 Li-ion polymer 34 Wh\r\n(equivalent to 7.2V / 4277mAh)",
       "Battery Life": "Battery charge time: 3.5 hours (speaker off mode)\r\nMusic play time: up to 12 hours (varies by volume level and audio content)",
       "Warranty": "No Parts warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2137,6 +2476,9 @@
       "Bluetooth": "ver. 1.3",
       "USB": "USB typeA",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -2155,6 +2497,9 @@
       "Color": "Black",
       "Connection Type": "Bluetooth, Wi-Fi, USB Type-A",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2175,6 +2520,9 @@
       "Battery capacity / voltage": "Lithium-ion 72Wh Battery\r\nCharging time (hrs): 3.5",
       "Battery Life": "18hrs",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2195,6 +2543,9 @@
       "Input Connetor": "ANALOG AUDIO INPUT: 1\r\nMICROPHONE INPUT: 2 (6φ/Guitar available for one port - MIC 2/ GUITAR)",
       "Power": "POWER CONSUMPTION (IN STANDBY): 0.5 W",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony"
     }
   },
   {
@@ -2215,6 +2566,9 @@
       "Battery capacity / voltage": "Charging time (hrs): 3",
       "Battery Life": "18hrs",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2236,6 +2590,9 @@
       "Color": "Black",
       "Connection Type": "Bluetooth 5.1",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2255,6 +2612,9 @@
       "Connection Type": "HDMI eARC, optical with Bluetooth & Wi-Fi",
       "Battery capacity / voltage": "AC110-240V~ 50/60Hz",
       "Warranty": "No Parts Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -2274,6 +2634,9 @@
       "Color": "Black",
       "Connection Type": "Bluetooth Technology",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL"
     }
   },
   {
@@ -2288,6 +2651,9 @@
       "Wired": "HDMI ARC (Audio Return Channel)\r\nConsumer Electronics Control (CEC)\r\nEthernet\r\nOptical\r\nPower input\r\nUSB (for service only)\r\nADAPTiQ input\r\nWired bass module (optional)\r\nWired IR blaster (optional)",
       "Bluetooth": "Bluetooth range: up to 30 ft (9 m)\r\nBluetooth version: 4.2",
       "Manufacturing Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Bose"
     }
   },
   {
@@ -2307,6 +2673,9 @@
       "Color": "Titan Black",
       "Connection Type": "Bluetooth and Wi-Fi",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   }
 ]

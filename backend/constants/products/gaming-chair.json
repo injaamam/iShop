@@ -5,7 +5,10 @@
     "price": "800",
     "description": "Protect your hard floors and chair casters\rMicrofiber weave fabric\rExtended durability\rExtra Large size: 900 x 900 x 2 mm",
     "category": "gaming-chair",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/xtrike-me/gx01/gx01-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/gaming-chair/xtrike-me/gx01/gx01-01-500x500.webp",
+    "filter": {
+      "Brand": "Xtrike"
+    }
   },
   {
     "id": 2347,
@@ -27,6 +30,18 @@
       "Chair Weight": "14 to 16 kg",
       "Colors": "Blue",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "GameMax",
+      "Chair Type": "Relaxing gaming chair",
+      "Armrest": "Fixed",
+      "Max Load": "120 kg",
+      "Chair Weight": "16 kg",
+      "Seating Area": "53.5 mm",
+      "Seat Depth": "45 mm",
+      "Height Adjustability": "47 mm",
+      "Base Diameter": "350 mm",
+      "Color": "Blue"
     }
   },
   {
@@ -47,6 +62,14 @@
       "Colors": "Pink",
       "Others": "Neck & back cushion",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "MeeTion",
+      "Chair Type": "E-Sport Gaming Chair",
+      "Armrest": "2D",
+      "Chair Weight": "17 kg",
+      "Base Diameter": "100000 mm",
+      "Color": "Pink"
     }
   },
   {
@@ -64,6 +87,14 @@
       "Colors": "Black",
       "Tilt Lock": "Adjusting tilt",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Cougar",
+      "Chair Type": "Gaming Chair",
+      "Armrest": "2D",
+      "Max Load": "120 kg",
+      "Chair Weight": "15.2 kg",
+      "Color": "Black"
     }
   },
   {
@@ -81,6 +112,14 @@
       "Colors": "Orange",
       "Tilt Lock": "Adjusting tilt",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Cougar",
+      "Chair Type": "Gaming Chair",
+      "Armrest": "2D",
+      "Max Load": "120 kg",
+      "Chair Weight": "15.2 kg",
+      "Color": "Orange"
     }
   },
   {
@@ -102,6 +141,17 @@
       "Colors": "Black",
       "Tilt Lock": "Yes",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Cougar",
+      "Chair Type": "Gaming Chair (Motor racing-inspired ergonomic design)",
+      "Armrest": "2D",
+      "Max Load": "120 kg",
+      "Chair Weight": "19.9 kg",
+      "Seating Area": "530 mm",
+      "Height Adjustability": "50 mm",
+      "Floor To Seat Top": "550 mm",
+      "Color": "Black"
     }
   },
   {
@@ -122,6 +172,17 @@
       "Colors": "Orange",
       "Tilt Lock": "Adjusting tilt",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Cougar",
+      "Chair Type": "Gaming Chair",
+      "Armrest": "5D",
+      "Max Load": "160 kg",
+      "Chair Weight": "25.9 kg",
+      "Seating Area": "510 mm",
+      "Seat Depth": "130 mm",
+      "Floor To Seat Top": "555 mm",
+      "Color": "Orange"
     }
   },
   {
@@ -142,6 +203,17 @@
       "Colors": "Gold",
       "Tilt Lock": "Adjusting tilt",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Cougar",
+      "Chair Type": "Gaming Chair",
+      "Armrest": "5D",
+      "Max Load": "160 kg",
+      "Chair Weight": "25.9 kg",
+      "Seating Area": "510 mm",
+      "Seat Depth": "130 mm",
+      "Floor To Seat Top": "555 mm",
+      "Color": "Gold"
     }
   },
   {
@@ -163,6 +235,17 @@
       "Colors": "Black",
       "Tilt Lock": "Yes",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Cougar",
+      "Chair Type": "Gaming Chair (Motor racing-inspired ergonomic design)",
+      "Armrest": "3D",
+      "Max Load": "120 kg",
+      "Chair Weight": "23.65 kg",
+      "Seating Area": "500 mm",
+      "Height Adjustability": "50 mm",
+      "Floor To Seat Top": "560 mm",
+      "Color": "Black"
     }
   },
   {
@@ -185,6 +268,16 @@
       "Chair Weight": "14 kg",
       "Colors": "Blue",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Marvo",
+      "Armrest": "2D",
+      "Max Load": "150 kg",
+      "Chair Weight": "14 kg",
+      "Seating Area": "53 mm",
+      "Seat Depth": "50 mm",
+      "Height Adjustability": "85 mm",
+      "Color": "Blue"
     }
   },
   {
@@ -207,6 +300,16 @@
       "Chair Weight": "14 kg",
       "Colors": "Red",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Marvo",
+      "Armrest": "2D",
+      "Max Load": "150 kg",
+      "Chair Weight": "14 kg",
+      "Seating Area": "53 mm",
+      "Seat Depth": "50 mm",
+      "Height Adjustability": "85 mm",
+      "Color": "Red"
     }
   }
 ]

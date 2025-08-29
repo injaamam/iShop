@@ -33,6 +33,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -67,6 +70,9 @@
       "USB": "Yes",
       "WLAN": "Yes",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Symphony"
     }
   },
   {
@@ -101,6 +107,9 @@
       "USB": "USB Type-C Charging",
       "WLAN": "Yes",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "TECLAST"
     }
   },
   {
@@ -134,6 +143,9 @@
       "Sensors": "Gravity sensor\r\nHall Sensor",
       "USB": "Yes",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Teclast"
     }
   },
   {
@@ -168,6 +180,9 @@
       "USB": "USB Type-C Charging",
       "WLAN": "Yes",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "TECLAST"
     }
   },
   {
@@ -202,6 +217,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 802.11 a/b/g/n 2.4+5GHz",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Walton"
     }
   },
   {
@@ -234,6 +252,9 @@
       "USB": "Yes",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "HONOR"
     }
   },
   {
@@ -266,6 +287,9 @@
       "Sensors": "GPS+B1C+GLONASS+Galileo\r\nGravity sensor\r\nLight Sensor\r\nDistance Sensor\r\nHall Sensor",
       "USB": "USB Type-C Charging",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Teclast"
     }
   },
   {
@@ -298,6 +322,9 @@
       "USB": "Yes",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "HONOR"
     }
   },
   {
@@ -332,6 +359,9 @@
       "USB": "USB-C (2.0)",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -365,6 +395,9 @@
       "Sensors": "Accelerometer, ambient light sensor",
       "WLAN": "802.11a/b/g/n/ac standards with support for security standard of WEP, WPA3 OWE, WPA/WPA2/WPA3 Personal and WPA/WPA2/WPA3 Enterprise",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -397,6 +430,9 @@
       "USB": "USB-C",
       "WLAN": "Single-antenna dual-band Wi-Fi. Supports public and private Wi-Fi networks or hotspots that use the dual-band 802.11a, 802.11b, 802.11g, or 802.11n standard with support for WEP, WPA, and WPA2 security",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -429,6 +465,9 @@
       "USB": "USB-C",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -461,6 +500,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 2.4GHz/5GHz",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -494,6 +536,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi Support\r\nWi-Fi Protocol: WIFI 5,802.11 a/b/g/n/ac\r\nWi-Fi Frequency: 2.4G/5G",
       "Warranty": "01-Year warranty"
+    },
+    "filter": {
+      "Brand": "Honor"
     }
   },
   {
@@ -528,6 +573,9 @@
       "USB": "Yes",
       "WLAN": "Yes",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Teclast"
     }
   },
   {
@@ -563,6 +611,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11b/g/n/ac (2.4GHz+5GHz), dual-band",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Walton"
     }
   },
   {
@@ -599,6 +650,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -631,6 +685,9 @@
       "USB": "USB-C (2.0)",
       "WLAN": "Dual-band 802.11a/b/g/n/ac standards with support for security standard of WEP, WPA3 OWE, WPA/WPA2/WPA3 Personal and WPA/WPA2/WPA3 Enterprise",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -666,6 +723,9 @@
       "USB": "Yes",
       "WLAN": "Yes",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "TECLAST"
     }
   },
   {
@@ -691,6 +751,9 @@
       "USB": "Yes (Type-C)",
       "WLAN": "Dual Band WiFi",
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -724,6 +787,9 @@
       "Sensors": "Accelerometer, ambient light sensor",
       "WLAN": "802.11a/b/g/n/ac standards with support for security standard of WEP, WPA3 OWE, WPA/WPA2/WPA3 Personal and WPA/WPA2/WPA3 Enterprise",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -756,6 +822,9 @@
       "USB": "Yes",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "HONOR"
     }
   },
   {
@@ -790,6 +859,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 5 2.4GHz/ 5GHz",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -823,6 +895,9 @@
       "Sensors": "GPS+B1C+GLONASS+Galileo\r\nGyroscope\r\nCompass\r\nGravity sensor\r\nDistance Sensor\r\nLight Sensor\r\nHall Sensor",
       "USB": "Yes",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Teclast"
     }
   },
   {
@@ -856,6 +931,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi Support\r\nWi-Fi Protocol: WIFI 5,802.11 a/b/g/n/ac\r\nWi-Fi Frequency: 2.4G/5G",
       "Warranty": "01-Year warranty"
+    },
+    "filter": {
+      "Brand": "HONOR"
     }
   },
   {
@@ -890,6 +968,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 5 2.4GHz/ 5GHz",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -922,6 +1003,9 @@
       "USB": "Type-C",
       "WLAN": "Yes",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Black"
     }
   },
   {
@@ -947,6 +1031,9 @@
       "USB": "Yes (Type-C)",
       "WLAN": "Dual Band WiFi",
       "Warranty": "1 year Warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -982,6 +1069,9 @@
       "USB": "USB-C (2.0",
       "WLAN": "Dual-band 802.11a/b/g/n/ac/ax standards with support for security standard of WEP, WPA3 OWE, WPA/WPA2/WPA3 Personal and WPA/WPA2/WPA3 Enterprise.",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -1007,6 +1097,9 @@
       "Color Gamut": "65% NTSC, 90% sRGB, 66% Adobe RGB",
       "Color Option": "Display Color: 16.7M(8bit)",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Huion"
     }
   },
   {
@@ -1041,6 +1134,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -1075,6 +1171,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -1109,6 +1208,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "01-Year"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -1143,6 +1245,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 5 2.4GHz/ 5GHz",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -1174,6 +1279,9 @@
       "USB": "Type-C(PD2.0)",
       "WLAN": "Yes",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -1208,6 +1316,9 @@
       "USB": "USB-C 2.0",
       "WLAN": "WiFi 802.11 a/b/g/n/ac, 2.4GHz & 5GHz dual-band",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -1244,6 +1355,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1277,6 +1391,9 @@
       "USB": "Yes",
       "WLAN": "2.4GHz and 5GHz",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "HONOR"
     }
   },
   {
@@ -1310,6 +1427,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1346,6 +1466,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1380,6 +1503,9 @@
       "USB": "USB Type-C",
       "WLAN": "WiFi 6, WiFi 5, WiFi 4 & 802.11a / b / g\r\n2.4G WiFi | 5G WiFi",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -1416,6 +1542,9 @@
       "USB": "USB Type-C 2.0",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1445,6 +1574,9 @@
       "USB": "Lightning, USB 2.0; magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -1475,6 +1607,9 @@
       "USB": "Lightning, USB 2.0; magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -1510,6 +1645,9 @@
       "USB": "USB Type-C",
       "WLAN": "WiFi 6, WiFi 5, WiFi 4 & 802.11a / b / g\r\n2.4G WiFi | 5G WiFi",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -1545,6 +1683,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1580,6 +1721,9 @@
       "USB": "USB Type-C 2.0, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1608,6 +1752,9 @@
       "Bluetooth": "Yes",
       "USB": "1 x USB-C 3.2 Gen1",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo"
     }
   },
   {
@@ -1644,6 +1791,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6 (Wi-Fi), Wi-Fi 802.11 a/b/g/n/ac (5G)",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1678,6 +1828,9 @@
       "USB": "USB-C port with support for:\r\nCharging\r\nDisplayPort\r\nUSB 2.0 (up to 480 Mb/s)",
       "WLAN": "Wi-Fi 6 (802.11ax) with 2x2 MIMO; speeds up to 1.2 Gbps\r\nSimultaneous dual band",
       "Warranty": "1-year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -1712,6 +1865,9 @@
       "USB": "USB-C port with support for:\r\nCharging\r\nDisplayPort\r\nUSB 2.0 (up to 480 Mb/s)",
       "WLAN": "Wi-Fi 6 (802.11ax) with 2x2 MIMO; speeds up to 1.2 Gbps\r\nSimultaneous dual band",
       "Warranty": "1-year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -1746,6 +1902,9 @@
       "USB": "USB-C port with support for:\r\nCharging\r\nDisplayPort\r\nUSB 2.0 (up to 480 Mb/s)",
       "WLAN": "Wi-Fi 6 (802.11ax) with 2x2 MIMO; speeds up to 1.2 Gbps\r\nSimultaneous dual band",
       "Warranty": "1-year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -1780,6 +1939,9 @@
       "USB": "USB-C port with support for:\r\nCharging\r\nDisplayPort\r\nUSB 2.0 (up to 480 Mb/s)",
       "WLAN": "Wi-Fi 6 (802.11ax) with 2x2 MIMO; speeds up to 1.2 Gbps\r\nSimultaneous dual band",
       "Warranty": "1-year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -1816,6 +1978,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 7 (802.11be), Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), 802.11a/b/g/n",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "OnePlus"
     }
   },
   {
@@ -1839,6 +2004,9 @@
       "Bluetooth": "Yes",
       "USB": "Yes",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Amazon"
     }
   },
   {
@@ -1875,6 +2043,9 @@
       "USB": "USB Type-C 2.0, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1909,6 +2080,9 @@
       "USB": "USB-C port with support for:\r\nCharging\r\nDisplayPort\r\nUSB 2.0 (up to 480 Mb/s)",
       "WLAN": "Wi-Fi 6 (802.11ax) with 2x2 MIMO; speeds up to 1.2 Gbps\r\nSimultaneous dual band",
       "Warranty": "1-year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -1945,6 +2119,9 @@
       "USB": "USB Type-C 2.0, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -1981,6 +2158,9 @@
       "USB": "USB Type-C 2.0, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -2016,6 +2196,9 @@
       "USB": "USB Type-C (USB 3.2 Gen 1)",
       "WLAN": "Wi-Fi7,802.11 a / b / g / n / ac / ax2.4GHz Wi-Fi | 5GHz Wi-Fi2x2 MIMO, 8x8 Sounding for MU-MIMO, Wi-Fi Direct, Miracast, DBS 2.4 GHz + 5GHz, HBS 5 GHz + 5GHz",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi"
     }
   },
   {
@@ -2048,6 +2231,9 @@
       "USB": "USB-C",
       "WLAN": "802.11ax Wi-Fi 6; simultaneous dual band (2.4GHz and 5GHz); HT80 with MIMO",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2082,6 +2268,9 @@
       "USB": "USB-C port with support for:\r\nCharging\r\nDisplayPort\r\nUSB 2.0 (up to 480 Mb/s)",
       "WLAN": "Wi-Fi 6 (802.11ax) with 2x2 MIMO; speeds up to 1.2 Gbps\r\nSimultaneous dual band",
       "Warranty": "1-year Official Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2118,6 +2307,9 @@
       "USB": "USB Type-C 3.2, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -2150,6 +2342,9 @@
       "USB": "USB-C",
       "WLAN": "Wi‑Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual band",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2185,6 +2380,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2220,6 +2418,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2255,6 +2456,9 @@
       "USB": "USB-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2289,6 +2493,9 @@
       "Sensors": "Touch ID\r\nThree‐axis gyro\r\nAccelerometer\r\nBarometer\r\nAmbient light sensor",
       "WLAN": "Wi-Fi 6E",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2323,6 +2530,9 @@
       "Sensors": "Touch ID\r\nThree‐axis gyro\r\nAccelerometer\r\nBarometer\r\nAmbient light sensor",
       "WLAN": "Wi-Fi 6E",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2357,6 +2567,9 @@
       "Sensors": "Touch ID\r\nThree‐axis gyro\r\nAccelerometer\r\nBarometer\r\nAmbient light sensor",
       "WLAN": "Wi-Fi 6E",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2392,6 +2605,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2427,6 +2643,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2462,6 +2681,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2497,6 +2719,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2531,6 +2756,9 @@
       "USB": "USB-C",
       "WLAN": "802.11ax Wi-Fi 6; simultaneous dual band (2.4GHz and 5GHz); HT80 with MIMO\r\nModel A2589:\r\n5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n20, n25, n28, n29, n30, n38, n40, n41, n48, n66, n71, n77, n78, n79)4\r\nFDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32 66, 71)\r\nTD-LTE (Bands 34, 38, 39, 40, 41, 42, 46, 48)\r\nUMTS/HSPA/HSPA+/DC‑HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)\r\nData only\r\nWi-Fi calling\r\neSIM",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2566,6 +2794,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2601,6 +2832,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2636,6 +2870,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2671,6 +2908,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2706,6 +2946,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2741,6 +2984,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2776,6 +3022,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2811,6 +3060,9 @@
       "USB": "Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2846,6 +3098,9 @@
       "USB": "USB Type-C 3.1, OTG, magnetic connector, video output",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
       "Warranty": "NO warranty"
+    },
+    "filter": {
+      "Brand": "ZTE"
     }
   },
   {
@@ -2881,6 +3136,9 @@
       "USB": "Thunderbolt / USB 4 port with support for:\r\nCharging\r\nDisplayPort\r\nThunderbolt 3 (up to 40Gb/s)\r\nUSB 4 (up to 40Gb/s)\r\nUSB 3 (up to 10Gb/s)",
       "WLAN": "Wi‑Fi 6E (802.11ax) with 2x2 MIMO Simultaneous dual band",
       "Warranty": "1 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -2917,6 +3175,9 @@
       "USB": "USB Type-C 3.2, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -2953,6 +3214,9 @@
       "USB": "USB Type-C 3.2, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -2989,6 +3253,9 @@
       "USB": "USB Type-C 3.2, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -3024,6 +3291,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -3059,6 +3329,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -3094,6 +3367,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 6E (802.11ax) with 2x2 MIMO\r\nSimultaneous dual-band",
       "Warranty": "01 Year International Warranty."
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -3146,6 +3422,9 @@
       "Weight": "1.94 lb (879 g)",
       "Other Features": "Sensors: \r\nAccelerometer\r\nGyroscope\r\nMagnetometer\r\nAmbient Color sensor",
       "Warranty Details": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Microsoft"
     }
   },
   {
@@ -3181,6 +3460,9 @@
       "USB": "Thunderbolt / USB 4 port with support for:\r\nCharging\r\nDisplayPort\r\nThunderbolt 3 (up to 40Gb/s)\r\nUSB 4 (up to 40Gb/s)\r\nUSB 3 (up to 10Gb/s)",
       "WLAN": "Wi‑Fi 6E (802.11ax) with 2x2 MIMO Simultaneous dual band",
       "Warranty": "1 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -3217,6 +3499,9 @@
       "USB": "USB Type-C 3.2, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -3253,6 +3538,9 @@
       "USB": "USB Type-C 3.2 Gen 1, magnetic connector",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   },
   {
@@ -3288,6 +3576,9 @@
       "USB": "Thunderbolt / USB 4 port with support for:\r\nCharging\r\nDisplayPort\r\nThunderbolt 3 (up to 40Gb/s)\r\nUSB 4 (up to 40Gb/s)\r\nUSB 3 (up to 10Gb/s)",
       "WLAN": "Wi‑Fi 6E (802.11ax) with 2x2 MIMO Simultaneous dual band",
       "Warranty": "1 Year International Warranty"
+    },
+    "filter": {
+      "Brand": "Apple"
     }
   },
   {
@@ -3324,6 +3615,9 @@
       "USB": "USB Type-C",
       "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
       "Warranty": "No"
+    },
+    "filter": {
+      "Brand": "Samsung"
     }
   }
 ]

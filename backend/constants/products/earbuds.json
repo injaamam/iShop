@@ -16,6 +16,13 @@
       "Weight": "~ 35 Grams",
       "Color": "White",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Charging Interface": "Lightning",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "350 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -37,6 +44,13 @@
       "Connector": "Bluetooth V5.0\r\nDistance: >10m",
       "Color": "White\r\nBlack",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Lenovo",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -56,6 +70,13 @@
       "Drivers": "13mm",
       "Color": "Black",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -76,6 +97,13 @@
       "Drivers": "13mm",
       "Color": "Black",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -94,6 +122,13 @@
       "Connector": "Bluetooth 5.3",
       "Color": "Black",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "FONENG",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "25 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -113,6 +148,13 @@
       "Weight": "74g",
       "Color": "Black",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Wireless",
+      "Driver Size": "300 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "9 Hours"
     }
   },
   {
@@ -132,6 +174,13 @@
       "Weight": "3.7g",
       "Color": "Black",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "320 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -151,6 +200,13 @@
       "Weight": "43g",
       "Color": "Black",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "300 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "15 Hours"
     }
   },
   {
@@ -173,6 +229,14 @@
       "Dimensions": "55*53*28mm/2.1*2*1.1in",
       "Weight": "29g",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Bluetooth 5.1",
+      "Charging Interface": "Type-C",
+      "Driver Size": "7 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -191,6 +255,14 @@
       "Connector": "Type-C Charging",
       "Color": "Black\r\nMilky White\r\nBlue",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -212,6 +284,13 @@
       "Drivers": "10mm",
       "Color": "Black",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -229,6 +308,14 @@
       "Duration": "Up to 4 hours",
       "Connector": "Type C",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -251,6 +338,13 @@
       "Weight": "Earbuds: 4g",
       "Color": "White",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -274,6 +368,14 @@
       "Weight": "Total weight: 41.8g\r\nSingle earbud weight: 3.6g.",
       "Color": "Black, Blue, Green, White",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "500 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -291,6 +393,13 @@
       "Weight": "Single earbud weight: 4.9g\r\nCharging case weight: 37.5g",
       "Color": "Black & Yollow",
       "Warranty": "3 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -309,6 +418,13 @@
       "Drivers": "8 mm",
       "Color": "White",
       "Warranty": "06 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Riversong",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "30 mAh"
     }
   },
   {
@@ -328,6 +444,13 @@
       "Connector": "Bluetooth 5.3",
       "Color": "Black",
       "Warranty": "3 months (Please preserve box & all accessories to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "300 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "1 Hours"
     }
   },
   {
@@ -351,6 +474,14 @@
       "Dimensions": "62x56x28mm/2.4x2.2x1.1in",
       "Weight": "35g",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "45 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -372,6 +503,14 @@
       "Connector": "Bluetooth 5.3",
       "Drivers": "10mm",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -394,6 +533,13 @@
       "Weight": "35g",
       "Color": "Black",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "45 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -412,6 +558,13 @@
       "Weight": "39.5g (single headset 3.6g)",
       "Color": "Black",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -431,6 +584,13 @@
       "Connector": "Bluetooth 5.3",
       "Color": "Black",
       "Warranty": "3 months  Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "45 mAh",
+      "Playtime": "9 Hours"
     }
   },
   {
@@ -450,6 +610,14 @@
       "Drivers": "10mm driver",
       "Color": "Phantom Black\r\nIce LakeBlue",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Oraimo",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "100 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -470,6 +638,14 @@
       "Drivers": "10mm",
       "Color": "Black\r\nWhite",
       "Warranty": "06-month Warranty"
+    },
+    "filter": {
+      "Brand": "XTRA",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -489,6 +665,13 @@
       "Connector": "Type-C Charging",
       "Color": "White",
       "Warranty": "06 months"
+    },
+    "filter": {
+      "Brand": "Riversong",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "180 mAh"
     }
   },
   {
@@ -506,6 +689,13 @@
       "Connector": "Bluetooth: V5.0",
       "Weight": "Earbuds: 3.0g x2\r\nCharging case: 25g",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Wireless",
+      "Driver Size": "6.1 mm",
+      "Battery Capacity": "5 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -523,6 +713,13 @@
       "Connector": "Bluetooth: V5.1",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5.1 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -541,6 +738,13 @@
       "Weight": "3.87g",
       "Color": "Black, White",
       "Warranty": "03-months warranty"
+    },
+    "filter": {
+      "Brand": "Haylou",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -561,6 +765,14 @@
       "Weight": "57.6g",
       "Color": "White",
       "Warranty": "3 months (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Lightning",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -577,6 +789,13 @@
       "Connector": "Bluetooth 5.3",
       "Color": "Black",
       "Warranty": "3 months  Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Awei",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "35 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -595,6 +814,13 @@
       "Drivers": "10 mm composite diaphragm",
       "Color": "Dark Night\r\nWhite",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "AULA",
+      "Bluetooth": "Bluetooth 5.1",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "30 mAh"
     }
   },
   {
@@ -617,6 +843,13 @@
       "Weight": "Earphone weight: 3g\r\nNet weight: 34g",
       "Color": "Black",
       "Warranty": "03 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -639,6 +872,13 @@
       "Weight": "Earphone weight: 3g\r\nNet weight: 34g",
       "Color": "Black, White",
       "Warranty": "03 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -657,6 +897,13 @@
       "Drivers": "10mm",
       "Color": "Speed Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Oraimo",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "76 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -674,6 +921,14 @@
       "Connector": "Type-C Charging",
       "Color": "Black",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "5.3 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -694,6 +949,14 @@
       "Weight": "Single Earbud 3.5g, case 31.5g",
       "Color": "Yellow\r\nWhite",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Black",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -709,6 +972,13 @@
       "Others": "Premium sound quality\r\nImmersive audio experience\r\nComfortable and lightweight design\r\nBluetooth connectivity\r\nWireless lifestyle\r\nCrystal-clear vocals\r\nDeep bass\r\nSeamless device compatibility",
       "Color": "Black",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "G-TiDE",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "5.3 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -729,6 +999,13 @@
       "Connector": "Bluetooth: V5.3",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -751,6 +1028,13 @@
       "Weight": "3.7g",
       "Color": "White",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -772,6 +1056,14 @@
       "Weight": "51.9+2¢g",
       "Color": "Black",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "IMILAB",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -794,6 +1086,13 @@
       "Weight": "Earphone weight: 3g\r\nNet weight: 34g",
       "Color": "Black, White",
       "Warranty": "03 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -811,6 +1110,13 @@
       "Others": "Touch controls\r\nVoice assistant\r\nPU composite membrane for high quality sound & bass\r\nAutomatic pairing and connection\r\nIn-ear comfortable and compact design\r\nBattery: 40mAh/0.148Wh （earphones） 300mAh/1.11Wh（charging box）",
       "Color": "Black (NGTW24001) DZ-TM1",
       "Warranty": "03-month Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "25 mm",
+      "Battery Capacity": "25 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -831,6 +1137,13 @@
       "Dimensions": "62.93×46.39×25.94mm",
       "Weight": "46.1±1g",
       "Warranty": "6 Month"
+    },
+    "filter": {
+      "Brand": "XINJI",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -848,6 +1161,13 @@
       "Connector": "Bluetooth 5.3",
       "Color": "Black\r\nBeige",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "FONENG",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -869,6 +1189,14 @@
       "Weight": "44g",
       "Color": "Black",
       "Warranty": "3 Month Brand Warranty"
+    },
+    "filter": {
+      "Brand": "IMILAB",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "800 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -885,6 +1213,13 @@
       "Weight": "Total weight: 48g, single earbud: 3g",
       "Color": "Black",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "400 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -902,6 +1237,13 @@
       "Weight": "120g",
       "Color": "White, Black",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "5.1 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -922,6 +1264,13 @@
       "Connector": "Bluetooth 5.3",
       "Drivers": "13mm",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Wireless",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -937,6 +1286,13 @@
       "Battery": "Earpiece: 45mAh\r\nCharging box: 360mAh",
       "Duration": "Music time: 5h\r\nCharging time of charging case: About 1 hour\r\nCharging time of earpiece: About 1 hour",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "45 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -958,6 +1314,13 @@
       "Weight": "43.5g",
       "Color": "Black",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "300 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -980,6 +1343,13 @@
       "Weight": "57.6g (including charging compartment)",
       "Color": "White",
       "Warranty": "3 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "360 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -999,6 +1369,13 @@
       "Drivers": "10mm",
       "Color": "White",
       "Warranty": "1 Year Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "HiFuture",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -1016,6 +1393,13 @@
       "Drivers": "8 mm",
       "Color": "Blue, White, Pink",
       "Warranty": "06 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Riversong",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "300 mAh"
     }
   },
   {
@@ -1031,6 +1415,12 @@
       "Duration": "Earbud Charging Time: Approx. 1.5 hr\r\nCharging Case Charging Time: Approx. 2hr\r\nPlayback Time: Approx. 5.5 hr\r\nBattery Life with Charging case: Approx. 20.5 hr",
       "Color": "White",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Haylou",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "20 mAh"
     }
   },
   {
@@ -1049,6 +1439,13 @@
       "Drivers": "10mm",
       "Color": "Black\r\nGrey\r\nBlue\r\nWhite",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.1",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -1068,6 +1465,13 @@
       "Drivers": "6mm",
       "Color": "Black\r\nWhite",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "500 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -1088,6 +1492,13 @@
       "Drivers": "10mm",
       "Color": "Black",
       "Warranty": "06 months"
+    },
+    "filter": {
+      "Brand": "Riversong",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "380 mAh"
     }
   },
   {
@@ -1103,6 +1514,13 @@
       "Battery": "Earpiece: 30mAh\r\nCharging box: 360mAh",
       "Duration": "Music time: 2-3h\r\nCall time:2 ~ 3h\r\nCharging time of charging case: About 1.3 hour",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -1123,6 +1541,13 @@
       "Weight": "31g",
       "Color": "Tarnish",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Xpert",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5616 mm",
+      "Battery Capacity": "28 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -1143,6 +1568,13 @@
       "Drivers": "10mm",
       "Weight": "42g",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "Riversong",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh"
     }
   },
   {
@@ -1165,6 +1597,13 @@
       "Weight": "Earphone weight: 3g\r\nNet weight: 39g",
       "Color": "Black, White",
       "Warranty": "03 Month Warranty (Must Claim With Box & All Accessories)"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1183,6 +1622,14 @@
       "Drivers": "12.4mm",
       "Color": "Mysterious Blue\r\nLight Gold",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Oraimo",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12.4 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -1200,6 +1647,12 @@
       "Drivers": "8mm dynamic",
       "Weight": "3.9 g",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Haylou",
+      "Charging Interface": "Type-C",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "310 mAh"
     }
   },
   {
@@ -1216,6 +1669,13 @@
       "Weight": "Total weight: 41g.",
       "Color": "Blue",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Hoco",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1233,6 +1693,13 @@
       "Connector": "Bluetooth 5.3",
       "Drivers": "10mm",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "Anker",
+      "Bluetooth": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "10 Hours"
     }
   },
   {
@@ -1252,6 +1719,14 @@
       "Connector": "Charging Port: Type-C",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "64 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -1272,6 +1747,13 @@
       "Dimensions": "60.6x45.2.24mm",
       "Color": "White",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Remax",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "350 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1288,6 +1770,13 @@
       "Connector": "Bluetooth 5.3",
       "Color": "Black",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "Anker",
+      "Bluetooth": "Wireless",
+      "Driver Size": "30 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "10 Hours"
     }
   },
   {
@@ -1304,6 +1793,13 @@
       "Others": "Chips: JL7003D8\r\nTFT color touchscreen\r\nANC function offer immersed music experience\r\nHiFi Music& clear phone call",
       "Color": "White",
       "Warranty": "3 months warranty (warranty must claimed with full box and accessories)"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "3 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -1324,6 +1820,14 @@
       "Weight": "46g",
       "Color": "Black",
       "Warranty": "3 months"
+    },
+    "filter": {
+      "Brand": "IMILAB",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -1345,6 +1849,13 @@
       "Weight": "34.2±1g",
       "Color": "Black/White- XINSTM3BW\r\nGreen/Grey- XINSTM3GR",
       "Warranty": "6 Month"
+    },
+    "filter": {
+      "Brand": "XINJI",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1362,6 +1873,14 @@
       "Others": "IPX4 Rated, Google Fast Pair, 60ms Low Latency, Touch Control",
       "Connector": "Type-C Charging",
       "Drivers": "12 mm Dynamic Driver"
+    },
+    "filter": {
+      "Brand": "Poco",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "12 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -1384,6 +1903,13 @@
       "Drivers": "10mm dynamic speaker",
       "Weight": "4.6g*2/42g",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1402,6 +1928,13 @@
       "Drivers": "12mm",
       "Color": "Gray",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Haylou",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1422,6 +1955,13 @@
       "Weight": "Case weight: 27.9 g\r\nEarbud weight: 4.4 g",
       "Color": "White",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "TCL",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "32 Hours"
     }
   },
   {
@@ -1442,6 +1982,13 @@
       "Drivers": "13mm",
       "Color": "Black",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.1",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1462,6 +2009,13 @@
       "Drivers": "13mm",
       "Color": "Black",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.1",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1482,6 +2036,14 @@
       "Weight": "35g",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "260 Hours"
     }
   },
   {
@@ -1498,6 +2060,13 @@
       "Dimensions": "57.8mm x 41.7mm x 25mm",
       "Color": "Black",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "EarFun",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -1518,6 +2087,14 @@
       "Drivers": "8 mm",
       "Color": "Cyan Cider\r\nBlack\r\nWhite Purity",
       "Warranty": "1 year warranty (Must submit box and all accessories to claim warranty)"
+    },
+    "filter": {
+      "Brand": "BoAt",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "600 mAh",
+      "Playtime": "42 Hours"
     }
   },
   {
@@ -1536,6 +2113,14 @@
       "Duration": "Charging Time: About 1.5-2H\r\nMusic Time: About 3.5-4H",
       "Connector": "Type C",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -1558,6 +2143,14 @@
       "Weight": "48g+/-2g",
       "Color": "White",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Micro USB",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1574,6 +2167,13 @@
       "Connector": "Bluetooth 5.3",
       "Color": "Black",
       "Warranty": "18 months (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Anker",
+      "Bluetooth": "Wireless",
+      "Driver Size": "22 mm",
+      "Battery Capacity": "22 mAh",
+      "Playtime": "9 Hours"
     }
   },
   {
@@ -1591,6 +2191,14 @@
       "Connector": "Type-C",
       "Drivers": "10mm Drivers",
       "Warranty": "1 year warranty (Must submit box and all accessories to claim warranty)"
+    },
+    "filter": {
+      "Brand": "BoAt",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "17 Hours"
     }
   },
   {
@@ -1611,6 +2219,13 @@
       "Weight": "34.4g",
       "Color": "Black\r\nGreen\r\nWhite",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "26 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1631,6 +2246,13 @@
       "Drivers": "10mm",
       "Color": "Black",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Mibro",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "350 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -1648,6 +2270,13 @@
       "Weight": "Single earbud weight: 8.6g\r\nCharging case weight: 49.8g",
       "Color": "Black",
       "Warranty": "3 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Dareu",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -1672,6 +2301,14 @@
       "Weight": "Buds Net Weight: 3.7g*2 \r\nCharging  Net Weight: 33g",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1689,6 +2326,13 @@
       "Others": "IPX7 Waterproof Rating\r\nEarbuds Automatically Turn On\r\nCVC 8.0 Noise Reduction Technology",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "AUKEY",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "25 mm",
+      "Battery Capacity": "2 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -1707,6 +2351,13 @@
       "Connector": "Bluetooth V5.0",
       "Color": "White (NGW04-02)",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "300 mm",
+      "Battery Capacity": "300 mAh"
     }
   },
   {
@@ -1728,6 +2379,13 @@
       "Weight": "47.5g ( 2 x 5g earbuds, 37.5g charging case )",
       "Color": "Black\r\nwhite",
       "Warranty": "6 month"
+    },
+    "filter": {
+      "Brand": "HiFuture",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1744,6 +2402,13 @@
       "Others": "Chips: JL6973/ BT5.0\r\nWireless transmission Distance:≥15 m.\r\nTransmission frequency: 2.4GHz-2.48GHz.",
       "Color": "White",
       "Warranty": "03-Month"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "4 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -1763,6 +2428,14 @@
       "Weight": "40g",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "260 Hours"
     }
   },
   {
@@ -1780,6 +2453,13 @@
       "Drivers": "13mm",
       "Color": "Black\r\nWhite",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "120 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -1800,6 +2480,14 @@
       "Weight": "Earbud (single) 3g; charging case 37g",
       "Color": "Black",
       "Warranty": "03 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1822,6 +2510,13 @@
       "Weight": "42.3±1g",
       "Color": "Black- XINSTM2BL\r\nWhite- XINSTM2WH",
       "Warranty": "6 Month"
+    },
+    "filter": {
+      "Brand": "XINJI",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -1839,6 +2534,12 @@
       "Drivers": "10mm",
       "Color": "Black, White",
       "Warranty": "1 Year Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Hifuture",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh"
     }
   },
   {
@@ -1855,6 +2556,13 @@
       "Drivers": "6 mm",
       "Color": "Black, White",
       "Warranty": "1 Year Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "HiFuture",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "25 Hours"
     }
   },
   {
@@ -1874,6 +2582,14 @@
       "Dimensions": "Charging Case: 62mm × 51.3mm × 28mm (±0.3mm)\r\nEarbuds: 34mm × 24mm × 23.5mm (±0.3mm)",
       "Color": "Black",
       "Warranty": "3 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Imilab",
+      "Bluetooth": "Bluetooth 5.4",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1896,6 +2612,14 @@
       "Weight": "Headset 4 g",
       "Color": "Black",
       "Warranty": "NO Warranty"
+    },
+    "filter": {
+      "Brand": "F&D",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "410 mAh",
+      "Playtime": "20 Hours"
     }
   },
   {
@@ -1915,6 +2639,14 @@
       "Weight": "48.7g",
       "Color": "White",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "260 Hours"
     }
   },
   {
@@ -1933,6 +2665,13 @@
       "Drivers": "10mm",
       "Color": "Black (NGTW180101)",
       "Warranty": "03-months Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1952,6 +2691,14 @@
       "Weight": "48.7g",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Vyvylabs",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "260 Hours"
     }
   },
   {
@@ -1972,6 +2719,13 @@
       "Drivers": "13mm",
       "Color": "Black & Orange",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -1992,6 +2746,13 @@
       "Drivers": "13mm",
       "Color": "Silver",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2013,6 +2774,13 @@
       "Weight": "4.9g",
       "Color": "White",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Happy",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "45 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -2029,6 +2797,13 @@
       "Others": "IPX5, Sweat Resistance",
       "Drivers": "10mm",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "HiFuture",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "4 mAh"
     }
   },
   {
@@ -2047,6 +2822,13 @@
       "Drivers": "13mm",
       "Color": "Black\r\nWhite",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "HiFuture",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -2067,6 +2849,14 @@
       "Weight": "3.8 g",
       "Color": "White",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "Honor",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13.4 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "35 Hours"
     }
   },
   {
@@ -2086,6 +2876,14 @@
       "Dimensions": "50.51 x 48.5 x 21 millimeters",
       "Weight": "68.7 grams",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "IMILAB",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "450 mAh",
+      "Playtime": "20 Hours"
     }
   },
   {
@@ -2106,6 +2904,14 @@
       "Cable length": "10 m",
       "Color": "White",
       "Warranty": "03-months warranty\r\n(One-time replacement in whole warranty period)"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.0",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "50 Hours"
     }
   },
   {
@@ -2127,6 +2933,13 @@
       "Connector": "Bluetooth: V5.3",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -2146,6 +2959,13 @@
       "Weight": "Single earbud: 4g\r\nTotal weight: 36g",
       "Color": "White, Black",
       "Warranty": "3 Month Warranty (Please preserve box & all accessories to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "14.2 mm",
+      "Battery Capacity": "475 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -2166,6 +2986,13 @@
       "Weight": "45 g",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Fastrack",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "350 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -2184,6 +3011,13 @@
       "Cable length": "1*USB Cable",
       "Weight": "6g*2(Earbuds)/59g(Charging case)",
       "Warranty": "01 year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "5.8 mm",
+      "Battery Capacity": "720 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2203,6 +3037,13 @@
       "Weight": "4.0g*2 (Earbuds)\r\n41g (Charging case)",
       "Color": "Black",
       "Manufacturing Warranty": "01 year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Bluetooth 4.5",
+      "Driver Size": "6.1 mm",
+      "Battery Capacity": "4.5 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2223,6 +3064,14 @@
       "Drivers": "13 mm",
       "Color": "Black\r\nBlue\r\nWhite\r\nGreen",
       "Warranty": "1 year warranty (Must submit box and all accessories to claim warranty)"
+    },
+    "filter": {
+      "Brand": "BoAt",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "320 mAh",
+      "Playtime": "50 Hours"
     }
   },
   {
@@ -2241,6 +3090,12 @@
       "Connector": "Bluetooth: V5.0",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Wireless",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2263,6 +3118,13 @@
       "Weight": "58g",
       "Color": "White",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "15.1 mm",
+      "Battery Capacity": "600 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -2280,6 +3142,13 @@
       "Drivers": "12mm Bass Pro Drivers",
       "Color": "Black\r\nWhite",
       "Warranty": "3 Month"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Bluetooth": "Wireless",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "12 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -2300,6 +3169,13 @@
       "Weight": "41 g",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Fastrack",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -2321,6 +3197,13 @@
       "Weight": "4 gm (Earbud)",
       "Color": "Gray\r\nIvory",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Wireless",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "60 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -2341,6 +3224,14 @@
       "Connector": "Type-C Charging",
       "Color": "Black, White",
       "Warranty": "3 months Warranty"
+    },
+    "filter": {
+      "Brand": "Haylou",
+      "Bluetooth": "Bluetooth 5.4",
+      "Charging Interface": "Type-C",
+      "Driver Size": "43 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -2363,6 +3254,14 @@
       "Weight": "45g",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Hifuture",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "4 mm",
+      "Battery Capacity": "55 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -2379,6 +3278,13 @@
       "Drivers": "10mm",
       "Color": "Black\r\nWhite",
       "Warranty": "01-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Black",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "23 mAh",
+      "Playtime": "23 Hours"
     }
   },
   {
@@ -2396,6 +3302,13 @@
       "Drivers": "13mm",
       "Color": "Black",
       "Warranty": "3 months warranty"
+    },
+    "filter": {
+      "Brand": "Yison",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -2414,6 +3327,14 @@
       "Connector": "Type-C Charging",
       "Color": "Obsidian Black, Elemental Blue, Mysterious Blue, Light Gold",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Oraimo",
+      "Bluetooth": "Bluetooth 5.4",
+      "Charging Interface": "Type-C",
+      "Driver Size": "4 mm",
+      "Battery Capacity": "4 mAh",
+      "Playtime": "10 Hours"
     }
   },
   {
@@ -2437,6 +3358,13 @@
       "Weight": "Earbud Weight: 4.87g\r\nGross Case & Buds Weight: 41.21g",
       "Color": "White",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "QCY",
+      "Bluetooth": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "380 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -2457,6 +3385,13 @@
       "Drivers": "6mm",
       "Weight": "32g",
       "Color": "True Black"
+    },
+    "filter": {
+      "Brand": "Skullcandy",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "20 mAh"
     }
   },
   {
@@ -2476,6 +3411,13 @@
       "Drivers": "10mm Dynamic Bass Driver",
       "Color": "Black\r\nWhite\r\nGreen",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Realme",
+      "Bluetooth": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -2496,6 +3438,13 @@
       "Weight": "42 g",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Fastrack",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "480 mAh",
+      "Playtime": "50 Hours"
     }
   },
   {
@@ -2512,6 +3461,13 @@
       "Others": "Waterproof: IPX4\r\nTouch Control \r\nCompatible with iOS, Android",
       "Color": "White",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "F&D",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "4 mm",
+      "Battery Capacity": "4 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -2530,6 +3486,14 @@
       "Weight": "3.9g",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Haylou",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2550,6 +3514,12 @@
       "Connector": "Bluetooth Version: 5.0",
       "Color": "Black (NGW04P-01)\r\nWhite (NGW04P-02)\r\nGrey (NGW04P-0G)",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "37 mAh"
     }
   },
   {
@@ -2569,6 +3539,12 @@
       "Weight": "Single earbud: 4.5 g",
       "Color": "White",
       "Warranty": "03-months warranty"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "35 mAh"
     }
   },
   {
@@ -2588,6 +3564,14 @@
       "Weight": "Earbuds: 4.8g\r\nCharging case: 40.8g",
       "Color": "Blue, Black, White",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "OnePlus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12.4 mm",
+      "Battery Capacity": "58 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -2610,6 +3594,13 @@
       "Dimensions": "Earbuds: 28.5 x 20.2 x 23mm\r\nCharging case: 68.9 x 36.6 x 28.2mm",
       "Weight": "Earbuds: 4.3 g (±0.2 g)\r\nCharging case: 38.1 g (±1 g)",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "OnePlus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "1.24 mm",
+      "Battery Capacity": "36 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -2632,6 +3623,13 @@
       "Weight": "Weight of Single Earbud: 4.2g ±0.1\r\nCharging Case weight with Earbuds: 38.5g ±0.1",
       "Color": "Symphony Blue\r\nBass White\r\nAcoustic Black",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Bluetooth": "Wireless",
+      "Driver Size": "12.4 mm",
+      "Battery Capacity": "480 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -2649,6 +3647,13 @@
       "Weight": "Weight ~48g",
       "Color": "Black",
       "Warranty": "3 Month"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -2666,6 +3671,13 @@
       "Weight": "Weight ~48g",
       "Color": "Creamy White",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -2685,6 +3697,13 @@
       "Drivers": "12.4mm",
       "Color": "White",
       "Warranty": "6-month"
+    },
+    "filter": {
+      "Brand": "Realme",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "12.4 mm",
+      "Battery Capacity": "480 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -2706,6 +3725,14 @@
       "Drivers": "Φ6mm Dynamic",
       "Color": "Black\r\nWhite",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "26 Hours"
     }
   },
   {
@@ -2726,6 +3753,13 @@
       "Drivers": "10mm",
       "Color": "Blue",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Mibro",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "450 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2743,6 +3777,13 @@
       "Drivers": "10mm",
       "Color": "Gray",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Black",
+      "Bluetooth": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "13 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -2765,6 +3806,14 @@
       "Weight": "62g Total",
       "Color": "Black",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "20 Hours"
     }
   },
   {
@@ -2784,6 +3833,13 @@
       "Weight": "36.5gm",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "13 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2803,6 +3859,13 @@
       "Connector": "Bluetooth V5.0",
       "Color": "White",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2822,6 +3885,14 @@
       "Drivers": "Φ10mm dynamic driver",
       "Color": "Black\r\nWhite",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -2841,6 +3912,12 @@
       "Weight": "47g",
       "Color": "Black",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "EarFun",
+      "Bluetooth": "Bluetooth 5.2",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2862,6 +3939,13 @@
       "Weight": "45g",
       "Color": "Black",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "EarFun",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "9 Hours"
     }
   },
   {
@@ -2882,6 +3966,13 @@
       "Weight": "90 g",
       "Color": "Purple, White",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Realme",
+      "Bluetooth": "Wireless",
+      "Driver Size": "12.4 mm",
+      "Battery Capacity": "58 mAh",
+      "Playtime": "9 Hours"
     }
   },
   {
@@ -2900,6 +3991,13 @@
       "Duration": "Call Time: 7 Hours\r\nMusic Time: About 5 hours (70% of the volume).\r\nMusic time with a charging case: About 25~30 hoursMusic time with a charging case: About 25~30 hours",
       "Drivers": "10mm",
       "Warranty": "3 Month"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -2918,6 +4016,14 @@
       "Drivers": "16.2mm super large speaker",
       "Color": "Dark blue",
       "Warranty": "03 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "16.2 mm",
+      "Battery Capacity": "100 mAh",
+      "Playtime": "18 Hours"
     }
   },
   {
@@ -2937,6 +4043,13 @@
       "Drivers": "10mm*2",
       "Color": "Black\r\nGrey\r\nBlue",
       "Warranty": "1 year warranty (Must submit box and all accessories to claim warranty)"
+    },
+    "filter": {
+      "Brand": "BoAt",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "320 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -2955,6 +4068,14 @@
       "Connector": "USB Type-C",
       "Color": "White",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "Honor",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "9 mAh",
+      "Playtime": "9 Hours"
     }
   },
   {
@@ -2969,6 +4090,12 @@
       "Others": "Wireless transmission distance: 10m.",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "5 mAh"
     }
   },
   {
@@ -2986,6 +4113,13 @@
       "Weight": "45.2 * 60.6* 21,7mm",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3005,6 +4139,14 @@
       "Drivers": "16.2mm",
       "Color": "Dark blue",
       "Warranty": "03 Months Warranty"
+    },
+    "filter": {
+      "Brand": "Joyroom",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "16.2 mm",
+      "Battery Capacity": "120 mAh",
+      "Playtime": "10 Hours"
     }
   },
   {
@@ -3020,6 +4162,14 @@
       "Connector": "Type-C Charging",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Oraimo",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -3038,6 +4188,14 @@
       "Others": "Waterproof IPX4",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "WiWU",
+      "Bluetooth": "Bluetooth 5.0",
+      "Charging Interface": "Type-C",
+      "Driver Size": "25 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3060,6 +4218,14 @@
       "Weight": "348g",
       "Color": "Black",
       "Warranty": "6 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "28 Hours"
     }
   },
   {
@@ -3082,6 +4248,14 @@
       "Weight": "348g",
       "Color": "White",
       "Warranty": "6 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "28 Hours"
     }
   },
   {
@@ -3105,6 +4279,13 @@
       "Weight": "4.9gx2 (earphone)/ 61g (charging box)",
       "Color": "Black",
       "Warranty": "1 Year Warranty"
+    },
+    "filter": {
+      "Brand": "Havit",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5 mm",
+      "Battery Capacity": "60 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -3124,6 +4305,14 @@
       "Weight": "Single Earbud Weight: 4.g\r\nCharging Case with Earbuds: 38g",
       "Color": "Black\r\nWhite\r\nTransparent Black\r\nTransparent White",
       "Warranty": "12 Months"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "2 mAh",
+      "Playtime": "26 Hours"
     }
   },
   {
@@ -3140,6 +4329,14 @@
       "Others": "Active Noise Cancellation: Adaptive ANC\r\nSound: Big Bass\r\nPlaytime (Single/With Case): 12H/60H\r\nFast Charging: 10M = 5H\r\nWireless Charging: Support\r\nWaterproof: IPX5\r\nDesign: In-Ear\r\nCustomized Sound: HearID\r\nControl: Touch Control\r\nMultipoint Connection: Support",
       "Drivers": "11mm",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "Anker",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Wireless",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "11 mAh",
+      "Playtime": "12 Hours"
     }
   },
   {
@@ -3158,6 +4355,12 @@
       "Weight": "63.2 g",
       "Color": "Black, White",
       "Warranty": "180 days"
+    },
+    "filter": {
+      "Brand": "Fastrack",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "800 mAh"
     }
   },
   {
@@ -3181,6 +4384,13 @@
       "Weight": "42.5 Grams",
       "Color": "Black",
       "Warranty": "6 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -3201,6 +4411,14 @@
       "Drivers": "11mm",
       "Color": "Space Gray",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Oraimo",
+      "Bluetooth": "Bluetooth 5.4",
+      "Charging Interface": "Type-C",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "76 mAh",
+      "Playtime": "11 Hours"
     }
   },
   {
@@ -3218,6 +4436,13 @@
       "Weight": "Weight 4.5g (earpiece), approx. 50g",
       "Color": "Black",
       "Warranty": "3 Month"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "5.3 mm",
+      "Battery Capacity": "30 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -3235,6 +4460,14 @@
       "Drivers": "13mm",
       "Color": "White\r\nTransparent White",
       "Warranty": "12 Months"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "13 mAh",
+      "Playtime": "26 Hours"
     }
   },
   {
@@ -3253,6 +4486,14 @@
       "Drivers": "13mm",
       "Color": "White",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "2 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -3275,6 +4516,13 @@
       "Weight": "Earbuds: 4.4 g\r\nCharging case: 38.2 g",
       "Color": "Soft Jade",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "OnePlus",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "12.4 mm",
+      "Battery Capacity": "58 mAh",
+      "Playtime": "12 Hours"
     }
   },
   {
@@ -3295,6 +4543,13 @@
       "Drivers": "6mm Dynamic",
       "Color": "Baby Pink",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Wireless",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -3311,6 +4566,12 @@
       "Weight": "4.85 g(single)",
       "Color": "Blue",
       "Warranty": "6 months"
+    },
+    "filter": {
+      "Brand": "Haylou",
+      "Driver Size": "35 mm",
+      "Battery Capacity": "300 mAh",
+      "Playtime": "20 Hours"
     }
   },
   {
@@ -3318,7 +4579,13 @@
     "name": "Realme Buds Air 3 Nitro Blue Edition True Wireless Earbuds",
     "price": "4890",
     "description": "10mm Dynamic Bass Drivers\rUp to 42dB level of Active Noise Cancellation\r30 hours of long playback time\rIPX5 Water Resistant",
-    "category": "earbuds"
+    "category": "earbuds",
+    "filter": {
+      "Brand": "Realme",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "30 Hours"
+    }
   },
   {
     "id": 2521,
@@ -3337,6 +4604,14 @@
       "Weight": "52g",
       "Color": "Black",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "EarFun",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3357,6 +4632,13 @@
       "Weight": "44.7 gm",
       "Color": "White",
       "Warranty": "01  year warranty"
+    },
+    "filter": {
+      "Brand": "Ugreen",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5.2 mm",
+      "Battery Capacity": "1.5 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3377,6 +4659,13 @@
       "Weight": "53g",
       "Color": "Black",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "EarFun",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "45 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3396,6 +4685,13 @@
       "Connector": "Bluetooth compliance: Bluetooth 4.0\r\nWireless range: Up to 98 feet / 30 metres\r\nBluetooth pairing list: Up to 8 devices",
       "Weight": "7.2 grams (0.25 oz.)",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Bluetooth": "Bluetooth 4.0",
+      "Driver Size": "4 mm",
+      "Battery Capacity": "4 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3416,6 +4712,14 @@
       "Weight": "52g",
       "Color": "Black",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "EarFun",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Wireless",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "54 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3436,6 +4740,13 @@
       "Drivers": "8mm",
       "Color": "Black",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Wireless",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "500 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -3455,6 +4766,13 @@
       "Connector": "Bluetooth 5.4",
       "Color": "Silver",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Oraimo",
+      "Bluetooth": "Wireless",
+      "Driver Size": "5.4 mm",
+      "Battery Capacity": "74 mAh",
+      "Playtime": "13 Hours"
     }
   },
   {
@@ -3476,6 +4794,13 @@
       "Weight": "44.5g",
       "Color": "Black\r\nWhite",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -3494,6 +4819,13 @@
       "Others": "Headphone Type: In Ear Buds\r\nMaterial: ABS + PC",
       "Drivers": "10mm",
       "Warranty": "03-months Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -3512,6 +4844,12 @@
       "Drivers": "15.4mm",
       "Color": "Black, Champagne Gold",
       "Warranty": "1 Year Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "HiFuture",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "15.4 mm",
+      "Battery Capacity": "5.4 mAh"
     }
   },
   {
@@ -3529,6 +4867,14 @@
       "Weight": "4.3g(Each earbud) + 38g(Charging case) + 8g(Adapter)",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "26 Hours"
     }
   },
   {
@@ -3550,6 +4896,12 @@
       "Weight": "Charging Case Weight (g): 34\r\nCharging Case Weight (oz): 1.2\r\nEarpiece Weight (g): 9\r\nEarpiece Weight (oz): 0.3",
       "Color": "Black",
       "Warranty": "06-month Warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "1 mAh"
     }
   },
   {
@@ -3566,6 +4918,14 @@
       "Connector": "Type-C Charging Interface",
       "Drivers": "11mm bass driver + 6mm micro-planar tweeter",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Realme",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "11 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -3586,6 +4946,13 @@
       "Connector": "Bluetooth Version: V 5.1\r\nCommunication distance: 10 m",
       "Color": "Blue, Grey",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Wireless",
+      "Driver Size": "20 mm",
+      "Battery Capacity": "40 mAh",
+      "Playtime": "300 Hours"
     }
   },
   {
@@ -3608,6 +4975,13 @@
       "Weight": "51.2g",
       "Color": "Black\r\nWhite",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "55 mAh",
+      "Playtime": "7 Hours"
     }
   },
   {
@@ -3627,6 +5001,13 @@
       "Drivers": "8mm",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "8 mm",
+      "Battery Capacity": "8 mAh",
+      "Playtime": "32 Hours"
     }
   },
   {
@@ -3643,6 +5024,13 @@
       "Drivers": "11mm custom-made driver",
       "Color": "Velvet Black, White, Blue",
       "Warranty": "18 months"
+    },
+    "filter": {
+      "Brand": "Anker",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "11 mAh",
+      "Playtime": "50 Hours"
     }
   },
   {
@@ -3661,6 +5049,14 @@
       "Others": "Advanced Qualcomm QCC3091 SoC with aptX Lossless Audio Tech\r\nGoogle Fast Pair supported\r\nAuracast & LE Audio supported : available via firmware update only",
       "Drivers": "10mm Composite Dynamic Drivers",
       "Warranty": "18 Months"
+    },
+    "filter": {
+      "Brand": "EarFun",
+      "Bluetooth": "Bluetooth 5.4",
+      "Charging Interface": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "52 mAh",
+      "Playtime": "11 Hours"
     }
   },
   {
@@ -3680,6 +5076,14 @@
       "Dimensions": "60*26*32.8mm",
       "Color": "Black",
       "Warranty": "1 Year Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "HiFuture",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "3040 mm",
+      "Battery Capacity": "3040 mAh",
+      "Playtime": "12 Hours"
     }
   },
   {
@@ -3696,6 +5100,14 @@
       "Others": "Ultra Low-latency Mode\r\nLDAC Audio Decoding\r\nIPX5 Waterproof",
       "Color": "Black, White",
       "Warranty": "1 Year Warranty (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "Hifuture",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Wireless",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -3718,6 +5130,14 @@
       "Weight": "6.3 ounces",
       "Color": "Blue",
       "Warranty": "1-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "24 Hours"
     }
   },
   {
@@ -3734,6 +5154,13 @@
       "Drivers": "11mm woofer + 6mm microplanar tweeter",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "Realme",
+      "Bluetooth": "Wireless",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "460 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -3753,6 +5180,13 @@
       "Weight": "51g",
       "Color": "Ivory",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "13 mm",
+      "Battery Capacity": "13 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -3775,6 +5209,13 @@
       "Weight": "Earbuds: 4.8g\r\nCharging case: 40.8g",
       "Color": "Metallic Gray, Splendid Blue",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "OnePlus",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10.4 mm",
+      "Battery Capacity": "58 mAh",
+      "Playtime": "10 Hours"
     }
   },
   {
@@ -3794,6 +5235,13 @@
       "Drivers": "12mm",
       "Weight": "Charging Case Weight (g): 38.6\r\nCharging Case Weight (oz): 1.4\r\nEarpiece Weight (g): 9.6\r\nEarpiece Weight (oz): 0.3",
       "Warranty": "06-month Warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "12 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -3811,6 +5259,12 @@
       "Battery": "Earbud: Lithium-ion polymer (55 mAh/ 3.85 V)\r\nCharging case: Lithium-ion polymer (570 mAh/ 3.85 V)",
       "Duration": "Maximum talk time: 4.5 hours\r\nCharging time: 2 hours from empty\r\nMaximum music play time with ANC off: 8 hours\r\nMaximum music play time with ANC on: 6 hours\r\nMaximum play time: 32 hours",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "55 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -3830,6 +5284,14 @@
       "Dimensions": "49.1 x 53.9 x 23 mm Dimensions of headphones 19.3 x 33.3 mm",
       "Color": "Black",
       "Warranty": "6 Month"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "4 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -3844,6 +5306,12 @@
       "Connection Type": "Bluetooth",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Anker",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "3 mm",
+      "Battery Capacity": "3 mAh"
     }
   },
   {
@@ -3864,6 +5332,12 @@
       "Drivers": "6mm",
       "Color": "Black",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.2",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh"
     }
   },
   {
@@ -3885,6 +5359,13 @@
       "Weight": "Per earbud\r\nWeight: 5.4 ± 0.3 g\n\r\nCharging case\r\nWeight: 34 ± 1 g",
       "Color": "Purple, Black",
       "Warranty": "6 Month"
+    },
+    "filter": {
+      "Brand": "HUAWEI",
+      "Bluetooth": "Wireless",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "55 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -3909,6 +5390,14 @@
       "Weight": "46.7 grams",
       "Color": "Black",
       "Warranty": "6 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -3933,6 +5422,14 @@
       "Weight": "46.7 grams",
       "Color": "White",
       "Warranty": "6 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "50 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -3952,6 +5449,14 @@
       "Dimensions": "49.1 x 53.9 x 23 mm Dimensions of headphones 19.3 x 33.3 mm",
       "Color": "White",
       "Warranty": "6 Month Warranty"
+    },
+    "filter": {
+      "Brand": "Baseus",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "4 mm",
+      "Battery Capacity": "35 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -3971,6 +5476,13 @@
       "Drivers": "6mm",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "48 Hours"
     }
   },
   {
@@ -3989,6 +5501,13 @@
       "Duration": "Charging time (hours from empty): 2\r\nMaximum music play time with ANC off (hours): 12\r\nMaximum music play time with ANC on (hours): 10\r\nMaximum talk time (hours): 6.6\r\nCharging case battery life (max hours): 30\r\nMaximum play time (hours): 48",
       "Drivers": "6mm",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "48 Hours"
     }
   },
   {
@@ -4009,6 +5528,14 @@
       "Weight": "Each earbud\r\n0.18 oz\r\nCharging case\r\n1.5 oz without earbuds\r\n1.9 oz with earbuds",
       "Color": "Clearly White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Google",
+      "Bluetooth": "Bluetooth 5.0",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "12 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -4026,6 +5553,12 @@
       "Battery": "Earbud: Lithium-ion polymer (55 mAh/ 3.85 V)\r\nCharging case: Lithium-ion polymer (570 mAh/ 3.85 V)",
       "Duration": "Maximum talk time: 4.5 hours\r\nCharging time: 2 hours from empty\r\nMaximum music play time with ANC off: 8 hours\r\nMaximum music play time with ANC on: 6 hours\r\nMaximum play time: 32 hours",
       "Warranty": "06-month Warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "55 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -4049,6 +5582,13 @@
       "Weight": "Headphone(each side) 5g\r\nCharging case 42 g",
       "Color": "Black\r\nWhite",
       "Warranty": "01 year warranty"
+    },
+    "filter": {
+      "Brand": "Asus",
+      "Bluetooth": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "4.8 mAh",
+      "Playtime": "17 Hours"
     }
   },
   {
@@ -4068,6 +5608,13 @@
       "Drivers": "6mm",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "48 Hours"
     }
   },
   {
@@ -4092,6 +5639,14 @@
       "Weight": "5.6g (each earbuds)\r\n49.2g (charging case)",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "Edifier",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "55 mAh",
+      "Playtime": "4 Hours"
     }
   },
   {
@@ -4110,6 +5665,12 @@
       "Drivers": "6.8mm",
       "Color": "Black",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "6.8 mm",
+      "Battery Capacity": "6.8 mAh"
     }
   },
   {
@@ -4127,6 +5688,13 @@
       "Others": "Charging Pin Type: USB Type-C",
       "Color": "Navy",
       "Warranty": "2 years"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "60 mm",
+      "Battery Capacity": "8 mAh",
+      "Playtime": "8 Hours"
     }
   },
   {
@@ -4146,6 +5714,13 @@
       "Drivers": "12mm",
       "Color": "Black\r\nBlue",
       "Warranty": "6 Months"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "12 mAh",
+      "Playtime": "40 Hours"
     }
   },
   {
@@ -4164,6 +5739,13 @@
       "Weight": "Each Earpiece: 0.15 ounce (4.28 grams)\r\nCharging Case: 1.34 ounces (37.91 grams)",
       "Color": "White",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Apple",
+      "Bluetooth": "Bluetooth 5.0",
+      "Driver Size": "1 mm",
+      "Battery Capacity": "6 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -4182,6 +5764,14 @@
       "Others": "Charging Pin Type: USB Type-C",
       "Color": "Titanium Black",
       "Warranty": "01-year warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "3 mAh",
+      "Playtime": "30 Hours"
     }
   },
   {
@@ -4201,6 +5791,13 @@
       "Weight": "Buds 5.3g (each) Case 48.7g",
       "Color": "Black",
       "Warranty": "1 Year"
+    },
+    "filter": {
+      "Brand": "SteelSeries",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Battery Capacity": "10 mAh",
+      "Playtime": "10 Hours"
     }
   },
   {
@@ -4222,6 +5819,13 @@
       "Weight": "Weight: 5.4g | 0.2oz\r\nEarbud weight (each earbud): 5.4g | 0.2oz\r\nWeight (charging case): 52g | 1.83oz",
       "Color": "Black",
       "Warranty": "02-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Bluetooth": "Bluetooth",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "3 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -4243,6 +5847,14 @@
       "Weight": "Weight: 5.4g | 0.2oz\r\nEarbud weight (each earbud): 5.4g | 0.2oz\r\nWeight (charging case): 52g | 1.83oz",
       "Color": "Black",
       "Warranty": "02-Year Warranty"
+    },
+    "filter": {
+      "Brand": "Jabra",
+      "Bluetooth": "Bluetooth",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "3 mAh",
+      "Playtime": "3 Hours"
     }
   },
   {
@@ -4264,6 +5876,12 @@
       "Weight": "AirPods Pro (each): 0.19 ounce (5.3 grams)\r\nMagSafe Charging Case: 1.79 ounces (50.8 grams)",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Apple",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Lightning",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -4285,6 +5903,14 @@
       "Weight": "Earbud: 6.1 g per pc (12.2 g combined)/ 0.01345 lbs per pc (0.0269 lbs combined)\r\nCharging case: 73 g/ 0.1609 lbs",
       "Color": "Black\r\nChampagne",
       "Warranty": "06-months Warranty"
+    },
+    "filter": {
+      "Brand": "JBL",
+      "Bluetooth": "Wireless",
+      "Charging Interface": "Wireless",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "70 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -4306,6 +5932,13 @@
       "Weight": "Earphones:\r\n0.2 oz / 5.3 g (Each)\r\nCharging Case:\r\n1.8 oz / 50.8 g",
       "Color": "White",
       "Warranty": "360 Days ( Claim Your warranty At Apple Care including Bangladesh)"
+    },
+    "filter": {
+      "Brand": "Apple",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Lightning",
+      "Battery Capacity": "24 mAh",
+      "Playtime": "24 Hours"
     }
   },
   {
@@ -4326,6 +5959,13 @@
       "Weight": "Approx. 5.9 g x 2 (including earbud tips (M))\r\nApprox. 39 g (Charging Case)",
       "Color": "Black",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "8.4 mm",
+      "Battery Capacity": "1.5 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -4344,6 +5984,11 @@
       "Weight": "0.2 oz",
       "Color": "White",
       "Warranty": "No Warranty"
+    },
+    "filter": {
+      "Brand": "Sony",
+      "Bluetooth": "Wireless",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -4362,6 +6007,13 @@
       "Drivers": "10mm Dynamic Driver",
       "Weight": "3.9g",
       "Warranty": "3 Months ( must claim with box and all accessories)"
+    },
+    "filter": {
+      "Brand": "DEFY",
+      "Bluetooth": "Bluetooth 5.3",
+      "Driver Size": "10 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "6 Hours"
     }
   },
   {
@@ -4380,6 +6032,12 @@
       "Weight": "Single earbud: 3.65g\r\nCharging case: 34.7g\r\nTotal weight: 42g",
       "Color": "White",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "34 mAh"
     }
   },
   {
@@ -4398,6 +6056,14 @@
       "Weight": "Single Earbud Weight: 4.97g\r\nCharging Case with Earbuds: 37.5g",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth 5.1",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "350 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -4416,6 +6082,12 @@
       "Weight": "3.92g (Single earbuds)\r\nAround 26.7g (Charging case)",
       "Color": "Black\r\nWhite\r\nOrange",
       "Warranty": "3 Months"
+    },
+    "filter": {
+      "Brand": "Xiaomi",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "35 mAh"
     }
   },
   {
@@ -4434,6 +6106,14 @@
       "Weight": "Single Earbud Weight: 4.2g\r\nCharging Case with Earbuds: 45g",
       "Color": "Transparent Blue",
       "Warranty": "01-year Warranty"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "400 mAh",
+      "Playtime": "5 Hours"
     }
   },
   {
@@ -4454,6 +6134,14 @@
       "Weight": "Single Earbud Weight: 4.5g\r\nCharging Case with Earbuds: 51g",
       "Color": "Black",
       "Warranty": "1 year"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth 5.2",
+      "Charging Interface": "Type-C",
+      "Driver Size": "12 mm",
+      "Battery Capacity": "460 mAh",
+      "Playtime": "25 Hours"
     }
   },
   {
@@ -4472,6 +6160,14 @@
       "Weight": "Single Earbud Weight: 6.5g\r\nCharging Case with Earbuds: 43.0g",
       "Color": "Black",
       "Warranty": "6 months Warranty"
+    },
+    "filter": {
+      "Brand": "SoundPEATS",
+      "Bluetooth": "Bluetooth 5.3",
+      "Charging Interface": "Type-C",
+      "Driver Size": "6 mm",
+      "Battery Capacity": "350 mAh",
+      "Playtime": "2 Hours"
     }
   },
   {
@@ -4495,6 +6191,13 @@
       "Weight": "Weight of the Earphone: 5.28g\r\nWeight of the Case: 50.57g\r\nTotal: 61.13g",
       "Color": "Midnight Opus",
       "Warranty": "6 months (Please preserve box to claim warranty)"
+    },
+    "filter": {
+      "Brand": "OnePlus",
+      "Bluetooth": "Bluetooth 5.4",
+      "Driver Size": "11 mm",
+      "Battery Capacity": "58 mAh",
+      "Playtime": "10 Hours"
     }
   }
 ]

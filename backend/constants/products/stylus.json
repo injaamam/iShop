@@ -5,7 +5,10 @@
     "price": "540",
     "description": "3-in-1 Design\rWorks as Stylus, Ballpoint Pen Screen Cleanin Brush\rDurable material Design\rWide compatibility",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/hoco/gm111/hoco-gm111-001-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/hoco/gm111/hoco-gm111-001-500x500.webp",
+    "filter": {
+      "Brand": "Hoco"
+    }
   },
   {
     "id": 2347,
@@ -13,7 +16,10 @@
     "price": "1000",
     "description": "Compatible with iPad, iPhone, Samsung, Android, Microsoft Tablets\rThree-piece Construction\rReplaceable pen tip\rMaterial: Aluminum alloy/ silicone pen tip",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-one/pencil-one-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-one/pencil-one-01-500x500.webp",
+    "filter": {
+      "Brand": "Wiwu"
+    }
   },
   {
     "id": 2348,
@@ -21,7 +27,10 @@
     "price": "1300",
     "description": "Material: Aluminum alloy + Silicone\rTechnology: Anodized coloring\rSuitable for: Capacitive touch screen\rCompatible for OS, android and Windows",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/baseus/acpcl-01/acpcl-01-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/baseus/acpcl-01/acpcl-01-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus"
+    }
   },
   {
     "id": 2349,
@@ -29,7 +38,10 @@
     "price": "2550",
     "description": "Material: Aluminum alloy\rBuilt-in battery\rCharging by USB port\rColor: Black/White",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu-p339/p339-2-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu-p339/p339-2-500x500.jpg",
+    "filter": {
+      "Brand": "WIWU"
+    }
   },
   {
     "id": 2350,
@@ -45,6 +57,9 @@
       "Capacity": "80mAh",
       "USB": "Type-C fast charge",
       "Warranty": "No warranty"
+    },
+    "filter": {
+      "Brand": "WiWU"
     }
   },
   {
@@ -53,7 +68,10 @@
     "price": "2650",
     "description": "Battery capacity : 90mAh\rWorking time : 10 hours\rPen Material: Aluminum Alloy+Paint\rLength : 167mm\rDiameter: 9.6mm",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-x/wiwu-pencil-x-stylus-pencil-with-palm-rejection-for-apple-ipad-and-android-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-x/wiwu-pencil-x-stylus-pencil-with-palm-rejection-for-apple-ipad-and-android-500x500.jpg",
+    "filter": {
+      "Brand": "Wiwu"
+    }
   },
   {
     "id": 2352,
@@ -61,7 +79,10 @@
     "price": "2000",
     "description": "Compatibility: Designed for iPads\rBattery: 130mAh\rCharging: Type-C connector with LED indicators\rMaterial: Plastic and Aluminum alloy",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/hoco/gm109/gm109-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/hoco/gm109/gm109-01-500x500.webp",
+    "filter": {
+      "Brand": "Hoco"
+    }
   },
   {
     "id": 2353,
@@ -69,7 +90,10 @@
     "price": "2800",
     "description": "Compatible With Apple iPad\rBattery Capacity: 130mAh\rCharge Time: About 1.5 hrs\rBattery Life: About 8.5 hrs",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/Ugreen/lp452/lp452-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/Ugreen/lp452/lp452-01-500x500.webp",
+    "filter": {
+      "Brand": "UGREEN"
+    }
   },
   {
     "id": 2354,
@@ -77,7 +101,10 @@
     "price": "3200",
     "description": "Material: Aluminum Alloy\rSize: 130 x 0.6mm\rWith Fine 1.5mm tip\rMultiple-function Key",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-for-galaxy-z/pencil-for-samsung-galaxy-z-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-for-galaxy-z/pencil-for-samsung-galaxy-z-01-500x500.webp",
+    "filter": {
+      "Brand": "WiWU"
+    }
   },
   {
     "id": 2355,
@@ -85,7 +112,10 @@
     "price": "2950",
     "description": "Material: Aluminum alloy + POM\rTechnology: Palm Rejection\rBattery Capacity: 130 mAh\rWorking Time: Approx. 10.5 hours",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/baseus/smooth-writing-2/smooth-writing-2-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/baseus/smooth-writing-2/smooth-writing-2-01-500x500.webp",
+    "filter": {
+      "Brand": "Baseus"
+    }
   },
   {
     "id": 2356,
@@ -93,7 +123,10 @@
     "price": "4500",
     "description": "Palm Rejection & Magnetic Design\rTilt Sensitivity Function\rProvides Up to10 Hours of Usage Time With a Full Charge\rThe Universal Type C Charger",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-c-pro/pencil-c-pro-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-c-pro/pencil-c-pro-01-500x500.webp",
+    "filter": {
+      "Brand": "Wiwu"
+    }
   },
   {
     "id": 2357,
@@ -101,7 +134,10 @@
     "price": "6000",
     "description": "4096 levels of pressure sensitivity\rTwo handy buttons\rElectro–Magnetic Resonance (EMR) tech.\rCompatible with CTL-4100,CTL-4100WL,CTL-6100,CTL-6100WL Models",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wacom/pen-4k-lp110-ok-01-zx/pen-4k-lp110-ok-01-zx-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wacom/pen-4k-lp110-ok-01-zx/pen-4k-lp110-ok-01-zx-01-500x500.webp",
+    "filter": {
+      "Brand": "Wacom"
+    }
   },
   {
     "id": 2358,
@@ -109,7 +145,10 @@
     "price": "11000",
     "description": "Supports Surface Pro, Surface Go, Surface Laptop, Surface Studio, Surface Book\rConnector Type Bluetooth 4.0, AAAA Battery\r4096 Levels of Pressure Sensitivity\rButtons Right-click and erase",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-pen/surface-pen-black-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-pen/surface-pen-black-01-500x500.jpg",
+    "filter": {
+      "Brand": "Microsoft"
+    }
   },
   {
     "id": 2359,
@@ -117,7 +156,10 @@
     "price": "11000",
     "description": "Supports Surface Pro, Surface Go, Surface Laptop, Surface Studio, Surface Book\rConnector Type Bluetooth 4.0, AAAA Battery\r4096 Levels of Pressure Sensitivity\rButtons Right-click and erase",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-pen/surface-pen-platinum-01-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-pen/surface-pen-platinum-01-500x500.jpg",
+    "filter": {
+      "Brand": "Microsoft"
+    }
   },
   {
     "id": 2360,
@@ -125,7 +167,10 @@
     "price": "11000",
     "description": "Supports Surface Pro, Surface Go, Surface Laptop, Surface Studio, Surface Book\rConnector Type Bluetooth 4.0, AAAA Battery\r4096 Levels of Pressure Sensitivity\rButtons Right-click and erase",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-pen/surface-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-pen/surface-01-500x500.webp",
+    "filter": {
+      "Brand": "Microsoft"
+    }
   },
   {
     "id": 2361,
@@ -133,7 +178,10 @@
     "price": "14800",
     "description": "Designed for iPad Pro, iPad Air, and iPad mini\rIndustry-leading low latency\rSupports double-tapping\rMagnetically attaches and pairs",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/apple/apple-pencil-2nd-generation/apple-pencil-2nd-generation-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/apple/apple-pencil-2nd-generation/apple-pencil-2nd-generation-01-500x500.webp",
+    "filter": {
+      "Brand": "Apple"
+    }
   },
   {
     "id": 2362,
@@ -141,7 +189,10 @@
     "price": "14500",
     "description": "iPad Pro 12.9-inch (3rd and 4th generation); iPad Pro 11-inch (1st and 2nd generation)\rMagnetically Attaches & Pairs\rConnections: Bluetooth\rWeight: 20.7 g",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/apple/apple-pencil-2-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/apple/apple-pencil-2-500x500.jpg",
+    "filter": {
+      "Brand": "Apple"
+    }
   },
   {
     "id": 2363,
@@ -149,7 +200,10 @@
     "price": "18000",
     "description": "Designed for iPad Pro, iPad Air\rBarrel roll gyroscope Sensor for precise control\rSupports double-tapping\rMagnetically attaches and pairs",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/apple/apple-pencil-pro-2024/pencil-pro-2024-02-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/apple/apple-pencil-pro-2024/pencil-pro-2024-02-500x500.webp",
+    "filter": {
+      "Brand": "Apple"
+    }
   },
   {
     "id": 2364,
@@ -157,7 +211,10 @@
     "price": "2350",
     "description": "Battery Capacity:75mah\rCharing Time 0.5-1h\rWorking Time: 10 Hours\rUSB C Charging Port",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-a01/pencil-a01-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-a01/pencil-a01-01-500x500.webp",
+    "filter": {
+      "Brand": "Wiwu"
+    }
   },
   {
     "id": 2365,
@@ -165,7 +222,10 @@
     "price": "20000",
     "description": "Connection: Bluetooth Wireless 5.0 Technology\rButtons: Side button, Top Button with eraser functionality\rPressure and sensitivity: 4,096 pressure levels, Zero force inking\rBattery: Rechargeable Lithium Ion",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-slim-pen-2/surface-slim-pen-2-500x500.jpg"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/microsoft/surface-slim-pen-2/surface-slim-pen-2-500x500.jpg",
+    "filter": {
+      "Brand": "Microsoft"
+    }
   },
   {
     "id": 2366,
@@ -173,7 +233,10 @@
     "price": "2650",
     "description": "Palm rejection\rCompatible with Wide range of iPad\rMagnetic wireless charging\rSmart Chip & Copper Core Tip",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/Ugreen/lp653/lp653-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/Ugreen/lp653/lp653-01-500x500.webp",
+    "filter": {
+      "Brand": "UGREEN"
+    }
   },
   {
     "id": 2367,
@@ -181,6 +244,9 @@
     "price": "2850",
     "description": "Battery: 130mAh\rCharging Port: Type-C\t\rWorking time: 8 hour\rUniversal pencil for iPad, iPhone, & Android",
     "category": "stylus",
-    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-d/pencil-d-01-500x500.webp"
+    "main_image": "https://www.startech.com.bd/image/cache/catalog/stylus/wiwu/pencil-d/pencil-d-01-500x500.webp",
+    "filter": {
+      "Brand": "WiWU"
+    }
   }
 ]
