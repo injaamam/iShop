@@ -27,7 +27,8 @@ const productsDir = path.join(__dirname, "products");
 async function pushProducts() {
   // Create table if it doesn't exist
   await pool.query(`
-    CREATE TABLE IF NOT EXISTS products (
+    DROP TABLE IF EXISTS products;
+    CREATE TABLE products (
       id SERIAL PRIMARY KEY,
       name TEXT NOT NULL,
       category TEXT NOT NULL,
