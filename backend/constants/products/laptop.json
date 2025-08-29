@@ -4,7 +4,7 @@
     "name": "Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 11",
     "price": "28800",
     "description": "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)\r8GB LPDDR4 RAM\r256GB SSD\r14.1 Inch(1920 x 1080) IPS Anti-Glare Display",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook/herobook-pro/herobook-pro-1-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -49,7 +49,7 @@
     "name": "Smart Flairedge Celeron N4020C 15.6\" FHD Laptop",
     "price": "29400",
     "description": "Processor: Intel Celeron N4020C (4MB Smart Cache, Up to 2.8 GHz)\rRAM: 8GB LPDDR4, Storage: 256GB M.2 SSD\rDisplay: 15.6\" FHD (1920x1080)\rGraphics: Integrated, Intel UHD Graphics 600",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/smart/flairedge/flairedge-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -102,7 +102,7 @@
     "name": "Chuwi GemiBook XPro Intel Celeron N100 14.1 inch Full HD Laptop",
     "price": "34000",
     "description": "Intel Celeron N100 (4M Cache, 0.8GHz - 3.4GHz)\r8GB DDR4 RAM\r256GB SSD\r14.1 Inch(1920 x 1080) IPS Anti-Glare Display",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/gemibook-xpro/gemibook-xpro-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel Celeron",
@@ -149,7 +149,7 @@
     "name": "Chuwi HeroBook Plus Intel N4020 15.6\" Inch FHD Laptop",
     "price": "34900",
     "description": "Display : 15.6 Inch(1920 x 1080) IPS Anti-Glare Display\rProcessor: Intel Celeron N4020 (4M Cache, 1.10GHz - 2.80GHz)\rRAM: 8GB LPDDR4 RAM\rStorage: 256GB M.2SSD",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook-plus/herobook-plus-002-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -206,7 +206,7 @@
     "name": "Chuwi GemiBook Plus Intel Celeron N100 15.6 inch Full HD Laptop",
     "price": "35000",
     "description": "Intel Celeron N100 (4M Cache, 0.8GHz - 3.4GHz)\r8GB DDR5 RAM\r256GB SSD\r15.6 Inch(1920 x 1080) IPS Anti-Glare Display",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/gemibook-plus/gemibook-plus-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel Celeron",
@@ -254,7 +254,7 @@
     "name": "Lenovo IdeaPad 1 15IGL7 Intel Celeron N4020 15.6\" FHD Laptop",
     "price": "37500",
     "description": "Processor: Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)\rRAM: 8GB DDR4, Storage: 256GB M.2 2242 PCIe 4.0x4 SSD\rDisplay: 15.6\" FHD (1920x1080) TN 220nits Anti-glare\rFeatures: Type-C, Privacy Shutter, Stereo speakers, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-1i-15igl7/ideapad-slim-1i-15igl7-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -326,7 +326,7 @@
     "name": "Walton Prelude N41 Pro Celeron N4120 14\" FHD Laptop",
     "price": "38550",
     "description": "Processor: Intel Celeron N4120 (4MB Cache, 1.10 GHz up to 2.60 GHz)\rRAM: 8GB DDR4, Storage: 256GB SSD\rDisplay: 14\" FHD (1920x1080)\rFeatures: Bangla Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/prelude-n41-pro/prelude-n41-pro-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -395,7 +395,7 @@
     "name": "Walton Prelude N40 Pro Celeron N4020 14\" FHD Laptop",
     "price": "39750",
     "description": "Processor: Intel Celeron N4020 (4MB Cache, 1.10 GHz up to 2.80 GHz)\rRAM: 8GB DDR4, Storage: 256GB SSD\rDisplay: 14\" FHD (1920x1080)\rFeatures: Bangla Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/prelude-n40-pro/prelude-n40-pro-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -464,7 +464,7 @@
     "name": "Walton Prelude N50 Pro Pentium Silver N5030 14\" FHD Laptop",
     "price": "42500",
     "description": "Processor: Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz up to 3.10 GHz)\rRAM: 8GB DDR4, Storage: 256GB SSD\rDisplay: 14\" FHD (1920x1080)\rFeatures: Bangla Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/prelude-n41-pro/prelude-n41-pro-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -533,7 +533,7 @@
     "name": "Smart Flairedge Core i3 12th Gen 15.6\" FHD Laptop",
     "price": "47250",
     "description": "Processor: Intel Core i3-1215U (10MB Smart Cache, Up to 4.4 GHz)\rRAM: 8GB DDR4, Storage: 512GB NVMe PCIe SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Backlit Keyboard, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/smart/flairedge/flairedge-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -592,7 +592,7 @@
     "name": "Acer Aspire Lite AL15-41 AMD Ryzen 3 5300U 15.6\" FHD Laptop",
     "price": "49500",
     "description": "Processor: Ryzen 3 5300U (4MB Cache, Up to 4.1 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Stereo Speaker",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-51-core-i5/aspire-lite-al15-51-core-i5-03-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -658,7 +658,7 @@
     "name": "Avita Liber V14 Core i5 11th Gen 14\" FHD Laptop Star Silver",
     "price": "45000",
     "description": "Processor: Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)\rRAM: 8GB DDR4 RAM, Storage: 512GB SSD\rDisplay: 14\" (1920 x 1080) FHD\rFeatures: Island-type Keyboard, Fingerprint, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/avita/avita-liber-v14/liber-v14-star-silver-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -718,7 +718,7 @@
     "name": "Avita Liber V14 Core i5 11th Gen 14\" FHD Laptop Aqua Blue",
     "price": "45000",
     "description": "Processor: Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)\rRAM: 8GB DDR4 RAM, Storage: 512GB SSD\rDisplay: 14\" (1920 x 1080) FHD\rFeatures: Island-type Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/avita/avita-liber-v14/liber-v14-aqua-blue-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -778,7 +778,7 @@
     "name": "Avita Liber V14 Core i5 11th Gen 14\" FHD Laptop Anchor Grey",
     "price": "45000",
     "description": "Processor: Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)\rRAM: 8GB DDR4 RAM, Storage: 512GB SSD\rDisplay: 14\" (1920 x 1080) FHD\rFeatures: Island-type Keyboard, Fingerprint, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/avita/avita-liber-v14/liber-v14-anchor-grey-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -838,7 +838,7 @@
     "name": "Avita Liber V14 Core i5 11th Gen 14\" FHD Laptop Golden Matt Black",
     "price": "45000",
     "description": "Processor: Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)\rRAM: 8GB DDR4 RAM, Storage: 512GB SSD\rDisplay: 14\" (1920 x 1080) FHD\rFeatures: Island-type Keyboard, Fingerprint, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/avita/avita-liber-v14/liber-v14-golden-matt-black-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -898,7 +898,7 @@
     "name": "Lenovo IdeaPad 1 15AMN7 AMD Ryzen 3 7320U 8GB DDR5 RAM 512GB SSD 15.6\" FHD Laptop",
     "price": "50000",
     "description": "Processor: AMD Ryzen 3 7320U (2.4 GHz up to 4.1 GHz)\rRAM: 8GB DDR5 5500MHz, Storage: 512GB M.2 NVMe SSD\rDisplay: 15.6\" FHD (1920x1080) IPS 250nits Anti-glare\rFeatures: Type-C, Privacy shutter",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-1-15ada7/ideapad-1-15ada7-04-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -964,7 +964,7 @@
     "name": "Lenovo IdeaPad Slim 1 15AMN7 Ryzen 3 7320U 15.6\" FHD Laptop",
     "price": "50500",
     "description": "Processor: AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)\rRam: 8GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Type-C, Dolby Audio",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-1/ideapad-slim-1-sand-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -1031,7 +1031,7 @@
     "name": "Acer Aspire Lite AL15-52 Core i3 12th Gen 15.6\" FHD Laptop",
     "price": "51000",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) TFT LCD\rFeatures: Stereo Speaker, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-52/aspire-lite-al15-52-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1101,7 +1101,7 @@
     "name": "Acer Aspire 3 A315-59-332B Core i3 12th Gen 15.6\" FHD Laptop",
     "price": "51500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Stereo Speaker, Built-In Microphones",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a315-59-332b/aspire-3-a315-59-332b-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1163,7 +1163,7 @@
     "name": "HP 15-fc0266AU Ryzen 3 7320U 15.6\" FHD Laptop",
     "price": "51800",
     "description": "Processor: AMD Ryzen 3 7320U (4 MB Cache, 2.4 GHz up to 4.1 GHz)\rRAM: 8GB LDDR5 5500MHz, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) Anti Glare\rFeatures: Dual Stereo Speaker, Privacy shutter",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fc0266au/15-fc0266au-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -1229,7 +1229,7 @@
     "name": "HP 15s-eq2789AU Ryzen 3 5300U 15.6\" FHD Laptop",
     "price": "52000",
     "description": "Processor: AMD Ryzen 3 5300U (4MB L3 cache, Up to 3.8 GHz max boost clock)\rRAM: 8GB DDR4, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920x1080) IPS\rFeatures: Dual Speakers, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-fq5344tu/15s-fq5344tu-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -1298,7 +1298,7 @@
     "name": "HP 15s-eq2330AU AMD Ryzen 3 5300U 15.6\" FHD Laptop",
     "price": "51000",
     "description": "Processor: AMD Ryzen 3 5300U (4MB L3 cache, Up to 3.8 GHz max boost clock)\rRAM: 8GB DDR4, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920x1080) IPS, 250 nits\rFeatures: Full-size, natural silver keyboard, Dual Speakers, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-eq2330au/15s-eq2330au-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -1367,7 +1367,7 @@
     "name": "Chuwi CoreBook XPro Core i5 12th Gen 15.6\" FHD Laptop",
     "price": "53800",
     "description": "Processor: Intel Core i5-12450H (12M Cache, 3.3 GHz up to 4.4 GHz)\rRAM: 16GB DDR4 Storage: 512GB M.2 2242 PCIe NVMe SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Backlit Keyboard, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/corebook-xpro/corebook-xpro-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1419,7 +1419,7 @@
     "name": "HP 15s-fq5059TU Core i3 12th Gen 15.6\" HD Laptop",
     "price": "54000",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4 3200MT/s, Storage: 512GB M.2 SSD\rDisplay: 15.6\" HD (1366 x 768), 250 nits, 45% NTSC\rFeatures: Full-Size Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-fq2644tu/15s-fq2644tu-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1487,7 +1487,7 @@
     "name": "HP 250 G9 Core i3 12th Gen 15.6\" HD DDR4 RAM Laptop With 1 Year Warranty",
     "price": "54300",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" HD (1366 x 768)\rFeatures: Type-C, HD Webcam",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g9/250-g9-asteroid-silver-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1547,7 +1547,7 @@
     "name": "Acer TravelMate TMP214-53 Core i3 11th Gen 8GB RAM 14\" FHD Laptop",
     "price": "48500",
     "description": "Processor: Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)\rRAM: 8GB 3200MHz, Storage: 512 GB SSD\rDisplay: 14.0\" IPS Full HD\rFeatures: Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/travelmate-tmp214-53/travelmate-tmp214-53-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1616,7 +1616,7 @@
     "name": "Acer Aspire Lite AL15-52 Core i3 12th Gen 16GB RAM 15.6\" FHD Laptop",
     "price": "54500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 16GB 3200Mhz DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) TFT LCD\rFeatures: Stereo Speaker, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-52/aspire-lite-al15-52-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1687,7 +1687,7 @@
     "name": "Walton Passion BX310U Core i3 10th Gen 15.6\" FHD Laptop",
     "price": "54550",
     "description": "Processor: Intel Core i3 10110U (4MB Cache, 2.1GHz up to 4.1GHz)\rRAM: 8GB 2666MHz, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Built-in array microphone, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/passion-bx310u/passion-bx310u-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1756,7 +1756,7 @@
     "name": "HP 250 G9 Core i3 12th Gen 15.6\" HD Laptop with 2 Year Warranty",
     "price": "54800",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" HD (1366 x 768)\rFeatures: Type-C, HD Webcam",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g9/250-g9-asteroid-silver-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1816,7 +1816,7 @@
     "name": "ASUS Vivobook 15 X1504ZA i3 12th Gen 15.6 Inch FHD Laptop",
     "price": "54800",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4 , Storage: 512GB Gen4 SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Type-C Port",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x1504za/x1504za-001-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1882,7 +1882,7 @@
     "name": "ASUS VivoBook 15 X1502ZA Core i3 12th Gen 256GB SSD 15.6\" FHD Laptop",
     "price": "54900",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 4GB DDR4 , Storage: 256GB SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: USB Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x1502za/vivobook-15-x1502za-terra-cotta-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -1951,7 +1951,7 @@
     "name": "ASUS VivoBook 15 X515EA Core i3 11th Gen 512GB SSD 15.6\" FHD Laptop",
     "price": "55000",
     "description": "Processor: Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)\rRAM: 4GB DDR4 RAM (Onboard), Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x515ea/vivobook-15-x515ea-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2023,7 +2023,7 @@
     "name": "HP 250 G8 Core i3 11th Gen 15.6\" 4GB RAM 1TB HDD with windows Laptop",
     "price": "49400",
     "description": "Processor: Intel Core i3-1115G4 (6MB Cache, 3.00 GHz up to 4.10 GHz)\rRAM: 4GB DDR4 3200MHz, Storage: 1TB HDD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Full-Size island-style keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g8-ash-black/250-g8-ash-black-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2093,7 +2093,7 @@
     "name": "Dell Inspiron 15 3520 Core i3 12th Gen 15.6\" FHD Laptop (For Business)",
     "price": "55500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB RAM, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Stereo Speakers, Finger Print",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3520/inspiron-15-3520-black-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2160,7 +2160,7 @@
     "name": "HP 15s-fq5357TU Core i3 12th Gen 15.6\" FHD Laptop",
     "price": "55500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4, Storage: 512GB M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080), 250 nits\rFeatures: Full-Size Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-fq2644tu/15s-fq2644tu-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2229,7 +2229,7 @@
     "name": "ASUS Vivobook 15 X1504ZA-NJ864W i3-1215U 15.6 Inch FHD Laptop",
     "price": "55900",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4 , Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Backlit Keyboard",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x1504za/x1504za-001-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2284,7 +2284,7 @@
     "name": "ASUS Vivobook 15 X1504ZA i3 12th Gen 15.6 Inch FHD Laptop Cool Silver",
     "price": "55900",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4 , Storage: 512GB Gen4 SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Type-C Port, Backlit Keyboard",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x1504za-cool-silver/vivobook-15-x1504za-cool-silver-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2350,7 +2350,7 @@
     "name": "Lenovo IdeaPad SLIM 3i 14IAU7 Intel Core i3 12th Gen 14\" FHD Laptop",
     "price": "56500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB 3200Mhz, Storage: 256GB SSD\rDisplay: 14\" FHD (1920 x 1080) \rFeatures: Camera Privecy Shutter, Stereo speakers",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-12-gen/ideapad-slim-3i-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2419,7 +2419,7 @@
     "name": "HP 250 G8 Core i3 11th Gen 256GB SSD 1TB HDD SSD 15.6\" FHD Laptop with Windows",
     "price": "52500",
     "description": "Processor: Intel Core i3-1115G4 (6MB Cache, 3.00 GHz up to 4.10 GHz)\rRAM: 8GB DDR4 3200MHz, Storage: 256GB SSD + 1TB HDD\rDisplay: 15.6\" FHD (1920 x 1080) IPS\rFeatures: Full-size island-style keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g8-black/250-g8-ash-black-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2489,7 +2489,7 @@
     "name": "MSI Modern 15 F13MG Core i3 13th Gen 15.6\" FHD Laptop Platinum Gray",
     "price": "56500",
     "description": "Processor: Intel Core i3-1315U (10M Cache, 3.3 GHz, up to 4.50 GHz)\rRAM: 8GB DDR4 3200MHz RAM, Storage: 512GB Gen4 SSD \rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-15-f13mg/modern-15-f13mg-003-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2557,7 +2557,7 @@
     "name": "MSI Modern 15 F13MG Core i3 13th Gen 15.6\" FHD Laptop Urban Silver",
     "price": "56500",
     "description": "Processor: Intel Core i3-1315U (10M Cache, 3.3 GHz, up to 4.50 GHz)\rRAM: 8GB DDR4 3200MHz RAM, Storage: 512GB Gen4 SSD \rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-15-f13mg-urban-silver/modern-15-f13mg-urban-silver-001-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2625,7 +2625,7 @@
     "name": "HP 255 G9 Ryzen 5 5625U 15.6\" HD Laptop With 1 Year Warranty",
     "price": "57300",
     "description": "Processor: AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)\rRAM: 8GB  3200Mhz, Storage: 512GB SSD\rDisplay: 15.6\" HD (1366 x 768)\rFeatures: Type-C, HD Webcam",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/255-g9/255-g9-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -2684,7 +2684,7 @@
     "name": "Smart Flairedge Core i5 12th Gen 15.6\" FHD Laptop",
     "price": "57750",
     "description": "Processor: Intel Core i5-1235U (12MB Smart Cache, Up to 4.4 GHz)\rRAM: 8GB DDR4, Storage: 512GB NVMe PCIe SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Backlit Keyboard, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/smart/flairedge/flairedge-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2743,7 +2743,7 @@
     "name": "Acer Aspire Lite AL15-41 AMD Ryzen 5 5500U 15.6\" FHD Laptop",
     "price": "58500",
     "description": "Processor: Ryzen 5 5500U (11MB Cache, Up to 4.0 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Stereo Speaker, Ethernet (RJ45)",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-51-core-i5/aspire-lite-al15-51-core-i5-03-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -2811,7 +2811,7 @@
     "name": "Infinix INBook Y2 Plus Core i5 11th Gen 15.6\" FHD Laptop",
     "price": "54990",
     "description": "Processor: Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\r100 days Replacement Warranty",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/infinix/inbook-y2-plus/inbook-y2-plus-08-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -2874,7 +2874,7 @@
     "name": "HP 255 G9 Ryzen 5 5625U 15.6\" HD Laptop With 2 Year Warranty",
     "price": "59000",
     "description": "Processor: AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)\rRAM: 8GB  3200Mhz, Storage: 512GB SSD\rDisplay: 15.6\" HD (1366 x 768)\rFeatures: Type-C, HD Webcam",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/255-g9/255-g9-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -2933,7 +2933,7 @@
     "name": "Asus ExpertBook B1 B1402CGA Core i3 N305 14\" FHD Laptop",
     "price": "59000",
     "description": "Processor: Intel Core i3-N305 (8C, Up to 3.8GHZ, 6MB Cache)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 14\", FHD (1920 x 1080) 16:9, Anti-glare display\rFeatures: 1.4mm Key-travel, Spill-resistant Keyboard, Mil-Std-810h Military Grade",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/expertbook-b1-b1502cva/expertbook-b1-b1502cva-nj1313-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3000,7 +3000,7 @@
     "name": "Lenovo IdeaPad SLIM 3i Intel Core i3 12th Gen 15.6\" FHD Laptop",
     "price": "53500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB 3200Mhz, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080) \rFeatures: Camera Privacy Shutter, Stereo speakers",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-12-gen/ideapad-slim-3i-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3068,7 +3068,7 @@
     "name": "Lenovo IdeaPad 3i 14IAU7 Core i3 12th Gen 14\" FHD Laptop",
     "price": "53500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4 3200Mhz, Storage: 512GB SSD\rDisplay: 14\" FHD (1920 x 1080)\rFeatures: Camera Privecy Shutter, Stereo speakers",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-3i-14iau7/ideapad-3i-14iau7-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3137,7 +3137,7 @@
     "name": "Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 15.6\" FHD Military Grade Laptop with Fingerprint",
     "price": "59500",
     "description": "Processor: Intel Core i3-1305U (10M Cache, 3.3 GHz up to 4.5 GHz)\rRAM: 8GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Type-C, Stereo Speakers, Fingerprint",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-15iru8-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3203,7 +3203,7 @@
     "name": "Lenovo IdeaPad Slim 3i 15IAU7 Core i3 12th Gen 15.6\" FHD Laptop (Arctic Grey)",
     "price": "53500",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.40 GHz)\rRAM: 8GB RAM, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Camera privacy shutter, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i/ideapad-slim-3i-arctic-grey-05-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3265,7 +3265,7 @@
     "name": "Asus VivoBook Go 15 E1504FA Ryzen 3 7320U 15.6\" FHD Laptop",
     "price": "60000",
     "description": "Processor: AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)\rRAM: 8GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Chiclet Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504fa/vivobook-go-15-e1504fa-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -3330,7 +3330,7 @@
     "name": "Walton Tamarind MX311G Core i3 11th Gen 14\" FHD Laptop",
     "price": "60500",
     "description": "Processor: Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)\rRAM: 8GB 3200MHz, Storage: 512GB SSD\rDisplay: 14\" FHD (1920 x 1080)\rFeatures:  Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/tamarind-mx311g/tamarind-mx311g-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3398,7 +3398,7 @@
     "name": "Asus ExpertBook B1 B1502CGA Intel Core i3-N305 15.6\" FHD Laptop",
     "price": "60500",
     "description": "Processor: Intel Core i3-N305 1.8 GHz (6M Cache, up to 3.8 GHz, 8 cores)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Chiclet Keyboard, Wi-Fi6, Mil-Std-810h Military Grade",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/expertbook-b1-b1502cva/expertbook-b1-b1502cva-nj1313-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3465,7 +3465,7 @@
     "name": "Dell Inspiron 15 3530 Core i3 13th Gen 15.6\" FHD Laptop (Business Series)",
     "price": "60500",
     "description": "Processor: Intel Core i3-1305U (10MB Cache, Up to 4.5GHz)\rRam: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) LED, 250nits Anti-glare\rFeatures: 3x USB, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3530/inspiron-15-3530-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3530,7 +3530,7 @@
     "name": "HP 15-fd0331TU Core i3 13th Gen 15.6\" FHD Laptop",
     "price": "60600",
     "description": "Processor: Intel Core i3-1315U (10MB Cache, Up to 4.5 GHz)\rRAM: 8GB 3200MT/s DDR4, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080), anti-glare, 250 nits, 45% NTSC LED Display\rFeatures: Privacy Shutter, Mic Mute Key, Type-C, Wi-Fi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd0331tu/15-fd0331tu-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3598,7 +3598,7 @@
     "name": "HP 15s-eq2326AU AMD Ryzen 5 5500U 15.6\" FHD Laptop",
     "price": "60800",
     "description": "Processor:  AMD Ryzen 5 5500U (8MB L3 Cache, Up to 4.0GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6-inch Full HD (1920 x 1080)\rFeature: Full-size, natural silver keyboard, 45% NTSC",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-eq2326au/15s-eq2326au-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -3662,7 +3662,7 @@
     "name": "Acer TravelMate TMP214-53 Core i5 11th Gen 512GB SSD 14\" FHD Laptop",
     "price": "60500",
     "description": "Processor: Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)\rRAM: 8GB 3200MHz, Storage: 512GB SSD\rDisplay: 14.0\" IPS Full HD\rFeatures: Fingerprint, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/travelmate-tmp214-53/travelmate-tmp214-53-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3731,7 +3731,7 @@
     "name": "Asus Vivobook S15 S513EA Core i3 11th Gen 4GB RAM 15.6\" OLED FHD Laptop",
     "price": "61000",
     "description": "Processor: Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)\rRAM: 4GB DDR4, Storage: 512G SSD\rDisplay: 15.6\" OLED FHD\rFeatures: Backlit Keyboard, Fingerprint, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-s15-s513ea/vivobook-s15-s513ea-03-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3803,7 +3803,7 @@
     "name": "ASUS Vivobook 15 X1504VA-NJ550W Core i3 13th Gen 15.6\" FHD Laptop",
     "price": "61500",
     "description": "Processor: Intel Core i3-1315U (1.2 GHz Up to 4.5 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Backlit Keyboard, Fingerprint, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x1504va-nj260w/x1504va-nj260w-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3869,7 +3869,7 @@
     "name": "Lenovo V14 Gen 4 Note PC Core i3 13th Gen 14\" FHD IPS Laptop",
     "price": "58500",
     "description": "Processor: Intel Core i3-1315U (10MB Cache, Up to 4.5 GHz)\rRAM: 8GB DDR4, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 14\" FHD (1920 x 1080) LED Display\rFeatures: Wi-Fi 6, Bluetooth 5.2, M.2 card, Gigabit Ethernet",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/v14-gen-4/v14-gen-4-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -3934,7 +3934,7 @@
     "name": "Acer TravelLite TL14-52M Core i3 13th Gen 8GB RAM 512GB Storage 14\" FHD Laptop",
     "price": "56000",
     "description": "Processor: Intel Core i3-1305U (10 MB Cache, 3.30 GHz up to 4.10 GHz)\rRAM: 8GB 3200MHz, Storage: 512GB Gen4 SSD\rDisplay: 14\" IPS FHD ((1920 x 1080))\rFeatures: Type-C, Ethernet Port, Wi-Fi 6, Bluetooth 5.2",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/travellite-tl14-52m/travellite-tl14-52m-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4002,7 +4002,7 @@
     "name": "Infinix INBook X2 Core i5 11th Gen 14\" FHD Laptop",
     "price": "56990",
     "description": "Processor: Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 14\" FHD (1920 x 1080)\r100 days Replacement Warranty",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/infinix/inbook-x2/inbook-x2-06-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4065,7 +4065,7 @@
     "name": "Lenovo V15 Gen 4 Note PC Core i3 13th Gen 15.6\" FHD Laptop",
     "price": "55500",
     "description": "Processor: Intel Core i3-1315U (10MB Cache, Up to 4.5 GHz)\rRAM: 8GB DDR4, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080) LED Display\rFeatures: Wi-Fi 6, Bluetooth 5.2, M.2 card, Gigabit Ethernet",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/v14-gen-4/v14-gen-4-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4130,7 +4130,7 @@
     "name": "ASUS Vivobook 15 X1504VA Core i3 13th Gen 8GB RAM 512GB SSD 15.6 Inch FHD Laptop",
     "price": "62000",
     "description": "Processor: Intel Core i3-1315U (10M Cache, up to 4.50 GHz)\rRAM: 8GB DDR4 , Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Backlit Keyboard, 1x Type-C Port",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x1504va-nj1008w/vivobook-15-x1504va-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4198,7 +4198,7 @@
     "name": "ASUS VivoBook 15 X1500EA Core i3 11th Gen 15.6\" FHD Laptop",
     "price": "58000",
     "description": "Processor: Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)\rRAM: 8GB DDR4 , Storage: 256GB SSD + 1TB HDD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x1500ea/x1500ea-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4270,7 +4270,7 @@
     "name": "Acer Aspire Lite AL15-52 Core i5 12th Gen 15.6\" FHD Laptop With Backlit Keyboard",
     "price": "62500",
     "description": "Processor: Intel Core i5-1235U (12M Cache, 1.30GHz, up to 4.40GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) TFT LCD\rFeatures: Backlit Keyboard, Stereo Speaker, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-52/aspire-lite-al15-52-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4340,7 +4340,7 @@
     "name": "ASUS Vivobook 15 X1504VA-NJ260W Core i3 13th Gen 15.6\" FHD Laptop",
     "price": "59500",
     "description": "Processor: Intel Core i3-1315U (1.2 GHz Up to 4.5 GHz)\rRAM: 8GB DDR4, Storage: 256GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Backlit Keyboard, Fingerprint, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x1504va-nj260w/x1504va-nj260w-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4407,7 +4407,7 @@
     "name": "HP 15-fd0203TU Core i3 13th Gen 15.6\" FHD Laptop",
     "price": "63000",
     "description": "Processor: Intel Core i3-1315U (up to 4.5 GHz, 10 MB L3 cache)\rRAM: 8 GB DDR4 3200MHz, Storage: 512GB PCIe M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Type-C, Wi-Fi 6, Privacy Shutter, Mic Mute Key",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd0203tu/15-fd0203tu-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4476,7 +4476,7 @@
     "name": "Lenovo IdeaPad Slim 3 15IRU8 Core i3 13th Gen 15.6\" FHD Military Grade Laptop",
     "price": "57500",
     "description": "Processor: Intel Core i3-1305U (10M Cache, Up to 4.5 GHz)\rRAM: 8GB LPDDR5, Storage: 512GB M.2 2242 SSD\rDisplay: 15.6\" FHD (1920 x 1080) TN 250nits\rFeatures: Type-C, Privacy Shutter, Dolby Audio, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15iru8-arctic-gray/ideapad-slim-3-15iru8-arctic-gray-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4549,7 +4549,7 @@
     "name": "HP 15-fd1108TU Core 3 100U 15.6\" FHD Laptop",
     "price": "63800",
     "description": "Processor: Intel Core 3-100U (10MB Smart Cache, Up to 4.70 GHz)\rRAM: 8GB DDR4 3200Mhz, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080), Anti-glare, 45% NTSC LED Display\rFeatures: Privacy Shutter, Mic Mute Key, Type-C, Wi-Fi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1108tu/15-fd1108tu-001-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4605,7 +4605,7 @@
     "name": "HP 15-fd1110TU Core 3 100U 15.6\" FHD Laptop",
     "price": "63800",
     "description": "Processor: Intel Core 3-100U (10MB Smart Cache, Up to 4.70 GHz)\rRAM: 8GB DDR4 3200Mhz, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080), Anti-glare, 45% NTSC LED Display\rFeatures: Privacy Shutter, Mic Mute Key, Type-C, Wi-Fi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd1110tu/15-fd1110tu-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4661,7 +4661,7 @@
     "name": "Acer Aspire 3 A315-59-56VC Core i5 12th Gen 15.6\" FHD Laptop",
     "price": "63900",
     "description": "Processor: Intel Core i5-1235U 12th Gen (12M Cache, Up to 4.40 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) IPS\rFeatures: Stereo Speakers, Built-In Microphones",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a315-59-5031/aspire-3-a315-59-5031-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4723,7 +4723,7 @@
     "name": "Dell Vostro 3430 Core i3 13th Gen 14\" FHD Laptop",
     "price": "63900",
     "description": "Processor: Intel Core i3-1305U (10MB Cache, 3.3GHz up to 4.5GHz)\rRam: 8GB DDR4, Storage: 512GB SSD\rDisplay: 14\" FHD (1920x1080) LED, 250nits Anti-glare\rFeatures: Type-C, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/vostro-3430/vostro-3430-01-500x500.jpg",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -4789,7 +4789,7 @@
     "name": "Acer Extensa 15 EX215-54-57SB Core i5 11th Gen 15.6\" FHD Laptop",
     "price": "64000",
     "description": "Processor: Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)\rRAM: 8 GB DDR4 SDRAM, Storage: 1TB 2.5\" 5400RPM HDD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: 100-/101-/104- key FineTip keyboard, Windows 11 Home",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/extensa-ex215/extensa-ex215-1-500x500.jpg",
     "Specifications": {
       "Processor": "Intel Core i5-1135G7 Processor (8M Cache, 2.40 GHz up to 4.20 GHz)",
@@ -4830,7 +4830,7 @@
     "name": "ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 15.6\" FHD Laptop",
     "price": "64000",
     "description": "Processor: AMD Ryzen 5 7520U (6MB Cache, Up to 4.3 GHz) \rRAM: 8GB LPDDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Privacy Shutter, Type-C, Wi-Fi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-l1504fa/vivobook-go-15-l1504fa-mixed-black-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -4898,7 +4898,7 @@
     "name": "ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 15.6\" FHD Laptop Cool Silver",
     "price": "64000",
     "description": "Processor: AMD Ryzen 5 7520U (6MB Cache, Up to 4.3 GHz) \rRAM: 8GB LPDDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Privacy Shutter, Type-C, Wi-Fi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-l1504fa-cool-silver/vivobook-go-15-l1504fa-cool-silver-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -4967,7 +4967,7 @@
     "name": "Dell Inspiron 3530 Core i3 13th Gen 15.6\" FHD Laptop",
     "price": "57000",
     "description": "Processor: Intel Core i3-1305U (10MB Cache, 3.3GHz up to 4.5GHz)\rRam: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) LED, 250nits Anti-glare\rFeatures: Type-C, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-3530/inspiron-3530-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5032,7 +5032,7 @@
     "name": "Acer Aspire 3 Spin A3SP14-31PT Core i3 N305 8GB RAM 512GB SSD 14\" WUXGA Touch Laptop",
     "price": "64500",
     "description": "Processor: Intel Core i3-N305 up to  3.80GHz\rDisplay: 14\" WUXGA  (1920x1200)\rRam: 8GB DDR5, Storage: 512GB SSD\rFeatures: Touch Display, Stereo Speakers, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-spin-a3sp14-31pt/aspire-3-spin-a3sp14-31pt-05-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5095,7 +5095,7 @@
     "name": "Acer Aspire Lite AL15-52 Core i5 12th Gen 16GB RAM 15.6\" FHD Laptop",
     "price": "64500",
     "description": "Processor: Intel Core i5-1235U (12M Cache, 1.30GHz, up to 4.40GHz)\rRAM: 16GB 3200Mhz DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) TFT LCD\rFeatures: Stereo Speaker, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-52/aspire-lite-al15-52-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5166,7 +5166,7 @@
     "name": "Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 15.6\" FHD Military Grade Laptop",
     "price": "57500",
     "description": "Processor: Intel Core i3-1305U (10M Cache, 3.3 GHz up to 4.5 GHz)\rRAM: 8GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Type-C, Stereo Speakers",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-15iru8-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5232,7 +5232,7 @@
     "name": "Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 512GB SSD Abyss Blue 15.6\" FHD Military Grade Laptop",
     "price": "57500",
     "description": "Processor: Intel Core i3-1305U (10M Cache, 3.3 GHz up to 4.5 GHz)\rRAM: 8GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Type-C, Stereo Speakers",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i-15iru8/ideapad-slim-3i-04-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5298,7 +5298,7 @@
     "name": "HP 15-fc0229AU Ryzen 5 7520U 15.6\" FHD Laptop",
     "price": "65500",
     "description": "Processor: AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) TFT LCD\rFeatures: Stereo Speaker",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fc0229au/15-fc0229au-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -5362,7 +5362,7 @@
     "name": "Lenovo IdeaPad Slim 3 14IAH8 Core i5 12th Gen 14\" FHD Military Grade Laptop Arctic Grey",
     "price": "65800",
     "description": "Processor: Intel Core i5-12450H (12M Cache, 3.3 GHz up to 4.4 GHz)\rRAM: 8GB LPDDR5-4800, Storage: 512GB M.2 2242 PCIe NVMe SSD\rDisplay: 14\" FHD (1920x1080) TN 250nits Anti-glare\rFeatures: Privacy Shutter, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-14iah8-arctic-grey/ideapad-slim-3-14iah8-arctic-grey-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5437,7 +5437,7 @@
     "name": "Microsoft Surface Pro 9 Core i5 12th Gen 16GB RAM 256GB SSD 13\" Multi-Touch Laptop (QIA-00001)",
     "price": "154900",
     "description": "Processor: Intel Core i5-1245U (12M Cache, up to 4.40 GHz)\rRAM: 16GB LPDDR5, Storage: 256GB SSD\rDisplay:13\" (2880 x 1920) PixelSense Flow MultiTouch\rFeatures: Thunderbolt 4, Wi-Fi 6E (802.11ax), Bluetooth 5.1",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro-9/surface-pro-9-platinum-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5499,7 +5499,7 @@
     "name": "Asus VivoBook Go 15 E1504FA Ryzen 5 7520U 8GB RAM 512GB SSD 15.6\" FHD Laptop",
     "price": "66500",
     "description": "Processor: AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) \rRAM: 8GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504fa/vivobook-go-15-e1504fa-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -5563,7 +5563,7 @@
     "name": "Lenovo IdeaPad Slim 3 14IAH8 Core i5 12th Gen 14\" FHD Military Grade Laptop",
     "price": "65800",
     "description": "Processor: Intel Core i5-12450H (12M Cache, 3.3 GHz up to 4.4 GHz)\rRAM: 8GB LPDDR5-4800, Storage: 512GB M.2 2242 PCIe NVMe SSD\rDisplay: 14\" FHD (1920x1080) TN 250nits Anti-glare\rFeatures: Privacy Shutter, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-14iah8/ideapad-slim-3-14iah8-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5638,7 +5638,7 @@
     "name": "Lenovo IdeaPad Slim 3 15IAH8 Core i5 12th Gen 15.6\" FHD Military Grade Laptop",
     "price": "64900",
     "description": "Processor: Intel Core i5-12450H (12M Cache, 3.3 GHz up to 4.4 GHz)\rRAM: 8GB LPDDR5-4800, Storage: 512GB M.2 2242 PCIe NVMe SSD\rDisplay: 15.6\" FHD (1920x1080) TN 250nits Anti-glare\rFeatures: Privacy Shutter, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15iah8/ideapad-slim-3-15iah8-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5713,7 +5713,7 @@
     "name": "Lenovo IdeaPad Slim 3 15IAH8 Core i5 12th Gen 15.6\" FHD Military Grade Laptop Abyss Blue",
     "price": "65800",
     "description": "Processor: Intel Core i5-12450H (12M Cache, 1.5 GHz up to 4.4 GHz)\rRAM: 8GB LPDDR5-4800, Storage: 512GB M.2 2242 PCIe NVMe SSD\rDisplay: 15.6\" FHD (1920x1080) TN 250nits Anti-glare\rFeatures: Privacy Shutter, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15irh8/ideapad-slim-3-15irh8-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5788,7 +5788,7 @@
     "name": "Lenovo IdeaPad Slim 3 Ryzen 5 7520U 15.6\" FHD Laptop 16GB DDR5 RAM 512GB SSD with 2 Years Warranty",
     "price": "67000",
     "description": "Processor:  AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)\rRam: 16GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) 250nits Anti-glare\rFeatures: Backlit Keyboard, Mil-Std-810h Military Grade Standard",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-08-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -5859,7 +5859,7 @@
     "name": "Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6\" FHD TN Laptop",
     "price": "67000",
     "description": "Processor:  AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)\rRam: 16GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) TN 250nits Anti-glare\rFeatures: Backlit Keyboard, Mil-Std-810h Military Grade Standard",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-abyss-blue-04-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -5930,7 +5930,7 @@
     "name": "Dell Inspiron 15 3520 Core i5 12th Gen 15.6\" FHD Laptop (For Business)",
     "price": "67500",
     "description": "Processor: Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)\rRAM: 8GB RAM, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Stereo Speakers, Fingerprint",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3520/inspiron-15-3520-black-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -5998,7 +5998,7 @@
     "name": "Thunderobot IGER E1 Core i7 11th Gen 15.6\" FHD Laptop",
     "price": "59900",
     "description": "Processor: Intel Core i7-1195G7 (12M Cache, 2.90 GHz up to 5.00 GHz)\rRAM: 16GB DDR4 3200MHz, Storage: 512GB M.2 2280 SSD\rDisplay: 15.6 Inch FHD (1920 x 1080) IPS, 60Hz\rFeatures: Backlit Keyboard, Metal Body, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/thunderobot/e1-notebook/thunderobot-e1-notebook-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6067,7 +6067,7 @@
     "name": "ASUS ExpertBook B1 B1502CVA-NJ1313 Core i3 13th Gen 15.6\" FHD Laptop",
     "price": "67500",
     "description": "Processor: Intel Core i3-1315U (1.2 GHz Up to 4.5 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080)\rFeatures: Mil-Std-810h Military Grade",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/expertbook-b1-b1502cva/expertbook-b1-b1502cva-nj1313-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6139,7 +6139,7 @@
     "name": "Lenovo IdeaPad Slim 3 14IAH8 Core i5 12th Gen 12450H 14\" FHD Laptop",
     "price": "68000",
     "description": "Processor: Intel Core i5-12450H (12M Cache, 3.3 GHz up to 4.4 GHz)\rRAM: 16GB LPDDR5-4800 MHz, Storage: 512GB M.2 2242 Gen4 SSD\rDisplay: 14\" FHD (1920x1080) TN 250nits Anti-glare\rFeatures: Type-C Charging, Privacy Shutter, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15iah8/ideapad-slim-3-15iah8-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6214,7 +6214,7 @@
     "name": "Asus Vivobook 16 X1605VA Core i3 13th Gen 16\" WUXGA Laptop",
     "price": "68300",
     "description": "Processor: Intel Core i3-1315U (6MB Cache, up to 4.5 GHz)\rRAM: 8GB DDR4, Storage: 512GB M.2 NVMe PCIe 3.0 SSD\rDisplay: 16\" WUXGA (1920 x 1200) 16:10 aspect ratio\rFeatures: Backlit Keyboard, Privacy Shutter, US MIL-STD 810H Military Grade",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-16-x1605va/vivobook-16-x1605va-mb871w-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6287,7 +6287,7 @@
     "name": "Dell Latitude 3530 Core i3 12th Gen 15.6\" FHD Touch Laptop",
     "price": "68500",
     "description": "Processor: Intel Core i3-1215U (10MB Cache, Up to 4.40 GHz)\rRAM: 8GB DDR4 RAM, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080) Touch Screen\rFeatures: Backlit Keyboard, Type-C, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/latitude-3430/latitude-3430-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6358,7 +6358,7 @@
     "name": "ASUS Vivobook 15 F1504ZA Core i5 12th Gen 512GB SSD 15.6\" FHD Laptop",
     "price": "68500",
     "description": "Processor: Intel Core i5-1235U (12M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4 , Storage: 512GB Gen4 SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Privacy Shutter, Type-C Port",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-f1504za/vivobook-15-f1504za-001-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6426,7 +6426,7 @@
     "name": "ASUS Vivobook 15 F1504ZA Core i5 12th Gen 15.6\" FHD Laptop Cool Silver",
     "price": "68500",
     "description": "Processor: Intel Core i5-1235U (12M Cache, up to 4.40 GHz)\rRAM: 8GB DDR4 , Storage: 512GB Gen4 SSD\rDisplay: 15.6\" FHD (1920X1080)\rFeatures: Privacy Shutter, Type-C Port",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-f1504za-cool-silver/vivobook-15-f1504za-cool-silver-001-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6494,7 +6494,7 @@
     "name": "Lenovo IdeaPad Slim 3 15IAH8 Core i5 12th Gen 12450H 15.6\" FHD Laptop",
     "price": "68600",
     "description": "Processor: Intel Core i5-12450H (12M Cache, 3.3 GHz up to 4.4 GHz)\rRAM: 16GB  LPDDR5-4800 MHz, Storage: 512GB M.2 2242 Gen4 SSD\rDisplay: 15.6\" FHD (1920x1080) TN 250nits Anti-glare\rFeatures: Privacy Shutter, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15iah8/ideapad-slim-3-15iah8-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6569,7 +6569,7 @@
     "name": "HP 15-fc0166AU Ryzen 5 7520U 15.6\" FHD Laptop With Fingerprint",
     "price": "68800",
     "description": "Processor: AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz)\rRAM: 8GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) TFT LCD\rFeatures: Stereo Speaker",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd0209tu/15-fd0208tu-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -6632,7 +6632,7 @@
     "name": "Asus VivoBook Go 15 OLED E1504FA Ryzen 3 7320U 15.6\" FHD Laptop",
     "price": "68800",
     "description": "Processor: AMD Ryzen 3 7320U (6MB Cache up to 4.1 GHz) \rRAM: 8GB LPDDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Chiclet Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-oled-e1504fa/vivobook-16-x1605va-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -6698,7 +6698,7 @@
     "name": "ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 16GB RAM 15.6\" FHD Laptop",
     "price": "69000",
     "description": "Processor: AMD Ryzen 5 7520U (6MB Cache, Up to 4.3 GHz) \rRAM: 16GB LPDDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Privacy Shutter, Type-C, Wi-Fi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-l1504fa-cool-silver/vivobook-go-15-l1504fa-cool-silver-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -6767,7 +6767,7 @@
     "name": "Asus VivoBook Go 15 E1504FA Ryzen 5 7520U 15.6\" FHD Laptop",
     "price": "69800",
     "description": "Processor: AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) \rRAM: 16GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Chiclet Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504fa/vivobook-go-15-e1504fa-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -6830,7 +6830,7 @@
     "name": "Lenovo V15 Gen 3 Core i5 12th Gen 15.6\" FHD Laptop",
     "price": "70000",
     "description": "Processor: Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)\rRAM: 8GB DDR4, SSD: 512GB M.2 NVMe PCIe Gen4\rDisplay: 15.6\" FHD (1920 x 1080), 60Hz\rFeatures: Wi-Fi 6, Camera Shutter",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/v15-gen-3/v15-gen-3-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -6907,7 +6907,7 @@
     "name": "Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 7520U 15.6\" FHD Laptop",
     "price": "70500",
     "description": "Processor:  AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)\rRam: 16GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Backlit Keyboard, Camera privacy shutter",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-0001-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -6975,7 +6975,7 @@
     "name": "Asus VivoBook Go 15 E1504FA Ryzen 5 7520U 16GB RAM 512GB SSD 15.6\" FHD Laptop",
     "price": "70500",
     "description": "Processor: AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) \rRAM: 16GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e1504fa-bq1251w/e1504fa-bq1251w-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -7040,7 +7040,7 @@
     "name": "Asus VivoBook Go 15 E1504FA Ryzen 5 7520U 16GB RAM 15.6\" FHD Laptop Green Gray",
     "price": "70500",
     "description": "Processor: AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) \rRAM: 16GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) \rFeatures: Backlit Keyboard, Type-C",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e1504fa-bq1153w/e1504fa-bq1153w-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -7105,7 +7105,7 @@
     "name": "Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 8GB RAM 15.6\" FHD Military Grade Laptop With FreeDOS",
     "price": "71000",
     "description": "Processor: Intel Core i5-13420H (12MB Cache, 3.4GHz up to 4.6GHz)\rRam: 8GB LPDDR5-4800, Storage: 512GB M.2 PCIe 4.0x4 NVMe SSD\rDisplay: 15.6\" FHD (1920x1080) TN, 250nits Anti-glare\rFeatures: Type-C, Privacy Shutter, Wi-Fi 6, Dolby Audio",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15iru8-arctic-gray/ideapad-slim-3-15iru8-arctic-gray-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -7177,7 +7177,7 @@
     "name": "MSI Modern 14 C7M AMD Ryzen 5 7430U 14\" FHD Laptop",
     "price": "71000",
     "description": "Processor: AMD Ryzen 5 7430U (2.3GHz up to 4.3GHz, 16MB Cache)\rRAM: 16GB DDR4 3200MHz, Storage: 512GB SSD\rDisplay: 14\" FHD (1920 x 1080) IPS Level\rFeatures: Backlit Keyboard, Type-C, WiFi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-14-c7m/modern-14-c7m-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -7241,7 +7241,7 @@
     "name": "MSI Modern 15 B7M AMD Ryzen 5 7430U 15.6\" FHD Laptop",
     "price": "71000",
     "description": "Processor: AMD Ryzen 5 7430U (2.3GHz up to 4.3GHz, 16MB Cache)\rRAM: 16GB DDR4 3200MHz, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080) IPS Level\rFeatures: Backlit Keyboard, Type-C, WiFi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-14-c7m/modern-14-c7m-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -7305,7 +7305,7 @@
     "name": "MSI Modern 15 B7M AMD Ryzen 5 7430U 15.6\" FHD Laptop Star Blue",
     "price": "71000",
     "description": "Processor: AMD Ryzen 5 7430U (2.3GHz up to 4.3GHz, 16MB Cache)\rRAM: 16GB DDR4 3200MHz, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920 x 1080) IPS Level\rFeatures: Backlit Keyboard, Type-C, WiFi 6E",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-15-b7m-star-blue/modern-15-b7m-star-blue-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
@@ -7369,7 +7369,7 @@
     "name": "Smart Flairedge Core i7 12th Gen 15.6\" FHD Laptop",
     "price": "71925",
     "description": "Processor: Intel Core i7-1255U (12MB Smart Cache, Up to 4.7 GHz)\rRAM: 8GB DDR4, Storage: 512GB NVMe PCIe SSD\rDisplay: 15.6\" FHD (1920x1080)\rFeatures: Backlit Keyboard, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/smart/flairedge/flairedge-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -7428,7 +7428,7 @@
     "name": "ASUS VivoBook 16 X1605ZA Core i3 12th Gen 16\" WUXGA Laptop",
     "price": "72000",
     "description": "Processor: Intel Core i3-1215U (10M Cache, up to 4.4 GHz)\rRAM: 8GB DDR4, Storage: 512GB SSD\rDisplay: 16-inch,  WUXGA (1920 x 1200) IPS\rFeatures: Fingerprint, Type-C, Privacy Shutter, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-16-x1605za/vivobook-16-x1605za-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -7496,7 +7496,7 @@
     "name": "HP 15-fd0290TU Core i5 13th Gen 15.6\" FHD Laptop",
     "price": "71000",
     "description": "Processor: Intel Core i5-1334U (12MB L3 Cache, Up to 4.6 GHz)\rRAM: 8GB DDR4, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080) 250nits, 62.5% sRGB\rFeatures: Privacy Shutter, Type-C, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ep0160tu/14-ep0160tu-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -7564,7 +7564,7 @@
     "name": "HP 15-fd0292TU Core i5 13th Gen 15.6\" FHD Laptop",
     "price": "72300",
     "description": "Processor: Intel Core i5-1334U (12MB L3 Cache, Up to 4.6 GHz)\rRAM: 8GB DDR4, Storage: 512GB PCIe NVMe M.2 SSD\rDisplay: 15.6\" FHD (1920 x 1080) 250nits, 62.5% sRGB\rFeatures: Privacy Shutter, Type-C, Wi-Fi 6",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fd0292tu/15-fd0292tu-01-500x500.webp",
     "Specifications": {
       "Processor Brand": "Intel",
@@ -7632,7 +7632,7 @@
     "name": "Lenovo IdeaPad Slim 3 Ryzen 5 7520U 15.6\" FHD IPS Laptop 16GB DDR5 RAM 512GB SSD with 2 Years Warranty",
     "price": "72500",
     "description": "Processor:  AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)\rRam: 16GB DDR5, Storage: 512GB SSD\rDisplay: 15.6\" FHD (1920x1080) IPS 300nits Anti-glare\rFeatures: Backlit Keyboard, Fingerprint, Mil-Std-810h Military Grade",
-    "category": "mouse",
+    "category": "laptop",
     "main_image": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3-15amn8/ideapad-slim-3-15amn8-08-500x500.webp",
     "Specifications": {
       "Processor Brand": "AMD",
