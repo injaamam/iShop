@@ -35,6 +35,7 @@ async function pushProducts() {
       description TEXT,
       main_image TEXT,
       specifications JSONB,
+      filter JSONB,
       stock_quantity INTEGER,
       created_at TIMESTAMP DEFAULT NOW()
     );
@@ -48,8 +49,8 @@ async function pushProducts() {
       // console.log(data[0]);
       for (const product of data) {
         await pool.query(
-          `INSERT INTO products (name, price, description, category, main_image, specifications)
-           VALUES ($1, $2, $3, $4, $5, $6)`,
+          `INSERT INTO products (name, price, description, category, main_image, specifications,filter)
+           VALUES ($1, $2, $3, $4, $5, $6, $7)`,
           [
             product.name,
             product.price,
@@ -57,6 +58,7 @@ async function pushProducts() {
             product.category,
             product.main_image,
             product.Specifications,
+            product.filter ?? null,
           ]
         );
       }
