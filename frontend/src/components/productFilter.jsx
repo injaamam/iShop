@@ -8,6 +8,7 @@ const ProductFilter = ({ className, category }) => {
   const [keys, setKeys] = useState();
   const [values, setValues] = useState();
   const [expandedKeys, setExpandedKeys] = useState({});
+  const [filters, setFilters] = useState({});
 
   useEffect(() => {
     axios
@@ -39,7 +40,7 @@ const ProductFilter = ({ className, category }) => {
           completedRequests++;
 
           if (completedRequests === keys.length) {
-            console.log(keyValue);
+            // console.log(keyValue);
             setValues(keyValue);
           }
         })
@@ -56,6 +57,16 @@ const ProductFilter = ({ className, category }) => {
     }));
   };
 
+  const handleFilter = (key, value) => {
+    console.log(`"${key}":["${value}"]`);
+    // setFilters((prev) => ({ ...prev, [key]: [value] }));
+    setFilters((prev) => ({ ...prev, [key]: [...(prev[key] || []), value] }));
+  };
+
+  useEffect(() => {
+    console.log(JSON.stringify(filters));
+  }, [filters]);
+
   return (
     <div className={`${className} space-y-2`}>
       {keys ? (
@@ -67,9 +78,13 @@ const ProductFilter = ({ className, category }) => {
             {expandedKeys[key] &&
               values &&
               values[key] &&
-              values[key].map((item, index) => (
-                <div key={index} className="bg-gray-300">
-                  {item}
+              values[key].map((value, index) => (
+                <div
+                  key={index}
+                  className="bg-gray-300"
+                  onClick={() => handleFilter(key, value)}
+                >
+                  {value}
                 </div>
               ))}
           </div>

@@ -19,6 +19,9 @@ export default function ProductPage() {
     return Number.isInteger(p) && p > 0 ? p : 1;
   });
 
+  // let getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters={"OS":["FreeDOS"],"Brand":["Acer"]}`;
+  let getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters={}`;
+
   // Load categories once
   useEffect(() => {
     getCategories()
@@ -36,7 +39,7 @@ export default function ProductPage() {
     }
     setError(""); // Clear previous errors
     axios
-      .get(`${BACKEND_URL}/category/${category}?page=${page}`)
+      .get(`${getProducts}`)
       .then((res) => {
         const data = res.data;
         if (Array.isArray(data)) {
