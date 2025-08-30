@@ -11,6 +11,7 @@ export default function ProductPage() {
   const { category } = useParams();
   const [products, setProducts] = useState([]);
   const filterOpen = useSelector((state) => state.hamburger.filterOpen);
+  const filters = useSelector((state) => state.filter.filters);
   const [categories, setCategories] = useState([]);
   const [error, setError] = useState("");
   const [searchParams, setSearchParams] = useSearchParams();
@@ -20,7 +21,9 @@ export default function ProductPage() {
   });
 
   // let getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters={"OS":["FreeDOS"],"Brand":["Acer"]}`;
-  let getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters={}`;
+  const getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters=${JSON.stringify(
+    filters
+  )}`;
 
   // Load categories once
   useEffect(() => {
@@ -51,7 +54,7 @@ export default function ProductPage() {
         }
       })
       .catch(() => setError("Failed to fetch products"));
-  }, [category, categories, page]);
+  }, [category, categories, page, filters]);
 
   //filter open close
   useEffect(() => {

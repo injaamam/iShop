@@ -1,5 +1,7 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
+import { useDispatch } from "react-redux";
+import { setFilters } from "../features/filterSlice.js"; //This  is from redux
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
@@ -8,7 +10,8 @@ const ProductFilter = ({ className, category }) => {
   const [keys, setKeys] = useState();
   const [values, setValues] = useState();
   const [expandedKeys, setExpandedKeys] = useState({});
-  const [filters, setFilters] = useState({});
+  const [filter, setFilter] = useState({}); //This is from local state
+  const dispatch = useDispatch();
 
   useEffect(() => {
     axios
@@ -58,14 +61,17 @@ const ProductFilter = ({ className, category }) => {
   };
 
   const handleFilter = (key, value) => {
-    console.log(`"${key}":["${value}"]`);
-    // setFilters((prev) => ({ ...prev, [key]: [value] }));
-    setFilters((prev) => ({ ...prev, [key]: [...(prev[key] || []), value] }));
+    // setFilter((prev) => ({ ...prev, [key]: [value] }));
+    setFilter((prev) => ({ ...prev, [key]: [...(prev[key] || []), value] }));
   };
 
   useEffect(() => {
-    console.log(JSON.stringify(filters));
-  }, [filters]);
+    dispatch(setFilters(filter));
+  }, [filter, dispatch]);
+
+  useEffect(() => {
+    console.log(JSON.stringify(filter));
+  }, [filter]);
 
   return (
     <div className={`${className} space-y-2`}>
