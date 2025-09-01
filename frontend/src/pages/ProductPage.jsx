@@ -102,17 +102,6 @@ export default function ProductPage() {
   //   setPage(1);
   // }, [category]);
 
-  if (error)
-    return (
-      <div className="flex justify-center pt-5 text-xl font-bold">{error}</div>
-    );
-  if (!products.length)
-    return (
-      <div className="flex justify-center items-center h-64">
-        <div className="loading loading-spinner loading-lg" />
-      </div>
-    );
-
   const start = Math.max(1, page - 2);
   const pages = [start, start + 1, start + 2, start + 3, start + 4];
 
@@ -131,25 +120,38 @@ export default function ProductPage() {
           `}
           category={category}
         />
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-          {products.map((prod) => (
-            <div
-              className="p-5 relative bg-white shadow-md rounded-md h-[650px]"
-              key={prod.id}
-            >
-              <img src={prod.main_image} alt={prod.name} />
-              <Link to={`/product/${prod.id}`}>
-                <h2 className="text-base font-semibold text-black/90 mb-5 hover:text-blue-900 hover:underline">
-                  {prod.name}
-                </h2>
-              </Link>
-              <p className="text-sm text-black/80 ">{prod.description}</p>
-              <p className="text-xl text-red-500 font-bold pt-5 absolute bottom-5">
-                {prod.price}
-              </p>
-            </div>
-          ))}
-        </div>
+        {error && (
+          <div className="flex justify-center pt-5 text-xl font-bold w-full min-h-[65vh]">
+            {error}
+          </div>
+        )}
+        {!error && !products.length && (
+          <div className="flex justify-center items-center h-64 w-full min-h-[65vh]">
+            <div className="loading loading-spinner loading-lg" />
+          </div>
+        )}
+
+        {!error && products.length > 0 && (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 min-h-[65vh]">
+            {products.map((prod) => (
+              <div
+                className="p-5 relative bg-white shadow-md rounded-md h-[650px]"
+                key={prod.id}
+              >
+                <img src={prod.main_image} alt={prod.name} />
+                <Link to={`/product/${prod.id}`}>
+                  <h2 className="text-base font-semibold text-black/90 mb-5 hover:text-blue-900 hover:underline">
+                    {prod.name}
+                  </h2>
+                </Link>
+                <p className="text-sm text-black/80 ">{prod.description}</p>
+                <p className="text-xl text-red-500 font-bold pt-5 absolute bottom-5">
+                  {prod.price}
+                </p>
+              </div>
+            ))}
+          </div>
+        )}
       </div>
 
       <div className="flex justify-center items-center gap-1 ">

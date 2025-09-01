@@ -94,7 +94,10 @@ const ProductFilter = ({ className, category }) => {
       {keys ? (
         keys.map((key) => (
           <div key={key}>
-            <div className="break-words" onClick={() => toggleKey(key)}>
+            <div
+              className="break-words cursor-pointer hover:bg-indigo-100 rounded p-2"
+              onClick={() => toggleKey(key)}
+            >
               {key}
             </div>
             {expandedKeys[key] &&
