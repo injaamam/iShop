@@ -61,8 +61,19 @@ const ProductFilter = ({ className, category }) => {
   };
 
   const handleFilter = (key, value) => {
-    // setFilter((prev) => ({ ...prev, [key]: [value] }));
-    setFilter((prev) => ({ ...prev, [key]: [...(prev[key] || []), value] }));
+    setFilter((prev) => {
+      const currentValues = prev[key] || [];
+      const isSelected = currentValues.includes(value);
+
+      if (isSelected) {
+        // Remove value if already selected
+        const newValues = currentValues.filter((v) => v !== value);
+        return { ...prev, [key]: newValues };
+      } else {
+        // Add value if not selected
+        return { ...prev, [key]: [...currentValues, value] };
+      }
+    });
   };
 
   useEffect(() => {
@@ -89,15 +100,22 @@ const ProductFilter = ({ className, category }) => {
             {expandedKeys[key] &&
               values &&
               values[key] &&
-              values[key].map((value, index) => (
-                <div
-                  key={index}
-                  className="bg-gray-300"
-                  onClick={() => handleFilter(key, value)}
-                >
-                  {value}
-                </div>
-              ))}
+              values[key].map((value, index) => {
+                const isSelected = filter[key] && filter[key].includes(value);
+                return (
+                  <div
+                    key={index}
+                    className={`cursor-pointer p-2 rounded ${
+                      isSelected
+                        ? "bg-blue-500 text-white"
+                        : "bg-gray-300 hover:bg-gray-400"
+                    }`}
+                    onClick={() => handleFilter(key, value)}
+                  >
+                    {value}
+                  </div>
+                );
+              })}
           </div>
         ))
       ) : (
