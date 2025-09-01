@@ -69,6 +69,11 @@ const ProductFilter = ({ className, category }) => {
     dispatch(setFilters(filter));
   }, [filter, dispatch]);
 
+  // Reset local state when category changes (app works fine without this)
+  useEffect(() => {
+    setFilter({});
+  }, [category]);
+
   useEffect(() => {
     console.log(JSON.stringify(filter));
   }, [filter]);

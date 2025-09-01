@@ -1,9 +1,10 @@
 import { useParams, Link, useSearchParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { useSelector } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import ProductFilter from "../components/productFilter";
 import { getCategories } from "../constant/getCategories.js";
+import { setFilters } from "../features/filterSlice.js";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
@@ -12,6 +13,7 @@ export default function ProductPage() {
   const [products, setProducts] = useState([]);
   const filterOpen = useSelector((state) => state.hamburger.filterOpen);
   const filters = useSelector((state) => state.filter.filters);
+  const dispatch = useDispatch();
   const [categories, setCategories] = useState([]);
   const [error, setError] = useState("");
   const [searchParams, setSearchParams] = useSearchParams();
@@ -88,6 +90,12 @@ export default function ProductPage() {
   useEffect(() => {
     setPage(1);
   }, [filters]);
+
+  // Reset filters when category changes
+  useEffect(() => {
+    dispatch(setFilters({}));
+    console.log("Filters reset to:", {});
+  }, [category, dispatch]);
 
   //reset page to 1 when category changes
   // useEffect(() => {
