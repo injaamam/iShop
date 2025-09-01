@@ -84,6 +84,11 @@ export default function ProductPage() {
     }
   }, [page, searchParams]);
 
+  // Reset page to 1 when filters change
+  useEffect(() => {
+    setPage(1);
+  }, [filters]);
+
   //reset page to 1 when category changes
   // useEffect(() => {
   //   setPage(1);
