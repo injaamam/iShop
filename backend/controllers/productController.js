@@ -70,6 +70,16 @@ const getProducts = async (req, res) => {
     query += " ORDER BY id LIMIT 20 OFFSET $" + paramIndex;
     params.push(offset);
 
+    //sample query
+    // let query = `SELECT id, name, price, main_image, description FROM products
+    // WHERE category = $1
+    // AND filter->>'Brand' IN ($2,$3)
+    // ORDER BY id
+    // LIMIT 20
+    // OFFSET $4`;
+
+    // let params = ["laptop", "Dell", "HP", 0];
+
     const products = await sql.query(query, params);
 
     if (products.rows.length === 0) {
