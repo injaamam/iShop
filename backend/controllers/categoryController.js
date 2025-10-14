@@ -6,8 +6,6 @@ const getCategories = async (req, res) => {
       "SELECT DISTINCT category from products;"
     );
     res.json(categories.rows.map((row) => row.category));
-    // const categories = await sql`SELECT DISTINCT category from products;`;
-    // res.json(categories.map((row) => row.category));
   } catch (err) {
     console.error("DB error:", err);
     res.status(500).json({ error: "Database error" });
