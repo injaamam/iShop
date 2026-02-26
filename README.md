@@ -1,6 +1,6 @@
-# iShop
+# Star Tech
 
-iShop is a complete electronic e-commerce site, providing end-to-end functionality for browsing, filtering, and purchasing electronic products online.
+Star Tech is a complete electronic e-commerce site, providing end-to-end functionality for browsing, filtering, and purchasing electronic products online.
 
 ## Features
 
