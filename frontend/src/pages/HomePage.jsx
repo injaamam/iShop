@@ -5,9 +5,52 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
+import {
+  MdMonitor,
+  MdCarpenter,
+  MdWatch,
+  MdHeadphones,
+  MdEventSeat,
+  MdKeyboard,
+  MdVideogameAsset,
+  MdEdit,
+  MdComputer,
+  MdLaptop,
+  MdPower,
+  MdTablet,
+  MdMouse,
+  MdCamera,
+  MdSpeaker,
+} from "react-icons/md";
+import { BsEarbuds } from "react-icons/bs";
+import { PiDesktopTowerBold } from "react-icons/pi";
 
 function HomePage() {
   const [categories, setCategories] = useState([]);
+
+  // Function to get icon for category
+  const getIconForCategory = (cat) => {
+    const iconProps = { size: 32 };
+    const iconMap = {
+      monitor: <MdMonitor {...iconProps} />,
+      "pen-drive": <MdCarpenter {...iconProps} />,
+      "smart-watch": <MdWatch {...iconProps} />,
+      earbuds: <BsEarbuds {...iconProps} />,
+      "gaming-chair": <MdEventSeat {...iconProps} />,
+      headphone: <MdHeadphones {...iconProps} />,
+      "speaker-and-home-theater": <MdSpeaker {...iconProps} />,
+      keyboard: <MdKeyboard {...iconProps} />,
+      "gaming-console": <MdVideogameAsset {...iconProps} />,
+      stylus: <MdEdit {...iconProps} />,
+      server: <PiDesktopTowerBold {...iconProps} />,
+      laptop: <MdLaptop {...iconProps} />,
+      "mobile-phone-charger-adapter": <MdPower {...iconProps} />,
+      "tablet-pc": <MdTablet {...iconProps} />,
+      mouse: <MdMouse {...iconProps} />,
+      camera: <MdCamera {...iconProps} />,
+    };
+    return iconMap[cat] || <MdCarpenter {...iconProps} />;
+  };
 
   useEffect(() => {
     getCategories().then((data) => setCategories(data));
@@ -78,9 +121,14 @@ function HomePage() {
             <Link
               key={cat}
               to={`/category/${cat}`}
-              className="flex items-center justify-center h-16 border rounded text-center"
+              className="flex flex-col items-center justify-center h-24 border rounded text-center p-2 hover:shadow-lg hover:bg-gray-50 transition"
             >
-              {cat}
+              <div className="text-gray-700 mb-1">
+                {getIconForCategory(cat)}
+              </div>
+              <span className="text-xs font-medium text-gray-700 break-words capitalize">
+                {cat.replace(/-/g, " ")}
+              </span>
             </Link>
           ))}
         </div>
