@@ -10,7 +10,7 @@ import getCategories from "../controllers/categoryController.js";
 const router = expres.Router();
 
 router.get("/test", (req, res) => {
-  res.send("test route");
+  res.send("Backend is working!");
 });
 
 router.get("/categories", getCategories);
