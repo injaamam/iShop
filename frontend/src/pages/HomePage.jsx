@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { getCategories } from "../constant/getCategories.js";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
+import axios from "axios";
 import "swiper/css";
 import "swiper/css/pagination";
 import {
@@ -14,7 +15,6 @@ import {
   MdKeyboard,
   MdVideogameAsset,
   MdEdit,
-  MdComputer,
   MdLaptop,
   MdPower,
   MdTablet,
@@ -24,6 +24,8 @@ import {
 } from "react-icons/md";
 import { BsEarbuds } from "react-icons/bs";
 import { PiDesktopTowerBold } from "react-icons/pi";
+
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
 function HomePage() {
   const [categories, setCategories] = useState([]);
@@ -54,6 +56,17 @@ function HomePage() {
 
   useEffect(() => {
     getCategories().then((data) => setCategories(data));
+
+    // Hit backend test route
+    const hitBackend = async () => {
+      try {
+        const res = await axios.get(`${BACKEND_URL}/test`);
+        console.log(res.data);
+      } catch (err) {
+        console.error(err);
+      }
+    };
+    hitBackend();
   }, []);
 
   return (
