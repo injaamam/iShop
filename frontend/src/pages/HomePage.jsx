@@ -71,7 +71,7 @@ function HomePage() {
 
   return (
     <div className="mx-5 md:mx-8 lg:mx-10 pt-21 md:pt-3 mb-10">
-      <div className="flex flex-col md:flex-row gap-4 w-full">
+      <div className="flex flex-col md:flex-row gap-3 w-full">
         {/* Image Carousel Section */}
         <div className="md:w-[75%]">
           <Swiper
@@ -108,16 +108,16 @@ function HomePage() {
             </SwiperSlide>
           </Swiper>
         </div>
-        <div className="flex flex-col justify-between md:w-[25%]">
+        <div className="flex flex-row md:flex-col justify-between md:w-[25%] gap-3">
           <img
             src="/Homepage/x.webp"
             alt="Image"
-            className="w-full h-auto object-contain"
+            className="flex-1 min-w-0 h-auto object-contain"
           />
           <img
             src="/Homepage/y.webp"
             alt="Image"
-            className="w-full h-auto object-contain"
+            className="flex-1 min-w-0 h-auto object-contain"
           />
         </div>
       </div>
