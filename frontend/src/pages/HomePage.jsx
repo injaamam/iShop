@@ -70,7 +70,7 @@ function HomePage() {
   }, []);
 
   return (
-    <div className="mx-5 md:mx-8 lg:mx-10 pt-21 md:pt-3 mb-10">
+    <div className="mx-5 md:mx-8 lg:mx-15 2xl:mx-25 3xl:mx-40 pt-21 md:pt-3 mb-10">
       <div className="flex flex-col md:flex-row items-stretch gap-1 md:gap-[1%] w-full">
         {/* Image Carousel Section */}
         {/* left column section */}
@@ -80,7 +80,7 @@ function HomePage() {
             spaceBetween={0}
             slidesPerView={1}
             autoplay={{
-              delay: 3000,
+              delay: 5000,
               disableOnInteraction: false,
             }}
             pagination={{ clickable: true }}
@@ -125,7 +125,7 @@ function HomePage() {
       </div>
 
       <div className="flex flex-col gap-2 mt-10">
-        <h2 className="text-xl font-semibold text-center">Featured Category</h2>
+        <h2 className="text-xl font-semibold text-center text-black-900">Featured Category</h2>
         <h3 className="text-md font-medium text-center">
           Get Your Desired Product from Featured Category!
         </h3>
@@ -136,12 +136,12 @@ function HomePage() {
             <Link
               key={cat}
               to={`/category/${cat}`}
-              className="flex flex-col items-center justify-center h-24 border rounded text-center p-2 hover:shadow-lg hover:bg-gray-50 transition"
+              className="flex flex-col items-center justify-center h-24 rounded-xl text-center p-2 bg-white shadow-sm hover:shadow-lg hover:bg-gray-50 transition"
             >
               <div className="text-gray-700 mb-1">
                 {getIconForCategory(cat)}
               </div>
-              <span className="text-xs font-medium text-gray-700 break-words capitalize">
+              <span className="text-xs font-medium text-black-800 break-words capitalize">
                 {cat.replace(/-/g, " ")}
               </span>
             </Link>
