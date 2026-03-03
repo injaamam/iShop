@@ -71,9 +71,10 @@ function HomePage() {
 
   return (
     <div className="mx-5 md:mx-8 lg:mx-10 pt-21 md:pt-3 mb-10">
-      <div className="flex flex-col md:flex-row gap-3 w-full">
+      <div className="flex flex-col md:flex-row items-stretch gap-1 md:gap-[1%] w-full">
         {/* Image Carousel Section */}
-        <div className="md:w-[75%]">
+        {/* left column section */}
+        <div className="md:w-[75.5%]">
           <Swiper
             modules={[Autoplay, Pagination]}
             spaceBetween={0}
@@ -108,16 +109,17 @@ function HomePage() {
             </SwiperSlide>
           </Swiper>
         </div>
-        <div className="flex flex-row md:flex-col justify-between md:w-[25%] gap-3">
+        {/* right column section */}
+        <div className="flex flex-row md:flex-col md:w-[23.5%] justify-between gap-[1%] md:gap-0">
           <img
             src="/Homepage/x.webp"
             alt="Image"
-            className="flex-1 min-w-0 h-auto object-contain"
+            className="h-auto object-contain w-[49%] md:w-full"
           />
           <img
             src="/Homepage/y.webp"
             alt="Image"
-            className="flex-1 min-w-0 h-auto object-contain"
+            className="h-auto object-contain w-[49%] md:w-full"
           />
         </div>
       </div>
