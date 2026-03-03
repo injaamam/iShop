@@ -1,7 +1,20 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
+@theme {
+  --breakpoint-3xl: 101.25rem; /* 1620px / 16 */
+  --breakpoint-4xl: 160rem; /* 2560px / 16 */
+}
+
 html,
 body {
-  background-color: #fff !important;
+  background-color: #F2F4F8 !important;
 }
+
+/* to understand which screen size is active */
+/* @layer base {
+  html,
+  body {
+    @apply bg-white sm:!bg-amber-100 md:!bg-green-900 lg:!bg-blue-900 xl:!bg-red-900 2xl:!bg-yellow-900 3xl:!bg-purple-500 4xl:!bg-pink-900;
+  }
+} */
