@@ -70,9 +70,9 @@ function HomePage() {
   }, []);
 
   return (
-    <div className="mx-5 md:mx-8 lg:mx-15 2xl:mx-25 3xl:mx-40 pt-21 md:pt-3 mb-10">
+    <div className="mx-5 md:mx-8 lg:mx-15 2xl:mx-30 3xl:mx-40 pt-21 md:pt-3 mb-10">
+      {/* Image section */}
       <div className="flex flex-col md:flex-row items-stretch gap-1 md:gap-[1%] w-full">
-        {/* Image Carousel Section */}
         {/* left column section */}
         <div className="md:w-[75.5%]">
           <Swiper
@@ -124,6 +124,12 @@ function HomePage() {
         </div>
       </div>
 
+      {/* marquee section */}
+      <div className="flex items-center bg-white h-10 mt-6 rounded-2xl">
+        <marquee behavior="scroll" direction="left" className="text-center text-slate-700 text-sm">Today, All our branches are open including Multiplan & Elephant Road branches. Additionally, our online activities are open and operational.</marquee>
+      </div>
+
+      {/* Featured Category section */}
       <div className="flex flex-col gap-2 mt-10">
         <h2 className="text-xl font-semibold text-center text-black-900">Featured Category</h2>
         <h3 className="text-md font-medium text-center">
