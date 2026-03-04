@@ -21,6 +21,10 @@ import {
   MdMouse,
   MdCamera,
   MdSpeaker,
+  MdSearch,
+  MdReportProblem,
+  MdHomeRepairService,
+  MdBuild,
 } from "react-icons/md";
 import { BsEarbuds } from "react-icons/bs";
 import { PiDesktopTowerBold } from "react-icons/pi";
@@ -127,6 +131,57 @@ function HomePage() {
       {/* marquee section */}
       <div className="flex items-center bg-white h-10 mt-6 rounded-2xl">
         <marquee behavior="scroll" direction="left" className="text-center text-slate-700 text-sm">Today, All our branches are open including Multiplan & Elephant Road branches. Additionally, our online activities are open and operational.</marquee>
+      </div>
+
+      {/* Service highlights */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-10">
+        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+            <MdSearch size={24} />
+          </div>
+          <div className="leading-tight">
+            <h3 className="font-semibold text-slate-900">Laptop Finder</h3>
+            <p className="hidden lg:block text-sm text-slate-500">
+              Find Your Laptop Easily
+            </p>
+          </div>
+        </div>
+
+        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+            <MdReportProblem size={24} />
+          </div>
+          <div className="leading-tight">
+            <h3 className="font-semibold text-slate-900">Raise a Complain</h3>
+            <p className="hidden lg:block text-sm text-slate-500">
+              Share your experience
+            </p>
+          </div>
+        </div>
+
+        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+            <MdHomeRepairService size={24} />
+          </div>
+          <div className="leading-tight">
+            <h3 className="font-semibold text-slate-900">Home Service</h3>
+            <p className="hidden lg:block text-sm text-slate-500">
+              Get expert help.
+            </p>
+          </div>
+        </div>
+
+        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+            <MdBuild size={24} />
+          </div>
+          <div className="leading-tight">
+            <h3 className="font-semibold text-slate-900">Servicing Center</h3>
+            <p className="hidden lg:block text-sm text-slate-500">
+              Repair Your Device
+            </p>
+          </div>
+        </div>
       </div>
 
       {/* Featured Category section */}
