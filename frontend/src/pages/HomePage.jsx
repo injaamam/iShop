@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { getCategories } from "../constant/getCategories.js";
+import HomeAboutSection from "../components/HomeAboutSection.jsx";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
 import axios from "axios";
@@ -130,7 +131,15 @@ function HomePage() {
 
       {/* marquee section */}
       <div className="flex items-center bg-white h-10 mt-6 rounded-2xl">
-        <marquee behavior="scroll" direction="left" className="text-center text-slate-700 text-sm">Today, All our branches are open including Multiplan & Elephant Road branches. Additionally, our online activities are open and operational.</marquee>
+        <marquee
+          behavior="scroll"
+          direction="left"
+          className="text-center text-slate-700 text-sm"
+        >
+          Today, All our branches are open including Multiplan & Elephant Road
+          branches. Additionally, our online activities are open and
+          operational.
+        </marquee>
       </div>
 
       {/* Service highlights */}
@@ -198,7 +207,9 @@ function HomePage() {
 
       {/* Featured Category section */}
       <div className="flex flex-col gap-2 mt-10">
-        <h2 className="text-xl font-semibold text-center text-black-900">Featured Category</h2>
+        <h2 className="text-xl font-semibold text-center text-black-900">
+          Featured Category
+        </h2>
         <h3 className="text-md font-medium text-center">
           Get Your Desired Product from Featured Category!
         </h3>
@@ -221,6 +232,7 @@ function HomePage() {
           ))}
         </div>
       </div>
+      <HomeAboutSection />
     </div>
   );
 }
