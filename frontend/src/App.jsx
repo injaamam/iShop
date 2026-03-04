@@ -5,6 +5,7 @@ import ProductSpecificationPage from "./pages/ProductSpecificationPage.jsx";
 import FeatureUnavailablePage from "./pages/FeatureUnavailablePage.jsx";
 import NotFoundPage from "./components/notFoundPage.jsx";
 import Header from "./components/Header.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </div>
+      <Footer />
     </BrowserRouter>
   );
 }
