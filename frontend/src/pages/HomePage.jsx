@@ -135,7 +135,10 @@ function HomePage() {
 
       {/* Service highlights */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-10">
-        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+        <Link
+          to="/feature-unavailable?feature=Laptop%20Finder"
+          className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
+        >
           <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdSearch size={24} />
           </div>
@@ -145,9 +148,12 @@ function HomePage() {
               Find Your Laptop Easily
             </p>
           </div>
-        </div>
+        </Link>
 
-        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+        <Link
+          to="/feature-unavailable?feature=Raise%20a%20Complain"
+          className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
+        >
           <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdReportProblem size={24} />
           </div>
@@ -157,9 +163,12 @@ function HomePage() {
               Share your experience
             </p>
           </div>
-        </div>
+        </Link>
 
-        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+        <Link
+          to="/feature-unavailable?feature=Home%20Service"
+          className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
+        >
           <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdHomeRepairService size={24} />
           </div>
@@ -169,9 +178,12 @@ function HomePage() {
               Get expert help.
             </p>
           </div>
-        </div>
+        </Link>
 
-        <div className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3">
+        <Link
+          to="/feature-unavailable?feature=Servicing%20Center"
+          className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
+        >
           <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdBuild size={24} />
           </div>
@@ -181,7 +193,7 @@ function HomePage() {
               Repair Your Device
             </p>
           </div>
-        </div>
+        </Link>
       </div>
 
       {/* Featured Category section */}
