@@ -46,7 +46,7 @@ export default function ProductSpecificationPage() {
     );
 
   return (
-    <div className="p-5 md:p-8 lg:p-10 pt-21 md:pt-3">
+    <div className="p-5 md:p-8 lg:p-10 pt-3">
       <div className="flex flex-col md:flex-row items-center justify-center">
         <img src={product.main_image} alt={product.name} />
         <div className="p-4 w-full min-h-70">

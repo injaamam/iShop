@@ -10,13 +10,18 @@ function App() {
   return (
     <BrowserRouter>
       <Header />
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/category/:category" element={<ProductPage />} />
-        <Route path="/product/:id" element={<ProductSpecificationPage />} />
-        <Route path="/feature-unavailable" element={<FeatureUnavailablePage />} />
-        <Route path="*" element={<NotFoundPage />} />
-      </Routes>
+      <div className="mt-16 md:mt-0">
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/category/:category" element={<ProductPage />} />
+          <Route path="/product/:id" element={<ProductSpecificationPage />} />
+          <Route
+            path="/feature-unavailable"
+            element={<FeatureUnavailablePage />}
+          />
+          <Route path="*" element={<NotFoundPage />} />
+        </Routes>
+      </div>
     </BrowserRouter>
   );
 }

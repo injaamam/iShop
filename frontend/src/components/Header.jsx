@@ -11,7 +11,7 @@ export default function Header() {
   const location = useLocation();
   const isCategoryPage = location.pathname.includes("/category/");
   return (
-    <div className="fixed md:relative w-full flex justify-around md:justify-center items-center gap-5 py-3 bg-[#081621] z-100 h-18">
+    <div className="fixed md:relative w-full flex justify-around md:justify-center items-center gap-5 py-3 bg-[#081621] z-100 h-18 top-0">
       {isCategoryPage && (
         <button
           className="lg:hidden text-2xl text-white"

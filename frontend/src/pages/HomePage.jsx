@@ -74,7 +74,7 @@ function HomePage() {
   }, []);
 
   return (
-    <div className="mx-5 md:mx-8 lg:mx-15 2xl:mx-30 3xl:mx-40 pt-21 md:pt-3 mb-10">
+    <div className="mx-5 md:mx-8 lg:mx-15 2xl:mx-30 3xl:mx-40 pt-3 mb-10">
       {/* Image section */}
       <div className="flex flex-col md:flex-row items-stretch gap-1 md:gap-[1%] w-full">
         {/* left column section */}
