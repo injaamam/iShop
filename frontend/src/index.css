@@ -6,9 +6,12 @@
   --breakpoint-4xl: 160rem; /* 2560px / 16 */
 }
 
-html,
-body {
-  background-color: #F2F4F8 !important;
+@layer base {
+  html,
+  body {
+    font-family: "Arimo", sans-serif;
+    background-color: #f2f4f8 !important;
+  }
 }
 
 /* to understand which screen size is active */
