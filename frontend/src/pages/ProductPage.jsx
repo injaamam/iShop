@@ -24,7 +24,7 @@ export default function ProductPage() {
 
   // let getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters={"OS":["FreeDOS"],"Brand":["Acer"]}`;
   const getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters=${JSON.stringify(
-    filters
+    filters,
   )}`;
 
   // Load categories once
@@ -107,12 +107,51 @@ export default function ProductPage() {
 
   return (
     <div className="px-5 py-3 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
+      {/* breadcrumb section */}
+      <div className="text-sm text-gray-600 flex items-center gap-2">
+        <Link to="/" className="hover:text-blue-600">
+          <svg
+            className="w-4 h-4 inline"
+            fill="currentColor"
+            viewBox="0 0 20 20"
+          >
+            <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" />
+          </svg>
+        </Link>
+        <span className="text-gray-400">/</span>
+        <span className="capitalize text-gray-700 font-medium">
+          {category.replace(/-/g, " ")}
+        </span>
+      </div>
+
+      {/* head section */}
+      <div className="mb-5">
+        <h1 className="text-xl font-[600] capitalize mb-3 text-[#3749bb]">
+          {category.replace(/-/g, " ")} Price in Bangladesh
+        </h1>
+        <p className="text-gray-700 leading-relaxed">
+          Buy latest original{" "}
+          <span className="capitalize font-semibold">
+            {category.replace(/-/g, " ")}
+          </span>{" "}
+          from StarTech. We offer authentic products with competitive prices and
+          excellent customer service. Browse our extensive collection to find
+          the best deals on high-quality {category.replace(/-/g, " ")} from
+          trusted brands. Shop now and enjoy fast delivery, warranty support,
+          and customer satisfaction guaranteed!
+        </p>
+      </div>
+
+      {/*category title section */}
       <div className="flex justify-between items-center w-full p-5 bg-white shadow-md rounded-md">
-        <h1 className="text-2xl font-bold text-center h-5 flex items-center justify-between lg:justify-center w-full">
-          {category}
+        <h1 className="text-xl font-semibold text-center h-5 flex items-center justify-between lg:justify-center w-full capitalize">
+          {category.replace(/-/g, " ")}
         </h1>
       </div>
+
+      {/* product filter and product list section */}
       <div className="flex flex-col lg:flex-row gap-4 relative">
+        {/* product filter section */}
         <ProductFilter
           className={`
             ${filterOpen ? "block" : "hidden"}
@@ -131,6 +170,7 @@ export default function ProductPage() {
           </div>
         )}
 
+        {/* product list section */}
         {!error && products.length > 0 && (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 min-h-[65vh]">
             {products.map((prod) => (
@@ -154,6 +194,7 @@ export default function ProductPage() {
         )}
       </div>
 
+      {/* pagination section */}
       <div className="flex justify-center items-center gap-1 ">
         <button
           className="btn btn-outline btn-sm"
