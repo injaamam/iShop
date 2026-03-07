@@ -187,19 +187,24 @@ export default function ProductPage() {
       )}
 
       {/*category title section */}
-      <div className="flex justify-between items-center w-full p-5 bg-white shadow-md rounded-md">
-        <h1 className="text-xl font-semibold text-center h-5 flex items-center justify-between lg:justify-center w-full capitalize">
+      <div className="flex items-center gap-3 w-full px-5 py-3 bg-white shadow-sm rounded-md border-l-4 border-[#3749bb]">
+        <h1 className="text-lg font-semibold text-gray-800 capitalize">
           {category.replace(/-/g, " ")}
         </h1>
+        {products.length > 0 && (
+          <span className="text-sm text-gray-500 ml-auto">
+            Showing {products.length} products
+          </span>
+        )}
       </div>
 
       {/* product filter and product list section */}
-      <div className="flex flex-col lg:flex-row gap-4 relative">
+      <div className="flex flex-col lg:flex-row lg:items-start gap-4 relative">
         {/* product filter section */}
         <ProductFilter
           className={`
             ${filterOpen ? "block" : "hidden"}
-            fixed top-18 left-0 bottom-0 w-80 lg:block lg:static lg:right-auto lg:w-250 shadow-lg bg-white p-4 lg:rounded-lg z-10 overflow-y-auto
+            fixed top-18 left-0 bottom-0 w-80 lg:block lg:static lg:right-auto lg:min-w-[220px] lg:max-w-[280px] lg:w-[260px] shadow-lg bg-white p-4 lg:rounded-lg z-10 overflow-y-auto lg:sticky lg:top-4
           `}
           category={category}
         />
