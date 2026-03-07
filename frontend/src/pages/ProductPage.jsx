@@ -102,6 +102,27 @@ export default function ProductPage() {
   //   setPage(1);
   // }, [category]);
 
+  // Fetch brands for current category in the upper section of the page
+  const [brands, setBrands] = useState([]);
+  useEffect(() => {
+    setBrands([]);
+    axios
+      .get(`${BACKEND_URL}/category/${category}/filter/Brand`)
+      .then((res) => {
+        if (Array.isArray(res.data)) setBrands(res.data);
+      })
+      .catch(() => setBrands([]));
+  }, [category]);
+
+  const handleBrandClick = (brand) => {
+    const currentBrands = filters.Brand || [];
+    const isSelected = currentBrands.includes(brand);
+    const newBrands = isSelected
+      ? currentBrands.filter((b) => b !== brand)
+      : [...currentBrands, brand];
+    dispatch(setFilters({ ...filters, Brand: newBrands }));
+  };
+
   const start = Math.max(1, page - 2);
   const pages = [start, start + 1, start + 2, start + 3, start + 4];
 
@@ -125,11 +146,11 @@ export default function ProductPage() {
       </div>
 
       {/* head section */}
-      <div className="mb-5">
-        <h1 className="text-xl font-[600] capitalize mb-3 text-[#3749bb]">
+      <div className="mb-1 md:mb-2">
+        <h1 className="text-xl md:font-medium capitalize mb-1 md:mb-2 text-[#3749bb]">
           {category.replace(/-/g, " ")} Price in Bangladesh
         </h1>
-        <p className="text-gray-700 leading-relaxed">
+        <p className="text-gray-700 leading-relaxed text-sm md:text-base">
           Buy latest original{" "}
           <span className="capitalize font-semibold">
             {category.replace(/-/g, " ")}
@@ -141,6 +162,29 @@ export default function ProductPage() {
           and customer satisfaction guaranteed!
         </p>
       </div>
+
+      {/* brand quick filter section */}
+      {brands.length > 0 && (
+        <div className="flex flex-wrap gap-1 md:gap-1">
+          {brands.map((brand) => {
+            const isActive = (filters.Brand || []).includes(brand);
+            return (
+              <button
+                key={brand}
+                onClick={() => handleBrandClick(brand)}
+                className={`px-2.5 py-1 rounded-full border text-xs md:text-sm font-medium transition-colors cursor-pointer
+                  ${
+                    isActive
+                      ? "bg-[#3749bb] text-white border-[#3749bb]"
+                      : "bg-white text-gray-700 border-gray-300 hover:border-[#3749bb] hover:text-[#3749bb]"
+                  }`}
+              >
+                {brand}
+              </button>
+            );
+          })}
+        </div>
+      )}
 
       {/*category title section */}
       <div className="flex justify-between items-center w-full p-5 bg-white shadow-md rounded-md">
