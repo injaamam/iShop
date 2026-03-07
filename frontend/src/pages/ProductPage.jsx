@@ -216,22 +216,63 @@ export default function ProductPage() {
 
         {/* product list section */}
         {!error && products.length > 0 && (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 min-h-[65vh]">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2">
             {products.map((prod) => (
               <div
-                className="p-5 relative bg-white shadow-md rounded-md h-[650px]"
+                className="p-4 bg-white shadow-md rounded-md flex flex-col justify-between border border-gray-100 hover:shadow-lg transition-shadow"
                 key={prod.id}
               >
-                <img src={prod.main_image} alt={prod.name} />
+                {/* product image */}
+                <div className="flex justify-center items-center p-2 mb-3">
+                  <img
+                    src={prod.main_image}
+                    alt={prod.name}
+                    className="max-h-48 object-contain"
+                  />
+                </div>
+
+                {/* product name */}
                 <Link to={`/product/${prod.id}`}>
-                  <h2 className="text-base font-semibold text-black/90 mb-5 hover:text-blue-900 hover:underline">
+                  <h2 className="text-sm font-semibold text-black/90 mb-3 hover:text-[#3749bb] hover:underline line-clamp-2">
                     {prod.name}
                   </h2>
                 </Link>
-                <p className="text-sm text-black/80 ">{prod.description}</p>
-                <p className="text-xl text-red-500 font-bold pt-5 absolute bottom-5">
-                  {prod.price}
-                </p>
+
+                {/* specs as bullet points */}
+                <ul className="text-xs text-gray-600 space-y-1 mb-4 list-disc list-inside flex-grow">
+                  {prod.description
+                    ?.split("\r")
+                    .filter((line) => line.trim())
+                    .map((line, i) => (
+                      <li key={i}>{line.trim()}</li>
+                    ))}
+                </ul>
+
+                {/* price and buy now */}
+                <div className="mt-auto border-t border-gray-400/50 pt-3">
+                  <p className="text-xl text-[#d51e0b] font-bold mb-2">
+                    {Number(prod.price).toLocaleString()}&#2547;
+                  </p>
+                  <Link
+                    to={`/product/${prod.id}`}
+                    className="flex items-center justify-center gap-2 w-full py-2 bg-[#f5f6fd] text-[#3749bb] text-sm font-bold rounded hover:bg-[#e3e4f8] transition-colors"
+                  >
+                    <svg
+                      className="w-4 h-4"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 100 4 2 2 0 000-4z"
+                      />
+                    </svg>
+                    Buy Now
+                  </Link>
+                </div>
               </div>
             ))}
           </div>
