@@ -19,6 +19,10 @@ const ProductFilter = ({ className, category }) => {
       .then((res) => {
         const keys = res.data;
         setKeys(keys);
+        // Expand all keys by default
+        const expanded = {};
+        keys.forEach((key) => (expanded[key] = true));
+        setExpandedKeys(expanded);
       })
       .catch(() => setError("Failed to fetch product specification key!"));
   }, [category]);
@@ -77,39 +81,81 @@ const ProductFilter = ({ className, category }) => {
   };
 
   return (
-    <div className={`${className} space-y-2`}>
+    <div className={`${className} divide-y divide-gray-200`}>
       {keys ? (
         keys.map((key) => (
-          <div key={key}>
-            <div
-              className="break-words cursor-pointer hover:bg-indigo-100 rounded p-2"
+          <div key={key} className="py-3">
+            {/* filter section header */}
+            <button
+              className="flex items-center justify-between w-full text-left px-1 py-1 cursor-pointer group"
               onClick={() => toggleKey(key)}
             >
-              {key}
-            </div>
-            {expandedKeys[key] &&
-              values &&
-              values[key] &&
-              values[key].map((value, index) => {
-                const isSelected = filter[key] && filter[key].includes(value);
-                return (
-                  <div
-                    key={index}
-                    className={`cursor-pointer p-2 rounded ${
-                      isSelected
-                        ? "bg-blue-500 text-white"
-                        : "bg-gray-300 hover:bg-gray-400"
-                    }`}
-                    onClick={() => handleFilter(key, value)}
-                  >
-                    {value}
-                  </div>
-                );
-              })}
+              <span className="text-base font-semibold text-gray-800 group-hover:text-[#3749bb] transition-colors">
+                {key}
+              </span>
+              <svg
+                className={`w-4 h-4 text-gray-500 transition-transform duration-200 ${
+                  expandedKeys[key] ? "rotate-180" : ""
+                }`}
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M5 15l7-7 7 7"
+                />
+              </svg>
+            </button>
+
+            {/* filter values as checkboxes */}
+            {expandedKeys[key] && values && values[key] && (
+              <div className="mt-2 space-y-1 max-h-60 overflow-y-auto pl-1">
+                {values[key].map((value, index) => {
+                  const isSelected = filter[key] && filter[key].includes(value);
+                  return (
+                    <label
+                      key={index}
+                      className="flex items-center gap-3 px-2 py-1.5 rounded cursor-pointer hover:bg-gray-50 transition-colors"
+                      onClick={() => handleFilter(key, value)}
+                    >
+                      <span
+                        className={`w-4 h-4 rounded border-2 flex items-center justify-center flex-shrink-0 transition-colors ${
+                          isSelected
+                            ? "bg-[#ef4a23] border-[#ef4a23]"
+                            : "border-gray-400 bg-white"
+                        }`}
+                      >
+                        {isSelected && (
+                          <svg
+                            className="w-3 h-3 text-white"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={3}
+                              d="M5 13l4 4L19 7"
+                            />
+                          </svg>
+                        )}
+                      </span>
+                      <span className="text-sm text-gray-700">{value}</span>
+                    </label>
+                  );
+                })}
+              </div>
+            )}
           </div>
         ))
       ) : (
-        <div>Loading...</div>
+        <div className="flex justify-center py-8">
+          <div className="loading loading-spinner loading-md" />
+        </div>
       )}
     </div>
   );
