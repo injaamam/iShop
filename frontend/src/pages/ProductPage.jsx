@@ -127,7 +127,7 @@ export default function ProductPage() {
   const pages = [start, start + 1, start + 2, start + 3, start + 4];
 
   return (
-    <div className="px-5 py-3 overflow-hidden md:px-8 lg:px-10 grid grid-cols-1 gap-4 items-center bg-gray-100">
+    <div className="mx-5 md:mx-8 lg:mx-15 2xl:mx-30 3xl:mx-40 pt-3 mb-10 overflow-hidden grid grid-cols-1 gap-4 items-center">
       {/* breadcrumb section */}
       <div className="text-sm text-gray-600 flex items-center gap-2">
         <Link to="/" className="hover:text-blue-600">
