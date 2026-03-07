@@ -253,11 +253,14 @@ export default function ProductPage() {
                     ))}
                 </ul>
 
-                {/* price and buy now */}
+                {/* price, buy now and Add to favourite */}
                 <div className="mt-auto border-t border-gray-400/50 pt-3">
-                  <p className="text-xl text-[#d51e0b] font-bold mb-2">
+                  {/* price */}
+                  <p className="text-xl text-[#d51e0b] text-center font-bold mb-2">
                     {Number(prod.price).toLocaleString()}&#2547;
                   </p>
+
+                  {/* buy now */}
                   <Link
                     to={`/product/${prod.id}`}
                     className="flex items-center justify-center gap-2 w-full py-2 bg-[#f5f6fd] text-[#3749bb] text-sm font-bold rounded hover:bg-[#e3e4f8] transition-colors"
@@ -277,6 +280,24 @@ export default function ProductPage() {
                     </svg>
                     Buy Now
                   </Link>
+
+                  {/* add to favourite */}
+                  <div className="flex items-center justify-center gap-2 w-full py-2  text-[#221717] text-sm font-bold rounded hover:bg-[#e7e7e7] transition-colors">
+                    <svg
+                      className="w-4 h-4"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318 1.318a4.5 4.5 0 00-6.364 0z"
+                      />
+                    </svg>
+                    Add to favourite
+                  </div>
                 </div>
               </div>
             ))}
