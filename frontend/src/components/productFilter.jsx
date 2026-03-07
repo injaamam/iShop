@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { setFilters } from "../features/filterSlice.js"; //This  is from redux
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
@@ -10,7 +10,7 @@ const ProductFilter = ({ className, category }) => {
   const [keys, setKeys] = useState();
   const [values, setValues] = useState();
   const [expandedKeys, setExpandedKeys] = useState({});
-  const [filter, setFilter] = useState({}); //This is from local state
+  const filter = useSelector((state) => state.filter.filters); //Read from Redux directly
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -33,8 +33,8 @@ const ProductFilter = ({ className, category }) => {
       axios
         .get(
           `${BACKEND_URL}/category/${category}/filter/${encodeURIComponent(
-            key
-          )}`
+            key,
+          )}`,
         )
         .then((value) => {
           // const pushKeyValue = { [key]: value.data };
@@ -48,7 +48,9 @@ const ProductFilter = ({ className, category }) => {
           }
         })
         .catch(() =>
-          setError(`Failed to fetch product specification value of key ${key}!`)
+          setError(
+            `Failed to fetch product specification value of key ${key}!`,
+          ),
         );
     });
   }, [keys, category]);
@@ -61,33 +63,18 @@ const ProductFilter = ({ className, category }) => {
   };
 
   const handleFilter = (key, value) => {
-    setFilter((prev) => {
-      const currentValues = prev[key] || [];
-      const isSelected = currentValues.includes(value);
+    const currentValues = filter[key] || [];
+    const isSelected = currentValues.includes(value);
 
-      if (isSelected) {
-        // Remove value if already selected
-        const newValues = currentValues.filter((v) => v !== value);
-        return { ...prev, [key]: newValues };
-      } else {
-        // Add value if not selected
-        return { ...prev, [key]: [...currentValues, value] };
-      }
-    });
+    if (isSelected) {
+      // Remove value if already selected
+      const newValues = currentValues.filter((v) => v !== value);
+      dispatch(setFilters({ ...filter, [key]: newValues }));
+    } else {
+      // Add value if not selected
+      dispatch(setFilters({ ...filter, [key]: [...currentValues, value] }));
+    }
   };
-
-  useEffect(() => {
-    dispatch(setFilters(filter));
-  }, [filter, dispatch]);
-
-  // Reset local state when category changes (app works fine without this)
-  useEffect(() => {
-    setFilter({});
-  }, [category]);
-
-  useEffect(() => {
-    console.log(JSON.stringify(filter));
-  }, [filter]);
 
   return (
     <div className={`${className} space-y-2`}>
@@ -129,18 +116,3 @@ const ProductFilter = ({ className, category }) => {
 };
 
 export default ProductFilter;
-
-{
-  /* {values && (
-        <div>
-          <h2 className="text-2xl font-bold">X</h2>
-          <ul>
-            {Object.entries(values).map(([key, value]) => (
-              <li key={key} className="text-lg text-gray-900">
-                <strong>{key}:</strong> {value}
-              </li>
-            ))}
-          </ul>
-        </div>
-      )} */
-}
