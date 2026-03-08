@@ -130,7 +130,7 @@ function HomePage() {
       </div>
 
       {/* marquee section */}
-      <div className="flex items-center bg-white h-10 mt-6 rounded-2xl">
+      <div className="flex items-center bg-white h-10 mt-6 rounded-2xl shadow-xs">
         <marquee
           behavior="scroll"
           direction="left"
@@ -143,16 +143,18 @@ function HomePage() {
       </div>
 
       {/* Service highlights */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-10">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-2 mt-6">
         <Link
           to="/feature-unavailable?feature=Laptop%20Finder"
           className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
         >
-          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+          <div className="w-10 h-10 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdSearch size={24} />
           </div>
           <div className="leading-tight">
-            <h3 className="font-semibold text-slate-900">Laptop Finder</h3>
+            <h3 className="font-semibold text-sm md:text-base text-slate-900">
+              Laptop Finder
+            </h3>
             <p className="hidden lg:block text-sm text-slate-500">
               Find Your Laptop Easily
             </p>
@@ -163,11 +165,13 @@ function HomePage() {
           to="/feature-unavailable?feature=Raise%20a%20Complain"
           className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
         >
-          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+          <div className="w-10 h-10 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdReportProblem size={24} />
           </div>
           <div className="leading-tight">
-            <h3 className="font-semibold text-slate-900">Raise a Complain</h3>
+            <h3 className="font-semibold text-sm md:text-base text-slate-900">
+              Raise a Complain
+            </h3>
             <p className="hidden lg:block text-sm text-slate-500">
               Share your experience
             </p>
@@ -178,11 +182,13 @@ function HomePage() {
           to="/feature-unavailable?feature=Home%20Service"
           className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
         >
-          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+          <div className="w-10 h-10 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdHomeRepairService size={24} />
           </div>
           <div className="leading-tight">
-            <h3 className="font-semibold text-slate-900">Home Service</h3>
+            <h3 className="font-semibold text-sm md:text-base text-slate-900">
+              Home Service
+            </h3>
             <p className="hidden lg:block text-sm text-slate-500">
               Get expert help.
             </p>
@@ -193,11 +199,13 @@ function HomePage() {
           to="/feature-unavailable?feature=Servicing%20Center"
           className="bg-white rounded-md shadow-sm p-4 flex items-center gap-3 hover:shadow-md hover:bg-slate-50 transition"
         >
-          <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
+          <div className="w-10 h-10 rounded-full bg-orange-500 text-white flex items-center justify-center shrink-0">
             <MdBuild size={24} />
           </div>
           <div className="leading-tight">
-            <h3 className="font-semibold text-slate-900">Servicing Center</h3>
+            <h3 className="font-semibold text-sm md:text-base text-slate-900">
+              Servicing Center
+            </h3>
             <p className="hidden lg:block text-sm text-slate-500">
               Repair Your Device
             </p>
@@ -206,21 +214,21 @@ function HomePage() {
       </div>
 
       {/* Featured Category section */}
-      <div className="flex flex-col gap-2 mt-10">
-        <h2 className="text-xl font-semibold text-center text-black-900">
+      <div className="flex flex-col gap-0 md:gap-2 mt-6 md:mt-10">
+        <h2 className="text-lg md:text-xl font-semibold text-center text-black-900">
           Featured Category
         </h2>
-        <h3 className="text-md font-medium text-center">
+        <h3 className="text-sm font-base text-gray-700 text-center">
           Get Your Desired Product from Featured Category!
         </h3>
       </div>
-      <div className="flex justify-center mt-10">
-        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4">
+      <div className="flex justify-center mt-6 md:mt-10">
+        <div className="grid grid-cols-4 lg:grid-cols-8 gap-2 md:gap-4">
           {categories.map((cat) => (
             <Link
               key={cat}
               to={`/category/${cat}`}
-              className="flex flex-col items-center justify-center h-24 rounded-xl text-center p-2 bg-white shadow-sm hover:shadow-lg hover:bg-gray-50 transition"
+              className="flex flex-col items-center justify-center h-30 md:h-24 rounded-xl text-center p-2 bg-white shadow-sm hover:shadow-lg hover:bg-gray-50 transition"
             >
               <div className="text-gray-700 mb-1">
                 {getIconForCategory(cat)}
