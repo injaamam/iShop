@@ -1,5 +1,5 @@
 import { Search, ShoppingCart, UserRound } from "lucide-react";
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { useDispatch } from "react-redux";
 import { toggleHamburger } from "../features/hamburgerSlice.js";
@@ -7,9 +7,20 @@ let totalItems = 0;
 
 export default function Header() {
   const [click, setClick] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
   const dispatch = useDispatch();
   const location = useLocation();
+  const navigate = useNavigate();
   const isCategoryPage = location.pathname.includes("/category/");
+
+  const handleSearch = (e) => {
+    e.preventDefault();
+    const trimmed = searchQuery.trim();
+    if (trimmed) {
+      navigate(`/search?q=${encodeURIComponent(trimmed)}`);
+      setClick(false);
+    }
+  };
   return (
     <div className="fixed md:relative w-full flex justify-around md:justify-center items-center gap-5 bg-[#081621] z-100 h-14 md:h-18 top-0">
       {isCategoryPage && (
@@ -31,11 +42,16 @@ export default function Header() {
           click ? "absolute top-18" : "hidden"
         } md:static md:block w-full md:w-60 lg:w-110`}
       >
-        <form className="flex items-center border md:rounded-md bg-white w-full">
+        <form
+          onSubmit={handleSearch}
+          className="flex items-center border md:rounded-md bg-white w-full"
+        >
           <div className="flex justify-between items-center w-full">
             <input
               type="text"
               placeholder="Search"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
               className="px-2 py-1 w-full md:w-50 lg:w-100 h-9"
             />
             <button type="submit" className="pr-4">

@@ -4,6 +4,7 @@ import {
   getSpecificationKeys,
   getSpecificationValues,
   getProductCount,
+  searchProducts,
 } from "../controllers/productController.js";
 import getProductSpecification from "../controllers/productSpecificationController.js";
 import getCategories from "../controllers/categoryController.js";
@@ -14,6 +15,7 @@ router.get("/test", (req, res) => {
   res.send("Backend is working!");
 });
 
+router.get("/search", searchProducts);
 router.get("/categories", getCategories);
 router.get("/category/:category", getProducts);
 

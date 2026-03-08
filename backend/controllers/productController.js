@@ -121,9 +121,41 @@ const getProductCount = async (req, res) => {
   }
 };
 
+// Search products by name across all categories
+const searchProducts = async (req, res) => {
+  const { q } = req.query;
+  const page = Number(req.query.page || 1);
+  const offset = (page - 1) * 20;
+
+  if (!q || !q.trim()) {
+    return res.json({ products: [], total: 0 });
+  }
+
+  const searchTerm = `%${q.trim()}%`;
+
+  try {
+    const countResult = await sql.query(
+      "SELECT COUNT(*) as total FROM products WHERE name ILIKE $1",
+      [searchTerm],
+    );
+    const total = parseInt(countResult.rows[0].total);
+
+    const result = await sql.query(
+      "SELECT id, name, category, price, main_image, description FROM products WHERE name ILIKE $1 ORDER BY id LIMIT 20 OFFSET $2",
+      [searchTerm, offset],
+    );
+
+    res.json({ products: result.rows, total });
+  } catch (error) {
+    console.error("Error searching products:", error);
+    res.status(500).json({ error: "Failed to search products" });
+  }
+};
+
 export {
   getProducts,
   getSpecificationKeys,
   getSpecificationValues,
   getProductCount,
+  searchProducts,
 };
