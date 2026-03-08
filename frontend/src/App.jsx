@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import { useEffect } from "react";
 import HomePage from "./pages/HomePage.jsx";
 import ProductPage from "./pages/ProductPage.jsx";
 import ProductSpecificationPage from "./pages/ProductSpecificationPage.jsx";
@@ -7,9 +8,18 @@ import NotFoundPage from "./components/notFoundPage.jsx";
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 
+function ScrollToTop() {
+  const { pathname } = useLocation();
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+  return null;
+}
+
 function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Header />
       <div className="mt-16 md:mt-0">
         <Routes>
