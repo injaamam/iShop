@@ -241,7 +241,7 @@ export default function ProductSpecificationPage() {
           <h3 className="text-base md:text-lg font-semibold text-gray-900 mb-3">
             {product.name}
           </h3>
-          <p className="whitespace-pre-line text-sm md:text-base">
+          <p className="whitespace-pre-line text-gray-600 text-sm md:text-base">
             {product.description}
           </p>
         </div>
