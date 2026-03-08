@@ -25,13 +25,13 @@ const getSpecificationValues = async (req, res) => {
 
   try {
     const result = await sql.query(
-      `SELECT DISTINCT filter->>$1 as value 
+      `SELECT DISTINCT ON (UPPER(filter->>$1)) filter->>$1 as value 
        FROM products 
        WHERE category = $2 
        AND filter ? $1
        AND filter->>$1 IS NOT NULL
        AND filter->>$1 != ''
-       ORDER BY filter->>$1`,
+       ORDER BY UPPER(filter->>$1), filter->>$1`,
       [key, category],
     );
 
@@ -55,14 +55,13 @@ const getProducts = async (req, res) => {
     let params = [category];
     let paramIndex = 2;
 
-    // Add filter conditions
+    // Add filter conditions (case-insensitive matching)
     if (Object.keys(filters).length > 0) {
       for (const [key, values] of Object.entries(filters)) {
         if (values && values.length > 0) {
-          // Create placeholders for multiple values
           const placeholders = values.map(() => `$${paramIndex++}`).join(",");
-          query += ` AND filter->>'${key}' IN (${placeholders})`;
-          params.push(...values);
+          query += ` AND UPPER(filter->>'${key}') IN (${placeholders})`;
+          params.push(...values.map((v) => v.toUpperCase()));
         }
       }
     }
@@ -107,8 +106,8 @@ const getProductCount = async (req, res) => {
       for (const [key, values] of Object.entries(filters)) {
         if (values && values.length > 0) {
           const placeholders = values.map(() => `$${paramIndex++}`).join(",");
-          query += ` AND filter->>'${key}' IN (${placeholders})`;
-          params.push(...values);
+          query += ` AND UPPER(filter->>'${key}') IN (${placeholders})`;
+          params.push(...values.map((v) => v.toUpperCase()));
         }
       }
     }
