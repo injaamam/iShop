@@ -27,6 +27,15 @@ export default function ProductPage() {
   const [totalProducts, setTotalProducts] = useState(0);
   const totalPages = Math.max(1, Math.ceil(totalProducts / PER_PAGE));
 
+  // On mount / category change: load filters from URL into Redux
+  useEffect(() => {
+    const urlFilters = {};
+    for (const [key, value] of searchParams.entries()) {
+      if (key !== "page") urlFilters[key] = value.split(",");
+    }
+    dispatch(setFilters(urlFilters));
+  }, [category]);
+
   // let getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters={"OS":["FreeDOS"],"Brand":["Acer"]}`;
   const getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters=${JSON.stringify(
     filters,
@@ -87,36 +96,25 @@ export default function ProductPage() {
 
   //set page from url
   useEffect(() => {
-    const pageParam = searchParams.get("page"); // e.g., "2"
+    const pageParam = searchParams.get("page");
     const parsed = Number(pageParam);
     const safePage = Number.isInteger(parsed) && parsed > 0 ? parsed : 1;
     setPage(safePage);
-  }, [category, searchParams]);
+  }, [searchParams]);
 
-  //set page to url
+  // Sync page + filters to URL
   useEffect(() => {
-    const current = searchParams.get("page") || "1";
-    const next = String(page);
-    if (current !== next) {
-      setSearchParams({ page: next });
+    const params = { page: String(page) };
+    for (const [key, values] of Object.entries(filters)) {
+      if (values.length > 0) params[key] = values.join(",");
     }
-  }, [page, searchParams]);
+    setSearchParams(params, { replace: true });
+  }, [page, filters]);
 
   // Reset page to 1 when filters change
   useEffect(() => {
     setPage(1);
   }, [filters]);
-
-  // Reset filters when category changes
-  useEffect(() => {
-    dispatch(setFilters({}));
-    console.log("Filters reset to:", {});
-  }, [category, dispatch]);
-
-  //reset page to 1 when category changes
-  // useEffect(() => {
-  //   setPage(1);
-  // }, [category]);
 
   // Fetch brands for current category in the upper section of the page
   const [brands, setBrands] = useState([]);
