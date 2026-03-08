@@ -9,7 +9,7 @@ const getSpecificationKeys = async (req, res) => {
        FROM products 
        WHERE category = $1 
        ORDER BY key_name`,
-      [category]
+      [category],
     );
 
     const keys = result.rows.map((row) => row.key_name);
@@ -32,7 +32,7 @@ const getSpecificationValues = async (req, res) => {
        AND filter->>$1 IS NOT NULL
        AND filter->>$1 != ''
        ORDER BY filter->>$1`,
-      [key, category]
+      [key, category],
     );
 
     const values = result.rows.map((row) => row.value);
@@ -93,33 +93,37 @@ const getProducts = async (req, res) => {
   }
 };
 
-export { getProducts, getSpecificationKeys, getSpecificationValues };
-
 // Get total count for pagination
-// const getProductCount = async (req, res) => {
-//   const { category } = req.params;
-//   const filters = req.query.filters ? JSON.parse(req.query.filters) : {};
+const getProductCount = async (req, res) => {
+  const { category } = req.params;
+  const filters = req.query.filters ? JSON.parse(req.query.filters) : {};
 
-//   try {
-//     let query = "SELECT COUNT(*) as total FROM products WHERE category = $1";
-//     let params = [category];
-//     let paramIndex = 2;
+  try {
+    let query = "SELECT COUNT(*) as total FROM products WHERE category = $1";
+    let params = [category];
+    let paramIndex = 2;
 
-//     // Add filter conditions
-//     if (Object.keys(filters).length > 0) {
-//       for (const [key, values] of Object.entries(filters)) {
-//         if (values && values.length > 0) {
-//           const placeholders = values.map(() => `$${paramIndex++}`).join(",");
-//           query += ` AND filter->>'${key}' IN (${placeholders})`;
-//           params.push(...values);
-//         }
-//       }
-//     }
+    if (Object.keys(filters).length > 0) {
+      for (const [key, values] of Object.entries(filters)) {
+        if (values && values.length > 0) {
+          const placeholders = values.map(() => `$${paramIndex++}`).join(",");
+          query += ` AND filter->>'${key}' IN (${placeholders})`;
+          params.push(...values);
+        }
+      }
+    }
 
-//     const result = await sql.query(query, params);
-//     res.json({ total: parseInt(result.rows[0].total) });
-//   } catch (error) {
-//     console.error("Error fetching product count:", error);
-//     res.status(500).json({ error: "Failed to fetch product count" });
-//   }
-// };
+    const result = await sql.query(query, params);
+    res.json({ total: parseInt(result.rows[0].total) });
+  } catch (error) {
+    console.error("Error fetching product count:", error);
+    res.status(500).json({ error: "Failed to fetch product count" });
+  }
+};
+
+export {
+  getProducts,
+  getSpecificationKeys,
+  getSpecificationValues,
+  getProductCount,
+};

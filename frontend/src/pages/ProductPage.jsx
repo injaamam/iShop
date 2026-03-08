@@ -3,10 +3,12 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import { useSelector, useDispatch } from "react-redux";
 import ProductFilter from "../components/productFilter";
+import Pagination from "../components/Pagination";
 import { getCategories } from "../constant/getCategories.js";
 import { setFilters } from "../features/filterSlice.js";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
+const PER_PAGE = 20;
 
 export default function ProductPage() {
   const { category } = useParams();
@@ -21,6 +23,8 @@ export default function ProductPage() {
     const p = Number(searchParams.get("page"));
     return Number.isInteger(p) && p > 0 ? p : 1;
   });
+  const [totalProducts, setTotalProducts] = useState(0);
+  const totalPages = Math.max(1, Math.ceil(totalProducts / PER_PAGE));
 
   // let getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters={"OS":["FreeDOS"],"Brand":["Acer"]}`;
   const getProducts = `${BACKEND_URL}/category/${category}?page=${page}&filters=${JSON.stringify(
@@ -57,6 +61,17 @@ export default function ProductPage() {
       })
       .catch(() => setError("Failed to fetch products"));
   }, [category, categories, page, filters]);
+
+  // Fetch total product count for pagination
+  useEffect(() => {
+    if (!categories.length || !categories.includes(category)) return;
+    axios
+      .get(
+        `${BACKEND_URL}/category/${category}/count?filters=${JSON.stringify(filters)}`,
+      )
+      .then((res) => setTotalProducts(res.data.total || 0))
+      .catch(() => setTotalProducts(0));
+  }, [category, categories, filters]);
 
   //filter open close
   useEffect(() => {
@@ -122,9 +137,6 @@ export default function ProductPage() {
       : [...currentBrands, brand];
     dispatch(setFilters({ ...filters, Brand: newBrands }));
   };
-
-  const start = Math.max(1, page - 2);
-  const pages = [start, start + 1, start + 2, start + 3, start + 4];
 
   return (
     <div className="mx-5 md:mx-8 lg:mx-15 2xl:mx-30 3xl:mx-40 pt-3 mb-10 overflow-hidden grid grid-cols-1 gap-4 items-center">
@@ -306,36 +318,13 @@ export default function ProductPage() {
       </div>
 
       {/* pagination section */}
-      <div className="flex justify-center items-center gap-1 ">
-        <button
-          className="btn btn-outline btn-sm"
-          onClick={() => setPage(page - 1)}
-          disabled={page === 1}
-        >
-          PREV
-        </button>
-
-        {pages.map((n) => (
-          <button
-            key={n}
-            className={`btn btn-sm ${
-              n === page ? "btn-primary" : "btn-outline"
-            }`}
-            onClick={() => setPage(n)}
-            disabled={products.length < 20 && n > page}
-          >
-            {n}
-          </button>
-        ))}
-
-        <button
-          className="btn btn-outline btn-sm"
-          onClick={() => setPage(page + 1)}
-          disabled={products.length < 20}
-        >
-          NEXT
-        </button>
-      </div>
+      {!error && products.length > 0 && (
+        <Pagination
+          page={page}
+          totalPages={totalPages}
+          onPageChange={setPage}
+        />
+      )}
     </div>
   );
 }
