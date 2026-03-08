@@ -24,4 +24,14 @@ router.get("/category/:category/filter/:key", getSpecificationValues);
 router.get("/category/:category/count", getProductCount);
 router.get("/product/:id", getProductSpecification);
 
+//test route for db connection and database structure showing
+router.get("/x", (req, res) => {
+  import("../config/db.js").then(({ sql }) => {
+    sql
+      .query("SELECT * FROM products LIMIT 2")
+      .then((result) => res.json(result.rows))
+      .catch((error) => res.status(500).json({ error: error.message }));
+  });
+});
+
 export default router;
