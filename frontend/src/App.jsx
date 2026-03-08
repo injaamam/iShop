@@ -9,10 +9,10 @@ import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 
 function ScrollToTop() {
-  const { pathname } = useLocation();
+  const { pathname, search } = useLocation();
   useEffect(() => {
     window.scrollTo(0, 0);
-  }, [pathname]);
+  }, [pathname, search]);
   return null;
 }
 
