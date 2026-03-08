@@ -1,10 +1,10 @@
 import { Search, ShoppingCart, UserRound } from "lucide-react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { useState, useEffect, useRef } from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { toggleHamburger } from "../features/hamburgerSlice.js";
-
-let totalItems = 0;
+import { fetchCart } from "../features/cartSlice.js";
+import { fetchWishlist } from "../features/wishlistSlice.js";
 
 export default function Header() {
   const [searchOpen, setSearchOpen] = useState(false);
@@ -14,6 +14,18 @@ export default function Header() {
   const isCategoryPage = useLocation().pathname.includes("/category/");
   const searchRef = useRef(null);
   const toggleRef = useRef(null);
+
+  const { user } = useSelector((state) => state.auth);
+  const cartItems = useSelector((state) => state.cart.items);
+  const totalItems = cartItems.reduce((sum, item) => sum + item.quantity, 0);
+
+  // Fetch cart and wishlist when user logs in
+  useEffect(() => {
+    if (user) {
+      dispatch(fetchCart());
+      dispatch(fetchWishlist());
+    }
+  }, [user, dispatch]);
 
   const handleSearch = (e) => {
     e.preventDefault();
@@ -91,18 +103,29 @@ export default function Header() {
       </form>
 
       {/* Account */}
-      <div className="flex gap-1 scale-140 md:scale-110">
-        <UserRound fill="#EF4A23" />
-        <h1 className="text-white font-semibold hidden md:inline">Account</h1>
-      </div>
+      <Link
+        to={user ? "/account" : "/login"}
+        className="flex gap-1 scale-140 md:scale-110"
+      >
+        <UserRound
+          fill={user ? "#EF4A23" : "none"}
+          stroke={user ? "#EF4A23" : "white"}
+        />
+        <h1 className="text-white font-semibold hidden md:inline">
+          {user ? user.name.split(" ")[0] : "Account"}
+        </h1>
+      </Link>
 
       {/* Cart */}
-      <div className="fixed right-8 bottom-5 bg-[#081621] h-10 w-10 flex justify-center items-center border rounded scale-125 z-50">
+      <Link
+        to={user ? "/cart" : "/login"}
+        className="fixed right-8 bottom-5 bg-[#081621] h-10 w-10 flex justify-center items-center border rounded scale-125 z-50"
+      >
         <ShoppingCart stroke="white" />
         <span className="absolute -top-4 -right-3 bg-[#EF4A23] text-white text-sm rounded-full px-1.5 py-0.5">
           {totalItems}
         </span>
-      </div>
+      </Link>
     </div>
   );
 }
