@@ -91,10 +91,13 @@ export default function Header() {
       </form>
 
       {/* Account */}
-      <div className="flex gap-1 scale-140 md:scale-110">
+      <Link
+        to={localStorage.getItem("user") ? "/account" : "/login"}
+        className="flex gap-1 scale-140 md:scale-110"
+      >
         <UserRound fill="#EF4A23" />
         <h1 className="text-white font-semibold hidden md:inline">Account</h1>
-      </div>
+      </Link>
 
       {/* Cart */}
       <div className="fixed right-8 bottom-5 bg-[#081621] h-10 w-10 flex justify-center items-center border rounded scale-125 z-50">
