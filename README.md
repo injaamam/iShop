@@ -1,5 +1,7 @@
 # Star Tech
 
+[![wakatime](https://wakatime.com/badge/user/3ff9eab5-ffa3-454b-92b4-a784ea0d1f3e/project/9527c996-7863-4fb4-b192-aa73bc9713e1.svg)](https://wakatime.com/badge/user/3ff9eab5-ffa3-454b-92b4-a784ea0d1f3e/project/9527c996-7863-4fb4-b192-aa73bc9713e1)
+
 Star Tech is a complete electronic e-commerce site, providing end-to-end functionality for browsing, filtering, and purchasing electronic products online.
 
 ## Features
