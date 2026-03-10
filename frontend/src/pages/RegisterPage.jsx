@@ -8,6 +8,7 @@ export default function RegisterPage() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [address, setAddress] = useState("");
   const [error, setError] = useState("");
   const navigate = useNavigate();
 
@@ -18,6 +19,7 @@ export default function RegisterPage() {
         name,
         email,
         password,
+        address,
       });
       localStorage.setItem("user", JSON.stringify(data.user));
       navigate("/");
@@ -56,6 +58,14 @@ export default function RegisterPage() {
           placeholder="Password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
+          required
+          className="w-full px-3 py-2 border rounded-md outline-none focus:ring-2 focus:ring-[#3749bb]"
+        />
+        <input
+          type="text"
+          placeholder="Detailed Current Address"
+          value={address}
+          onChange={(e) => setAddress(e.target.value)}
           required
           className="w-full px-3 py-2 border rounded-md outline-none focus:ring-2 focus:ring-[#3749bb]"
         />

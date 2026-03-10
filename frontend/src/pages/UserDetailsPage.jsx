@@ -27,6 +27,9 @@ export default function UserDetailsPage() {
           <p>
             <span className="font-semibold">Email:</span> {user.email}
           </p>
+          <p>
+            <span className="font-semibold">Address:</span> {user.address}
+          </p>
         </div>
         <button
           onClick={handleLogout}
