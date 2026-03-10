@@ -7,6 +7,7 @@ const API = import.meta.env.VITE_BACKEND_URL;
 export default function RegisterPage() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
+  const [phone, setPhone] = useState("");
   const [password, setPassword] = useState("");
   const [address, setAddress] = useState("");
   const [error, setError] = useState("");
@@ -18,6 +19,7 @@ export default function RegisterPage() {
       const { data } = await axios.post(`${API}/auth/register`, {
         name,
         email,
+        phone,
         password,
         address,
       });
@@ -69,6 +71,20 @@ export default function RegisterPage() {
 
           <div>
             <label className="font-semibold text-xs text-[#081621]">
+              Phone Number <span className="text-red-500">*</span>
+            </label>
+            <input
+              type="tel"
+              placeholder="Phone Number"
+              value={phone}
+              onChange={(e) => setPhone(e.target.value)}
+              required
+              className="w-full mt-1 px-3 py-2 text-sm border border-gray-300 rounded outline-none focus:border-[#081621] transition-colors"
+            />
+          </div>
+
+          <div>
+            <label className="font-semibold text-xs text-[#081621]">
               Password <span className="text-red-500">*</span>
             </label>
             <input
@@ -87,7 +103,7 @@ export default function RegisterPage() {
             </label>
             <input
               type="text"
-              placeholder="Your full address"
+              placeholder="Your Detailed Current Address"
               value={address}
               onChange={(e) => setAddress(e.target.value)}
               required

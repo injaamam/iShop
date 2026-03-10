@@ -41,6 +41,7 @@ export default function UserDetailsPage() {
           <p className="text-xs text-gray-400">Hello,</p>
           <h1 className="text-lg font-semibold text-[#081621]">{user.name}</h1>
           <p className="text-xs text-gray-400">{user.email}</p>
+          <p className="text-xs text-gray-400">{user.phone}</p>
         </div>
       </div>
 
