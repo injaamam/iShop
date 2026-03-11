@@ -8,6 +8,8 @@ import SearchResultsPage from "./pages/SearchResultsPage.jsx";
 import LoginPage from "./pages/LoginPage.jsx";
 import RegisterPage from "./pages/RegisterPage.jsx";
 import UserDetailsPage from "./pages/UserDetailsPage.jsx";
+import CartPage from "./pages/CartPage.jsx";
+import WishlistPage from "./pages/WishlistPage.jsx";
 import NotFoundPage from "./components/notFoundPage.jsx";
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
@@ -32,6 +34,8 @@ function App() {
           <Route path="/login" element={<LoginPage />} />
           <Route path="/register" element={<RegisterPage />} />
           <Route path="/account" element={<UserDetailsPage />} />
+          <Route path="/cart" element={<CartPage />} />
+          <Route path="/wishlist" element={<WishlistPage />} />
           <Route path="/category/:category" element={<ProductPage />} />
           <Route path="/product/:id" element={<ProductSpecificationPage />} />
           <Route

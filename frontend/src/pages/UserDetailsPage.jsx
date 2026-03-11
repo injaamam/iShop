@@ -54,14 +54,14 @@ export default function UserDetailsPage() {
           <span className={labelClass}>Orders</span>
         </Link>
 
-        <Link to="/feature-unavailable" className={linkClass}>
+        <Link to="/cart" className={linkClass}>
           <div className={iconWrapClass}>
             <ShoppingCart size={20} className="text-[#3749bb]" />
           </div>
           <span className={labelClass}>Cart</span>
         </Link>
 
-        <Link to="/feature-unavailable" className={linkClass}>
+        <Link to="/wishlist" className={linkClass}>
           <div className={iconWrapClass}>
             <Heart size={20} className="text-[#3749bb]" />
           </div>

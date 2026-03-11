@@ -1,16 +1,29 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useNavigate } from "react-router-dom";
 import { useEffect, useState, useRef } from "react";
-import { PackageIcon, Minus, Plus } from "lucide-react";
+import {
+  PackageIcon,
+  Minus,
+  Plus,
+  Heart,
+  ShoppingCart,
+  Check,
+  ShoppingBag,
+} from "lucide-react";
 import axios from "axios";
 
 const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
 export default function ProductSpecificationPage() {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [product, setProduct] = useState(null);
   const [error, setError] = useState("");
   const [qty, setQty] = useState(1);
+  const [inCart, setInCart] = useState(false);
+  const [inWishlist, setInWishlist] = useState(false);
   const specRef = useRef(null);
+
+  const user = JSON.parse(localStorage.getItem("user"));
 
   useEffect(() => {
     setError("");
@@ -20,6 +33,32 @@ export default function ProductSpecificationPage() {
       .then((res) => setProduct(res.data[0]))
       .catch(() => setError("Failed to fetch product specification."));
   }, [id]);
+
+  useEffect(() => {
+    if (!user || !product) return;
+    axios.get(`${BACKEND_URL}/user-status/${user.id}`).then((res) => {
+      setInCart(res.data.cartIds.includes(product.id));
+      setInWishlist(res.data.wishlistIds.includes(product.id));
+    });
+  }, [product]);
+
+  const addToCart = async () => {
+    if (!user) return navigate("/login");
+    await axios.post(`${BACKEND_URL}/cart`, {
+      userId: user.id,
+      productId: product.id,
+    });
+    setInCart(true);
+  };
+
+  const toggleWishlist = async () => {
+    if (!user) return navigate("/login");
+    const { data } = await axios.post(`${BACKEND_URL}/wishlist`, {
+      userId: user.id,
+      productId: product.id,
+    });
+    setInWishlist(data.added);
+  };
 
   if (error)
     return (
@@ -172,8 +211,8 @@ export default function ProductSpecificationPage() {
               </div>
             </div>
 
-            {/* Quantity + Buy Now */}
-            <div className="flex items-center gap-4">
+            {/* Quantity + Cart + Wishlist */}
+            <div className="flex items-center gap-3 flex-wrap">
               <div className="flex items-center border border-gray-300 rounded-md overflow-hidden">
                 <button
                   className="px-3 py-2 hover:bg-gray-100 transition-colors cursor-pointer"
@@ -191,8 +230,36 @@ export default function ProductSpecificationPage() {
                   <Plus className="w-4 h-4" />
                 </button>
               </div>
-              <button className="bg-[#3749bb] hover:bg-[#2c3a9e] text-white font-semibold py-2.5 px-10 rounded-md transition-colors text-sm cursor-pointer">
-                Buy Now
+
+              {inCart ? (
+                <Link
+                  to="/cart"
+                  className="flex items-center gap-2 bg-teal-500 hover:bg-teal-600 text-white font-semibold py-2.5 px-8 rounded-md text-sm transition-all duration-300"
+                >
+                  <ShoppingBag size={16} /> Buy Now
+                </Link>
+              ) : (
+                <button
+                  onClick={addToCart}
+                  className="flex items-center gap-2 bg-[#3749bb] hover:bg-[#2c3a9e] text-white font-semibold py-2.5 px-8 rounded-md text-sm cursor-pointer transition-all duration-300"
+                >
+                  <ShoppingCart size={16} /> Add to Cart
+                </button>
+              )}
+
+              <button
+                onClick={toggleWishlist}
+                className={`flex items-center gap-2 border font-semibold py-2.5 px-4 rounded-md text-sm cursor-pointer transition-all duration-300 ${
+                  inWishlist
+                    ? "border-red-300 bg-red-50 text-red-500"
+                    : "border-gray-300 text-gray-700 hover:bg-red-50 hover:text-red-500 hover:border-red-300"
+                }`}
+              >
+                <Heart
+                  size={18}
+                  className={`transition-all duration-300 ${inWishlist ? "fill-red-500 text-red-500 scale-110" : ""}`}
+                />
+                {inWishlist ? "Added to Wishlist" : "Add to Wishlist"}
               </button>
             </div>
           </div>

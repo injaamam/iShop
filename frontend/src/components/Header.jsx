@@ -100,12 +100,15 @@ export default function Header() {
       </Link>
 
       {/* Cart */}
-      <div className="fixed right-8 bottom-5 bg-[#081621] h-10 w-10 flex justify-center items-center border rounded scale-125 z-50">
+      <Link
+        to="/cart"
+        className="fixed right-8 bottom-5 bg-[#081621] h-10 w-10 flex justify-center items-center border rounded scale-125 z-50"
+      >
         <ShoppingCart stroke="white" />
-        <span className="absolute -top-4 -right-3 bg-[#EF4A23] text-white text-sm rounded-full px-1.5 py-0.5">
+        {/* <span className="absolute -top-4 -right-3 bg-[#EF4A23] text-white text-sm rounded-full px-1.5 py-0.5">
           {totalItems}
-        </span>
-      </div>
+        </span> */}
+      </Link>
     </div>
   );
 }
